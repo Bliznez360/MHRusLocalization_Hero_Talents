@@ -2940,7 +2940,7 @@
     "Desc": {
       "id": "6011338220747228477",
       "eng": "Clint Barton uses a little martial arts, a lot of uncanny accuracy, and multiple \"trick\" arrows to take targets out at long range with style. Hawkeye may not always take villains seriously, but as an upstanding Avenger his demeanor belies his reliability.",
-      "rus": "Клинт Бартон слегка разбирается в боевых искусствах, блестящн стреляет из лука и использует множество \"хитрых стрел\" для уничтожения целей на большой дистанции. Соколиный Глаз любит пошутить, но Мстители всегда могут на него положиться."
+      "rus": "Клинт Бартон разбирается в некоторых приемах боевых искусств, блестяще стреляет из лука и использует множество \"хитрых стрел\" для уничтожения целей на большой дистанции. Соколиный Глаз любит пошутить, но Мстители всегда могут на него положиться."
     },
     "Bio": {
       "id": "6991993036776473985",
@@ -2964,7 +2964,7 @@
             "Desc": {
               "id": "15344761578956391691",
               "eng": "Fire high-velocity arrows with razor-sharp serrations, dealing severe damage on critical hits.",
-              "rus": "Стрелять высокоскоростными стрелами с бритвенно-острыми зазубринами, наносящими массивный урон при критическом попадании."
+              "rus": "Стреляйте высокоскоростными стрелами с бритвенно-острыми зазубринами, наносящими серьёзный урон при критическом попадании."
             }
           },
           {
@@ -2976,7 +2976,7 @@
             "Desc": {
               "id": "7664703331743827222",
               "eng": "Charge up and launch a rocket propelled arrow that lances through enemies and has an enhanced chance to critically hit.",
-              "rus": "Зарядить и выпустить стрелу-ракету, пронзающую врагов и с большой вероятностью наносящую критические удары."
+              "rus": "Зарядите и выпустить стрелу-ракету, пронзающую врагов и с большой вероятностью наносящую критические удары."
             }
           },
           {
@@ -2988,7 +2988,7 @@
             "Desc": {
               "id": "473234873272435976",
               "eng": "Dash forward, using your bow to knock down and damage enemies in your path.",
-              "rus": "Рывок вперёд с ударом луком, сбивая и повреждая врагов на пути."
+              "rus": "Рваните вперёд с одновременным ударом луком, сбивая с ног врагов на пути."
             }
           },
           {
@@ -3000,7 +3000,7 @@
             "Desc": {
               "id": "10977565946781304066",
               "eng": "#emphasis#Stun#/emphasis# enemies on a vicious titanium-tipped arrow that comes back to you in the end.",
-              "rus": "#emphasis#Поразить#/emphasis# врага ужасной стрелой с титановым усилением, которая возвращается к вам, как бумеранг."
+              "rus": "#emphasis#Оглушите#/emphasis# врага мощной стрелой с титановым наконечником, которая возвращается к вам, как бумеранг."
             }
           },
           {
@@ -3012,7 +3012,7 @@
             "Desc": {
               "id": "113911295106417987",
               "eng": "Skewer multiple enemies at once by unleashing a fist of arrows in a broad fan formation.",
-              "rus": "Поразить сразу нескольких врагов, выпустив веер стрел ."
+              "rus": "Поразите множество врагов сразу, выпуская буквально град стрел веером."
             }
           },
           {
@@ -3024,7 +3024,7 @@
             "Desc": {
               "id": "13208877074324325704",
               "eng": "Throw a flash bomb at your feet, concealing your position while you prepare your next attack. You immediately remove and become immune to negative status effects for a short duration.",
-              "rus": "Бросить себе под ноги светошумовую бомбу, маскируя свою позицию и готовясь к следующей атаке. Вы немедленно освободитесь от всех отрицательных эффектов и приобретете временную устойчивость к ним."
+              "rus": "Бросьте себе под ноги светошумовую бомбу, маскируя свою позицию и готовясь к следующей атаке. Вы немедленно очиститесь от всех отрицательных эффектов и приобретете временную устойчивость к ним."
             }
           },
           {
@@ -3036,7 +3036,7 @@
             "Desc": {
               "id": "3597863305324594491",
               "eng": "Use your new speed loader to rapidly assault your target with arrows at a super-human speed.",
-              "rus": "Новое зарядное устройство позволяет стрелять с нечеловеческой скоростью."
+              "rus": "Используйте новый скоростной раздатчик, чтобы атаковать цель стрелами со сверхчеловеческой скоростью."
             }
           },
           {
@@ -3048,7 +3048,7 @@
             "Desc": {
               "id": "11077011413470086470",
               "eng": "Leap away from combat while shooting an arrow designed to pin enemies down, hampering their pursuit.",
-              "rus": "Отпрыгнуть от противника и выпустить стрелу, которая пригвоздит врагов к земле и помешает им вас преследовать."
+              "rus": "Отпрыгните от противника и выпустите стрелу, которая пригвоздит врагов к земле и помешает им вас преследовать."
             }
           }
         ]
@@ -3057,7 +3057,7 @@
         "Name": {
           "id": "5873231812120478989",
           "eng": "Trick Arrows",
-          "rus": "Трюковые стрелы"
+          "rus": "Особые стрелы"
         },
         "Powers": [
           {
@@ -3069,7 +3069,7 @@
             "Desc": {
               "id": "9191143311622604106",
               "eng": "Shoot charged arrows that fry foes by arcing electricity between nearby targets.",
-              "rus": "Выпустить заряженную стрелу, которая бьет электрическими разрядами находящиеся рядом цели."
+              "rus": "Выпустите заряженную стрелу, которая бьет электрическими разрядами находящиеся рядом цели."
             }
           },
           {
@@ -3081,7 +3081,7 @@
             "Desc": {
               "id": "3141059543031285059",
               "eng": "Shoot arrows that explode when they impact enemies, reducing their ability to defend themselves.",
-              "rus": "Выпустить стрелы, которые взрываются при попадании во врагов, уменьшая их возможности защиты."
+              "rus": "Выпустите стрелы, которые взрываются при попадании во врагов, ослабляя их защиту."
             }
           },
           {
@@ -3093,7 +3093,7 @@
             "Desc": {
               "id": "387698267473642821",
               "eng": "Deliver well-placed nerve gas arrows that debilitate enemies in an area.",
-              "rus": "Выпустить стрелу с нервно-паралитическим газом, выводящим из строя врагов в зоне поражения."
+              "rus": "Выпустите стрелу с нервно-паралитическим газом, выводящим из строя врагов в зоне поражения."
             }
           },
           {
@@ -3105,7 +3105,7 @@
             "Desc": {
               "id": "8537443972000187719",
               "eng": "Shoot arrows that freeze enemies near their point of impact.",
-              "rus": "Выпустить стрелы, которые заморозят врагов возле точки попадания."
+              "rus": "Выпустите стрелы, которые заморозят врагов вокруг точки попадания."
             }
           },
           {
@@ -3117,7 +3117,7 @@
             "Desc": {
               "id": "9928102821367842126",
               "eng": "Rapidly nock and loose three trick arrows at your target, perfect for neutralizing even the most powerful of foes.",
-              "rus": "Быстро натяните и выпустите три хитроумные стрелы в вашу цель, идеально подходящие для нейтрализации даже самых мощных противников."
+              "rus": "Быстро натяните тетиву и выпустите три хитроумные стрелы в вашу цель, идеально подходящие для нейтрализации даже самых мощных противников."
             }
           },
           {
@@ -3129,19 +3129,19 @@
             "Desc": {
               "id": "7731401966233060622",
               "eng": "Deploy a high-tech arrow that floods an area with nanites which mend wounds and dull enemy attacks.",
-              "rus": "Выпустить высокотехнологичную стрелу, которая наполняет воздух нанитами, исцеляющими раны и притупляющими атаки врага."
+              "rus": "Выпустите высокотехнологичную стрелу, которая наполняет воздух нанитами, исцеляющими раны и ослабляющими атаки врага."
             }
           },
           {
             "Name": {
               "id": "5447797644838110473",
               "eng": "Shrieking Arrow",
-              "rus": "Кричащая стрела"
+              "rus": "Воющая стрела"
             },
             "Desc": {
               "id": "15653068401898620270",
               "eng": "Shoot an arrow that #emphasis#taunts#/emphasis# enemies around its landing site, then explodes.",
-              "rus": "Выпустить стрелу, которая будет #emphasis#провоцировать#/emphasis# врагов рядом с местом своего падения, затем взорвется."
+              "rus": "Выпустите стрелу, которая будет #emphasis#провоцировать#/emphasis# врагов рядом с местом своего попадания, а затем взорвется."
             }
           },
           {
@@ -3165,7 +3165,7 @@
             "Desc": {
               "id": "8196144065097827640",
               "eng": "Launch a custom Pym arrow that splits into thousands of mini-arrows composed of flammable nitromethane. As they land, nock and release an incendiary arrow, igniting the area with a massive Avengers emblem. Your normal attacks are imbued with fiery energy, and you become more resilient for a duration.",
-              "rus": "Выпустить специальную стрелу Пима, которая разделяется на тысячи крошечных стрелок из горючего нитрометана. После чего выпустить зажигательную стрелу и поджечь область попадания, превратив ее в гигантскую пылающую эмблему Мстителей. Ваши обычные атаки наполнятся огненной энергией, и на время вы станете выносливее."
+              "rus": "Выпустите специальную стрелу Пима, которая разделяется на тысячи крошечных стрелок из горючего нитрометана. После чего выпустите зажигательную стрелу и подожгите область попадания, превратив ее в гигантскую пылающую эмблему Мстителей. Ваши обычные атаки наполнятся дополнительной энергией, и на время вы станете выносливее."
             }
           }
         ]
@@ -3193,7 +3193,7 @@
             "Name": {
               "id": "15175794494697178438",
               "eng": "Trick Quiver",
-              "rus": "Трюковая колчан"
+              "rus": "Особый колчан"
             },
             "Desc": {
               "id": "Invalid",
@@ -3231,7 +3231,7 @@
     "Bio": {
       "id": "15551886707658261890",
       "eng": "#emphasis#Real Name:#/emphasis# \"Victor Shade\"\n#emphasis#Identity:#/emphasis# Public\n\nThough originally designed to destroy the Avengers, the Vision would invariably become one of the team's strongest members. Created by Ultron, Vision was unleashed on the Avengers in order to lure them into a trap. Inspired by their plight, the synthezoid would reject his programming and join the super heroes in their quest to protect the world from threats like those of his \"father.\" Marrying his fellow teammate, the Scarlet Witch, Vision would solidify his position in the Avengers as not only a powerful combatant and brilliant strategist, but as one of the most human members of the team.\n\n#emphasis#Created by:#/emphasis# Roy Thomas and John Buscema\n#emphasis#First Appearance:#/emphasis# Avengers #57 (October 1968)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# \"Виктор Шейд\"\n#emphasis#Личность:#/emphasis# Публичная\n\nХотя изначально созданный для уничтожения Мстителей, Видение неизменно стал одним из сильнейших членов команды. Созданный Ультрон, Видение был выпущен на Мстителей, чтобы заманить их в ловушку. Вдохновленный их бедственным положением, синтезоид отверг свое программирование и присоединился к супергероям в их стремлении защитить мир от угроз, подобных тем, что исходили от его \"отца\". Женившись на своей товарище по команде, Алой Ведьме, Видение укрепил свою позицию в Мстителях как не только мощный боец и блестящий стратег, но и как один из самых человечных членов команды.\n\n#emphasis#Создано:#/emphasis# Роем Томасом и Джоном Буссемой\n#emphasis#Первое появление:#/emphasis# Мстители #57 (октябрь 1968)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# \"Виктор Шейд\"\n#emphasis#Личность:#/emphasis# Публичная\n\nХоть он и был изначально создан для уничтожения Мстителей, Вижн в итоге стал одним из сильнейших членов их команды. Созданный Альтроном, Вижн был должен был заманить Мстителей в ловушку. Вдохновлённый их борьбой, синтезоид отверг свою программу и присоединился к супергероям в их миссии по защите мира от угроз — таких, как те, что исходили от его \"отца\". Брак с Алой Ведьмой, его напарницей по команде, закрепил позиции Вижна в Мстителях - теперь он считался не просто сильным бойцом и умным стратегом, но и также одним из самых человечных членов команды.\n\n#emphasis#Создано:#/emphasis# Роем Томасом и Джоном Буссемой\n#emphasis#Первое появление:#/emphasis# Мстители #57 (октябрь 1968)\n"
     },
     "PowerTables": [
       {
@@ -3250,7 +3250,7 @@
             "Desc": {
               "id": "7806744888176870707",
               "eng": "Decrease your density to improve your dodge and striking speed while delivering a series of quick punches.",
-              "rus": "Уменьшить плотность, чтобы повысить скорость уклонения и атаки, и нанести серию быстрых ударов."
+              "rus": "Уменьшите свою плотность, чтобы повысить скорость уклонения и атаки, и нанести серию быстрых ударов."
             }
           },
           {
@@ -3274,7 +3274,7 @@
             "Desc": {
               "id": "10484088223313364288",
               "eng": "Alter your density to improve your endurance and shift your #emphasis#Density Brawler#/emphasis# abilities between #emphasis#Phasing#/emphasis# powers or #emphasis#Ultra-Dense#/emphasis# powers.",
-              "rus": "Изменить свою плотность, чтобы повысить выносливость, и в качестве #emphasis#бойца переменной плотности#/emphasis# переключаться между способностями #emphasis#фазового#/emphasis# и #emphasis#ультра-плотного#/emphasis# режимов."
+              "rus": "Изменить свою плотность, чтобы повысить выносливость, и в качестве #emphasis#бойца переменной плотности#/emphasis# переключайтесь между способностями #emphasis#фазового#/emphasis# и #emphasis#ультра-плотного#/emphasis# режимов."
             }
           },
           {
@@ -3286,7 +3286,7 @@
             "Desc": {
               "id": "15714783130458129682",
               "eng": "Stun your enemies by phasing your hand through them and matching their vibrational frequency.",
-              "rus": "Ошеломите врагов, телепортируя свою руку скозь них и подбирая одинаковую с ними частоту вибраций."
+              "rus": "Ошеломите врагов, фазируя свою руку прямо скозь них и подбирая одинаковую с ними частоту вибраций."
             }
           },
           {
@@ -3298,7 +3298,7 @@
             "Desc": {
               "id": "13978641007330723079",
               "eng": "Phase underneath your enemies and burst up through the ground knocking down all in your vicinity.",
-              "rus": "Телепортироваться в точку под врагами и выйти на поверхность, сбивая с ног всех, кто находится рядом."
+              "rus": "Используйте фазовый сдвиг и пройдите сквозь землю, после чего поднимитесь с выбросом энергии, опрокидывая врагов в радиусе удара."
             }
           },
           {
@@ -3310,14 +3310,14 @@
             "Desc": {
               "id": "3895392100927145224",
               "eng": "Disperse millions of nanites under your control to repair you and any robot currently under your control.",
-              "rus": "Распространить миллионы нанороботов, которые ремонтируют вас и всех роботов, находящихся под вашим контролем."
+              "rus": "Распространите миллионы нанороботов, которые ремонтируют вас и всех роботов, находящихся под вашим контролем."
             }
           },
           {
             "Name": {
               "id": "662830178778613054",
               "eng": "Intangible Density",
-              "rus": "Невесомая плотность"
+              "rus": "Фазирование плотности"
             },
             "Desc": {
               "id": "8802462506633397568",
@@ -3355,7 +3355,7 @@
             "Desc": {
               "id": "15532777697995982139",
               "eng": "Rapidly release energy blasts through the solar gem on your forehead hitting every enemy that crosses your path.",
-              "rus": "Быстро выпустить заряды энергии из солнечного самоцвета у вас во лбу, поражая всех врагов на пути."
+              "rus": "Вы быстро выпускаете заряды энергии из солнечного самоцвета у вас во лбу, поражая всех врагов на пути."
             }
           },
           {
@@ -3367,7 +3367,7 @@
             "Desc": {
               "id": "4157573380170843399",
               "eng": "Attack an enemy AI's programming, gaining control of that foe when its injuries become near-fatal.\nWhen a controlled minion is defeated, it revives several seconds later. Controlling a new minion releases the first minion and renders it unconscious.",
-              "rus": "Атакуйте программирование враждебного ИИ, получая контроль над этим противником, когда его ранения становятся почти смертельными.\nКогда контролируемый миньон побежден, он восстанавливается через несколько секунд. Контроль нового миньона освобождает первого миньона и приводит его в бессознательное состояние."
+              "rus": "Атакуйте программу враждебного ИИ, получая контроль над ним, когда ранения врага почти смертельны.\nКогда контролируемый миньон побежден, он восстанавливается через несколько секунд. Но стоит взять под контроль нового миньона - старый теряет с вами связь и отключается."
             }
           },
           {
@@ -3403,7 +3403,7 @@
             "Desc": {
               "id": "7774171138887517444",
               "eng": "Focus all of your solar energy and fire a single-target blast from both your eyes and solar gem.",
-              "rus": "Сконцентрироваться и выстрелить в одного врага лучами из глаз и солнечного самоцвета."
+              "rus": "Сконцентрируйтесь и выстрелить в одного врага лучами из глаз и солнечного самоцвета одновременно."
             }
           },
           {
@@ -3415,7 +3415,7 @@
             "Desc": {
               "id": "2255556394618389817",
               "eng": "Blast the ground with a #emphasis#burning#/emphasis# solar beam leaving only deadly molten earth behind for those who survived your initial blast.",
-              "rus": "Направить на землю #emphasis#обжигающий#/emphasis# солнечный луч, который оставляет тем, кто выжил, только оплавленные камни."
+              "rus": "Направьте на землю #emphasis#обжигающий#/emphasis# солнечный луч, который оставляет тем, кто выжил, только оплавленные камни."
             }
           },
           {
@@ -3427,7 +3427,7 @@
             "Desc": {
               "id": "4860548467270419730",
               "eng": "Build up an enormous amount of solar energy and release it in one large explosion, leaving your enemies devastated.",
-              "rus": "Вы накапливаете огромное количество солнечной энергии и тратите ее на один мощный взрыв."
+              "rus": "Вы накапливаете огромное количество солнечной энергии и тратите её на один мощный взрыв."
             }
           },
           {
