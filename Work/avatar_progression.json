@@ -3524,7 +3524,7 @@
             "Desc": {
               "id": "12683215893754086666",
               "eng": "Lay out your enemies with ferocious blows from your spiked gauntleted fists. These attacks are especially effective against already battered enemies.",
-              "rus": "Обрушить на врага град яростных ударов ваших шипастых бронированных перчаток. Особенно эффективно против уже пострадавших противников."
+              "rus": "Обрушьте на врага град яростных ударов ваших шипастых бронированных перчаток. Особенно эффективно против уже пострадавших противников."
             }
           },
           {
@@ -3536,7 +3536,7 @@
             "Desc": {
               "id": "756202007520085254",
               "eng": "Maneuver out of the fray with a #emphasis#stunning#/emphasis# combat roll, using the momentum to speed yourself up.",
-              "rus": "Выйти из боя #emphasis#оглушающим#/emphasis# перекатом, используя это движение, чтобы ускориться."
+              "rus": "Выйдите из боя #emphasis#оглушающим#/emphasis# перекатом, использов это движение для того, чтобы увеличить скорость перемещения."
             }
           },
           {
@@ -3548,7 +3548,7 @@
             "Desc": {
               "id": "15366571474536760674",
               "eng": "Unleash a lethal series of staff attacks that restore $primarymanabehaviorname$ when striking.",
-              "rus": "Провести смертоносную серию ударов посохом. При попадании происходит восстановление $primarymanabehaviorname.locflagG$."
+              "rus": "Проведите смертоносную серию ударов посохом. При попадании происходит восстановление $primarymanabehaviorname.locflagG$."
             }
           },
           {
@@ -3560,19 +3560,19 @@
             "Desc": {
               "id": "3071212551474644285",
               "eng": "Tenderize tougher enemies with crushing haymakers from your gauntleted fists, causing severe internal #emphasis#bleeding#/emphasis#.",
-              "rus": "Обработать серьезных противников пушечными ударами кулаков в бронированных перчатках, вызывая тяжелое внутреннее #emphasis#кровотечение#/emphasis#."
+              "rus": "Обработайте сильных противников сокрушительными ударами кулаков в бронированных перчатках, вызывая тяжелое внутреннее #emphasis#кровотечение#/emphasis#."
             }
           },
           {
             "Name": {
               "id": "11961913734530139396",
               "eng": "Crescent Snare",
-              "rus": "Лунный капкан"
+              "rus": "Серповидный капкан"
             },
             "Desc": {
               "id": "9774995908787832121",
               "eng": "Seize enemies in a cone in front of you with an array of wired crescents, bringing them close enough to tenderize them with your fists.",
-              "rus": "Метнуть во врагов веер сюрикенов, заставляя подойти ближе к вам, и как следует их поколотить."
+              "rus": "Метните перед собой конусом острые клинки на проволоке, которые притянут врагов достаточно близко, чтобы вы могли раздробить их кости своими кулаками."
             }
           },
           {
@@ -3584,7 +3584,7 @@
             "Desc": {
               "id": "13824013929743975683",
               "eng": "Hold the hotkey to whirl your staff at high velocity, repeatedly smacking enemies around you.",
-              "rus": "Удерживать горячую клавишу, чтобы вращать свой посох на большой скорости, снова и снова нанося удары врагам."
+              "rus": "Удерживайте горячую клавишу, чтобы вращать посох на большой скорости, снова и снова нанося удары окружающим врагам."
             }
           },
           {
@@ -3596,19 +3596,19 @@
             "Desc": {
               "id": "5372322051409446164",
               "eng": "Use your grappling hook to soar high above the fray, only to crash land onto your enemies, #emphasis#knocking them down#/emphasis# to their knees.",
-              "rus": "Используйте свой крюк, чтобы взмыть высоко над битвой, только чтобы приземлиться на своих врагов, #emphasis#сбивая их на колени#/emphasis#."
+              "rus": "Используйте свой крюк, чтобы взмыть высоко над битвой, а затем обрушиться на своих врагов, #emphasis#сбивая их с ног#/emphasis# и заставляя пасть на колени."
             }
           },
           {
             "Name": {
               "id": "2174157710506067201",
               "eng": "Nunchuck Bulldoze",
-              "rus": "Нунчаку-бульдозер"
+              "rus": "Нунчак-бульдозер"
             },
             "Desc": {
               "id": "1939554686921082173",
               "eng": "Plow through crowds of enemies using your whirling nunchucks, leaving them bruised and battered in your wake.",
-              "rus": "Прорубиться сквозь толпу врагов, прокладывая путь бешеным вращением нунчаков и оставляя за собой поверженных противников."
+              "rus": "Крутите нунчаки, прорываясь сквозь толпу врагов, оставляя за собой лишь избитых и покалеченнымх противников"
             }
           },
           {
@@ -3620,7 +3620,7 @@
             "Desc": {
               "id": "3807739283069469959",
               "eng": "Lash out with a crazed series of ferocious attacks, becoming immune to negative status effects during the frenzy. Throwing every punch allows you to finish with a brutal, double-fisted overhead hammer blow.",
-              "rus": "Провести серию яростных атак, получив устойчивость к негативным эффектам во время припадка безумия. Каждое попадание даст шанс добить врага сокрушительным ударом двух кулаков."
+              "rus": "Проведите серию яростных атак, которая даст вам временный иммунитет к дебаффам во время вашего буйства. Каждая из атака заряжает финальный сокрушительный двойной удар кулаками."
             }
           }
         ]
@@ -3641,7 +3641,7 @@
             "Desc": {
               "id": "17834410866117772565",
               "eng": "Hurl razor-sharp crescents into the soft points of enemies with pinpoint precision.",
-              "rus": "Метать бритвенно-острые полумесяцы в уязвимые точки врагов с идеальной меткостью, оставляя пораженных противников #emphasis#истекать кровью#/emphasis#."
+              "rus": "Метните бритвенно-острые полумесяцы в уязвимые точки врагов с идеальной меткостью, оставляя пораженных противников #emphasis#истекать кровью#/emphasis#."
             }
           },
           {
@@ -3653,7 +3653,7 @@
             "Desc": {
               "id": "545833289649816889",
               "eng": "Throw your truncheon, ricocheting it between multiple nearby enemies and making your next Melee Power deal additional damage after each bounce.",
-              "rus": "Бросить дубинку так, что она будет отскакивать от одного противника к другому. После каждого рикошета ваша следующая способность ближнего боя наносит дополнительный урон."
+              "rus": "Метните свою дубинку так, что она будет отскакивать от одного противника к другому. После каждого рикошета ваша следующая способность ближнего боя наносит бонусный урон."
             }
           },
           {
@@ -3665,7 +3665,7 @@
             "Desc": {
               "id": "2874641020847260989",
               "eng": "Throw a fan of crescent darts that pierce through enemies, dealing more damage to targets that are further away. Enemies hit begin #emphasis#bleeding#/emphasis#.",
-              "rus": "Метнуть сюрикены веером, прошивая врагов насквозь. Чем дальше цель, тем больше урона она получит. Пораженные враги #emphasis#истекают кровью#/emphasis#."
+              "rus": "Метните сюрикены веером, прошивая врагов насквозь. Чем дальше цель, тем больше урона она получит. Пораженные враги #emphasis#истекают кровью#/emphasis#."
             }
           },
           {
@@ -3684,12 +3684,12 @@
             "Name": {
               "id": "6081534732380144904",
               "eng": "Crescent Launchers",
-              "rus": "Метатели полумесяцев"
+              "rus": "Клинковые пистолеты"
             },
             "Desc": {
               "id": "2272629460854244668",
               "eng": "Hold down the hotkey to lay down a continuous barrage of high-speed crescents launched from your custom built pistols.",
-              "rus": "Удерживать горячую клавишу, чтобы выпустить очередь метательных полумесяцев из специальных пистолетов."
+              "rus": "Удерживайте горячую клавишу, чтобы выпустить быструю очередь метательных снарядов-полумесяцев из специальных пистолетов."
             }
           },
           {
@@ -3701,7 +3701,7 @@
             "Desc": {
               "id": "15729828787494716733",
               "eng": "Use your Tripwire pistols to fire wired crescents, #emphasis#immobilizing#/emphasis# enemies and damaging them over time.",
-              "rus": "Стрелять из гарпунных пистолетов сюрикенами на тросе, #emphasis#парализуя#/emphasis# противников и нанося им продолжительный урон."
+              "rus": "Выстрелите из гарпунных пистолетов сюрикенами на тросе, #emphasis#парализуя#/emphasis# противников и нанося им периодический урон."
             }
           },
           {
@@ -3725,7 +3725,7 @@
             "Desc": {
               "id": "6811124198509839634",
               "eng": "Remotely glide your Angel Wing glider in for a strafing run on your location as you riddle your enemies with its 20 mm cannons",
-              "rus": "Удаленно управляйте своим планером Angel Wing, чтобы совершить облет вашей локации, пока вы обстреливаете врагов из его 20-мм пушек."
+              "rus": "Дистанционно управляйте своим глайдером Ангельское Крыло для атаки с бреющего полёта, чтобы его 20-мм пушки расстреливали врагов вокруг вас."
             }
           },
           {
@@ -3737,7 +3737,7 @@
             "Desc": {
               "id": "12512189737738700089",
               "eng": "Call Frenchie in to light up a targeted area with the Moon Copter's 20mm cannons and Hellfire missiles.",
-              "rus": "Призвать Френчи, который зальет указанную область огнем из 20-мм орудий и ракет Hellfire лунокоптера."
+              "rus": "Призовите Френчи, который зальет указанную область огнем с помощью 20-мм орудий и ракет Хеллфайер лунокоптера."
             }
           }
         ]
@@ -3822,7 +3822,7 @@
             "Desc": {
               "id": "5402104041833235730",
               "eng": "Fall back on twin semiautomatic .45s when your primary runs dry to buy yourself time to reload.",
-              "rus": "Когда ваше основное оружие опустеет, вы всегда сможете выхватить полуавтоматический пистолет.45 калибра."
+              "rus": "Когда ваше основное оружие опустеет, вы всегда сможете выхватить полуавтоматический пистолет 45-ого калибра."
             }
           },
           {
@@ -3834,19 +3834,19 @@
             "Desc": {
               "id": "5392479007229216007",
               "eng": "Hold down the hotkey for a rain of lead from your heavy machine gun. You don't need a squad to use a squad automatic weapon, you just need a target.",
-              "rus": "Удерживать горячую клавишу и полить врагов свинцом из пулемета. Вам не нужен артиллерийский расчет, достаточно указать цель."
+              "rus": "Удерживайте клавишу активации для непрерывного огня из ручного пулемёта. Вам не нужен отряд поддержки, чтобы использовать его - достаточно видеть цель."
             }
           },
           {
             "Name": {
               "id": "18441703148524209422",
               "eng": "Tactical Roll",
-              "rus": "Тактический кувырок"
+              "rus": "Тактический перекат"
             },
             "Desc": {
               "id": "10282637871769191688",
               "eng": "Tuck and roll to tactically reposition on the battlefield.",
-              "rus": "Вы делаете кувырок, чтобы занять более выгодную позицию."
+              "rus": "Вы делаете кувырок, чтобы занять более тактически выгодную позицию."
             }
           },
           {
@@ -3858,7 +3858,7 @@
             "Desc": {
               "id": "1519411567102002439",
               "eng": "You're a master of munitions that can reload military hardware with lightning speed.",
-              "rus": "Вы такой профи, что научились перезаряжать оружие со скоростью света."
+              "rus": "Вы - профи перезарядки и любое оружение в ваших руках перезаряжается будто со скоростью света"
             }
           },
           {
@@ -3882,19 +3882,19 @@
             "Desc": {
               "id": "1399724490846045439",
               "eng": "Punks won't feel lucky when you pull out your scoped revolver and deliver up to six slugs of .44 caliber justice.",
-              "rus": "Панки не будет чувствовать себя удачливой, когда вы достанете свой револьвер с оптическим прицелом и нанесёте до шести пуль калибра .44 справедливости."
+              "rus": "Удача этих панков заканчивается, когда ты достаёшь револьвер с прицелом. Шесть пуль 44-ого калибра - это справедливость."
             }
           },
           {
             "Name": {
               "id": "9991444552365049156",
               "eng": "Buckshot Blast",
-              "rus": "Взрыв дроби"
+              "rus": "Залп картечи"
             },
             "Desc": {
               "id": "15858255147240064325",
               "eng": "Blast a swath through enemies with your pump action 12-gauge tactical shotgun.",
-              "rus": "Расчисти путь сквозь врагов, используя свой тактический помповый дробовик 12 калибра."
+              "rus": "Расчисти путь сквозь врагов, используя свой тактический помповый дробовик 12-ого калибра."
             }
           },
           {
@@ -3906,7 +3906,7 @@
             "Desc": {
               "id": "746613415788414273",
               "eng": "Draw a bead with your sniper rifle, delivering a .50 caliber shot to the dome that cannot miss.",
-              "rus": "Наведите свою снайперскую винтовку и разнесите череп на части пулей.50 калибра."
+              "rus": "Возьмите цель в прицел и ваша снайперская винтовка 50-ого калибра поразит голову врага без промаха."
             }
           }
         ]
@@ -3927,7 +3927,7 @@
             "Desc": {
               "id": "3638271762044224781",
               "eng": "Blow up the opposition by rolling an antipersonnel fragmentation grenade into the fray.",
-              "rus": "Подорвите противника, бросив осколочную гранату в бой."
+              "rus": "Швыпните осколочную гранату в самую гущу врагов — пусть останки противников усеют поле боя."
             }
           },
           {
@@ -3951,7 +3951,7 @@
             "Desc": {
               "id": "4712952611925198095",
               "eng": "Your grenade launcher deploys canisters of toxic chemicals.",
-              "rus": "Ваш гранатомет развертывает контейнеры с токсичными химикатами."
+              "rus": "Ваш гранатомет теперь заряжен снарядами с токсичными химикатами."
             }
           },
           {
@@ -3963,19 +3963,19 @@
             "Desc": {
               "id": "18445494788666099013",
               "eng": "Your assault rifle is equipped with an underslung flashbang launcher capable of terrifying enemies exposed to the concussive light and sound. ",
-              "rus": "Ваша штурмовая винтовка оснащена подствольным устройством, стреляющим светошумовыми гранатами. Взрывы этих гранат пугают врагов."
+              "rus": "Ваша штурмовая винтовка оснащена подствольным устройством, стреляющим светошумовыми гранатами. Взрывы этих гранат пугают и дезориентируют врагов."
             }
           },
           {
             "Name": {
               "id": "18356357569975878973",
               "eng": "Explosive Escape",
-              "rus": "Шумный уход"
+              "rus": "Взрывной отход"
             },
             "Desc": {
               "id": "10653707438301054280",
               "eng": "Tumble away from danger while lobbing a grenade to dissuade pursuers.",
-              "rus": "Уходя от опасности, швырните гранату, чтобы избавиться от погони."
+              "rus": "Уйдя перекатом от опасности, швырните гранату, чтобы избавиться от погони."
             }
           },
           {
@@ -3987,7 +3987,7 @@
             "Desc": {
               "id": "11928716553679406399",
               "eng": "Immolate enemies with #emphasis#burning#/emphasis# plumes of pressurized flammable liquid.",
-              "rus": "Поливать врагов вылетающей под большим давлением струей #emphasis#горящей#/emphasis# жидкости."
+              "rus": "Уничтожайте врагов струями #emphasis#огня#/emphasis# - горючая смесь под давлением не оставляет шансов."
             }
           },
           {
@@ -4011,7 +4011,7 @@
             "Desc": {
               "id": "4195697120572802376",
               "eng": "Escalate the war against crime by calling in your heavily armed and armored custom battle van, bristling with multiple turrets and rocket launchers.",
-              "rus": "Воевать с преступниками, вызвав боевую машину, бронированную и вооруженную несколькими турелями и реактивными гранатометами."
+              "rus": "Эскалация войны с криминалом заставляет вас вызвать свой тяжелобронированный и до предела забитый оружием боевой фургон, оснащённый турелями и ракетными установками"
             }
           }
         ]
@@ -4039,7 +4039,7 @@
             "Name": {
               "id": "9962530665016198456",
               "eng": "Pain Tolerance",
-              "rus": "Толерантность к боли"
+              "rus": "Нечувствительность к боли"
             },
             "Desc": {
               "id": "Invalid",
