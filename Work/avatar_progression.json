@@ -5298,7 +5298,7 @@
         "Name": {
           "id": "18277070184419099923",
           "eng": "Marvelous Physique",
-          "rus": "Марвеловская мощь"
+          "rus": "Мощь Марвел"
         },
         "Powers": [
           {
@@ -5310,7 +5310,7 @@
             "Desc": {
               "id": "6372186877378954502",
               "eng": "Charge forward with superhuman speed and strength, forcing aside any enemies in your path.",
-              "rus": "Рвануться вперед со сверхчеловеческой силой и скоростью, отбрасывая врагов в стороны."
+              "rus": "Совершите рывок вперед со сверхчеловеческой силой и скоростью, отбрасывая всех врагов на пути."
             }
           },
           {
@@ -5322,19 +5322,19 @@
             "Desc": {
               "id": "7309604682820945208",
               "eng": "Strike enemies in front of you, draining their energy and restoring your $primarymanabehaviorname$.",
-              "rus": "Ударить врага, забирая его энергию. При этом восстанавливается $primarymanabehaviorname$."
+              "rus": "Ударьте врага, заодно высасывая его энергию. При попадании восстанавливается $primarymanabehaviorname$."
             }
           },
           {
             "Name": {
               "id": "11378397562205635903",
               "eng": "Aerial Onslaught",
-              "rus": "Воздушная тревога"
+              "rus": "Воздушный натиск"
             },
             "Desc": {
               "id": "16047861434903758137",
               "eng": "Fly forward, wildly swinging your fists in wide arcs, devastating enemies in your path.",
-              "rus": "Лететь вперед, широко размахивая кулаками и поражая врагов на своем пути."
+              "rus": "Летите вперед, совершая мощные взмахи кулаками, которые сокрушают всех врагов на вашем пути."
             }
           },
           {
@@ -5346,7 +5346,7 @@
             "Desc": {
               "id": "9994197330038687033",
               "eng": "Use your aerodynamic fighting style to fluidily deliver heavy blows to enemies in front of you.",
-              "rus": "Использовать аэродинамический боевой стиль, чтобы быстро наносить врагам мощные удары."
+              "rus": "Используйте аэродинамический боевой стиль, нанося мощные и стремительные удары по врагам перед вами."
             }
           },
           {
@@ -5358,7 +5358,7 @@
             "Desc": {
               "id": "4079346155860722996",
               "eng": "Unveil your hand and reach out to an enemy, sapping their strength for yourself.",
-              "rus": "Снять перчатку и прикоснуться к противнику, забирая его силу себе."
+              "rus": "Снимите перчатку и прикоснитесь к противнику, высасывая его силы и усивая себя."
             }
           },
           {
@@ -5370,7 +5370,7 @@
             "Desc": {
               "id": "13443427269869634880",
               "eng": "Deliver a massive uppercut that causes internal #emphasis#bleeding#/emphasis#.",
-              "rus": "Провести мощный апперкот, заставив противника #emphasis#истекать кровью#/emphasis#."
+              "rus": "Проведите мощный апперкот, оставив противника #emphasis#истекать кровью#/emphasis#."
             }
           },
           {
@@ -5382,7 +5382,7 @@
             "Desc": {
               "id": "17989905853555606835",
               "eng": "Rip off your gloves and prepare for a brawl, gaining additional offensive power and causing all of your attacks to drain the life from your foes.",
-              "rus": "Сорвать перчатки и приготовиться к драке, приобретя дополнительную ударную силу. Все ваши атаки будут выпивать жизненную силу у врагов."
+              "rus": "Сбросьте свои перчатки, готовясь к жестокой схватке, тем самым приобретя дополнительную силу. Все ваши атаки будут высасывать жизненную силу у врагов."
             }
           },
           {
@@ -5394,19 +5394,19 @@
             "Desc": {
               "id": "6675556154317014332",
               "eng": "Taunt nearby enemies with a sonorous insult, challenging them to attack you.",
-              "rus": "Осыпать противников громкими оскорблениями, заставив их атаковать вас."
+              "rus": "Осыпьте противников громкими оскорблениями, заставляя их атаковать вас."
             }
           },
           {
             "Name": {
               "id": "1606437869554173249",
               "eng": "Rubble Slam",
-              "rus": "Земляной слэм"
+              "rus": "Каменный завал"
             },
             "Desc": {
               "id": "1615269653743732018",
               "eng": "Rip up a chunk of earth and use it as a weapon in an aerial dive down on your enemies, #emphasis#knocking them down#/emphasis#.",
-              "rus": "Вырвать здоровенный кусок земли и запустить его по навесной траектории во врагов, #emphasis#сбивая их с ног#/emphasis#."
+              "rus": "Вырвите здоровенный кусок земли и запустите его вверх «навесом» прямо во врагов, #emphasis#сбивая их с ног#/emphasis#."
             }
           },
           {
@@ -5418,7 +5418,7 @@
             "Desc": {
               "id": "12138361706997024009",
               "eng": "Recall powers from several of your fellow X-Men - Wolverine, Nightcrawler, Angel, Colossus, and Psylocke - adapting and mixing them together, altering your appearance and physical form in order to gain new abilities to fight the greatest of threats.",
-              "rus": "Воплотить способности нескольких других Людей Икс - Росомахи, Ночного Змея, Ангела, Колосса и Псайлок, - скомбинировать их, а также изменить свою внешность и физическую форму, чтобы получить новые способности, могущие справиться с самой страшной угрозой."
+              "rus": "Используйте силы всех легендарных Людей-Х разом — Росомахи, Ночного Змея, Ангела, Колосса и Псайлок — объедините и смешайте их, изменив свою внешность и физическую форму, ваше тело трансформируется, даруя новые способности для битвы против самых грозных врагов."
             }
           }
         ]
@@ -5439,7 +5439,7 @@
             "Desc": {
               "id": "4079346155860722996",
               "eng": "Unveil your hand and reach out to an enemy, sapping their strength for yourself.",
-              "rus": "Снять перчатку и прикоснуться к противнику, забирая его силу себе."
+              "rus": "Снимите перчатку и прикоснитесь к противнику, забирая его особую силу себе."
             }
           },
           {
@@ -5547,7 +5547,7 @@
             "Desc": {
               "id": "9692370023673300231",
               "eng": "Recall the powers from several mutants you have stolen from in the past - Bishop, Storm, Magneto, and Gambit - combining their abilities into a devastating attack.",
-              "rus": "Вспомнить способности сразу нескольких мутантов, украденные вами ранее - Бишопа, Шторм, Магнето и Гамбита - и скомбинировать их в чудовищную атаку."
+              "rus": "Призовите силы мутантов, у которых вы однажды украли способности — Бишопа, Шторм, Магнито, Гамбита — объединив их в одну сокрушительную атаку."
             }
           }
         ]
@@ -5556,14 +5556,14 @@
         "Name": {
           "id": "6754349103188411712",
           "eng": "Absorption Augments",
-          "rus": "Усиления поглощения"
+          "rus": "Усиление поглощения"
         },
         "Powers": [
           {
             "Name": {
               "id": "15602795779564307762",
               "eng": "Southern Brawler",
-              "rus": "Южный Боец"
+              "rus": "Задира с Юга"
             },
             "Desc": {
               "id": "Invalid",
@@ -5575,7 +5575,7 @@
             "Name": {
               "id": "8371050702648378681",
               "eng": "Kree Resilience",
-              "rus": "Кри Стойкость"
+              "rus": "Стойкость Крии"
             },
             "Desc": {
               "id": "Invalid",
@@ -5587,7 +5587,7 @@
             "Name": {
               "id": "7974865249848984955",
               "eng": "Stolen Trait Collection",
-              "rus": "Собранная коллекция черт"
+              "rus": "Коллекция заимствованных черт"
             },
             "Desc": {
               "id": "Invalid",
@@ -5599,7 +5599,7 @@
             "Name": {
               "id": "7974865249848984955",
               "eng": "Stolen Trait Collection",
-              "rus": "Собранная коллекция черт"
+              "rus": "Коллекция заимствованных черт"
             },
             "Desc": {
               "id": "Invalid",
@@ -5611,7 +5611,7 @@
             "Name": {
               "id": "7974865249848984955",
               "eng": "Stolen Trait Collection",
-              "rus": "Собранная коллекция черт"
+              "rus": "Коллекция заимствованных черт"
             },
             "Desc": {
               "id": "Invalid",
@@ -5632,12 +5632,12 @@
     "Desc": {
       "id": "14192503590971507988",
       "eng": "Leader of the X-Men, Cyclops focuses and aims the unlimited torrent of energy cascading from his eyes to blast foes. He's a born leader capable of inspiring allies and standing up to those who would oppress mutantkind.",
-      "rus": "Предводитель Людей Икс, Циклоп, концентрирует и направляет на врагов мощный поток энергии, исходящий из его глаз. Он - прирожденный лидер, способный вдохновить союзников и выступить против любых врагов мутантов."
+      "rus": "Предводитель Людей Икс, Циклоп, концентрирует и направляет на врагов мощные потоки энергии, исходящие из его глаз. Он - прирожденный лидер, способный вдохновить союзников и сплотить против мутантов против любых врагов."
     },
     "Bio": {
       "id": "11102301417847457079",
       "eng": "#emphasis#Real Name:#/emphasis# Scott Summers\n#emphasis#Identity:#/emphasis# Public\n\nProfessor Charles Xavier rescued young Scott Summers from a life as a homeless young orphan, recruiting him to be the first member of his new team: the X-Men. Xavier trained Summers to use his mutant optic blast, as well as to lead the other X-Men in the field.\n\nScott has endured many hardships during his years with the X-Men, from an ongoing rivalry with the savage Wolverine to the seeming death of his girlfriend Jean Grey. Despite these tough times, he stands as a shining example of heroism and leadership among mutantkind.\n\n#emphasis#Created By:#/emphasis# Stan Lee and Jack Kirby\n#emphasis#First Appearance:#/emphasis# X-Men #1 (September, 1963)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Скотт Саммерс\n#emphasis#Личность:#/emphasis# открыта\n#emphasis#Рост:#/emphasis# 190,5 см\n#emphasis#Вес:#/emphasis# 88,5 кг\n\nПрофессор Чарльз Ксавье спас маленького Скотта Саммерса, на тот момент бездомного сироту, и сделал его первым членом своей команды \"X-Men\". Ксавье научил Саммерса использовать свою способность - оптический выстрел, а также командовать другими мутантами в бою.\n\nЗа время сотрудничества с Людьми Икс Скотт перенес многое, от постоянного соперничества с несдержанным и грубым Росомахой до предполагаемой смерти Джины Грей, своей возлюбленной. Несмотря на все эти тяготы, он остается идеальным образцом героя и вождя мутантов.\n\n#emphasis#Создатели:#/emphasis# Стэн Ли и Джек Керби\n#emphasis#Первое упоминание:#/emphasis# \"X-Men\" № 1 (сентябрь 1963 г.)"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Скотт Саммерс\n#emphasis#Личность:#/emphasis# открыта\n#emphasis#Рост:#/emphasis# 190,5 см\n#emphasis#Вес:#/emphasis# 88,5 кг\n\nПрофессор Чарльз Ксавье спас маленького Скотта Саммерса, на тот момент бездомного сироту, и сделал его первым членом своей команды \"X-Men\". Ксавье научил Саммерса использовать свою способность - оптический заряд, а также командовать другими мутантами в бою.\n\nЗа время сотрудничества с Людьми Икс Скотт перенес многое, от постоянного соперничества с несдержанным и грубым Росомахой до предполагаемой смерти Джины Грей, своей возлюбленной. Несмотря на все эти тяготы, он остается идеальным образцом героя и вождя мутантов.\n\n#emphasis#Создатели:#/emphasis# Стэн Ли и Джек Керби\n#emphasis#Первое упоминание:#/emphasis# \"X-Men\" № 1 (сентябрь 1963 г.)"
     },
     "PowerTables": [
       {
@@ -5656,7 +5656,7 @@
             "Desc": {
               "id": "8657376522748232979",
               "eng": "Fire snapshot beams from your visor that efficiently pierce through anything in their path, dealing increased damage to #emphasis#slowed#/emphasis# targets.",
-              "rus": "Быстро выпустить заряды энергии из визора у вас во лбу, поражая всех врагов на пути."
+              "rus": "Выпустите череду пронзающих лучей сквозь ваш визор, которые будут наносить повышенный урон #emphasis#замедленным#/emphasis# целям."
             }
           },
           {
@@ -5668,7 +5668,7 @@
             "Desc": {
               "id": "7489604996905698565",
               "eng": "Unleash an intense burst of optic energy at a ground target that explodes with concussive force.",
-              "rus": "Заряд световой энергии поражает наземную цель, которая при этом взрывается."
+              "rus": "Выпустите мощный импульс оптической энергии по наземной цели, который взрывается с ударной силой."
             }
           },
           {
@@ -5680,7 +5680,7 @@
             "Desc": {
               "id": "4456788869684659518",
               "eng": "Hold down the hotkey to unleash a destructive optic beam that #emphasis#slows#/emphasis# enemies.",
-              "rus": "Удерживая горячую клавишу, выстрелить разрушительным оптическим лучом, #emphasis#замедляющим#/emphasis# врагов."
+              "rus": "Удерживайте горячую клавишу, чтобы выстрелить разрушительным оптическим лучом, #emphasis#замедляющим#/emphasis# врагов."
             }
           },
           {
@@ -5692,7 +5692,7 @@
             "Desc": {
               "id": "2135891987154535693",
               "eng": "Concentrate an accumulating stream of photons toward your enemies that grows into an irresistible torrent of energy.",
-              "rus": "Сконцентрировать все увеличивающийся поток фотонов и направить на врагов несокрушимый шквал энергии."
+              "rus": "Сконцентрируйте все увеличивающийся поток фотонов и направьте на ваших врагов несокрушимый шквал энергии."
             }
           },
           {
@@ -5704,7 +5704,7 @@
             "Desc": {
               "id": "13003925289339585802",
               "eng": "Modify your visor to emit a high-intensity, short range wide beam. Ideal for neutralizing close targets. ",
-              "rus": "Настройте визор на выброс мощного широкого луча. Идеально для уничтожения врагов в непосредственной близости."
+              "rus": "Настройте визор на выброс мощного луча в широком радиусе. Идеально для уничтожения врагов в непосредственной близости."
             }
           },
           {
@@ -5716,7 +5716,7 @@
             "Desc": {
               "id": "2091268711464961290",
               "eng": "Fire a precisely calculated optic beam that ricochets and banks off enemies, striking multiple targets.",
-              "rus": "Выпустить точно рассчитанный луч, который отрикошетит от врагов и поразит несколько целей.\r"
+              "rus": "Выпустите точно рассчитанный луч, который отрикошетит от врагов и поразит несколько целей.\r"
             }
           },
           {
@@ -5728,7 +5728,7 @@
             "Desc": {
               "id": "10620799987214386432",
               "eng": "Unleash an optic beam of epic proportions, #emphasis#knocking down#/emphasis# all enemies caught in the blast.",
-              "rus": "Выстрелить мощнейшим оптическим лучом, #emphasis#сбивая с ног#/emphasis# всех задетых им противников."
+              "rus": "Выстрелите мощнейшим оптическим лучом, #emphasis#сбивая с ног#/emphasis# всех задетых им противников."
             }
           },
           {
@@ -5740,7 +5740,7 @@
             "Desc": {
               "id": "3606003015620297998",
               "eng": "Toss a cluster of ruby-quartz prismatic orbs hand-crafted by Beast into the air, then blast them with a concussive eye-beam, refracting the beam to strike every nearby enemy.",
-              "rus": "Бросьте кластер рубин-кварцевых призматических сфер, изготовленных Человеком-Зверем, в воздух, а затем поражайте их контузийным глазным лучом, преломляя луч, чтобы поразить каждого ближайшего врага."
+              "rus": "Подбросьте в воздух рубиново-кварцевые призматические сферы, созданные Зверем, и выстрелите в них лучом — из-за многочисленных преломлений он поразит всех находящихся рядом врагов."
             }
           },
           {
@@ -5752,7 +5752,7 @@
             "Desc": {
               "id": "5443182642355111185",
               "eng": "Remove your ruby quartz visor and unleash the full, untamed power of your optics. When you absolutely, positively need to take out every enemy in the room, accept no substitutes.",
-              "rus": "Удерживая горячую клавишу, снять визор из рубинового кварца и явить миру ничем не ограниченную мощь своих глаз. Лучший способ расправиться со всеми врагами сразу."
+              "rus": "Удерживайте горячую клавишу, чтобы снять визор из рубинового кварца и явить миру ничем не ограниченную мощь своих глаз. Лучший способ расправиться со всеми врагами сразу."
             }
           }
         ]
@@ -5773,7 +5773,7 @@
             "Desc": {
               "id": "13934513285026284852",
               "eng": "Somersault in a direction, using the momentum to dodge incoming attacks more effectively.",
-              "rus": "Выполнить кувырок в указанном направлении, используя инерцию движения для того, чтобы эффективнее уклоняться от атак."
+              "rus": "Выполните кувырок в указанном направлении, используя инерцию движения для того, чтобы эффективнее уклоняться от атак."
             }
           },
           {
@@ -5784,8 +5784,8 @@
             },
             "Desc": {
               "id": "14391545075750929741",
-              "eng": "Direct Beast to clear a path, leaving enemies #emphasis#bleeding#/emphasis# after his ferocious assault.  Afterwards, he'll return to your side, ready to carry out your commands.",
-              "rus": "Приказать Зверю расчистить путь, оставив врагов #emphasis#истекать кровью#/emphasis#."
+              "eng": "Direct Beast to clear a path, leaving enemies #emphasis#bleeding#/emphasis# after his ferocious assault. Afterwards, he'll return to your side, ready to carry out your commands.",
+              "rus": "Прикажите Зверю расчистить путь, оставив врагов #emphasis#истекать кровью#/emphasis# после его яростной атаки. Затем он вернётся к вам, ожидая дальнейших указаний." 
             }
           },
           {
@@ -5797,7 +5797,7 @@
             "Desc": {
               "id": "553205639617774867",
               "eng": "Iceman lends support by freezing an area with an ice beam that #emphasis#slows#/emphasis# and applies lasting damage to any enemies who tread through.",
-              "rus": "Человек-Лед заморозит территорию ледяным лучом, который #emphasis#замедлит#/emphasis# всех врагов, пересекающих его, и нанесет им урон, прдолжающийся с течением времени."
+              "rus": "Человек-Лед заморозит обозначенную территорию ледяным лучом, который #emphasis#замедлит#/emphasis# всех врагов и нанесет им урон, продолжающийся с течением времени."
             }
           },
           {
@@ -5809,7 +5809,7 @@
             "Desc": {
               "id": "17246941214981096717",
               "eng": "Scott's years of training and experience in tactical situations allows him to pinpoint weaknesses of his enemies and anticipate their attacks. Activate to apply #emphasis#vulnerability#/emphasis# and #emphasis#weakness#/emphasis# to nearby enemies.",
-              "rus": "Благодаря долгим годам боевой практики Скотт может находить уязвимые места противников и предсказывать их атаки. Активировать, чтобы враги стали #emphasis#уязвимыми#/emphasis# и #emphasis#слабыми#/emphasis#.\n\nКомандирский опыт Циклопа позволит ему и товарищам более эффективно усваивать боевой опыт."
+              "rus": "Благодаря долгим годам боевой практики и опыту Скотт всегда находит уязвимые места противников и предсказывать их атаки. Активируйте, чтобы враги стали #emphasis#уязвимыми#/emphasis# и #emphasis#слабыми#/emphasis#.\n\nКомандирский опыт Циклопа позволит ему и товарищам более эффективно усваивать боевой опыт."
             }
           },
           {
@@ -5833,7 +5833,7 @@
             "Desc": {
               "id": "6743694612113720585",
               "eng": "Disengage from combat with a backwards roll, firing a parting beam that #emphasis#slows#/emphasis# pursuing enemies.",
-              "rus": "Выйти из боя кувырком назад, выстрелив напоследок лучом, который #emphasis#замедлит#/emphasis# преследователей."
+              "rus": "Выйдите из боя кувырком назад, выстрелив напоследок лучом, который #emphasis#замедлит#/emphasis# преследователей."
             }
           },
           {
@@ -5845,7 +5845,7 @@
             "Desc": {
               "id": "6560661247887803641",
               "eng": "Coordinate with Jean by blasting a vehicle she levitates with her telekinesis. The resulting explosion knocks enemies unfortunate enough to be near it down, setting them on fire.",
-              "rus": "Джин телекинезом поднимет транспорт в воздух, а вы его взорвете. Взрывная волна собьет с ног ближайших противников и подожжет их."
+              "rus": "Скоординируйтесь с Джин и она своим телекинезом поднимет в воздух машину, а вы её взорвете. Взрывная волна собьет с ног ближайших противников, а также подожжёт их."
             }
           },
           {
@@ -5857,7 +5857,7 @@
             "Desc": {
               "id": "16364356758843557127",
               "eng": "Warren holds you aloft, allowing you to barrage enemies from safety as you soar by.",
-              "rus": "Уоррен поднимает вас в воздух, позволяя вам обстреливать врагов из безопасного места, пока вы летите мимо."
+              "rus": "Уоррен поднимает вас в воздух, позволяя вам обстреливать врагов с безопасного расстояния, пока вы летите мимо."
             }
           },
           {
@@ -5885,7 +5885,7 @@
             "Name": {
               "id": "13253795379839304975",
               "eng": "Evasive Maneuvers",
-              "rus": "Уклоняющиеся маневры"
+              "rus": "Маневры уклонения"
             },
             "Desc": {
               "id": "Invalid",
