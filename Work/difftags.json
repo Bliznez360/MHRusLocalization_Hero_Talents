@@ -151,7 +151,7 @@
   },
   "915786104554521970": {
     "eng": "#focus#Focus#/focus# builds over time. Some powers cost focus instead of Spirit.",
-    "rus": "#focus#Фокус#/focus# растет с течением времени. Использование некоторых способностей требует затрат не духа, а сосредоточенности.",
+    "rus": "#focus#Фокус#/focus# растет с течением времени. Некоторые способности требуют его для использования вместо Духа.",
     "path": "Entity/Characters/Avatars/ManaBehaviors/SecondaryResource/InvisibleWomanFocus.prototype"
   },
   "925326584120739175": {
@@ -451,7 +451,7 @@
   },
   "2984417412752016646": {
     "eng": "Damage: +$DamageMultForPower.pct$% for each other #powerkeyword#Melee#/powerkeyword# or #powerkeyword#Movement#/powerkeyword# Power used in the last $duration$ (stacks up to 3 times)",
-    "rus": "Урон: +10% за каждое применение #orange#Разрушения#/orange# за последние $duration$ (суммируется до 4 раз и не зависит от длительности способности)",
+    "rus": "Урон: +$DamageMultForPower.pct$% за каждую прочую способность #powerkeyword#Ближнего боя#/powerkeyword# или #powerkeyword#Перемещения#/powerkeyword# за последние $duration$ (суммируется до 3 раз)",
     "path": "Localization/Translations/Powers/TooltipStrings/Nova/PowerNovaLungingPunch.prototype"
   },
   "3012966541408666889": {
@@ -466,7 +466,7 @@
   },
   "3149483094943073649": {
     "eng": "#focus#Diamond Armor#/focus#",
-    "rus": "Алмазная броня",
+    "rus": "#focus#Алмазная броня#/focus#",
     "path": "Entity/Characters/Avatars/ManaBehaviors/SecondaryResource/EmmaFrostDiamondArmor.prototype"
   },
   "3169607490500297993": {
@@ -546,7 +546,7 @@
   },
   "3566305410350253375": {
     "eng": "#cyan#Shield Capacity#/cyan#",
-    "rus": "Прочность щита",
+    "rus": "#cyan#Прочность щита#/cyan#",
     "path": "Entity/Characters/Avatars/ManaBehaviors/SecondaryResource/RocketRaccoonShields.prototype"
   },
   "3733365619518080421": {
@@ -776,7 +776,7 @@
   },
   "5106566882699642188": {
     "eng": "Cooldown is reduced by 1s when you hit with a #orange#Movement#/orange# Power",
-    "rus": "Время перезарядки уменьшается на 1 с, если вы удачно применяете рывок",
+    "rus": "Время перезарядки уменьшается на 1 с, если вы попадаете способностью #orange#Перемещения#/orange#",
     "path": "Localization/Translations/Powers/TooltipStrings/CDR1SecOnHitMovement.prototype"
   },
   "5114071968671008063": {
@@ -806,7 +806,7 @@
   },
   "5310209707604313410": {
     "eng": "#lightblue#Khonshu's Favor#/lightblue#",
-    "rus": "Воздаяние Хоншу",
+    "rus": "#lightblue#Воздаяние Хоншу#/lightblue#",
     "path": "Entity/Characters/Avatars/ManaBehaviors/SecondaryResource/MoonKnightTribute.prototype"
   },
   "5319310206421566771": {
@@ -816,7 +816,7 @@
   },
   "5400389417862694146": {
     "eng": "Consumes all stacks of #emphasis#Board Dash's#/emphasis# buff to increase damage by 25% and reduce $primarymanabehaviorname$ cost by 10% per stack",
-    "rus": "Поглощает все накопления Рывков доски, повышает урон на 25% и снижает расход $primarymanabehaviorname.locflagG$ на 10% за каждый набор",
+    "rus": "Поглощает все накопления #emphasis#Рывков доски#/emphasis#, чтобы повысить урон на 25% и снизить расход $primarymanabehaviorname.locflagG$ на 10% за каждый из них",
     "path": "Localization/Translations/Powers/TooltipStrings/SilverSurfer/TeleportDashConsumeBoardDashStack.prototype"
   },
   "5408406094649820483": {
@@ -871,7 +871,7 @@
   },
   "5609077274581796114": {
     "eng": "#red#Chaos Effect#/red#: $EvalRegisterFloat0.pct$% chance to make enemies take $oncontacttimepower1.condition0.damagePctVulnerabilityVsPower$% extra damage from #powername#$oncontacttimepower1.condition0.powerreference0.powername$#/powername# for $oncontacttimepower1.condition0.duration$",
-    "rus": "Уязвимость: враг получает на $damagePctVulnerabilityVsPowerKwd$% больше урона от способностей #orange#$damagePctVulnerabilityVsPowerKwd.param0.keyword.locflagG$#/orange# в течение $duration$",
+    "rus": "#red#Эффект Хаоса#/red#: $EvalRegisterFloat0.pct$% шанс заставить врагов получать $oncontacttimepower1.condition0.damagePctVulnerabilityVsPower$% дополнительного урона от #powername#$oncontacttimepower1.condition0.powerreference0.powername$#/powername# в течение $oncontacttimepower1.condition0.duration$",
     "path": "Localization/Translations/Powers/TooltipStrings/ScarletWitch/DarkHexVulnerabilityEffect.prototype"
   },
   "5670491669132805442": {
@@ -931,7 +931,7 @@
   },
   "5897739247813133673": {
     "eng": "Restore $endurancechangebase$ $primarymanabehaviorname$ when you use a #powerkeyword#Movement#/powerkeyword# Power",
-    "rus": "$primarymanabehaviorname$ увеличивается на $endurancechangebase$ ед., когда вы применяете рывок",
+    "rus": "Восстанавливает $endurancechangebase$ $primarymanabehaviorname$, когда вы применяете способность #powerkeyword#Перемещения#/powerkeyword#",
     "path": "Localization/Translations/Powers/TooltipStrings/X23/HasteTranceFury.prototype"
   },
   "5907189283903505720": {
@@ -951,7 +951,7 @@
   },
   "6026078943700190569": {
     "eng": "Damage: +$DamageMult.pct$% for $duration$ when you spend #powermechanic#Focus#/powermechanic# (max 3 stacks)",
-    "rus": "Урон: +$DamageMult.pct$% на $duration$, когда вы тратите сосредоточенность (не более 3 раз)",
+    "rus": "Урон: +$DamageMult.pct$% на $duration$, когда вы тратите #powermechanic#Фокус#/powermechanic# (не более 3 раз)",
     "path": "Localization/Translations/Powers/TooltipStrings/InvisibleWoman/StealthToggleDamageMultWhenSpendingFocus.prototype"
   },
   "6027327984564110661": {
@@ -1021,7 +1021,7 @@
   },
   "6390414057282209131": {
     "eng": "#focus#Focus#/focus#",
-    "rus": "Фокус",
+    "rus": "#focus#Фокус#/focus#",
     "path": "Entity/Characters/Avatars/ManaBehaviors/SecondaryResource/InvisibleWomanFocus.prototype"
   },
   "6400340920712693108": {
@@ -1125,8 +1125,8 @@
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/PsylockePsiKatanaTalent.prototype"
   },
   "6955645772144051512": {
-    "eng": "#red#This power cannot be used because #powername#$PowerName$#/powername# is active",
-    "rus": "#red#Эта способность не может быть использована, потому что #powername#$PowerName$#/powername# активна",
+    "eng": "#red#This power cannot be used because #powername#$PowerName$#/powername# is active#/red#",
+    "rus": "#red#Эта способность не может быть использована, потому что #powername#$PowerName$#/powername# активна#/red#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/ThisPowerCannotBeUsedBecausePowerName.prototype"
   },
   "6960978884576871738": {
@@ -1356,7 +1356,7 @@
   },
   "8261326065093707110": {
     "eng": "Removes the $primaryManaBehaviorName$ cost of #powername#$powerReference0.powerName$#/powername# and reduces its Cooldown by 0.5s when you pick up a #debris#Debris Orb#/debris#",
-    "rus": "Обнуляет расход $primarymanabehaviorname.locflagG$ на применение способности #emphasis#$powerReference0.powerName$#/emphasis# и снижает время перезарядки на 0,5 с каждый раз, когда вы подбираете сферу обломков",
+    "rus": "Обнуляет расход $primarymanabehaviorname.locflagG$ на применение способности #emphasis#$powerReference0.powerName$#/emphasis# и снижает время перезарядки на 0,5 с каждый раз, когда вы подбираете сферу #debris#Обломков#/debris#",
     "path": "Localization/Translations/Powers/TooltipStrings/Magneto/CDROnMetalOrbPickup.prototype"
   },
   "8261740177256613229": {
@@ -1471,7 +1471,7 @@
   },
   "8883789662304535879": {
     "eng": "Enemy takes $damagePctVulnerabilityVsPowerKwd$% extra #red#Chaos#/red# Damage",
-    "rus": "Уязвимость: враг получает на $damagePctVulnerabilityVsPowerKwd$% больше урона от способностей #orange#$damagePctVulnerabilityVsPowerKwd.param0.keyword.locflagG$#/orange# в течение $duration$",
+    "rus": "Враг получает на $damagePctVulnerabilityVsPowerKwd$% больше #red#Хаосного#/red# урона",
     "path": "Localization/Translations/Powers/TooltipStrings/DamagePctVulnerabilityVsChaos.prototype"
   },
   "8932012859367032170": {
@@ -1576,12 +1576,12 @@
   },
   "9411705889603126587": {
     "eng": "Damage Rating: +$DamageRatingBonusForPowerKeyword.precision0$ to #powertree#Firearms#/powertree# Powers for $duration$ (unaffected by Power Duration) when you hit with a #powertree#Brutal Combatant#/powertree# Power",
-    "rus": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.precision0$ к огнестрельным способностям на $duration$ (независимо от длительности способности) после удачного применения способности \"Свирепый боец\"",
+    "rus": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.precision0$ к способностям #powertree#Огнестрельного оружия#/powertree# на $duration$ (независимо от длительности способности) при попадании способностью #powertree#Свирепого бойца#/powertree#",
     "path": "Localization/Translations/Powers/TooltipStrings/WinterSoldier/BonusDmgTree1OnTree3Hit.prototype"
   },
   "9462121993846981956": {
     "eng": "Your #cyan#shields#/cyan# absorb all incoming damage and regenerate while moving.",
-    "rus": "Ваши щиты поглощают часть получаемого урона и восстанавливаются во время движения или за счет различных способностей.",
+    "rus": "Ваши #cyan#щиты#/cyan# поглощают весь получаемый урон и восстанавливаются во время движения.",
     "path": "Entity/Characters/Avatars/ManaBehaviors/SecondaryResource/NovaShield.prototype"
   },
   "9473430999212361020": {
@@ -1661,7 +1661,7 @@
   },
   "9863006720712770839": {
     "eng": "Execute: +1% damage per 1% of target's missing Health",
-    "rus": "Казнь: +1% урона за 1% утраченного здоровья цели #cyan#(такой эффект дает $powerName$)#/cyan#",
+    "rus": "Казнь: +1% урона за 1% утраченного здоровья цели",
     "path": "Localization/Translations/Powers/TooltipStrings/DamageMagnitudeExecute1PctMissingHealth.prototype"
   },
   "9878810366520001901": {
@@ -1756,7 +1756,7 @@
   },
   "10491883782242764112": {
     "eng": "+$evalRegisterFloat0.pct$% while you have 50% or more maximum $primarymanabehaviorname$",
-    "rus": "Урон: +$evalRegisterFloat0.pct$%, если у вас есть не менее 50 #debris#обломков#/debris#",
+    "rus": "+$evalRegisterFloat0.pct$%, если у вас есть не менее 50% #debris#Обломков#/debris#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Value/DamageBasedOnMetalER0.prototype"
   },
   "10500416439080912144": {
@@ -1861,7 +1861,7 @@
   },
   "11233709099070915897": {
     "eng": "#red#Chaos#/red# Healing: Regenerate $evalRegisterFloat2.precision0$ Health when you hit an enemy",
-    "rus": "Восстанавливает $evalRegisterFloat1.precision0$-$evalRegisterFloat2.precision0$ здоровья, когда вы наносите урон врагу",
+    "rus": "#red#Хаосное#/red# исцеление: Восстанавливает $evalRegisterFloat2.precision0$ Здоровья, когда вы наносите урон врагу",
     "path": "Localization/Translations/Powers/TooltipStrings/ScarletWitch/AlterRealityHealingMaxed.prototype"
   },
   "11240657479986251070": {
@@ -1956,7 +1956,7 @@
   },
   "12121618155066754408": {
     "eng": "#powername#$PowerReference0.PowerName$#/powername#: $damage$ #hidden#($damagerange.precision1.divbylevel$ per level)#/hidden#",
-    "rus": "#emphasis#Рывок в тени#/emphasis#: $damage$ ед.#hidden#($damagerange.precision1.divbylevel$ ед. за каждый уровень)#/hidden#",
+    "rus": "#powername#$PowerReference0.PowerName$#/powername#: $damage$ ед.#hidden#($damagerange.precision1.divbylevel$ ед. за каждый уровень)#/hidden#",
     "path": "Localization/Translations/Powers/TooltipStrings/Psylocke/DecoyShadowDash.prototype"
   },
   "12148502635947099459": {
@@ -1996,7 +1996,7 @@
   },
   "12424076920295064893": {
     "eng": "Damage Rating: +$DamageRatingBonusForPowerKeyword.precision0$ to #powertree#Brutal Combatant#/powertree# Powers for $duration$ (unaffected by Power Duration) when you hit with a #powertree#Firearms#/powertree# Power",
-    "rus": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.precision0$ к огнестрельным способностям на $duration$ (независимо от длительности способности) после удачного применения способности \"Свирепый боец\"",
+    "rus": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.precision0$ к способностям #powertree#Свирепого бойца#/powertree# на $duration$ (независимо от длительности способности) при попадании способностью #powertree#Огнестрельного оружия#/powertree#",
     "path": "Localization/Translations/Powers/TooltipStrings/WinterSoldier/BonusDmgTree3OnTree1Hit.prototype"
   },
   "12435554387178423622": {
@@ -2021,7 +2021,7 @@
   },
   "12512720861993305414": {
     "eng": "#cyan#Nova Shield#/cyan#",
-    "rus": "Щит Новы",
+    "rus": "#cyan#Щит Новы#/cyan#",
     "path": "Entity/Characters/Avatars/ManaBehaviors/SecondaryResource/NovaShield.prototype"
   },
   "12516441587809256726": {
@@ -2061,17 +2061,17 @@
   },
   "12852648234821158245": {
     "eng": "Damage Rating: +$damageRatingBonusForPowerKeyword.precision0$#hidden# ($damageRatingBonusForPowerKeyword.divByLevel$ per level)#/hidden# to #powerkeyword#Melee#/powerkeyword#, Non-#powerkeyword#Movement#/powerkeyword# Powers",
-    "rus": "Рейтинг урона: +$damageRatingBonusForPowerKeyword.precision0$#hidden# ($damageRatingBonusForPowerKeyword.divByLevel$ за каждый уровень)#/hidden# к способностям ближнего боя, не связанным с рывками",
+    "rus": "Рейтинг урона: +$damageRatingBonusForPowerKeyword.precision0$#hidden# ($damageRatingBonusForPowerKeyword.divByLevel$ за каждый уровень)#/hidden# к способностям #powerkeyword#Ближнего боя#/powerkeyword#, не связанным с #powerkeyword#Перемещением#/powerkeyword#",
     "path": "Localization/Translations/Powers/TooltipStrings/Juggernaut/DamageRatingBonusOffenseStance.prototype"
   },
   "12878500909937263931": {
     "eng": "$procchancestring$ Chance to gain 10 spirit when you hit with a Movement Power",
-    "rus": "Шанс получить 10 духа, когда вы попадаете с помощью силы движения",
+    "rus": "$procchancestring$ Шанс получить 10 духа, когда вы попадаете способностью Перемещения",
     "path": "Entity/Items/Artifacts/Prototypes/Tier1Artifacts/Art044.prototype"
   },
   "12929603526049334600": {
     "eng": "#orange#Illusions#/orange#",
-    "rus": "Иллюзии",
+    "rus": "#orange#Иллюзии#/orange#",
     "path": "Entity/Characters/Avatars/ManaBehaviors/SecondaryResource/LokiIllusionCounter.prototype"
   },
   "12949832504118871306": {
@@ -2095,8 +2095,8 @@
     "path": "Entity/Characters/PetsAndSummons/Beast/ShieldGadgetEntity.prototype"
   },
   "13019332677115577657": {
-    "eng": "Damage: +$evalregisterfloat0.pct$% extra damage (0.5% per $powermechanic#Photonic Energy#/powermechanic#)",
-    "rus": "Урон: +$evalregisterfloat0.pct$% дополнительного урона (0.5% за фотонную энергию)",
+    "eng": "Damage: +$evalregisterfloat0.pct$% extra damage (0.5% per #powermechanic#Photonic Energy#/powermechanic#)",
+    "rus": "Урон: +$evalregisterfloat0.pct$% дополнительного урона (0.5% за #powermechanic#Фотонную энергию#/powermechanic#)",
     "path": "Localization/Translations/Powers/TooltipStrings/MsMarvel/DamageMultPhotonicER0.prototype"
   },
   "13086408542822401285": {
@@ -2111,12 +2111,12 @@
   },
   "13215729321027437925": {
     "eng": "Removes the $primarymanabehaviorname$ cost of #powername#$PowerName$#/powername# and reduces the Cooldown by 2s per 25 #debris#Debris#/debris# you spend",
-    "rus": "#emphasis#\"Поток полярности\"#/emphasis# не расходует $primarymanabehaviorname.locflagG$. Время перезарядки уменьшается на 2 с за каждые 25 потраченных обломков",
+    "rus": "#powername#$PowerName$#/powername# не расходует $primarymanabehaviorname.locflagG$ и снижает время перезарядки на 2 с за каждые 25 потраченных #debris#Обломков#/debris#",
     "path": "Localization/Translations/Powers/TooltipStrings/Magneto/ElectromagneticBeamCDR.prototype"
   },
   "13297561298562581867": {
     "eng": "$primarymanabehaviorname$ Cost Reduction: $EnduranceCostChangePctKeywrd.abs$% for #powerkeyword#$EnduranceCostChangePctKeywrd.param1.PowerKeyword$#/powerkeyword# Powers",
-    "rus": "Снижение расхода $primarymanabehaviorname.locflagG$: $EnduranceCostChangePctKeywrd.abs$% для способностей призыва",
+    "rus": "Снижение расхода $primarymanabehaviorname.locflagG$: $EnduranceCostChangePctKeywrd.abs$% для способностей #powerkeyword#$EnduranceCostChangePctKeywrd.param1.PowerKeyword$#/powerkeyword#",
     "path": "Localization/Translations/Powers/TooltipStrings/EnduranceCostChangePctKeywordDecrease.prototype"
   },
   "13302073144523556198": {
@@ -2136,12 +2136,12 @@
   },
   "13398874551849518349": {
     "eng": "Damage Rating: +$damageRatingBonusForPowerKeyword.noFraction$#hidden# ($damageRatingBonusForPowerKeyword.precision1.divByLevel$ per level)#/hidden# to your next #powerkeyword#$damageRatingBonusForPowerKeyword.param0.keyword$#/powerkeyword# Power",
-    "rus": "Рейтинг урона: +$damageRatingBonusForPowerKeyword.noFraction$#hidden# ($damageRatingBonusForPowerKeyword.precision1.divByLevel$ за каждый уровень)#/hidden# к следующему применению $damageRatingBonusForPowerKeyword.param0.keyword.locflagP2G$",
+    "rus": "Рейтинг урона: +$damageRatingBonusForPowerKeyword.noFraction$#hidden# ($damageRatingBonusForPowerKeyword.precision1.divByLevel$ за каждый уровень)#/hidden# к следующему применению #powerkeyword#$damageRatingBonusForPowerKeyword.param0.keyword.locflagP2G$#/powerkeyword#",
     "path": "Localization/Translations/Powers/TooltipStrings/DamageRatingBonusForPowerKeywordOnce.prototype"
   },
   "13401538891855430918": {
     "eng": "+$damageMultForPower.pct$% for $duration$ after using a #powermechanic#Cooldown#/powermechanic# Power (stacks up to 5 times)",
-    "rus": "Урон: +$damageMultForPower.pct$% в течение $duration$ после применения способности с перезарядкой (эффект суммируется до 5 раз)",
+    "rus": "Урон: +$damageMultForPower.pct$% в течение $duration$ после применения способности с #powermechanic#Перезарядкой#/powermechanic# (эффект суммируется до 5 раз)",
     "path": "Localization/Translations/Powers/TooltipStrings/Rogue/MechanicRogueDocStrangeFangNuke.prototype"
   },
   "13406232780128650600": {
@@ -2151,7 +2151,7 @@
   },
   "13427064041406465283": {
     "eng": "If #powername#$powerReference0.powerName$#/powername# is toggled on, #powername#$powerName$#/powername# deals +$evalregisterfloat0.pct.abs$% damage and has a $onContactTimePower0.actionsTriggeredOnPowerEvent0.eventParam$s cooldown",
-    "rus": "При активации $powerReference0.powerName$, $powerName$ наносит +$evalregisterfloat0.pct.abs$% урона с перезарядкой $onContactTimePower0.actionsTriggeredOnPowerEvent0.eventParam$ с",
+    "rus": "При активации #powername#$powerReference0.powerName$#/powername#, #powername#$powerName$#/powername# наносит +$evalregisterfloat0.pct.abs$% урона с перезарядкой $onContactTimePower0.actionsTriggeredOnPowerEvent0.eventParam$ с",
     "path": "Localization/Translations/Powers/TooltipStrings/IronMan/UnibeamBonus.prototype"
   },
   "13427951931549025663": {
@@ -2181,7 +2181,7 @@
   },
   "13574559428996236650": {
     "eng": "Damage: +$DamageMultVsKeyword.pct$% against #powermechanic#Frozen#/powermechanic# enemies, consuming the effect",
-    "rus": "Урон: +$DamageMultVsKeyword.pct$% против замороженных противников, при атаке эффект заморозки поглощается",
+    "rus": "Урон: +$DamageMultVsKeyword.pct$% против #powermechanic#Замороженных#/powermechanic# противников, поглощая этот эффект",
     "path": "Localization/Translations/Powers/TooltipStrings/Loki/ConsumeFreeze.prototype"
   },
   "13582783569813177705": {
@@ -2191,7 +2191,7 @@
   },
   "13618151968374130034": {
     "eng": "$propertyvaluesign$$propertyvalue.pct.nofraction% Critical Hit Chance for Melee Basic Powers",
-    "rus": "$propertyvaluesign$propertyvalue.pct.nofraction% Шанс критического удара для основных способностей ближнего боя",
+    "rus": "$propertyvaluesign$propertyvalue.pct.nofraction% Шанс критического удара для Основных способностей Ближнего боя",
     "path": "Localization/Translations/Properties/PropertyStrings/CritChanceBonusMeleeDefault.prototype"
   },
   "13665908461293929790": {
@@ -2206,7 +2206,7 @@
   },
   "13766506490913031439": {
     "eng": "Level 50:\n1 $PrimaryManaBehaviorName$ on any hit",
-    "rus": "Уровень 50:\n1 ед. духа за каждое попадание",
+    "rus": "Уровень 50:\n1 ед. $PrimaryManaBehaviorName$ за каждое попадание",
     "path": "Entity/Characters/Avatars/Shipping/Rogue.prototype"
   },
   "13785833779373344058": {
@@ -2231,7 +2231,7 @@
   },
   "13958821103418737984": {
     "eng": "#emphasis#$PowerName$#/emphasis# - Movement Speed +$movementspeedincrpct.pct$%, Attack Speed: +$castSpeedMult.pct$% (this stacks multiplicatively with normal Attack Speed bonuses)",
-    "rus": "#emphasis#Крылатый ботинок#/emphasis#: +$MovementSpeedIncrPct$% к скорости движения и атаки",
+    "rus": "#emphasis#$PowerName$#/emphasis#: +$movementspeedincrpct.pct$% к Скорости движения и +$castSpeedMult.pct$% Скорости атаки (Складывается мультипликативно с обычной Скоростью атаки)",
     "path": "Localization/Translations/Powers/TooltipStrings/DeadpoolWingedShoesPowerUp.prototype"
   },
   "14029968147207619902": {
@@ -2261,7 +2261,7 @@
   },
   "14192654451809846639": {
     "eng": "Damage Rating: +$DamageRatingBonusForPowerKeyword.precision0$ to #powerkeyword#$DamageRatingBonusForPowerKeyword.param0.keyword$#/powerkeyword# Powers",
-    "rus": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.precision0$ для $DamageRatingBonusForPowerKeyword.param0.keyword.locflagP2G$, пока восполняется #solar#$primaryManaBehaviorName$#/solar#",
+    "rus": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.precision0$ для #powerkeyword#$DamageRatingBonusForPowerKeyword.param0.keyword.locflagP2G$#/powerkeyword# способностей",
     "path": "Localization/Translations/Powers/TooltipStrings/DamageRatingBonusForPowerKeyword.prototype"
   },
   "14217205580027331899": {
@@ -2286,7 +2286,7 @@
   },
   "14307483297268106595": {
     "eng": "Stun Duration: $duration$ to #powermechanic#Burning#/powermechanic# enemies",
-    "rus": "Длительность оглушения: $duration$, если противник горит",
+    "rus": "Длительность оглушения: $duration$, если противник #powermechanic#Горит#/powermechanic#",
     "path": "Localization/Translations/Powers/TooltipStrings/StunDurationVsBurning.prototype"
   },
   "14325792119978394904": {
@@ -2321,7 +2321,7 @@
   },
   "14505243451385316609": {
     "eng": "If #powername#$powerReference0.powerName$#/powername# is toggled on, #powername#$powerName$#/powername# deals +$evalregisterfloat0.pct.abs$% damage and has a $onContactTimePower0.actionsTriggeredOnPowerEvent0.eventParam$s cooldown",
-    "rus": "При активации $powerReference0.powerName$, $powerName$ наносит +$evalregisterfloat0.pct.abs$% урона с перезарядкой $onContactTimePower0.actionsTriggeredOnPowerEvent0.eventParam$ с",
+    "rus": "При активации #powername#$powerReference0.powerName$#/powername#, #powername#$powerName$#/powername# наносит +$evalregisterfloat0.pct.abs$% урона с перезарядкой $onContactTimePower0.actionsTriggeredOnPowerEvent0.eventParam$ с",
     "path": "Localization/Translations/Powers/TooltipStrings/IronMan/WristRocketBonus.prototype"
   },
   "14545175909942494567": {
@@ -2331,7 +2331,7 @@
   },
   "14552599413022000488": {
     "eng": "Reduce the cooldown of #powername#$powerName$#/powername# by $dependentPassivePower0.condition0.procEffect1.actionsTriggeredOnPowerEvent0.eventParam.abs$s when you defeat an enemy",
-    "rus": "Время перезарядки способности \"$powerName$\" уменьшается на $dependentPassivePower0.condition0.procEffect1.actionsTriggeredOnPowerEvent0.eventParam.abs$ с после победы над врагом",
+    "rus": "Время перезарядки способности #powername#$powerName$#/powername# уменьшается на $dependentPassivePower0.condition0.procEffect1.actionsTriggeredOnPowerEvent0.eventParam.abs$ с после победы над врагом",
     "path": "Localization/Translations/Powers/TooltipStrings/Wolverine/BloodySteroidCDR.prototype"
   },
   "14568049557160920446": {
@@ -2346,7 +2346,7 @@
   },
   "14603484579164194101": {
     "eng": "#powermechanic#Photonic Energy#/powermechanic# Cost: 100",
-    "rus": "Затраты фотонной энергии: 100",
+    "rus": "Затраты #powermechanic#Фотонной энергии#/powermechanic#: 100",
     "path": "Localization/Translations/Powers/TooltipStrings/MsMarvel/RequiresFullPhotonicEnergy.prototype"
   },
   "14619305980321596778": {
@@ -2361,12 +2361,12 @@
   },
   "14668246003081807209": {
     "eng": "Damage Rating: +$DamageRatingBonusForPowerKeyword.noFraction$#hidden# ($DamageRatingBonusForPowerKeyword.precision1.divByLevel$ per level)#/hidden# to #powerkeyword#Gun#/powerkeyword# Powers for $duration$",
-    "rus": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.noFraction$#hidden# ($DamageRatingBonusForPowerKeyword.precision1.divbylevel$ за каждый уровень)#/hidden# к разрушающим способностям в течение $duration$",
+    "rus": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.noFraction$#hidden# ($DamageRatingBonusForPowerKeyword.precision1.divbylevel$ за каждый уровень)#/hidden# к способностям #powerkeyword#Оружие#/powerkeyword# в течение $duration$",
     "path": "Localization/Translations/Powers/TooltipStrings/RocketRacoon/DamageRatingBonusForPowerKeywordGuns.prototype"
   },
   "14689078548564673806": {
     "eng": "#emphasis#On Defeat:#/emphasis#",
-    "rus": "#emphasis#$displayname$ - активная способность:#/emphasis#",
+    "rus": "#emphasis#Враг побежден:#/emphasis#",
     "path": "Localization/Translations/Powers/TooltipStrings/CategoryOnDeath.prototype"
   },
   "14695351498687055174": {
@@ -2390,8 +2390,8 @@
     "path": "Entity/Items/Armor/UniquePrototypes/Avatars/Hulk/Unique069.prototype"
   },
   "14895076797973071127": {
-    "eng": "#emphasis#Secondary Resource - #hardknocks#Hard Knocks#/hardknocks#$/emphasis#",
-    "rus": "#emphasis#Вторичный ресурс - #hardknocks#Жестокие удары#/hardknocks#$#/emphasis#",
+    "eng": "#emphasis#Secondary Resource - #hardknocks#Hard Knocks#/hardknocks#$#/emphasis#",
+    "rus": "#emphasis#Вторичный ресурс - #hardknocks#Жесткие удары#/hardknocks#$#/emphasis#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/SecondaryResourceNameHardKnocks.prototype"
   },
   "14897193834650797376": {
@@ -2401,7 +2401,7 @@
   },
   "14944566696913405287": {
     "eng": "Freeze: $evalregisterfloat0.pct$% chance to #powermechanic#Freeze#/powermechanic# enemy for $evalregisterfloat1$ seconds",
-    "rus": "Заморозка: $evalregisterfloat0.pct$% шанс заморозить противника на $evalregisterfloat1$ секунд",
+    "rus": "Заморозка: $evalregisterfloat0.pct$% шанс #powermechanic#Заморозить#/powermechanic# противника на $evalregisterfloat1$ секунд",
     "path": "Localization/Translations/Powers/TooltipStrings/FreezeChanceER0AndDurationER1.prototype"
   },
   "14976792991885362540": {
@@ -2411,17 +2411,17 @@
   },
   "14994265391170127109": {
     "eng": "Bolster your Osmium defense and charge headlong into the fray, shamshing through enemies with the force of your impact.",
-    "rus": "Укрепить свою осмиевую защиту и кинуться в бой, #emphasis#оглушая#/emphasis# врагов силой своего удара.",
+    "rus": "Укрепить свою осмиевую защиту и кинуться в бой, прорываясь сквозь врагов силой своего удара.",
     "path": "Powers/Player/Colossus/MetalCharge.prototype"
   },
   "15144344635317945659": {
     "eng": "Unlimited Ammo for #powertree#Elemental Gun#/powertree# powers",
-    "rus": "Неограниченные боеприпасы для способностей элементного бластера",
+    "rus": "Неограниченные боеприпасы для способностей #powertree#Элементного бластера#/powertree#",
     "path": "Localization/Translations/Powers/TooltipStrings/Starlord/UltInfiniteAmmo.prototype"
   },
   "15191840960718439789": {
     "eng": "Create a shadow decoy of yourself whenever you use a #powerkeyword#Stealth#/powerkeyword# power, up to a maximum of $summonmaxsimultaneous$ (Cooldown: $cooldown$)",
-    "rus": "Создание тени-копии героя при каждом использовании способности маскировки, максимум $summonmaxsimultaneous$ (перезарядка: $cooldown$)",
+    "rus": "Создание тени-копии героя при каждом использовании способности #powerkeyword#Скрытности#/powerkeyword#, максимум $summonmaxsimultaneous$ (Перезарядка: $cooldown$)",
     "path": "Localization/Translations/Powers/TooltipStrings/Psylocke/SummonDecoy.prototype"
   },
   "15219842773028570415": {
@@ -2441,7 +2441,7 @@
   },
   "15311542394991478086": {
     "eng": "Enter #powerkeyword#Phoenix Form#/powerkeyword#, lasting until your next #powername#$powername$#/powername# ends",
-    "rus": "Введите #powerkeyword#Форма Феникса#/powerkeyword#, действующую до окончания вашего следующего #powername#$powername$#/powername#",
+    "rus": "Войдите в #powerkeyword#Форму Феникса#/powerkeyword#, действующую до окончания вашего следующего #powername#$powername$#/powername#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Value/EnterPhoenixForm.prototype"
   },
   "15328774658422736148": {
@@ -2456,7 +2456,7 @@
   },
   "15386702793605580053": {
     "eng": "#red#Chaos#/red# $damageType$ Damage:",
-    "rus": "#red#Хаос#/red$damageType$ Урон:",
+    "rus": "#red#Хаосный#/red# $damageType$ урон:",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/ChaosDamage.prototype"
   },
   "15392350005634794813": {
@@ -2476,22 +2476,22 @@
   },
   "15432566941230499134": {
     "eng": "Restore $EnduranceChangeBase$ $primarymanabehaviorname$ when you #powermechanic#Dodge#/powermechanic# an attack",
-    "rus": "Восстановление $EnduranceChangeBase$ ед. $primarymanabehaviorname.locflagG$ при уклонении от атаки",
+    "rus": "Восстановление $EnduranceChangeBase$ ед. $primarymanabehaviorname.locflagG$ при #powermechanic#Уклонении#/powermechanic# от атаки",
     "path": "Localization/Translations/Powers/TooltipStrings/EnduranceChangeBaseOnDodge.prototype"
   },
   "15438822642698487101": {
     "eng": "$procchancestring$ chance to freeze the target for $param1.power.condition0.duration$ when you hit",
-    "rus": "$procchancestring$ шанс заморозить противника при попадании.",
+    "rus": "$procchancestring$ шанс заморозить противника на $param1.power.condition0.duration$ при попадании.",
     "path": "Entity/Items/Medals/MedalBlueprints/Endgame/MandarinEGM.defaults"
   },
   "15446335124612646203": {
     "eng": "Base Damage: +$DamagePctBonus.pct$% for $duration$ when you Dodge or use a #powerkeyword#Movement#/powerkeyword# power",
-    "rus": "Базовый урон: +$DamagePctBonus.pct$% на $duration$ при уклонении или рывке",
+    "rus": "Базовый урон: +$DamagePctBonus.pct$% на $duration$ при Уклонении или использовании способности #powerkeyword#Перемещения#/powerkeyword#",
     "path": "Localization/Translations/Powers/TooltipStrings/Taskmaster/TaskmasterSpidermanStanceDodgeProc.prototype"
   },
   "15560895264034784562": {
     "eng": "#powername#Cage Fighting:#/powername# +$castspeedincrpct$% Attack Speed",
-    "rus": "Бой в клетке: +$castspeedincrpct$% к скорости атаки",
+    "rus": "#powername#Бой в клетке:#/powername# +$castspeedincrpct$% к скорости атаки",
     "path": "Localization/Translations/Powers/TooltipStrings/LukeCage/CastFightingCastSpeedIncrPct.prototype"
   },
   "15568840373722547522": {
@@ -2501,7 +2501,7 @@
   },
   "15647948156584396103": {
     "eng": "#powername#$powername$#/powername# generates $evalregisterfloat0$ random #powername#Trick Arrowheads#/powername# when activated",
-    "rus": "$powername$#/powername# генерирует $evalregisterfloat0$ случайных #powername#Трюковые стрелы#/powername# при активации",
+    "rus": "#powername#$powername$#/powername# генерирует $evalregisterfloat0$ случайные #powername#Трюковые стрелы#/powername# при активации",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/PowerNameGeneratesTrickArrowheadsEr0.prototype"
   },
   "15681181668556080390": {
@@ -2546,7 +2546,7 @@
   },
   "16046022411458118925": {
     "eng": "When you use your #powername#Travel Power#/powername#, leave behind a #powername#$powername$#/powername#",
-    "rus": "Когда вы используете свою #powername#Силу Путешествия#/powername#, оставляйте за собой #powername#$powername$#/powername#",
+    "rus": "Когда вы используете свою #powername#Способность передвижения#/powername#, оставляйте за собой #powername#$powername$#/powername#",
     "path": "Localization/Translations/Powers/TooltipStrings/GhostRider/GhostRiderFlameTrailTrait.prototype"
   },
   "16077221638001984767": {
@@ -2571,7 +2571,7 @@
   },
   "16200164625959814480": {
     "eng": "Leave the Research Wing by using the #mission#portal you used to enter#/mission#.",
-    "rus": "Покиньте Исследовательское крыло, используя #mission#портал#, который вы использовали для входа#/mission#.",
+    "rus": "Покиньте Исследовательское крыло, используя #mission#портал, который вы использовали для входа#/mission#.",
     "path": "Missions/Prototypes/Act3/Ch10SecretInvasion/CH10Main1TheresNoPlaceLikeHome.prototype"
   },
   "16243273418788635907": {
@@ -2586,7 +2586,7 @@
   },
   "16260277520734422280": {
     "eng": "Damage: +$evalRegisterFloat0.pct$% to #powerkeyword#Melee#/powerkeyword# powers (stacks up to 2 times)",
-    "rus": "Урон: +$evalRegisterFloat0.pct$% для способностей ближнего боя (накапливается до 2 раз)",
+    "rus": "Урон: +$evalRegisterFloat0.pct$% для способностей #powerkeyword#Ближнего боя#/powerkeyword# (накапливается до 2 раз)",
     "path": "Localization/Translations/Powers/TooltipStrings/Nova/MeleeDamageBuff2Stacks.prototype"
   },
   "16289057821696197881": {
@@ -2621,12 +2621,12 @@
   },
   "16437464021472249144": {
     "eng": "+100 Health and Bonus Health Regeneration for 20 minutes.",
-    "rus": "#power#Бонус к здоровью и восстановлению здоровья#/power#",
+    "rus": "+100 Здоровья и Восстановления здоровья на 20 минут.",
     "path": "Powers/ItemPowers/ItemConditions/FlaskOfHealthCondition.prototype"
   },
   "16442551156896892269": {
     "eng": "#mission#HYDRA Mechs#/mission# and #mission#HYDRA Intimidations#/mission# are found throughout Lowtown. #mission#Madame HYDRA#/mission# appears during \"Viper's Vendetta\" event.",
-    "rus": "#mission#Мехи ГИДРЫ#/mission# и случаи #mission#запугивания людей ГИДРОЙ#/mission# встречаются в Лоутауне. #mission#Мадам ГИДРУ#/mission# можно найти во время события #mission#\"Вендетта Гадюки\"#/mission#",
+    "rus": "#mission#Мехи ГИДРЫ#/mission# и случаи #mission#запугивания людей ГИДРОЙ#/mission# встречаются в Лоутауне. #mission#Мадам ГИДРУ#/mission# можно найти во время события \"Вендетта Гадюки\"",
     "path": "Missions/Prototypes/Act1/Ch03Madripoor/CH03MinorLowtown3.prototype"
   },
   "16495379009698202885": {
@@ -2651,7 +2651,7 @@
   },
   "16619955974995248443": {
     "eng": "Damage: +$DamageMultVsKeyword.pct$% against #powermechanic#Slowed#/powermechanic# enemies",
-    "rus": "Урон: +$DamageMultVsKeyword.pct$% против врагов, находящихся под действием #emphasis#$powerReference0.powerName.locflagG$ #/emphasis#",
+    "rus": "Урон: +$DamageMultVsKeyword.pct$% по #powermechanic#Замедленным#/powermechanic# врагам",
     "path": "Localization/Translations/Powers/TooltipStrings/DamageMultVsKeywordSlowed.prototype"
   },
   "16643900323240150377": {
@@ -2661,7 +2661,7 @@
   },
   "16681963723586536821": {
     "eng": "#clobberintime#Squirrel Friends#/clobberintime# are summoned by attacking enemies or activating the #powername#Squirrel Friends#/powername# power.",
-    "rus": "Друзья-белки призываются, когда вы атакуете врагов или активируете способность \"Друзья-белки\".",
+    "rus": "#clobberintime#Друзья-белки#/clobberintime# призываются, когда вы атакуете врагов или активируете способность #powername#Друзья-белки#/powername#",
     "path": "Entity/Characters/Avatars/ManaBehaviors/SecondaryResource/SquirrelGirlSquirrelCounter.prototype"
   },
   "16707579827543737619": {
@@ -2681,7 +2681,7 @@
   },
   "16751223232315393377": {
     "eng": "Cooldown is reduced by 0.25 seconds per #powermechanic#Burning#/powermechanic# condition or area consumed",
-    "rus": "Перезарядка сокращается на 0,25 с за каждое состояние горения или сгоревшую область",
+    "rus": "Перезарядка сокращается на 0,25 с за каждое поглощенное состояние #powermechanic#Горения#/powermechanic# или #powermechanic#Горящую#/powermechanic# область",
     "path": "Localization/Translations/Powers/TooltipStrings/HumanTorch/ConsumeCDR.prototype"
   },
   "16792011901015885113": {
@@ -2711,7 +2711,7 @@
   },
   "17049261565605643527": {
     "eng": "#red#Power not available because you have ranks in $powerReference2.powerName$ or $powerReference3.powerName$#/red#",
-    "rus": "#red#Способность недоступна, поскольку вы владеете способностью \"$powerName$\"#/red# или \"$powerReference3.powerName$\"#/red#",
+    "rus": "#red#Способность недоступна, поскольку вы владеете способностью \"$powerName$\" или \"$powerReference3.powerName$\"#/red#",
     "path": "Localization/Translations/Powers/LockedByAntirequisiteTwoPR2or3.prototype"
   },
   "17073375951616148807": {
@@ -2726,7 +2726,7 @@
   },
   "17128446288558556467": {
     "eng": "Restore $evalRegisterFloat0.pct$% of the #powermechanic#Pulsar's#/powermechanic# $primarymanabehaviorname$ cost",
-    "rus": "Восстановление $evalRegisterFloat0.pct$% расхода $primarymanabehaviorname.locflagG$ на пульсар",
+    "rus": "Восстановление $evalRegisterFloat0.pct$% расхода $primarymanabehaviorname.locflagG$ на #powermechanic#Пульсар#/powermechanic#",
     "path": "Localization/Translations/Powers/TooltipStrings/Nova/PulsarSpirit.prototype"
   },
   "17275792644968613185": {
@@ -2751,12 +2751,12 @@
   },
   "17343224413140550929": {
     "eng": "+$DamageMultForPower.pct$% for $duration$ when you use a #powerkeyword#Stealth#/powerkeyword# or #powerkeyword#Invisibility#/powerkeyword# Power",
-    "rus": "Урон: +$DamageMultForPower.pct$% пока любые #powerkeyword#Ловушки#/powerkeyword# перезаряжаются",
+    "rus": "+$DamageMultForPower.pct$% в течение $duration$, если вы используете #powerkeyword#Скрытность#/powerkeyword# или #powerkeyword#Невидимость#/powerkeyword#",
     "path": "Localization/Translations/Powers/TooltipStrings/DamageMultForPowerOnStealthOrInvisibilityPower.prototype"
   },
   "17428942863680537915": {
     "eng": "#powerkeyword#Sword#/powerkeyword# and #powerkeyword#Axe#/powerkeyword# Powers have a 25% chance to automatically activate #powername#$PowerName$#/powername#",
-    "rus": "#powerkeyword#Меч#/powerkeyword# и #powerkeyword#Топор#/powerkeyword# Способности имеют 25% шанс автоматически активировать #powername#$PowerName$#/powername#",
+    "rus": "Способности #powerkeyword#Меча#/powerkeyword# и #powerkeyword#Топора#/powerkeyword# имеют 25% шанс автоматически активировать #powername#$PowerName$#/powername#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/AngelaAutoDisablingRibbons.prototype"
   },
   "17527231605408990524": {
@@ -2771,7 +2771,7 @@
   },
   "17616160316317959488": {
     "eng": "Crafting Failed!",
-    "rus": "Работа не удалась\n$CraftFailureReason$",
+    "rus": "Создание не удалось!",
     "path": "Localization/Translations/Crafting/CraftingFailed.prototype"
   },
   "17625103370227418420": {
@@ -2786,7 +2786,7 @@
   },
   "17649626405147772239": {
     "eng": "Effects are increased by 50% for $duration$ when you use a #orange#Movement#/orange# power",
-    "rus": "Эффект усиливается на 50% в течение $duration$, если вы используете рывок",
+    "rus": "Эффекты усиливается на 50% в течение $duration$, если вы используете #orange#Перемещение#/orange#",
     "path": "Localization/Translations/Powers/TooltipStrings/SilverSurfer/BonusAfterMovement.prototype"
   },
   "17683665657334400314": {
