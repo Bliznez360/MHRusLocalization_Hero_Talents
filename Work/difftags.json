@@ -121,7 +121,7 @@
   },
   "827788598329214273": {
     "eng": "Adds the #emphasis#A.R.M.O.R. Item Find Upgrade#/emphasis# enchantment to any Slot 2, 3, or 4 gear of Epic or higher rarity, replacing any existing enchantments already on the item. This enchantment can only be used on item level 63 items and higher.\n\nLevel 60 enchantment gives you:\n#emphasis#+10% RIF#/emphasis#",
-    "rus": "Добавляет заклинание #emphasis#Улучшение поиска предметов АРМОР#/emphasis# к любой ячейке снаряжения (2, 3 или 4) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+10% к шансу найти редкий предмет/emphasis#",
+    "rus": "Добавляет заклинание #emphasis#Улучшение поиска предметов АРМОР#/emphasis# к любой ячейке снаряжения (2, 3 или 4) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+10% к шансу найти редкий предмет#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Enchanting/EnchantmentRecipe029.prototype"
   },
   "848953759072453947": {
@@ -371,7 +371,7 @@
   },
   "2370190733907789122": {
     "eng": "Use any waypoint to travel to #mission#Midtown#/mission# or the #mission#S.H.I.E.L.D. Holo-Sim#/mission#. Both can be found under the #mission#Challenges#/mission# tab.\n\nSubterranean enemies include #mission#Lava Men#/mission#.",
-    "rus": "Воспользуйтесь любой точкой маршрута или терминалом, чтобы отправиться в #mission#Мидтаун#/mission# или #mission#голо-симулятор ЩИТа#/mission#, которые находятся на закладке #mission#\"Испытания\"#/mission#.\n\nПодземные враги включают в себя #mission#лавовых существ#/mission# и #mission#кротоидов#/mission#.",
+    "rus": "Воспользуйтесь любой точкой маршрута или терминалом, чтобы отправиться в #mission#Мидтаун#/mission# или #mission#голо-симулятор ЩИТа#/mission#, которые находятся на закладке #mission#\"Испытания\"#/mission#.\n\nПодземные враги включают в себя #mission#лавовых существ#/mission#.",
     "path": "Missions/Prototypes/LegendaryQuests/LQChallenges/LQMidtownHoloSimSubterranean.prototype"
   },
   "2560591590522684725": {
@@ -401,7 +401,7 @@
   },
   "2786769172485113101": {
     "eng": "+$damageMultForPower.pct$% after detonating a #powermechanic#Pulsar#/powermechanic# with a Power (stacks up to 3 times)",
-    "rus": "Урон: +$DamageMultForPower.pct$% в течение $duration$ после детонации #powermechanic#пульсара#/powermechanic# способностью (накапливается до 3 раз)",
+    "rus": "Урон: +$damageMultForPower.pct$% в течение $duration$ после детонации #powermechanic#пульсара#/powermechanic# способностью (накапливается до 3 раз)",
     "path": "Localization/Translations/Powers/TooltipStrings/Nova/HeavyBlastBonus.prototype"
   },
   "2798023013411063143": {
@@ -431,7 +431,7 @@
   },
   "2851256160868173114": {
     "eng": "+1% chance to regenerate Health for each point in #powerkeyword#Devil#/powerkeyword# Powers",
-    "rus": "+1% к шансу восстановить здоровье для каждого очка способностей Сорвиголовы",
+    "rus": "+1% к шансу восстановить здоровье для каждого очка способностей #powerkeyword#Сорвиголовы#/powerkeyword#",
     "path": "Localization/Translations/Powers/TooltipStrings/Taskmaster/SynergyTaskmasterDaredevil.prototype"
   },
   "2864844024297227537": {
@@ -441,7 +441,7 @@
   },
   "2889233846488204558": {
     "eng": "Adds the #emphasis#A.R.M.O.R. Area Damage Reduction Upgrade#/emphasis# enchantment to any Slot 2, 3, or 4 gear of Epic or higher rarity, replacing any existing enchantments already on the item. This enchantment can only be used on item level 63 items and higher.\n\nLevel 60 enchantment gives you:\n#emphasis#+1% Enemy Area Damage Reduction#/emphasis#",
-    "rus": "Добавляет заклинание #emphasis#Снижение урона по площади АРМОР#/emphasis# к любой ячейке снаряжения (2, 3 или 4) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#++1% к снижению урона на вражеской территории#/emphasis#",
+    "rus": "Добавляет заклинание #emphasis#Снижение урона по площади АРМОР#/emphasis# к любой ячейке снаряжения (2, 3 или 4) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+1% к снижению урона на вражеской территории#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Enchanting/EnchantmentRecipe026.prototype"
   },
   "2897971317555201337": {
@@ -476,7 +476,7 @@
   },
   "3182866840571544879": {
     "eng": "Use the terminals in any player hub to enter instances.\n\n#mission#Bosses#/mission# are located through their respective terminals. #mission#Destructible#/mission# props can be found throughout Stryker Command Bunker. #mission#Henchmen#/mission# can be defeated in any terminal.",
-    "rus": "Используйте #mission#красные#/mission#, #mission#зеленые#/mission# или #mission#космические#/mission# терминалы в любом штабе, чтобы войти на карты. Космические терминалы открываются на 60 уровне.\n\n#mission#Боссов#/mission# можно найти, воспользовавшись соответствующими терминалами. #mission#Разрушаемые#/mission# элементы можно найти в командном бункере Страйкера. #mission#Головорезов#/mission# можно победить в любом терминале.",
+    "rus": "Используйте терминалы в любом штабе, чтобы войти на карты. \n\n#mission#Боссов#/mission# можно найти, воспользовавшись соответствующими терминалами. #mission#Разрушаемые#/mission# элементы можно найти в командном бункере Страйкера. #mission#Головорезов#/mission# можно победить в любом терминале.",
     "path": "Missions/Prototypes/SharedQuests/DailyMissionTerminal2Monday.prototype"
   },
   "3258745087210292547": {
@@ -491,7 +491,7 @@
   },
   "3294910077690840422": {
     "eng": "Regenerate $healing$ Health for each #powermechanic#Chilled#/powermechanic# enemy hit",
-    "rus": "Восстановление $healing$ ед. здоровья за попадание по охлажденному врагу",
+    "rus": "Восстановление $healing$ ед. здоровья за попадание по #powermechanic#охлажденному#/powermechanic# врагу",
     "path": "Localization/Translations/Powers/TooltipStrings/HealingOnHitChilled.prototype"
   },
   "3298757535107188028": {
@@ -506,7 +506,7 @@
   },
   "3343687931021428029": {
     "eng": "#powerkeyword#Lightning#/powerkeyword# Powers deal $evalregisterfloat0.pct$% extra damage to affected enemies by #powername#$PowerName$#/powername#",
-    "rus": "Дополнительный урон: грозовые способности наносят $evalregisterfloat0.pct$% дополнительного урона врагам, попавшим под их действие",
+    "rus": "#powerkeyword#Грозовые#/powerkeyword# способности наносят $evalregisterfloat0.pct$% дополнительного урона врагам, попавшим под #powername#$PowerName$#/powername#",
     "path": "Localization/Translations/Powers/TooltipStrings/Storm/VulnerabilityTyphoon.prototype"
   },
   "3382370347875894637": {
@@ -541,7 +541,7 @@
   },
   "3563823859862013262": {
     "eng": "Damage Rating: +$DamageRatingBonusForPowerKeyword.noFraction$ #hidden# ($DamageRatingBonusForPowerKeyword.precision1.divByLevel$ per level) #/hidden#to #orange#Melee#/orange# Powers",
-    "rus": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.noFraction$ #hidden# ($DamageRatingBonusForPowerKeyword.precision1.divbylevel$ за каждый уровень)#/hidden# для способностей ближнего боя",
+    "rus": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.noFraction$ #hidden# ($DamageRatingBonusForPowerKeyword.precision1.divbylevel$ за каждый уровень)#/hidden# для способностей #orange#ближнего боя#/orange#",
     "path": "Localization/Translations/Powers/TooltipStrings/DamageRatingBonusForPowerKeywordMelee.prototype"
   },
   "3566305410350253375": {
@@ -551,17 +551,17 @@
   },
   "3733365619518080421": {
     "eng": "Use this item for a reward for participating in Limbo.\n#emphasis#This will spawn items for your current hero.#/emphasis#\nThis cannot be used in hubs.",
-    "rus": "Щелкните ПКМ, чтобы получить награду для текущего героя.\nВнутри вы найдете один из этих предметов:\n\n#emphasis#Уникальный предмет с бонусом испытания#/emphasis#\n#emphasis#Космический медальон#/emphasis#\n#emphasis#Космический предмет напарника#/emphasis#\n#emphasis#Демоническое кольцо кровавого камня#/emphasis#\n#emphasis#Артефакт из крови демона Хаоса#/emphasis#\n#emphasis#Демоническую суму#/emphasis#\n#emphasis#Редкий предмет: жетон абсолютного улучшения или ящик со случайным костюмом#/emphasis#",
+    "rus": "Используйте этот предмет для получения награды за участие в Лимбо.\n#emphasis#Предметы появятся для текущего героя.#/emphasis#\nНельзя использовать в штабах.",
     "path": "Entity/Items/Consumables/Prototypes/SharedQuestLootBox/LimboLootBox.prototype"
   },
   "3755850499028682039": {
     "eng": "Refresh the cooldowns of all #powerkeyword#Starship#/powerkeyword# powers",
-    "rus": "Завершение перезарядки всех звездолетных способностей",
+    "rus": "Завершение перезарядки всех #powerkeyword#звездолетных#/powerkeyword# способностей",
     "path": "Localization/Translations/Powers/TooltipStrings/Starlord/StarshipCDR.prototype"
   },
   "3772435970523137352": {
     "eng": "Images taunt enemies while active",
-    "rus": "Провокация: $displayName$ оскорбляет противника, пока действует эффект",
+    "rus": "Иллюзии провоцируют врагов, пока активны",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/Traits/DoctorStrangeMirrorImageTaunt.prototype"
   },
   "3773246284812322109": {
@@ -586,7 +586,7 @@
   },
   "3884111098818463053": {
     "eng": "Using #stolenpower#Elektra's#/stolenpower# ninja-like agility, vault into the air and execute a deadly aerial strike onto your enemies at target location.",
-    "rus": "С ловкостью ниндзя #stolenPower#Электры#/stolenPower# подпрыгните и выполните убийственный удар с воздуха по вашим противникам в указанном месте.\n#stolenpower#Щелкните ПКМ по этой способности в дереве способностей, чтобы забыть ее и украсть новую способность для этой ячейки.#/stolenpower#",
+    "rus": "С ловкостью ниндзя #stolenPower#Электры#/stolenPower# подпрыгните и выполните убийственный удар с воздуха по вашим противникам в указанном месте.",
     "path": "Powers/Player/Rogue/StolenPowers/ElektraShadowStrike.prototype"
   },
   "3892061237889271102": {
@@ -596,17 +596,17 @@
   },
   "3893538934210102536": {
     "eng": "#EnhancedKeywordColor#ENHANCED#/EnhancedKeywordColor# Deadpool \"The Deadpool Kid\" Costume",
-    "rus": "Костюм Дэдпула \"Малыш Дэдпул\"",
+    "rus": "#EnhancedKeywordColor#УЛУЧШЕННЫЙ#/EnhancedKeywordColor# костюм Дэдпула \"Малыш Дэдпул\"",
     "path": "Entity/Items/Costumes/Prototypes/Deadpool/DeadpoolTheKid.prototype"
   },
   "3977219276822414715": {
     "eng": "Use the Chapter 8 waypoint to travel to #mission#Castle Doom#/mission#. \n\n#mission#Enhanced Villains#/mission# are located throughout #mission#Castle Doom#/mission#. #mission#Elite Robots#/mission# include Doombots and Servo-Guards.\n\nMake sure that you are in #mission#Super Heroic#/mission# mode to ensure you get credit for the mission.",
-    "rus": "Используйте точку маршрута из главы 8, чтобы попасть в #mission#замок Дума#/mission#. \n\n#mission#Усовершенствованные злодеи#/mission# находятся в #mission#замке Дума#/mission#. #mission#Элитные роботы#/mission# - это думботы и серво-солдаты.",
+    "rus": "Используйте точку маршрута из главы 8, чтобы попасть в #mission#замок Дума#/mission#. \n\n#mission#Усовершенствованные злодеи#/mission# находятся в #mission#замке Дума#/mission#. #mission#Элитные роботы#/mission# - это думботы и серво-солдаты.\n\nУбедитесь, что вы находитесь в режиме #mission#Супергерой#/mission#, чтобы засчиталось выполнение миссии.",
     "path": "Missions/Prototypes/LegendaryQuests/Redacted/Legendary60DemystifyingDoom.prototype"
   },
   "3980763505232905530": {
     "eng": "$procChanceString$ chance to become #blue#Invisible#/blue# for $param1.power.condition0.duration$ when you are attacked ($param1.power.cooldown$ cooldown)",
-    "rus": "$procChanceString$ шанс обрести невидимость и снизить агрессию противника по отношению к себе на $param1.power.condition0.duration$ (перезарядка - $param1.power.cooldown$)",
+    "rus": "$procChanceString$ шанс обрести #blue#невидимость#/blue# и снизить агрессию противника по отношению к себе на $param1.power.condition0.duration$ (перезарядка - $param1.power.cooldown$)",
     "path": "Entity/Items/Armor/UniquePrototypes/Avatars/AnyHero/Slot5/Unique358.prototype"
   },
   "4035062461778822469": {
@@ -616,7 +616,7 @@
   },
   "4072281836620416331": {
     "eng": "Damage: +$DamageMultVsKeyword.pct$% against #emphasis#Chilled#/emphasis# enemies",
-    "rus": "Урон: +$DamageMultVsKeyword.pct$% против охлажденных врагов",
+    "rus": "Урон: +$DamageMultVsKeyword.pct$% против #emphasis#охлажденных#/emphasis# врагов",
     "path": "Localization/Translations/Powers/TooltipStrings/DamageMultVsKeywordChilled.prototype"
   },
   "4080473833884222772": {
@@ -626,7 +626,7 @@
   },
   "4097997059937142072": {
     "eng": "#emphasis#Can only be activated when below $evalregisterfloat0.pct$% Health#/emphasis#",
-    "rus": "#emphasis#Активируется только при падении уровня здоровья ниже 60%#/emphasis#",
+    "rus": "#emphasis#Активируется только при падении уровня здоровья ниже $evalregisterfloat0.pct$%#/emphasis#",
     "path": "Localization/Translations/Powers/TooltipStrings/CategoryCanOnlyBeActivatedBelowER0PctHealth.prototype"
   },
   "4099966534425970018": {
@@ -636,12 +636,12 @@
   },
   "4118980668121220407": {
     "eng": "If you're going to remember something from talking to everyone, it should be Doom's terrible fashion sense. And his incredible ego.\n\nLatveria was nothing noteworthy until Doom took over the country. Nowadays Latveria is overflowing with Doombots and is recognized as a global super power, all because Doom had an \"interest\" in the population. That man believes that the world is flawed and Doom's way is the only way to fix it.\n\nNow that Doom has the cosmic cube? The world can become his oyster.\n\nStop Victor von Doom, $AvatarName$. Before we all celebrate Doom's Day together.",
-    "rus": "Думаю, теперь ты лучше представляешь себе, с чем придется столкнуться. \n\nФантастическая Четверка выступала против Дума чаще, чем кто-либо еще, и я могу добавить ко всему, что тебе довело услышать, еще и то, что у Виктора фон Дума есть определенное #emphasis#благородство#/emphasis# - чувство чести, которого чаще всего лишены другие злодеи. \n\nНе пойми меня неправильно: он #emphasis#эгоист с манией величия#/emphasis#, которого необходимо остановить любой ценой... однако по сути Виктор - #emphasis#несчастный человек#/emphasis#, считающий, что мир просто устроен неправильно и что он единственный, кто может все исправить.\n\nОчень жаль, что Виктор стал таким гордецом. Он мог бы сделать много добра, если бы просто прислушивался к разумным доводам.\n\nУдачи. Я буду беспокоиться и молиться за тебя.",
+    "rus": "Если вам и запомнится что-то из разговоров с людьми, так это ужасное чувство стиля Дума. И его невероятное самомнение.\n\nЛатверия не представляла собой ничего примечательного, пока Дум не захватил страну. Теперь Латверия кишит Думботами и признана мировой сверхдержавой — и всё потому, что Дум проявил «интерес» к населению. Этот человек убеждён, что мир несовершенен, и только путь Дума может это исправить.\n\nА теперь, когда у Дума есть Космический Куб? Мир может стать его устрицей.\n\nОстановите Виктора фон Дума, $AvatarName$. Пока мы все не начали вместе праздновать «День Дума».",
     "path": "Missions/Prototypes/BonusMissions/LoreMissions/CH08LoreLatveria.prototype"
   },
   "4160398549532280076": {
     "eng": "Bosses and Elites hit by your attacks take 20% more damage from your Team-Up for 10 seconds.",
-    "rus": "Атакованные вами противники получают $param1.power.condition0.DamagePctVulnerability.pct$% дополнительного урона в течение $param1.power.condition0.duration$.",
+    "rus": "Боссы и элитные противники, получившие удар от ваших атак, получают на 20% больше урона от вашего Напарника в течение 10 секунд.",
     "path": "Entity/Items/Affixes/TeamUpAffixes/CosmicTeamUpAffixes/CosmicTeamUpVulnBuff.prototype"
   },
   "4165617931351688564": {
@@ -656,12 +656,12 @@
   },
   "4215660029708666119": {
     "eng": "$AvatarName$! My prayers have been answered!\n\n#mission#Sauron#/mission# has used his mental powers to enslave the Clifwalker Tribe and forced them to attack our tribe.  \n\nMy husband, Ka-Zar, ventured into Sauron's Cave to end this threat, but he has not returned.  I fear he may have fallen under Sauron's sway, or worse. \n\nPlease, find and free my husband #mission#Ka-Zar#/mission# from Sauron's clutches.",
-    "rus": "Поскольку ты здесь, я, наверное, могу попросить тебя об одолжении.\n\nОсеннее племя находится в осаде племени скалоходцев. Обычно эти люди не представляют для нас угрозы, однако я полагаю, что они оказались во власти злобного монстра, известного как #mission#Саурон#/mission#. Мой муж Ка-Зар пропал, когда искал логово Саурона. Я подозреваю, что Саурон захватил Ка-Зара, но не могу отправиться на его поиски, оставив деревню без защиты.\n\nГде-то в Джунглях динозавров есть туннель, ведущий в #mission#пещеру Саурона#/mission#. Прошу, найди это место и освободи моего мужа #mission#Ка-Зара#/mission# из плена Саурона.",
+    "rus": "$AvatarName$! Мои молитвы услышаны!\n\n#mission#Саурон#/mission# использовал свои ментальные способности, чтобы поработить племя Скалоходцев и заставил их атаковать наше племя.\n\nМой муж, Ка-Зар, отправился в пещеру Саурона, чтобы положить конец этой угрозе, но так и не вернулся. Боюсь, он мог попасть под влияние Саурона, или того хуже.\n\nПожалуйста, найдите и освободите моего мужа #mission#Ка-Зара#/mission# из лап Саурона.",
     "path": "Missions/Prototypes/Act2/Ch07SavageLand/CH07Side1LittleLostJungleLord.prototype"
   },
   "4280992959094916362": {
     "eng": "#mission#No-Good Alex Williams#/mission# is found vandalizing the Abandoned Church. #mission#Karen Page#/mission# is found outside of Nelson & Murdock Law Office. #mission#Officer Pacifico#/mission# is in the parking lot of Fogwell's Gym. #mission#Hand Ninja Clans#/mission# emerge from manholes in intersections throughout Crumbling Brownstones.",
-    "rus": "#mission#Алекс \"Тухляк\" Уильямс#/mission# находится в заброшенной церкви. #mission#Карен Пейдж#/mission# - наподалеку от конторы Нельсона и Мердока. #mission#Офицер Пацифико#/mission# - на парковке у спортзала Фогвелла. mission#Ниндзя клана Руки#/mission# появляются из люков на перекрестках в районе разрушенных особняков.",
+    "rus": "#mission#Алекс \"Тухляк\" Уильямс#/mission# находится в заброшенной церкви. #mission#Карен Пейдж#/mission# - наподалеку от конторы Нельсона и Мердока. #mission#Офицер Пацифико#/mission# - на парковке у спортзала Фогвелла. #mission#Ниндзя клана Руки#/mission# появляются из люков на перекрестках в районе разрушенных особняков.",
     "path": "Missions/Prototypes/Act1/Ch01HellsKitchen/CH1MinorBrownstones2.prototype"
   },
   "4306664571461109114": {
@@ -676,7 +676,7 @@
   },
   "4360203572110820663": {
     "eng": "Welcome, $AvatarName$.\n\nThe X-Men have long been our ally protecting the Savage Lands. Creatures of both advanced and regressed evolution thrive here, but #mission#Mister Sinister#/mission# and #mission#William Stryker#/mission# bring abominations unnatural even to these lands. \n\nNow #mission#Beast#/mission# is reporting a new threat. Find him. He's not yet returned from your #mission#S.H.I.E.L.D. Science Outpost#/mission# across #mission#Thunder River#/mission#.",
-    "rus": "Добро пожаловать в Дикую Землю. Я рад, что ты здесь.\n\nДа, недавно мы узнали о появлении Мистера Зловещего в наших краях. Он использовал свой талант к генетическим манипуляциям для того, чтобы превращать простых земноводных в воинов-выродков, которые служат ему. Эти выродки весьма агрессивны и активно защищают свою территорию. Из-за них мы уже потеряли нескольких разведчиков.\n\nТвой друг, Человек Икс, которого называют #mission#Зверь#/mission#, наверняка сможет дать больше информации. Он работает на #mission#научной станции ЩИТа#/mission#, которая находится за Громовой рекой.\n\nОсторожно! До меня доходили слухи о странных существах, которые рыщут в #mission#Зараженных джунглях#/mission# за этой рекой.",
+    "rus": "Добро пожаловать, $AvatarName$.\n\nЛюди Икс давно являются нашими союзниками в защите Диких Земель. Здесь обитают существа как продвинутой, так и примитивной эволюции, но даже тут #mission#Мистер Зловещий#/mission# и #mission#Уильям Страйкер#/mission# создают неприемлемых чудовищ.\n\n#mission#Зверь#/mission# только что сообщил о новой угрозе. Найдите его. Он ещё не вернулся из #mission#научной станции ЩИТа#/mission# за #mission#Громовой Рекой#/mission#.",
     "path": "Missions/Prototypes/Story/CH07SavageLand/CH07M1JetToTheJungle.prototype"
   },
   "4361543670636545347": {
@@ -686,42 +686,42 @@
   },
   "4378867519996560691": {
     "eng": "#powername#$PowerName$#/powername# $damagetype$ Damage: $damage$ #hidden#($damagerange.precision1.divbylevel$ per level)#/hidden#per hit",
-    "rus": "Микролуч - $damagetype$ урон: $damage$ ед. #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden# при попадании",
+    "rus": "#powername#$PowerName$#/powername# наносит $damagetype$ урон: $damage$ ед. #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden# за удар",
     "path": "Localization/Translations/Powers/TooltipStrings/PowerNameDamagePerHit.prototype"
   },
   "4402040908672533816": {
     "eng": "$procchancestring$ chance when you Critically Strike to become super awesome fast, gaining +$param1.power.condition0.castSpeedIncrPct.pct.noFraction$% Attack Speed and +$param1.power.condition0.movementSpeedIncrPct.pct.noFraction$% Move Speed for $param1.power.condition0.duration$ ($param1.power.cooldown$ cooldown)",
-    "rus": "После победы над врагом вы развиваете невероятную суперскорость, получая +$param1.power.condition0.castSpeedIncrPct.pct.noFraction$% к скорости атаки и +$param1.power.condition0.movementSpeedIncrPct.pct.noFraction$% к скорости движения на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$).",
+    "rus": "$procchancestring$ шанс при Критическом ударе развить невероятную суперскорость, получая +$param1.power.condition0.castSpeedIncrPct.pct.noFraction$% к скорости атаки и +$param1.power.condition0.movementSpeedIncrPct.pct.noFraction$% к скорости движения на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$).",
     "path": "Entity/Items/Armor/UniquePrototypes/Avatars/Deadpool/Unique219.prototype"
   },
   "4428740916468450622": {
     "eng": "$procChanceString$ chance to stun nearby enemies for $param1.power.condition0.duration$ when you are attacked",
-    "rus": "$procChanceString$ шанс во время вражеской атаки оглушить противников поблизости.",
+    "rus": "$procChanceString$ шанс во время вражеской атаки оглушить противников поблизости на $param1.power.condition0.duration$.",
     "path": "Entity/Items/Medals/MedalBlueprints/Endgame/MagnetoEGM.defaults"
   },
   "4445548699758101828": {
     "eng": "#powerkeyword#Finisher#/powerkeyword# Damage: +$evalRegisterFloat0.pct$% per Combo Point spent",
-    "rus": "Урон от добивания: +$evalRegisterFloat0.pct$% за каждое потраченное очко комбо",
+    "rus": "Урон от #powerkeyword#добивания#/powerkeyword#: +$evalRegisterFloat0.pct$% за каждое потраченное очко комбо",
     "path": "Localization/Translations/Powers/TooltipStrings/FinisherDamageMultER0.prototype"
   },
   "4480996662508848388": {
     "eng": "$procchancestring$ Chance to gain 25 $primarymanabehaviorname$ when you hit with a Energy Power",
-    "rus": "Шанс получить 25 $primarymanabehaviorname$ при попадании с Энергетической Силой",
+    "rus": "$procchancestring$ шанс получить 25 $primarymanabehaviorname$ при ударе Энергетической способностью",
     "path": "Entity/Items/Artifacts/Prototypes/Tier1Artifacts/Art179.prototype"
   },
   "4511958025261024590": {
     "eng": "#powerkeyword#Sword#/powerkeyword# Powers apply #powername#$powername$#/powername#",
-    "rus": "#powerkeyword#Меч#/powerkeyword# Силы применяются #powername#$powername$#/powername#",
+    "rus": "#powerkeyword#Меч#/powerkeyword# Силы применяет #powername#$powername$#/powername#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/SwordPowersApplyPowerName.prototype"
   },
   "4697106832732128641": {
     "eng": "Project a beam of pure energy at targets with powers stolen from a #stolenpower#Mindless Titan#/stolenpower#.",
-    "rus": "Стрелять лучом из чистой энергии, используя способность, украденную у #stolenpower#Безмозглого титана#/stolenpower#.\n#stolenpower#Щелкните ПКМ по этой способности в дереве способностей, чтобы забыть ее и украсть новую способность для этой ячейки.#/stolenpower#",
+    "rus": "Стрелять лучом из чистой энергии, используя способность, украденную у #stolenpower#Безмозглого титана#/stolenpower#.",
     "path": "Powers/Player/Rogue/StolenPowers/MindlessOneBeam.prototype"
   },
   "4698590408852440388": {
     "eng": "You and your allies are #orange#Concealed#/orange#, becoming invisible for $duration$ (Allies cannot be #orange#Concealed#/orange# again for 30s)",
-    "rus": "Вы и ваши союзники невидимы на $duration$",
+    "rus": "Вы и ваши союзники получаете эффект #orange#Скрытности#/orange#, становясь невидимыми на $duration$ (Союзники не могут повторно получить #orange#Скрытность#/orange# в течение 30 сек.)",
     "path": "Localization/Translations/Powers/TooltipStrings/TeamBuffConceal.prototype"
   },
   "4736595346090886462": {
@@ -731,7 +731,7 @@
   },
   "4747031223203595528": {
     "eng": "Use any waypoint or terminal to travel to #mission#Hightown Patrol#/mission#. Hightown Patrol is found under the M.A.P. #mission#Challenges#/mission# tab. \n\n#mission#Elite#/mission# enemies are identifiable by blue and yellow auras.\n\nAll objectives must be completed in #mission#Hightown Patrol#/mission# to receive credit. ",
-    "rus": "Используйте любую точку маршрута или терминал, чтобы отправиться на задание #mission#\"Патруль в Хайтауне\"#/mission# на закладке \"Испытания\" К.А.Р.Т.Ы.\n\nmission#Элитных#/mission# врагов можно узнать по синей или желтой ауре. \n\nЧтобы задание было зачтено, выполните все задачи в #mission#\"Патруле в Хайтауне\"#/mission#.",
+    "rus": "Используйте любую точку маршрута или терминал, чтобы отправиться на задание #mission#\"Патруль в Хайтауне\"#/mission# на закладке \"Испытания\" К.А.Р.Т.Ы.\n\n#mission#Элитных#/mission# врагов можно узнать по синей или желтой ауре. \n\nЧтобы задание было зачтено, выполните все задачи в #mission#\"Патруле в Хайтауне\"#/mission#.",
     "path": "Missions/Prototypes/SharedQuests/DailyMissionPatrol5Thursday.prototype"
   },
   "4774686612168639801": {
@@ -751,12 +751,12 @@
   },
   "4818268113471538488": {
     "eng": "#powername#Dempsey Roll:#/powername# +$damagerating$ #hidden#($damagerating.divbylevel.precision1$ per level) #/hidden#Damage Rating",
-    "rus": "Кувырок Демпси: +$damagerating$ #hidden#($damagerating.divbylevel.precision1$ за каждый уровень)#/hidden# к рейтингу урона",
+    "rus": "#powername#Кувырок Демпси:#/powername# +$damagerating$ #hidden#($damagerating.divbylevel.precision1$ за каждый уровень)#/hidden# к рейтингу урона",
     "path": "Localization/Translations/Powers/TooltipStrings/LukeCage/DempseyRollDamageRating.prototype"
   },
   "4820219656363246860": {
     "eng": "Take a Waypoint to #highlight#Operations#/highlight# and enter #mission#A.I.M. Weapon Facility#/mission#.\n\n#mission#A.I.M. Specialists#/mission# are found throughout the facility. #mission#MODOK#/mission# is located though the door marked #mission# M.O.D.O.K.'s Control Room#/mission# at the end of the instance.",
-    "rus": "Используйте #mission#красные#/mission#, #mission#зеленые#/mission# или #mission#космические#/mission# терминалы в любом штабе, чтобы попасть на #mission#оружейную фабрику А.И.М.#/mission#. Космический терминал доступен на 60 уровне.\n\n#mission#Ученые А.И.М. и турели#/mission# есть по всей карте. #mission#МОДОК#/mission# находится в помещении за дверью, помеченной #mission#Пункт управления МОДОКа#/mission#, в конце карты.",
+    "rus": "Используйте #highlight#терминалы#/highlight#, чтобы попасть на #mission#оружейную фабрику А.И.М.#/mission#.\n\n#mission#Ученые А.И.М. и турели#/mission# есть по всей карте. #mission#МОДОК#/mission# находится в помещении за дверью, помеченной #mission#Пункт управления МОДОКа#/mission#, в конце карты.",
     "path": "Missions/Prototypes/LegendaryQuests/LQTerminal/LegendaryTerminalMODOK.prototype"
   },
   "4878143432207762745": {
@@ -786,7 +786,7 @@
   },
   "5120355282422072581": {
     "eng": "The #mission#civilians in need#/mission# are located further into the Rooftops area.\n\nUse the #mission#travel consoles#/mission# in Fury's Toolshed to access the correct sites in New York.\n\nAlternatively, use the #mission#Hell's Kitchen Rooftops waypoint#/mission# (Chapter 10) to travel there.",
-    "rus": "Граждане в нужде находятся дальше в районе Крыши.\n\nИспользуйте консоли путешествия в Инструментарии Фьюри, чтобы получить доступ к правильным местам в Нью-Йорке.\n\nВ качестве альтернативы, используйте контрольную точку Крыши Ада (Глава 10), чтобы добраться туда.",
+    "rus": "#mission#Граждане в нужде#/mission# находятся в районе Крыш.\n\nИспользуйте #mission#консоли путешествия#/mission# в Мастерской Фьюри, чтобы получить доступ к правильным местам в Нью-Йорке.\n\nВ качестве альтернативы, используйте контрольную точку #mission#Крыши Адской Кухни#/mission# (Глава 10), чтобы добраться туда.",
     "path": "Entity/Items/Armor/Prototypes/KittyPryde/o1Gloves/Gloves13.prototype"
   },
   "5133630433632584971": {
@@ -926,7 +926,7 @@
   },
   "5874470442109568340": {
     "eng": "Cast ancient Jotun magic wielded by the #stolenpower#Frost Giant Glacial Lord#/stolenpower#, forming ice around your hands before slamming them into the ground, shattering icicle shards into nearby enemies.",
-    "rus": "Использовать древнюю магию #stolenpower#Ледяного гиганта - владыки льдов#/stolenpower#, чтобы нарастить льдины на руках и, ударив ими оземь, поразить врагов разлетающимися осколками.\n#stolenpower#Щелкните ПКМ по этой способности в дереве способностей, чтобы забыть ее и украсть новую способность для этой ячейки.#/stolenpower#",
+    "rus": "Использовать древнюю магию #stolenpower#Ледяного гиганта - владыки льдов#/stolenpower#, чтобы нарастить льдины на руках и, ударив ими оземь, поразить врагов разлетающимися осколками.",
     "path": "Powers/Player/Rogue/StolenPowers/FrostGiantFrostNova.prototype"
   },
   "5897739247813133673": {
@@ -1161,7 +1161,7 @@
   },
   "7041755747578479956": {
     "eng": "Smash the ground with the fury and force of a #stolenpower#Hulk#/stolenpower#, dealing massive damage and knocking down nearby enemies.",
-    "rus": "Использовать древнюю магию #stolenpower#Ледяного гиганта - владыки льдов#/stolenpower#, чтобы нарастить льдины на руках и, ударив ими оземь, поразить врагов разлетающимися осколками.\n#stolenpower#Щелкните ПКМ по этой способности в дереве способностей, чтобы забыть ее и украсть новую способность для этой ячейки.#/stolenpower#",
+    "rus": "Использовать древнюю магию #stolenpower#Ледяного гиганта - владыки льдов#/stolenpower#, чтобы нарастить льдины на руках и, ударив ими оземь, поразить врагов разлетающимися осколками.",
     "path": "Powers/Player/Rogue/StolenPowers/HulkSmash.prototype"
   },
   "7087463167414437122": {
@@ -1211,7 +1211,7 @@
   },
   "7431735363536291132": {
     "eng": "The #mission#imposter Skrulls#/mission# are located past the alley and deep inside the Rooftops area.\n\nUse the #mission#travel consoles#/mission# in Fury's Toolshed to access the correct sites in New York.\n\nAlternatively, use the #mission#Hell's Kitchen Rooftops waypoint#/mission# (Chapter 10) to travel there.",
-    "rus": "Импостеры #mission#Скруллы#/mission# находятся за переулком и глубоко внутри района #mission#Крыши#/mission#.\n\nИспользуйте #mission#консоли путешествия#/mission# в Инструментарии Фьюри, чтобы получить доступ к правильным местам в Нью-Йорке.\n\nВ качестве альтернативы, используйте #mission#точку перемещения Крыши Ада#/mission# (Глава 10), чтобы добраться туда.",
+    "rus": "#mission#Импостеры Скруллы#/mission# находятся за переулком и глубоко внутри района Крыш.\n\nИспользуйте #mission#консоли путешествия#/mission# в Мастерской Фьюри, чтобы получить доступ к правильным местам в Нью-Йорке.\n\nВ качестве альтернативы, используйте точку перемещения #mission#Крыши Адской Кухни#/mission# (Глава 10), чтобы добраться туда.",
     "path": "Missions/Prototypes/Act3/Ch10SecretInvasion/CH10Main4DSkrullsOnTheStreets.prototype"
   },
   "7478972341506475267": {
@@ -1706,7 +1706,7 @@
   },
   "10094089533382460731": {
     "eng": "The #mission#civilians in need#/mission# are located further into the area Rooftops area.\n\nUse the #mission#travel consoles#/mission# in Fury's Toolshed to access the correct sites in New York.\n\nAlternatively, use the #mission#Hell's Kitchen Rooftops waypoint#/mission# (Chapter 10) to travel there.",
-    "rus": "Граждане в нужде находятся дальше в районе Крыши.\n\nИспользуйте консоли путешествия в Инструментарии Фьюри, чтобы получить доступ к правильным местам в Нью-Йорке.\n\nВ качестве альтернативы, используйте контрольную точку Крыши Ада (Глава 10), чтобы добраться туда.",
+    "rus": "#mission#Граждане в нужде#/mission# находятся дальше в районе Крыш.\n\nИспользуйте #mission#консоли путешествия#/mission# в Мастерской Фьюри, чтобы получить доступ к правильным местам в Нью-Йорке.\n\nВ качестве альтернативы, используйте контрольную точку #mission#Крыши Адской Кухни#/mission# (Глава 10), чтобы добраться туда.",
     "path": "Missions/Prototypes/Act3/Ch10SecretInvasion/CH10Main4DSkrullsOnTheStreets.prototype"
   },
   "10105919715808970006": {
@@ -1876,7 +1876,7 @@
   },
   "11362938175333270868": {
     "eng": "Draw upon #stolenpower#Clea#/stolenpower#'s memories and mastery of Faltine's magic, channelling its raw destructive power.  The sudden influx of power causes enemies nearby to be drawn into the vortex.",
-    "rus": "Использовать воспоминания #stolenpower#Клеа#/stolenpower# и мощную, дикую магию Фелтайна. Внезапный поток энергии затянет в вихрь находящихся рядом врагов.\n#stolenpower#Щелкните ПКМ по этой способности в дереве способностей, чтобы забыть ее и украсть новую способность для этой ячейки.#/stolenpower#",
+    "rus": "Использовать воспоминания #stolenpower#Клеа#/stolenpower# и мощную, дикую магию Фелтайна. Внезапный поток энергии затянет в вихрь находящихся рядом врагов.",
     "path": "Powers/Player/Rogue/StolenPowers/CleaSummonFlames.prototype"
   },
   "11365663087188051205": {
@@ -2466,7 +2466,7 @@
   },
   "15407781350764053892": {
     "eng": "You have been infused with #stolenpower#Winter Soldier's#/stolenpower# extensive, involuntary combat conditioning, giving you the edge when fighting with stealth tactics.",
-    "rus": "Обрести обширные, вбитые насильно знания о военном деле #stolenpower#Зимнего Солдата#/stolenpower#.\n#stolenpower#Щелкните ПКМ по этой способности в дереве способностей, чтобы забыть ее и украсть новую способность для этой ячейки.#/stolenpower#",
+    "rus": "Обрести обширные, вбитые насильно знания о военном деле #stolenpower#Зимнего Солдата#/stolenpower#.",
     "path": "Powers/Player/Rogue/StolenPowers/PassiveWinterSoldier.prototype"
   },
   "15418523291591181689": {
@@ -2496,7 +2496,7 @@
   },
   "15568840373722547522": {
     "eng": "The #mission#civilians in need#/mission# are located further into the area Rooftops area.\n\nUse the #mission#travel consoles#/mission# in Fury's Toolshed to access the correct sites in New York.\n\nAlternatively, use the #mission#Hell's Kitchen Rooftops waypoint#/mission# (Chapter 10) to travel there.",
-    "rus": "Граждане в нужде находятся дальше в районе Крыши.\n\nИспользуйте консоли перемещения в Инструментарии Фьюри, чтобы получить доступ к правильным местам в Нью-Йорке.\n\nВ качестве альтернативы, используйте контрольную точку Крыши Ада (Глава 10), чтобы добраться туда.",
+    "rus": "#mission#Граждане в нужде#/mission# находятся дальше в районе Крыш.\n\nИспользуйте #mission#консоли путешествия#/mission# в Мастерской Фьюри, чтобы получить доступ к правильным местам в Нью-Йорке.\n\nВ качестве альтернативы, используйте контрольную точку #mission#Крыши Адской Кухни#/mission# (Глава 10), чтобы добраться туда.",
     "path": "Missions/Prototypes/Act3/Ch10SecretInvasion/CH10Main4DSkrullsOnTheStreets.prototype"
   },
   "15647948156584396103": {
@@ -2521,7 +2521,7 @@
   },
   "15856251931548452170": {
     "eng": "Rocket forward with #stolenpower#Nova#/stolenpower#'s incredible speed, dealing damage to enemies behind you as well as those in your way.",
-    "rus": "Лететь вперед с невероятной скоростью #stolenpower#Новы#/stolenpower#, нанося урон врагам, находящимся впереди и позади себя.\n#stolenpower#Щелкните ПКМ по этой способности в дереве способностей, чтобы забыть ее и украсть новую способность для этой ячейки.#/stolenpower#",
+    "rus": "Лететь вперед с невероятной скоростью #stolenpower#Новы#/stolenpower#, нанося урон врагам, находящимся впереди и позади себя.",
     "path": "Powers/Player/Rogue/StolenPowers/NovaBlastoff.prototype"
   },
   "15901359928647943492": {
@@ -2641,7 +2641,7 @@
   },
   "16548700504838964614": {
     "eng": "Gracefully sweep #stolenpower#X-23#/stolenpower#'s bone claws cleanly through enemies around you, causing them to #emphasis#bleed#/emphasis#.",
-    "rus": "Изящно вспороть кожу врагов когтями #stolenpower#Икс-23#/stolenpower#, вызывая у них #emphasis#кровотечение#/emphasis#.\n#stolenpower#Щелкните ПКМ по этой способности в дереве способностей, чтобы забыть ее и украсть новую способность для этой ячейки.#/stolenpower#",
+    "rus": "Изящно вспороть кожу врагов когтями #stolenpower#Икс-23#/stolenpower#, вызывая у них #emphasis#кровотечение#/emphasis#.",
     "path": "Powers/Player/Rogue/StolenPowers/X23CrimsonCircle.prototype"
   },
   "16564916677710578958": {
@@ -2706,7 +2706,7 @@
   },
   "17024568750790739330": {
     "eng": "Acquiring the sordid memories of #stolenpower#Red Skull#/stolenpower# grants you unquenchable ambition that drives you to epic and potentially terrifying feats.",
-    "rus": "Вобрать чудовищные воспоминания #stolenpower#Красного Черепа#/stolenpower#, в результате чего невероятные амбиции будут толкают вас на великие и, возможно, страшные, подвиги.\n#stolenpower#Щелкните ПКМ по этой способности в дереве способностей, чтобы забыть ее и украсть новую способность для этой ячейки.#/stolenpower#",
+    "rus": "Вобрать чудовищные воспоминания #stolenpower#Красного Черепа#/stolenpower#, в результате чего невероятные амбиции будут толкают вас на великие и, возможно, страшные, подвиги.",
     "path": "Powers/Player/Rogue/StolenPowers/PassiveRedSkull.prototype"
   },
   "17049261565605643527": {
@@ -2886,7 +2886,7 @@
   },
   "18378927816389821761": {
     "eng": "The #mission#imposter Skrulls#/mission# are located past the alley and deep inside the Rooftops area.\n\nUse the #mission#travel consoles#/mission# in Fury's Toolshed to access the correct sites in New York.\n\nAlternatively, use the #mission#Hell's Kitchen Rooftops waypoint#/mission# (Chapter 10) to travel there.",
-    "rus": "Импостеры #mission#Скруллы#/mission# находятся за аллеей и глубоко внутри района #mission#Крыши#/mission#.\n\nИспользуйте #mission#консоли путешествия#/mission# в Инструментарии Фьюри, чтобы получить доступ к правильным местам в Нью-Йорке.\n\nВ качестве альтернативы, используйте #mission#точку перемещения Крыши Ада#/mission# (Глава 10), чтобы добраться туда.",
+    "rus": "#mission#Импостеры Скруллы#/mission# находятся за переулком и глубоко внутри района Крыш.\n\nИспользуйте #mission#консоли путешествия#/mission# в Мастерской Фьюри, чтобы получить доступ к правильным местам в Нью-Йорке.\n\nВ качестве альтернативы, используйте точку перемещения #mission#Крыши Адской Кухни#/mission# (Глава 10), чтобы добраться туда.",
     "path": "Missions/Prototypes/Act3/Ch10SecretInvasion/CH10Main4DSkrullsOnTheStreets.prototype"
   }
 }
