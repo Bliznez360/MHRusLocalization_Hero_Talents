@@ -6471,7 +6471,7 @@
     "Bio": {
       "id": "17352068562686903684",
       "eng": "#emphasis#Real Name:#/emphasis# Norman Osborn\n#emphasis#Identity:#/emphasis# Public\n\nNorman Osborn was never a very sane man. Growing up under an abusive father and the loss of his wife was enough to push any man over the edge, but Norman Osborn had much further to fall still. While reverse-engineering an experimental serum Norman created a volatile concoction that exploded in his face and finally drove him to become the violent madman, The Green Goblin!\nAlways thirsting for power the Green Goblin has made a career out of being stopped by his least favorite super hero, the Amazing Spider-Man. Yet ever the sly one, Osborn has always eluded punishment for his crimes as the Green Goblin, even becoming leader of the Thunderbolts and eventually being promoted to Director of H.A.M.M.E.R., S.H.I.E.L.D.'s replacement. Norman Osborn has a long and cruel list of crimes to atone for, but maybe, just maybe, he can do some good while he's trying to fool everyone.\n\n#emphasis#Created by:#/emphasis# Stan Lee and Steve Ditko\n#emphasis#First Appearance:#/emphasis# Amazing Spider-Man #14 (July 1964)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Норман Осборн\n#emphasis#Личность:#/emphasis# Публичная\n\nНорман Осборн никогда не был очень здравомыслящим человеком. Выросший под гнетом жестокого отца и переживший утрату жены, он был на грани, но Норман Осборн упал еще глубже. Во время обратного проектирования экспериментального сыворотки Норман создал нестабильную смесь, которая взорвалась у него в лицо и в конечном итоге привела его к тому, чтобы стать жестоким безумцем, Зеленым Гоблином!\nВсегда жаждущий власти, Зеленый Гоблин сделал карьеру из того, чтобы его останавливал его наименее любимый супергерой, Удивительный Человек-Паук. Однако, будучи хитрым, Осборн всегда избегал наказания за свои преступления как Зеленый Гоблин, даже став лидером Громовержцев и в конечном итоге получив повышение до Директора H.A.M.M.E.R., замены ЩИТа. У Нормана Осборна длинный и жестокий список преступлений, за которые ему нужно искупить вину, но, возможно, только возможно, он сможет сделать что-то хорошее, пока пытается обмануть всех.\n\n#emphasis#Создано:#/emphasis# Станом Ли и Стивом Дитко\n#emphasis#Первое появление:#/emphasis# Удивительный Человек-Паук #14 (Июль 1964)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Норман Осборн\n#emphasis#Личность:#/emphasis# Публичная\n\nНорман Озборн никогда не был особо вменяемым человеком. Воспитание под гнётом жестокого отца и потеря жены могли бы сломать кого угодно, но Норману Озборну было суждено пасть куда глубже. Пытаясь воссоздать экспериментальную сыворотку, он создал нестабильный состав, который взорвался прямо ему в лицо и окончательно превратил его в буйного безумца — Зелёного гоблина! Вечно жаждущий власти, Гоблин сделал себе карьеру на том, что его раз за разом останавливал его самый нелюбимый супергерой — Невероятный Человек-паук. Однако, будучи хитрым, Озборн всегда уходил от наказания за свои преступления, он даже возглавил команду Громовержцев, а позже стал директором организации М.О.Л.ОТ., пришедшей на смену Щ.И.Т.у. Список злодеяний Нормана Озборна длинен и жесток, но, возможно, хоть что-то хорошее он и сделает — пока пытается всех обмануть.\n\n#emphasis#Создано:#/emphasis# Станом Ли и Стивом Дитко\n#emphasis#Первое появление:#/emphasis# Удивительный Человек-Паук #14 (Июль 1964)\n"
     },
     "PowerTables": [
       {
@@ -6485,7 +6485,7 @@
             "Name": {
               "id": "2220927507770967303",
               "eng": "Razor Bats",
-              "rus": "Нетопыри-бритвы"
+              "rus": "Нетопырь-бритва"
             },
             "Desc": {
               "id": "1118346266876052752",
@@ -6502,7 +6502,7 @@
             "Desc": {
               "id": "7960270877888415038",
               "eng": "Deploy the Glider's front blades and rush forward at maximum speed, slicing through your enemies.",
-              "rus": "Разверните передние лопасти Глайдера и мчитесь вперед на максимальной скорости, разрезая своих врагов."
+              "rus": "Разверните передние лопасти глайдера и мчитесь вперед на максимальной скорости, разрезая своих врагов."
             }
           },
           {
@@ -6514,7 +6514,7 @@
             "Desc": {
               "id": "9605944028925461821",
               "eng": "Hold the hotkey to fire a steady barrage from the Glider's undermounted machine guns. If you keep holding the hotkey, you can move while firing!",
-              "rus": "Удерживайте горячую клавишу, чтобы вести непрерывный огонь из пулеметов, установленных на Глайдере. Если вы продолжите удерживать горячую клавишу, вы сможете двигаться во время стрельбы!"
+              "rus": "Удерживайте горячую клавишу, чтобы вести непрерывный огонь из пулеметов, установленных на глайдере. Если вы продолжите удерживать горячую клавишу, вы сможете двигаться во время стрельбы!"
             }
           },
           {
@@ -6526,7 +6526,7 @@
             "Desc": {
               "id": "14426404301568214290",
               "eng": "Light up enemies with piercing blasts from your Electro-Blast Gloves.",
-              "rus": "Поражайте врагов пронизывающими зарядами из ваших электрошоковых перчаток."
+              "rus": "Поразите врагов пронизывающими зарядами ваших электрошоковых перчаток."
             }
           },
           {
@@ -6538,7 +6538,7 @@
             "Desc": {
               "id": "9462702424313431357",
               "eng": "Ascend with the Glider and jump off mid-air, remotely commanding it to crash into enemies below.",
-              "rus": "Поднимитесь с Глайдером и прыгните в воздухе, дистанционно командуя ему врезаться в врагов внизу."
+              "rus": "Поднимитесь на глайдере и спрыгните в воздухе, дистанционно командуя ему врезаться во врагов внизу."
             }
           },
           {
@@ -6562,7 +6562,7 @@
             "Desc": {
               "id": "17391003828425196869",
               "eng": "Hold the hotkey to turn on the Glider's nitrous injection, sending you careening into the fray uncontrollably while igniting enemies in the Glider's wake.",
-              "rus": "Зажмите горячую клавишу, чтобы активировать впрыск закиси азота в глайдере и безудержно нестись в бой, и одновременно поджигать врагов на своем пути."
+              "rus": "Зажмите горячую клавишу, чтобы активировать впрыск закиси азота в глайдере и безудержно нестись в бой, и одновременно поджигая врагов на своем пути."
             }
           },
           {
@@ -6586,7 +6586,7 @@
             "Desc": {
               "id": "5685875606392669549",
               "eng": "Years of research & development yielded an experimental modification to the Glider - a weaponized laser, capable of cutting through any substance. ",
-              "rus": "Годы исследований и разработок позволили оснастить глайдер \nэкспериментально модифицированным боевым лазером, способным прожигать \nлюбую материю."
+              "rus": "Годы исследований и разработок позволили оснастить глайдер \nэкспериментально модифицированным боевым лазером, способным прожигать\n любую материю."
             }
           }
         ]
@@ -6679,7 +6679,7 @@
             "Desc": {
               "id": "4841087502359528773",
               "eng": "Take to the skies, moving in unpredictable, erratic patterns while throwing an overwhelming number of pumpkin bombs.",
-              "rus": "Взмывайте в небеса и, двигаясь непредсказуемо и хаотично, разбрасывайте сокрушающее количество тыквенных бомб."
+              "rus": "Взмойте в небеса и, двигаясь непредсказуемо и хаотично, разбрасывайте невероятное количество тыквенных бомб."
             }
           },
           {
@@ -6690,8 +6690,8 @@
             },
             "Desc": {
               "id": "5148991594612589825",
-              "eng": "Spider-Man once mocked this weapon in it's early prototyping stage.  Let's see him mock it now.",
-              "rus": "Когда её еще разрабатывали, Человек Паук смеялся над этой пушкой. Посмотрим, сможет ли он высмеять её сейчас."
+              "eng": "Spider-Man once mocked this weapon in it's early prototyping stage. Let's see him mock it now.",
+              "rus": "Когда её еще разрабатывали, Человек Паук смеялся над этой пушкой. Посмотрим, будет ли он высмеивать её сейчас."
             }
           }
         ]
@@ -6745,7 +6745,7 @@
     "Bio": {
       "id": "715262091612587371",
       "eng": "#emphasis#Real Name:#/emphasis# Laura Kinney \n#emphasis#Identity:#/emphasis# Secret\n\nCloned from Wolverine's DNA and raised in a lab, Laura Kinney was trained from birth to use her claws, enhanced senses, and innocent appearance to become the perfect assassin.\n\nEscaping the captivity of the lab, Laura lived on the streets until being taken in by the X-Men. Emotionally stunted, she is slowly coming to grips with her murderous past while trying to be a better human in the present. It's a hard path for Laura, who struggles to control her savage nature.\n\n#emphasis#Created By:#/emphasis# Craig Kyle and Chris Yost\n#emphasis#First Appearance:#/emphasis# NYX #3 (February 2004)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Лора Кинни \n#emphasis#Личность:#/emphasis# Секретная\n\nКлонированная из ДНК Росомахи и воспитанная в лаборатории, Лора Кинни с рождения обучалась использовать свои когти, улучшенные чувства и невинный внешний вид, чтобы стать идеальным убийцей.\n\nСбежав из captivity лаборатории, Лора жила на улицах, пока её не приняли в Люди Икс. Эмоционально застрявшая, она медленно приходит в себя после своего убийственного прошлого, пытаясь стать лучшим человеком в настоящем. Это трудный путь для Лоры, которая борется с контролем над своей дикой природой.\n\n#emphasis#Создано:#/emphasis# Крейгом Кайлом и Крисом Йостом\n#emphasis#Первое появление:#/emphasis# NYX #3 (февраль 2004)"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Лора Кинни \n#emphasis#Личность:#/emphasis# Секретная\n\nКлонированная из ДНК Росомахи и воспитанная в лаборатории, Лора Кинни с рождения обучалась использовать свои когти, улучшенные чувства и невинный внешний вид, чтобы стать идеальным убийцей.\n\nСбежав из лаборатории, Лора жила на улицах, пока её не приняли в Люди Икс. Эмоционально подавленная, она медленно приходит в себя после своего убийственного прошлого, пытаясь стать лучшим человеком в настоящем. Это трудный путь для Лоры, которая борется с контролем над своей дикой природой.\n\n#emphasis#Создано:#/emphasis# Крейгом Кайлом и Крисом Йостом\n#emphasis#Первое появление:#/emphasis# NYX #3 (февраль 2004)"
     },
     "PowerTables": [
       {
@@ -6759,7 +6759,7 @@
             "Name": {
               "id": "15262317920890652008",
               "eng": "Cleaving Claws",
-              "rus": "Когти-саморубы"
+              "rus": "Рассекающие Когти"
             },
             "Desc": {
               "id": "14272830096619537726",
@@ -6776,7 +6776,7 @@
             "Desc": {
               "id": "11789033067478844734",
               "eng": "Gracefully sweep your adamantium claws cleanly through enemies around you.",
-              "rus": "Изящно разрезать на части окружающих врагов адамантиновыми когтями."
+              "rus": "Грациозно кромсайте окружающих врагов своими адамантиновыми когтями."
             }
           },
           {
@@ -6788,7 +6788,7 @@
             "Desc": {
               "id": "8985848616450131212",
               "eng": "Use your lithe flexibility to deliver swift, surprisingly brutal slashes from your claws in your hands and feet.",
-              "rus": "С помощью ловкости быстро нанести ужасные удары когтями на руках и ногах."
+              "rus": "Используй свою змеиную гибкость, чтобы наносить быстрые, пугающе жестокие удары когтями — как руками, так и ногами."
             }
           },
           {
@@ -6800,7 +6800,7 @@
             "Desc": {
               "id": "18281999204841882884",
               "eng": "Fill an enemy full of holes by unleashing a blur of frenzied slashes.",
-              "rus": "Нанести стремительные рубящие удары, оставив на теле врага множество ран."
+              "rus": "Наносите стремительные рубящие удары, оставляя на теле врага множество ран."
             }
           },
           {
@@ -6812,7 +6812,7 @@
             "Desc": {
               "id": "5021509225806628162",
               "eng": "Use the claws in your hands and feet to cut an enemy to pieces, ruthlessly slicing into open cuts to make more lethal, gaping wounds.",
-              "rus": "Рвать врагов в клочья когтями на руках и на ногах, безжалостно нанося зияющие смертельные раны."
+              "rus": "Пусти в ход когти на руках и ногах, разрывая врага в клочья — безжалостно углубляя ранее полученные раны, оставляя ещё более смертельные, зияющие разрезы."
             }
           },
           {
@@ -6824,31 +6824,31 @@
             "Desc": {
               "id": "9914946872670618942",
               "eng": "Plunge your claws deep into an enemy's guts and suddenly tear them open.",
-              "rus": "Вонзить когти в живот врага и резким движением вырывает ему кишки."
+              "rus": "Вонзите когти в живот врагу и резким движением вырвите ему кишки."
             }
           },
           {
             "Name": {
               "id": "17339310272061441346",
               "eng": "Cyclone Kick",
-              "rus": "Циклон"
+              "rus": "Вихревой удар"
             },
             "Desc": {
               "id": "13434909791373952315",
               "eng": "Jump into the air, delivering three spinning slashes with the claws on your feet.",
-              "rus": "Подпрыгнуть и нанести три круговых удара когтями на ногах."
+              "rus": "Подпрыгните и нанесите подряд три круговых удара когтям, находящимися внутри ваших ног."
             }
           },
           {
             "Name": {
               "id": "5438440470230926650",
               "eng": "Open The Jugular",
-              "rus": "Разрез аорты"
+              "rus": "Вскрытие глотки"
             },
             "Desc": {
               "id": "7318085843074876732",
               "eng": "After using your acrobatic fighting style to soften up an enemy,  end the fight with a decisive slash across their throat.",
-              "rus": "Использовать акробатический боевой стиль, чтобы ослабить врага и решающим ударом перерезать ему горло."
+              "rus": "Используйте свой акробатический боевой стиль, чтобы ослабить внимание врага и решающим ударом перережьте ему глотку."
             }
           }
         ]
@@ -6869,7 +6869,7 @@
             "Desc": {
               "id": "15969490294780134718",
               "eng": "Tumble gracefully through the battlefield, using the momentum to quickly reposition. ",
-              "rus": "Ловко откатиться, используя инерцию для того, чтобы ускориться."
+              "rus": "Ловко откатитесь, используя инерцию для того, чтобы ускориться и сменить позицию."
             }
           },
           {
@@ -6881,7 +6881,7 @@
             "Desc": {
               "id": "18358407463315768585",
               "eng": "Fly into combat with a spinning leap, cleaving all enemies in your path as you move past.",
-              "rus": "Сделать прыжок с разворотом, рубя всех врагов, которые оказались на пути."
+              "rus": "Ворвитесь в бой стремительным прыжком с разворотом, рассекая всех врагов на своём пути."
             }
           },
           {
@@ -6893,7 +6893,7 @@
             "Desc": {
               "id": "8882823591005979966",
               "eng": "Make spinning leaps with your claws outstretched, dispatching entire formations of enemies like reaping wheat in a field.",
-              "rus": "Герой кружится, вытянув когти, и словно жнец, косит целые отряды врагов."
+              "rus": "Выполните серию стремительных прыжков и финтов с выпущенными когтями и прорубитесь сквозь вражеские ряды, будто жнец, срезающий колосья на поле."
             }
           },
           {
@@ -6905,7 +6905,7 @@
             "Desc": {
               "id": "18051146576758375736",
               "eng": "Leap to a location, slicing into enemies around you with your claws when you land.",
-              "rus": "Прыгнуть в сторону и после приземления разрубить окружающих врагов."
+              "rus": "Прыгните в сторону и после приземления разрубите окружающих врагов своими когтями."
             }
           },
           {
@@ -6917,7 +6917,7 @@
             "Desc": {
               "id": "4770774377947989264",
               "eng": "Your life-long training gives you the ability to move quickly and silently, evading the awareness of enemies until the perfect time to strike.",
-              "rus": "Благодаря многолетним тренировкам вы движетесь быстро и бесшумно, выбирая идеальный момент для атаки."
+              "rus": "Годы изнурительных тренировок позволяют вам двигаться быстро и бесшумно, оставаясь невидимой для врагов до момента идеальной атаки."
             }
           },
           {
@@ -6929,7 +6929,7 @@
             "Desc": {
               "id": "9965757284967580987",
               "eng": "Acrobatically leap through the fray, whipping your adamantium claws through enemies as you fly past them.",
-              "rus": "Высоко подпрыгнув, в полете изрубить врагов адамантиевыми когтями."
+              "rus": "С акробатической лёгкостью прыгайте сквозь гущу боя, рассекая врагов на лету своими адамантиевыми когтям."
             }
           },
           {
@@ -6941,7 +6941,7 @@
             "Desc": {
               "id": "17641494421485520230",
               "eng": "Inexplicably become exposed to your trigger scent, which causes you to completely lose control and explode into a ferocious, crimson blur of death.",
-              "rus": "Вы чуете особый запах, который заставляет вас полностью утратить контроль над собой и превратиться в яростное воплощение смерти."
+              "rus": "Вы чуете особый запах, который заставляет вас полностью утратить контроль над собой и превратиться в кровавое воплощение смерти."
             }
           }
         ]
@@ -6969,7 +6969,7 @@
             "Name": {
               "id": "2421630620916581705",
               "eng": "Wrath",
-              "rus": "Гнев"
+              "rus": "Ярость"
             },
             "Desc": {
               "id": "Invalid",
