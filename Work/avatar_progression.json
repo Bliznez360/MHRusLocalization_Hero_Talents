@@ -7026,7 +7026,7 @@
             "Desc": {
               "id": "12872889075543966986",
               "eng": "Strike enemies in front of you with your twin sais, those that have felled hundreds of ninja.",
-              "rus": "Сражайтесь с врагами перед собой при помощи парных саев, которые скосили уже сотни ниндзя."
+              "rus": "Наносите удары врагам перед собой при помощи парных саев, которые скосили уже сотни ниндзя."
             }
           },
           {
@@ -7050,7 +7050,7 @@
             "Desc": {
               "id": "16308728548641146166",
               "eng": "Pick your target, enhancing all of your powers against them. Can only be used against Elite Enemies and Bosses.",
-              "rus": "Пометьте вашу цель, усиливая мощь всех ваших умений против них. Может быть использована только против Элитных врагов и Боссов."
+              "rus": "Пометьте вашу цель, усиливая мощь всех ваших умений против неё. Может быть использовано только против Элитных врагов и Боссов."
             }
           },
           {
@@ -7069,7 +7069,7 @@
             "Name": {
               "id": "17242680375547462968",
               "eng": "Deadliest of All Assassins",
-              "rus": "Самый смертельный убийца"
+              "rus": "Смертоноснее всех убийц"
             },
             "Desc": {
               "id": "11263564207019066682",
@@ -7086,7 +7086,7 @@
             "Desc": {
               "id": "12518754977440990468",
               "eng": "Appear directly behind an enemy and use your sais to finish them quickly.",
-              "rus": "Окажитесь непосредственно позади врага и используйте саи, чтобы по-быстрому их прикончить."
+              "rus": "Окажитесь за спиной врага и используйте саи, чтобы по-быстрому его прикончить."
             }
           },
           {
@@ -7098,7 +7098,7 @@
             "Desc": {
               "id": "8819390488865998142",
               "eng": "Disappear before your enemies' eyes and fall from the sky, raining down on them with your sais.",
-              "rus": "Скройтесь от взглядов врагов и, подобно дождю, обрушьте на них серию внезапных ударов саями с воздуха."
+              "rus": "Скройтесь от взгляда врагов и, подобно дождю, обрушьте на них серию внезапных ударов саями в воздухе."
             }
           },
           {
@@ -7110,14 +7110,14 @@
             "Desc": {
               "id": "10783499674940278079",
               "eng": "Using your three-section staff, you break down the bodies of any foolish enough to stand against you.",
-              "rus": "С помощью трёхсекционного посоха вы разбираете тела тех, кто осмелился встать против вас."
+              "rus": "Используя свой трёхсекционный посох, вы крушите тела всех, кто осмелился встать на вашем пути."
             }
           },
           {
             "Name": {
               "id": "5798951898978780475",
               "eng": "Not Even the Stars",
-              "rus": "И даже звезды..."
+              "rus": "Ничто, даже звёзды..."
             },
             "Desc": {
               "id": "17925895640906466573",
@@ -7131,7 +7131,7 @@
         "Name": {
           "id": "9944053423667742031",
           "eng": "Ninja Weaponry",
-          "rus": "Ниндзя Оружие"
+          "rus": "Оружие ниндзя"
         },
         "Powers": [
           {
@@ -7143,7 +7143,7 @@
             "Desc": {
               "id": "16936179431796049155",
               "eng": "Slip into Stealth, causing enemies to lose sight of you.",
-              "rus": "Скользнуть в Невидимость, заставляя врагов потерять вас из виду."
+              "rus": "Скользните в тень, заставляя врагов потерять вас из виду."
             }
           },
           {
@@ -7155,7 +7155,7 @@
             "Desc": {
               "id": "323684614595478843",
               "eng": "Unleash a wave of deadly shurikens towards enemies in front of you.",
-              "rus": "Выпустите вперед волну смертоносных сюрикенов."
+              "rus": "Выпустите волну смертоносных сюрикенов по врагам перед вами."
             }
           },
           {
@@ -7186,12 +7186,12 @@
             "Name": {
               "id": "6996549318392284474",
               "eng": "Blow Dart",
-              "rus": "Дротик"
+              "rus": "Отравленный дротик"
             },
             "Desc": {
               "id": "17318553193271657736",
               "eng": "Fire a poison blow dart at your enemies, causing a poisonous cloud to erupt on impact.",
-              "rus": "Швырните отравленный дротик в своих врагов, извергая ядовитое облако при попадании."
+              "rus": "Выпустите ядовитый дротик из духовой трубки, после попадания в цель он создаст ядовитое облако."
             }
           },
           {
@@ -7203,7 +7203,7 @@
             "Desc": {
               "id": "16042372561129440518",
               "eng": "Reappear directly above your enemies, focusing your energy into a powerful kick.",
-              "rus": "Появитесь непосредственно над вашими врагами, фокусируя свою энергию в мощном ударе."
+              "rus": "Появитесь прямо над вашими врагами, фокусируя свою энергию в мощном ударе."
             }
           },
           {
@@ -7227,7 +7227,7 @@
             "Desc": {
               "id": "6454120598453683519",
               "eng": "Spin the bladed chain around you, causing those foolish enough to stand near to regret their positioning.",
-              "rus": "Прокрутите цепь с клинками вокруг себя, чтобы те, кто оказался достаточно глуп оказаться рядом с вами, пожалели об этом."
+              "rus": "Прокрутите цепь с клинками вокруг себя, чтобы те, кто был достаточно глуп, чтобы оставаться рядом с вами, пожалели об этом."
             }
           },
           {
@@ -7239,7 +7239,7 @@
             "Desc": {
               "id": "10471854223718810945",
               "eng": "Wield twin kusarigamas with deadly effectiveness, lashing out at all around you. You are the world's greatest assassin. Nothing shall stand in your way.",
-              "rus": "Со смертоносной эффективностью наносите удары всем вокруг вас с помощью двух кусаригам. Вы - величайший убийца в мире. Ничто не сможет встать у вас на пути."
+              "rus": "Со смертоносной эффективностью наносите удары всем вокруг вас с помощью двух кусаригами. Вы - величайшая убийца в мире. Ничто не сможет встать у вас на пути."
             }
           }
         ]
@@ -7267,7 +7267,7 @@
             "Name": {
               "id": "3276376000971736384",
               "eng": "Hand Training",
-              "rus": "Тренировка рук"
+              "rus": "Тренировка Руки"
             },
             "Desc": {
               "id": "Invalid",
@@ -7312,7 +7312,7 @@
         "Name": {
           "id": "14778026814461576467",
           "eng": "Master of Mjolnir",
-          "rus": "Повелитель Мьельнира"
+          "rus": "Хозяин Мьёльнира"
         },
         "Powers": [
           {
@@ -7336,7 +7336,7 @@
             "Desc": {
               "id": "2582744164205397267",
               "eng": "Charge forward, damaging and knocking down all enemies in your path.",
-              "rus": "Рвануться вперед, отбрасывая назад всех врагов на своем пути и нанося им урон."
+              "rus": "Рванитесь вперед, отбрасывая назад всех врагов на своем пути и нанося им урон."
             }
           },
           {
@@ -7360,7 +7360,7 @@
             "Desc": {
               "id": "18149770733911737628",
               "eng": "Leap forward and utterly crush an area with a mighty blow from your mystic hammer, Mjolnir.",
-              "rus": "Прыгнуть вперед и сокрушить врагов своим могучим молотом, Мьельниром."
+              "rus": "Совершите прыжок вперёд и сокрушите всё вокруг мощным ударом своего мистического молота — Мьёльнира."
             }
           },
           {
@@ -7372,31 +7372,31 @@
             "Desc": {
               "id": "18040981334079309137",
               "eng": "Spin Mjolnir overhead, channeling a maelstrom of lightning off of your hammer.",
-              "rus": "Вращайте Мьёльнир над головой, вызывая вихрь молний с вашего молота."
+              "rus": "Вращайте Мьёльнир над головой, вызывая вихрь молний с помощью вашего молота."
             }
           },
           {
             "Name": {
               "id": "11439897499637450110",
               "eng": "Asgardian Smite",
-              "rus": "Удар Асгарда"
+              "rus": "Асгардийский удар"
             },
             "Desc": {
               "id": "16255815848645297476",
               "eng": "Swiftly ascend and then smash down into groups of enemies, #emphasis#knocking  down#/emphasis# and #emphasis#weakening#/emphasis# them.",
-              "rus": "Быстро подняться в воздух и затем обрушиться на группу врагов, #emphasis#сбивая их с ног#/emphasis# и #emphasis#ослабляя#/emphasis#."
+              "rus": "Быстро поднимитесь в воздух, а затем обрушьтесь на группу врагов, #emphasis#сбивая их с ног#/emphasis# и #emphasis#ослабляя#/emphasis# их."
             }
           },
           {
             "Name": {
               "id": "3071863324861465868",
               "eng": "Ragnarok",
-              "rus": "Рагнарок"
+              "rus": "Рагнарёк"
             },
             "Desc": {
               "id": "17992484624890463508",
               "eng": "Bring to bear the full power of your lightning and the unfathomable might of Mjolnir, #emphasis#knocking down#/emphasis# anything near you when you unleash your godly fury.",
-              "rus": "Обрушить на врагов божественную ярость, молнии и невероятную мощь Мьельнира, #emphasis#сбивая их с ног#/emphasis#."
+              "rus": "Обрушьте всю мощь своих молний и непостижимую силу Мьёльнира, #emphasis#сбивая врагов с ног#/emphasis# впав в по-настоящему божественную ярость."
             }
           },
           {
@@ -7408,14 +7408,14 @@
             "Desc": {
               "id": "13189338207172035853",
               "eng": "Whirl Mjolnir at a dizzying speed and then #emphasis#knock up#/emphasis# an enemy by slamming it suddenly into their face.",
-              "rus": "Вращать Мьельнир с головокружительной скоростью, а затем внезапно обрушить его на врага, #emphasis#сбивая с ног#/emphasis#."
+              "rus": "Раскрутите Мьельнир с головокружительной скоростью, а затем внезапно обрушьте молот на врага, #emphasis#сбивая его с ног#/emphasis#."
             }
           },
           {
             "Name": {
               "id": "7896874025275950400",
               "eng": "Have At Thee!",
-              "rus": "Защищайтесь!"
+              "rus": "Ну же, нападай!"
             },
             "Desc": {
               "id": "12525001990260917567",
@@ -7441,7 +7441,7 @@
             "Desc": {
               "id": "11554315780512679223",
               "eng": "Hurl Mjolnir with all your might, sending it careening through waves of enemies.",
-              "rus": "Метнуть Мьельнир изо всех сил, проделав им широкий коридор в рядах врагов."
+              "rus": "Метнуть Мьельнир изо всех сил, проделав им широкую просеку в рядах врагов."
             }
           },
           {
@@ -7453,7 +7453,7 @@
             "Desc": {
               "id": "4627539095530177812",
               "eng": "Slam the ground with Mjolnir to create a deadly, electrified fissure in the ground.",
-              "rus": "Ударить Мьельниром оземь и создать глубокий, рваный разлом."
+              "rus": "Обрушьте Мьёльнир на землю, создавая смертоносную электризованную расщелину."
             }
           },
           {
@@ -7465,7 +7465,7 @@
             "Desc": {
               "id": "7984454206593500438",
               "eng": "Channel the electrical output of a thunderstorm through Mjolnir, directing the current into enemies in front of you.",
-              "rus": "Окутать Мьельнир грозовым электричеством и направить ток в скопление врагов перед вами."
+              "rus": "Направьте энергию и ярость небес через Мьёльнир, поражая врагов перед вами разрядами молний."
             }
           },
           {
@@ -7477,7 +7477,7 @@
             "Desc": {
               "id": "11010311761059710267",
               "eng": "Call down a blast of lightning in an area.",
-              "rus": "Обрушить молнии в указанную область."
+              "rus": "Призовите удар молнии в указанную область."
             }
           },
           {
@@ -7489,19 +7489,19 @@
             "Desc": {
               "id": "12739790890898228490",
               "eng": "Call a powerful lightning strike onto nearby enemies to recover $primaryManaBehaviorName$ per enemy hit and infuse yourself with $secondarymanabehaviorname$.",
-              "rus": "Обрушить на врагов огромную молнию. При каждом попадании $primaryManaBehaviorName$ восстанавливается, наполняя героя #emphasis#силой Одина#/emphasis#.\nОдновременно восстанавливается и $primaryManaBehaviorName$."
+              "rus": "Обрушьте на врагов мощную молнию. При каждом попадании $primaryManaBehaviorName$ восстанавливается, наполняя героя #emphasis#силой Одина#/emphasis#.\nОдновременно восстанавливается и $primaryManaBehaviorName$."
             }
           },
           {
             "Name": {
               "id": "11671206287530263814",
               "eng": "Bring the Thunder",
-              "rus": "Вызов грома"
+              "rus": "Ярость Небес"
             },
             "Desc": {
               "id": "1834987304305296703",
               "eng": "Call forth a powerful storm that renders foes #emphasis#vulnerable#/emphasis# to further damage.",
-              "rus": "Призвать яростную бурю, которая делает врагов #emphasis#уязвимыми#/emphasis#."
+              "rus": "Призовите мощную бурю, которая делает врагов #emphasis#уязвимыми#/emphasis# для последующих атак."
             }
           },
           {
@@ -7513,7 +7513,7 @@
             "Desc": {
               "id": "5180923607086794053",
               "eng": "Enter the fray in a furious battle-trance, having only concern for the destruction of your enemy by fist and hammer.",
-              "rus": "Войти в яростный боевой транс и ринуться в битву, круша врагов направо и налево молотом и кулаками."
+              "rus": "Войди в яростный боевой транс и бросьтесь прямиком в битву, круша врагов направо и налево своими молотом и кулаками."
             }
           },
           {
@@ -7525,7 +7525,7 @@
             "Desc": {
               "id": "63541597981705528",
               "eng": "Draw upon the Anti-Force to reflect enemy projectiles and devastate enemies, heavily damaging and #emphasis#knocking them back#/emphasis#.",
-              "rus": "Черпать Антисилу, чтобы отражать вражеские снаряды и сокрушать врагов, нанося им серьезный урон и #emphasis#отбрасывая назад#/emphasis#."
+              "rus": "Черпайте Антисилу, чтобы отражать вражеские снаряды и сокрушать врагов, нанося им серьёзный урон и #emphasis#отбрасывая назад#/emphasis#."
             }
           },
           {
@@ -7537,7 +7537,7 @@
             "Desc": {
               "id": "14488633137879450938",
               "eng": "Mjolnir emits the ultimate expression of its power, unleashing an unfathomable amount of energy. If a single target is selected, their existence is simply omitted by the raw power of a dying star.",
-              "rus": "Мьельнир демонстрирует всю свою мощь, высвободив невероятное количество энергии. Если для удара выбран один противник, необузанная мощь умирающей звезды просто сотрет его с лица земли."
+              "rus": "Мьёльнир демонстрирует всю свою мощь, высвобождая невероятное количество энергии. Если для удара выбран один противник, необузанная мощь умирающей звезды просто сотрет его с лица земли."
             }
           }
         ]
