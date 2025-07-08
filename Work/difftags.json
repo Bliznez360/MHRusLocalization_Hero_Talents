@@ -21,7 +21,7 @@
   },
   "256355337166325049": {
     "eng": "Use any waypoint or terminal to travel to #mission#Midtown#/mission or the #mission#S.H.I.E.L.D. Holo-Sim#/mission#. Midtow and the S.H.I.E.L.D. Holo-Sim are found under the #mission#Challenges#/mission# tab. Only members of the Brotherhood of Mutants in these game modes are eligible for this mission.\n\nThe Brotherhood consists of: #mission#Magneto#/mission#, #mission#Juggernaut#/mission#, #mission#Blob#/mission#, #mission#Toad#/mission#, #mission#Pyro#/mission#, and #mission#Sabretooth#/mission#.\n\nAny combination of the above can be defeated to count towards this mission.",
-    "rus": "Воспользуйтесь любой точкой перемещения или терминалом, чтобы отправиться на задание в #mission#Мидтаун#/mission# или #mission#голо-симулятор ЩИТа#/mission#, которые можно найти на закладке #mission#\"Испытания\"#/mission#. В этом задании в данных режимах засчитываются только члены Братства мутантов.\n\nУчастники Братства: #mission#Магнето#/mission#, #mission#Джаггернаут#/mission#, #mission#Пузырь#/mission#, #mission#Жаба#/mission#, #mission#Пиро#/mission#, #mission#Саблезубый#/mission#.\n\nЛюбое сочетание этих врагов засчитывается в этом задании.",
+    "rus": "Воспользуйтесь любой точкой перемещения или терминалом, чтобы отправиться на задание в #mission#Мидтаун#/mission# или #mission#голо-симулятор ЩИТа#/mission#, которые можно найти на вкладке #mission#Испытания#/mission#. В этом задании в данных режимах засчитываются только члены Братства мутантов.\n\nУчастники Братства: #mission#Магнето#/mission#, #mission#Джаггернаут#/mission#, #mission#Пузырь#/mission#, #mission#Жаба#/mission#, #mission#Пиро#/mission#, #mission#Саблезубый#/mission#.\n\nЛюбое сочетание этих врагов засчитывается в этом задании.",
     "path": "Missions/Prototypes/LegendaryQuests/LQChallenges/Redacted/LQMidtownHoloSimBrotherhood.prototype"
   },
   "356751194207749485": {
@@ -336,7 +336,7 @@
   },
   "2091927529448801602": {
     "eng": "Use any waypoint or terminal to travel to #mission#Industry City#/mission#. Industry City Patrol is found under the M.A.P. #mission#Challenges#/mission# tab.\n\n#mission#Elite#/mission# enemies are identifiable by blue and yellow auras. #mission#Bosses#/mission# are can be found both in and out of events throughout Industry City.\n\nAll objectives must be completed in #mission#Industry City Patrol#/mission# to receive credit.",
-    "rus": "Используйте любую точку перемещения или терминал, чтобы отправиться в #mission#Промышленный район#/mission#. \"Патруль в Промышленном районе\" находится на закладке #mission#Испытания#/mission# К.А.Р.Т.Ы.\n\n#mission#Элитных#/mission# врагов можно отличить по синим и желтым аурам. #mission#Боссы#/mission# находятся в Промышленном районе, в окрестностях мест, где происходят события.\n\nВыполните все задачи #mission#\"Патруля в Промышленном районе\"#/mission#, чтобы получить награду.",
+    "rus": "Используйте любую точку перемещения или терминал, чтобы отправиться в #mission#Промышленный район#/mission#. \"Патруль в Промышленном районе\" находится на вкладке #mission#Испытания#/mission# К.А.Р.Т.Ы.\n\n#mission#Элитных#/mission# врагов можно отличить по синим и желтым аурам. #mission#Боссы#/mission# находятся в Промышленном районе, в окрестностях мест, где происходят события.\n\nВыполните все задачи #mission#\"Патруля в Промышленном районе\"#/mission#, чтобы получить награду.",
     "path": "Missions/Prototypes/SharedQuests/DailyMissionPatrol3Tues.prototype"
   },
   "2174721571064448322": {
@@ -371,7 +371,7 @@
   },
   "2370190733907789122": {
     "eng": "Use any waypoint to travel to #mission#Midtown#/mission# or the #mission#S.H.I.E.L.D. Holo-Sim#/mission#. Both can be found under the #mission#Challenges#/mission# tab.\n\nSubterranean enemies include #mission#Lava Men#/mission#.",
-    "rus": "Воспользуйтесь любой точкой перемещения или терминалом, чтобы отправиться в #mission#Мидтаун#/mission# или #mission#голо-симулятор ЩИТа#/mission#, которые находятся на закладке #mission#\"Испытания\"#/mission#.\n\nПодземные враги включают в себя #mission#лавовых существ#/mission#.",
+    "rus": "Воспользуйтесь любой точкой перемещения или терминалом, чтобы отправиться в #mission#Мидтаун#/mission# или #mission#голо-симулятор ЩИТа#/mission#, которые находятся на вкладке #mission#Испытания#/mission#.\n\nПодземные враги включают в себя #mission#лавовых существ#/mission#.",
     "path": "Missions/Prototypes/LegendaryQuests/LQChallenges/LQMidtownHoloSimSubterranean.prototype"
   },
   "2560591590522684725": {
@@ -471,7 +471,7 @@
   },
   "3169607490500297993": {
     "eng": "This recipe requires (1) #emphasis#Asgardian Forged Ingot#/emphasis# and 100,000 credits each time you wish to craft this item. \n\nCraft Blade of Hrinmeer, a Level 60 Slot 1 Unique Item that is usable by Any Hero\n\n#emphasis#Blade of Hrinmeer#/emphasis#\n#emphasis#+Damage Rating#/emphasis#\n#emphasis#+Damage Rating vs. Bleeding Targets#/emphasis#\n#emphasis#+Fighting#/emphasis#\n#emphasis#+Brutal Strike Rating to Melee Attacks#/emphasis#\n#emphasis#+Brutal Damage Rating#/emphasis#\n#emphasis#Chance when you hit to cause enemies to Bleed#/emphasis#",
-    "rus": "Требуется: (1) #emphasis#слиток асгардской работы#/emphasis# и 100 000 кредитов, чтобы создать предмет. \n\nСоздать палицу Надзирателя - уникальный предмет уровня 60 в ячейке 1, может использовать любой герой\n\n#emphasis#Палица Надзирателя#/emphasis#\n#emphasis#+ к рейтингу урона#/emphasis#\n#emphasis#+ к рейтингу физической защиты#/emphasis#\n#emphasis#+ к рейтингу урона в ближнем бою#/emphasis#\n#emphasis#+ Рейтинг критического урона#/emphasis#\n#emphasis#Снижение урона от атак по площади#/emphasis#\n#emphasis#+ к здоровью#/emphasis#\n#emphasis#При попадании способностью ближнего боя вы получите +1 ед. силы на 10 с (эффект суммируется до 3 раз)#/emphasis#\n#emphasis#Нанеся Критический удар, вы можете получить + к рейтингу защиты на 5 с (перезарядка 30 с)#/emphasis#\n#emphasis#Пгогибая, союзник наносит врагам физический урон и ослабляет их#/emphasis#\n#emphasis#+2 ко всем навыкам#/emphasis#",
+    "rus": "Для создания этого предмета каждый раз требуется (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 кредитов.\n\nСоздать Клинок Хринмира — уникальный предмет 60-го уровня для 1-го слота, который может использовать любой герой.\n\n#emphasis#Клинок Хринмира#/emphasis#\n#emphasis#+Рейтинг урона#/emphasis#\n#emphasis#+Рейтинг урона по кровоточащим целям#/emphasis#\n#emphasis#+Боевая подготовка#/emphasis#\n#emphasis#+Рейтинг сокрушительных ударов в ближнем бою#/emphasis#\n#emphasis#+Рейтинг сокрушительного урона#/emphasis#\n#emphasis#Шанс при ударе вызвать кровотечение у врагов#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/Unique306Recipe.prototype"
   },
   "3182866840571544879": {
@@ -731,12 +731,12 @@
   },
   "4747031223203595528": {
     "eng": "Use any waypoint or terminal to travel to #mission#Hightown Patrol#/mission#. Hightown Patrol is found under the M.A.P. #mission#Challenges#/mission# tab. \n\n#mission#Elite#/mission# enemies are identifiable by blue and yellow auras.\n\nAll objectives must be completed in #mission#Hightown Patrol#/mission# to receive credit. ",
-    "rus": "Используйте любую точку перемещения или терминал, чтобы отправиться на задание #mission#\"Патруль в Хайтауне\"#/mission# на закладке \"Испытания\" К.А.Р.Т.Ы.\n\n#mission#Элитных#/mission# врагов можно узнать по синей или желтой ауре. \n\nЧтобы задание было зачтено, выполните все задачи в #mission#\"Патруле в Хайтауне\"#/mission#.",
+    "rus": "Используйте любую точку перемещения или терминал, чтобы отправиться на задание #mission#\"Патруль в Хайтауне\"#/mission# на вкладке #mission#Испытания#/mission# К.А.Р.Т.Ы.\n\n#mission#Элитных#/mission# врагов можно узнать по синей или желтой ауре. \n\nЧтобы задание было зачтено, выполните все задачи в #mission#\"Патруле в Хайтауне\"#/mission#.",
     "path": "Missions/Prototypes/SharedQuests/DailyMissionPatrol5Thursday.prototype"
   },
   "4774686612168639801": {
     "eng": "Craft an Overseer's Mace, a Level 60 Slot 1 Unique Item that is usable by Any Hero\n\n#emphasis#Overseer's Mace#/emphasis#\n#emphasis#+Damage Rating#/emphasis#\n#emphasis#+Physical Defense Rating#/emphasis#\n#emphasis#+Melee Damage Rating#/emphasis#\n#emphasis#+Critical Damage Rating#/emphasis#\n#emphasis#Less damage from Area Powers#/emphasis#\n#emphasis#+Health#/emphasis#\n#emphasis#When you hit with a Melee Power, gain +1 Strength for 10s (stacks up to 3 times)#/emphasis#\n#emphasis#Chance when you Critically Hit to gain +Defense Rating for 5s (30s Cooldown)#/emphasis#\n#emphasis#When an ally dies, deal Physical Damage and Weaken all enemies around you#/emphasis#",
-    "rus": "Создает палицу надзирателя - уникальный предмет уровня 60 в ячейке 1, может использовать любой герой\n\n#emphasis#Палица надзирателя#/emphasis#\n#emphasis#+ к рейтингу урона#/emphasis#\n#emphasis#+ к рейтингу физической защиты#/emphasis#\n#emphasis#+ к рейтингу урона в ближнем бою#/emphasis#\n#emphasis#+ Рейтинг критического урона#/emphasis#\n#emphasis#Снижение урона от атак по площади#/emphasis#\n#emphasis#+ ед. здоровья#/emphasis#\n#emphasis#При попадании способностью ближнего боя вы получите +1 ед. силы на 10 с (эффект суммируется до 3 раз)#/emphasis#\n#emphasis#Нанеся Критический удар, вы можете получить + к рейтингу защиты на 5 с (перезарядка 30 с)#/emphasis#\n#emphasis#Погибая, союзник наносит врагам физический урон и ослабляет их#/emphasis#\n#emphasis#+2 ко всем навыкам#/emphasis#",
+    "rus": "Создать Палицу Надзирателя - уникальный предмет 60-го уровня для 1-го слота экипировки, доступный любому герою\n\n#emphasis#Палица Надзирателя#/emphasis#\n#emphasis#+Рейтинг урона#/emphasis#\n#emphasis#+Рейтинг физической защиты#/emphasis#\n#emphasis#+Рейтинг урона в ближнем бою#/emphasis#\n#emphasis#+Рейтинг критического урона#/emphasis#\n#emphasis#Сниженный урон от атак по области#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#При попадании атакой ближнего боя: +1 к Силе на 10 сек (максимум 3 стака)#/emphasis#\n#emphasis#Шанс при критическом ударе: +Рейтинг защиты на 5 сек (перезарядка 30 сек)#/emphasis#\n#emphasis#При смерти союзника: наносит физический урон и ослабляет всех врагов вокруг#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/Unique293Recipe.prototype"
   },
   "4799366503635617138": {
@@ -746,7 +746,7 @@
   },
   "4810049985553433866": {
     "eng": "Use any waypoint or terminal to travel to #mission#Midtown Patrol#/mission#. Midtown Patrol is found under the M.A.P. #mission#Challenges#/mission# tab. \n\n#mission#Doop Duplicates#/mission# count toward the Midtown Bosses objective. #mission#Elite#/mission# enemies are identifiable by blue and yellow auras. #mission#Sentinels#/mission# appear as ambushes throughout the zone. \n\nAll objectives must be completed in #mission#Midtown Patrol#/mission# to receive credit.",
-    "rus": "Используйте любую точку перемещения или терминал, чтобы отправиться на задание #mission#\"Патруль в Мидтауне\"#/mission# на закладке \"Испытания\" К.А.Р.Т.Ы.\n\n#mission#Копии Дупа#/mission# идут в зачет задачи по уничтожению боссов Мидтауна. #mission#Элитных#/mission# врагов можно узнать по синей или желтой ауре. #mission#Стражи#/mission# появляются по всей зоне в виде засад. \n\nЧтобы задание было зачтено, выполните все задачи в #mission#\"Патруле в Мидтауне\"#/mission#.",
+    "rus": "Используйте любую точку перемещения или терминал, чтобы отправиться на задание #mission#\"Патруль в Мидтауне\"#/mission# на вкладке #mission#Испытания#/mission# К.А.Р.Т.Ы.\n\n#mission#Копии Дупа#/mission# идут в зачет задачи по уничтожению боссов Мидтауна. #mission#Элитных#/mission# врагов можно узнать по синей или желтой ауре. #mission#Стражи#/mission# появляются по всей зоне в виде засад. \n\nЧтобы задание было зачтено, выполните все задачи в #mission#\"Патруле в Мидтауне\"#/mission#.",
     "path": "Missions/Prototypes/SharedQuests/Redacted/DailyMissionPatrol1Sun.prototype"
   },
   "4818268113471538488": {
@@ -1226,7 +1226,7 @@
   },
   "7510152979443680518": {
     "eng": "Craft Fragment of Twilight, a Level 60 Slot 1 Unique Item that is usable by Any Hero\n\n#emphasis#Fragment of Twilight#/emphasis#\n#emphasis#+Damage Rating#/emphasis#\n#emphasis#+Critical Damage Rating#/emphasis#\n#emphasis#+Brutal Damage Rating#/emphasis#\n#emphasis#+Health#/emphasis#\n#emphasis#+Health Regeneration when you hit#/emphasis#\n#emphasis#Revive when you are defeated#/emphasis#\n#emphasis#When you hit, gain Dodge and Defense Ratings (stacks up to 3 times)#/emphasis#\n#emphasis#When you critically hit, gain Critical Hit Rating and Brutal Strike Rating#/emphasis#\n#emphasis#When you brutally strike, incinerate enemies#/emphasis#",
-    "rus": "Создает палицу надзирателя - уникальный предмет уровня 60 в ячейке 1, может использовать любой герой\n\n#emphasis#Палица надзирателя#/emphasis#\n#emphasis#+ к рейтингу урона#/emphasis#\n#emphasis#+ к рейтингу физической защиты#/emphasis#\n#emphasis#+ к рейтингу урона в ближнем бою#/emphasis#\n#emphasis#+ Рейтинг критического урона#/emphasis#\n#emphasis#Снижение урона от атак по площади#/emphasis#\n#emphasis#+ ед. здоровья#/emphasis#\n#emphasis#При попадании способностью ближнего боя вы получите +1 ед. силы на 10 с (эффект суммируется до 3 раз)#/emphasis#\n#emphasis#Нанеся Критический удар, вы можете получить + к рейтингу защиты на 5 с (перезарядка 30 с)#/emphasis#\n#emphasis#Погибая, союзник наносит врагам физический урон и ослабляет их#/emphasis#\n",
+    "rus": "Создать Осколок Сумерек - уникальный предмет 60-го уровня для 1-го слота, доступный любому герою\n\n#emphasis#Осколок Сумерек#/emphasis#\n#emphasis#+Рейтинг урона#/emphasis#\n#emphasis#+Рейтинг критического урона#/emphasis#\n#emphasis#+Рейтинг сокрушительного урона#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#+Регенерация здоровья при попадании#/emphasis#\n#emphasis#Воскрешение после поражения#/emphasis#\n#emphasis#При попадании: повышение рейтингов уклонения и защиты (максимум 3 стака)#/emphasis#\n#emphasis#При критическом ударе: повышение рейтингов критических и сокрушительных ударов#/emphasis#\n#emphasis#При сокрушительном ударе: поджигает врагов#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/Unique303Recipe.prototype"
   },
   "7516464133299242301": {
@@ -1296,7 +1296,7 @@
   },
   "7836717188542694655": {
     "eng": "UPDATED: Agent Dugan was found holding the line in the #mission#Fjords of Norway#/mission# against the Frost Giant assault.\n\nStrange mystical relics called #mission#Spirit of Ymir#/mission# have been found on the bodies of dead giants. Beast was brought in to research them, however his #mission#Research Team#/mission# went further into the forest and hasn't been heard from since.\n\nPush deeper into the forest and investigate.",
-    "rus": "ОБНОВЛЕНИЕ: выяснилось, что агент Дуган в Норвегии отражает атаку ледяных гигантов.\n\nНа телах мертвых гигантов были обнаружены странные мистические реликвии, которые называют #mission#Духом Имира#/mission#. Для их исследования был приглашен Рид Ричардс, однако его #mission#научная группа#/mission# отправилась глубже в лес, после чего связь с ней пропала.\n\nПройдите дальше в лес и проведите разведку.",
+    "rus": "ОБНОВЛЕНИЕ: выяснилось, что агент Дуган в #mission#Норвежских фиордах#/mission#  отражает атаку ледяных гигантов.\n\nНа телах мертвых гигантов были обнаружены странные мистические реликвии, которые называют #mission#Духом Имира#/mission#. Для их исследования был приглашен Зверь, однако его #mission#научная группа#/mission# отправилась глубже в лес, после чего связь с ней пропала.\n\nПройдите дальше в лес и проведите разведку.",
     "path": "Missions/Prototypes/Act3/Ch09Asgard/CH09Main1AFrostyReception.prototype"
   },
   "7853372788372997481": {
@@ -1306,57 +1306,57 @@
   },
   "7924418861777421671": {
     "eng": "#powertree#Ninja Assassin#/powertree# Powers now deal Mental damage instead of Physical",
-    "rus": "Способности ниндзя-убийцы наносят ментальный урон вместо физического",
+    "rus": "Способности #powertree#ниндзя-убийцы#/powertree# наносят ментальный урон вместо физического",
     "path": "Localization/Translations/Powers/TooltipStrings/Psylocke/KatanaToggle.prototype"
   },
   "7937315480280171836": {
     "eng": "When you Brutally Strike with a Melee Power, gain +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ Melee Damage Rating, +$param1.power.condition0.critratingbonusaddpowerkeyword.nofraction$ Critical Rating with Melee Powers, +$param1.power.condition0.defense.nofraction$ Defense Rating and +$param1.power.condition0.Dodgeratingbonusadd.nofraction$ Dodge Rating for $param1.power.condition0.duration$",
-    "rus": "Если вы нанесли Критический удар с помощью способности дальнего боя, с вероятностью $procchancestring$ вы получите +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ к рейтингу урона в дальнем бою и +$param1.power.condition0.supercritratingbonusadd.nofraction$ Рейтинг сокрушительного удара на $param1.power.condition0.duration$",
+    "rus": "При нанесении Сокрушительного удара в ближнем бою вы получаете +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ к рейтингу урона в ближнем бою, +$param1.power.condition0.critratingbonusaddpowerkeyword.nofraction$ к рейтингу критического удара для атак ближнего боя, +$param1.power.condition0.defense.nofraction$ к рейтингу защиты и +$param1.power.condition0.Dodgeratingbonusadd.nofraction$ к рейтингу уклонения на $param1.power.condition0.duration$",
     "path": "Entity/Items/Armor/UniquePrototypes/Avatars/AnyHero/Slot3/Unique381.prototype"
   },
   "7961441866305438990": {
     "eng": "Use the Chapter 1 waypoint and travel to #mission#Hell's Kitchen South#/mission# or #mission#Hell's Kitchen North#/mission#.\n\n#mission#Treasure Rooms#/mission# are located throughout #mission#Hell's Kitchen#/mission#. Treasure Rooms are identifiable by marked golden doorways.",
-    "rus": "Используйте точку перемещения из главы 1, чтобы попасть на #mission#блокпост ЩИТа на крыше#/mission# в #mission#Адской Кухне#/mission#. \n\n#mission#Сокровищницы#/ расположены в #mission#полуразрушенных особняках#/mission# в Адской Кухне. К сокровищницам ведут золотые двери. ",
+    "rus": "Используйте точку перемещения из главы 1, чтобы попасть на #mission#блокпост ЩИТа на крыше#/mission# в #mission#Адской Кухне#/mission#. \n\n#mission#Сокровищницы#/mission# расположены в #mission#Адской Кухне#/mission#. К сокровищницам ведут золотые двери. ",
     "path": "Missions/Prototypes/LegendaryQuests/LQStory/LegendaryCH01Brownstones2.prototype"
   },
   "7989037383496303993": {
     "eng": "#emphasis#$powerreference0.powername$#/emphasis# cooldown reduced by $condition.CooldownModifierMSForPower.divby1000$s and on use #clobberintime#Clobberin' Time#/clobberintime##emphasis# benefits are doubled",
-    "rus": "#emphasis#$powerreference0.powername$#/emphasis# время перезарядки уменьшено на $condition.CooldownModifierMSForPower.divby1000$s, и при использовании #clobberintime#Clobberin' Time#/clobberintime# #emphasis#эффекты удваиваются#/emphasis#",
+    "rus": "#emphasis#$powerreference0.powername$#/emphasis# время перезарядки уменьшено на $condition.CooldownModifierMSForPower.divby1000$s, и при использовании #clobberintime#Время крушить#/clobberintime# #emphasis#эффекты удваиваются#/emphasis#",
     "path": "Localization/Translations/Powers/TooltipStrings/Thing/ThingTalent2SignatureCooldownReduction.prototype"
   },
   "8039790634002941243": {
     "eng": "Use any waypoint or terminal to travel to #mission#Midtown Patrol#/mission#. Midtown Patrol is found under the M.A.P. #mission#Challenges#/mission# tab. \n\n#mission#Doop Duplicates#/mission# count toward the Midtown Bosses objective. #mission#Elite#/mission# enemies are identifiable by blue and yellow auras.\n\nAll objectives must be completed in #mission#Midtown Patrol#/mission# to receive credit.",
-    "rus": "Используйте любую точку перемещения или терминал, чтобы отправиться на #mission#\"Патруль в Мидтауне\"#/mission# на закладке \"Испытания\" К.А.Р.Т.Ы.\n\n#mission#Копии дупа#/mission# идут в зачет задачи по уничтожению боссов Мидтауна. #mission#Элитных#/mission# врагов можно узнать по синей и желтой ауре.\n \nЧтобы задание было зачтено, выполните все задачи в #mission#\"Патруле в Мидтауне\"#/mission#.",
+    "rus": "Используйте любую точку перемещения или терминал, чтобы отправиться на #mission#\"Патруль в Мидтауне\"#/mission# на вкладке #mission#Испытания#/mission# К.А.Р.Т.Ы.\n\n#mission#Копии дупа#/mission# идут в зачет задачи по уничтожению боссов Мидтауна. #mission#Элитных#/mission# врагов можно узнать по синей и желтой ауре.\n \nЧтобы задание было зачтено, выполните все задачи в #mission#\"Патруле в Мидтауне\"#/mission#.",
     "path": "Missions/Prototypes/SharedQuests/DailyMissionPatrol6Fri.prototype"
   },
   "8041235366518523203": {
     "eng": "#emphasis#Telekinetic Toss:#/emphasis#",
-    "rus": "#emphasis#Телекинетический бросок#/emphasis# - $damagetype$ урон: $damage$ ед.#hidden# ($damagerange.precision1.divbylevel$ ед. за каждый уровень)#/hidden#",
+    "rus": "#emphasis#Телекинетический бросок#/emphasis#",
     "path": "Localization/Translations/Powers/TooltipStrings/Cyclops/UltimateTKTossDamage.prototype"
   },
   "8094532371661063530": {
     "eng": "Damage: +$DamageMultVsKeyword.pct$% against #powermechanic#Immobilized#/powermechanic# enemies",
-    "rus": "Урон: +$DamageMultVsKeyword.pct$% против парализованных врагов",
+    "rus": "Урон: +$DamageMultVsKeyword.pct$% против #powermechanic#парализованных#/powermechanic# врагов",
     "path": "Localization/Translations/Powers/TooltipStrings/DamageMultVsKeywordImmobilize.prototype"
   },
   "8104067984977560891": {
     "eng": "#powermechanic#You may Use this item this power in the Power Tree to open the #stolenpower#Stolen Power#powermechanic# Collection#/powermechanic#",
-    "rus": "Примените к врагу-боссу, чтобы позаимствовать одну из его способностей. Она заменит эту на вашей панели способностей и на дереве способностей.",
+    "rus": "#powermechanic#Вы можете использовать эту способность в Дереве способностей, чтобы открыть коллекцию #stolenpower#Украденных Способностей#/stolenpower##/powermechanic#",
     "path": "Localization/Translations/Powers/TooltipStrings/Rogue/StolenPowerForget.prototype"
   },
   "8139037406783538445": {
     "eng": "$damage$ #hidden#($damageRange.precision1.divByLevel$) #/hidden#per card stuck to an enemy",
-    "rus": "$damageType.capitalize$ урон от взрыва: $damage$ ед. #hidden#($damageRange.precision1.divByLevel$) #/hidden#за карту, прикрепленную к врагу",
+    "rus": "$damage$ ед. #hidden#($damageRange.precision1.divByLevel$) #/hidden#за карту, прикрепленную к врагу",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Value/CardPickupBonusDamage.prototype"
   },
   "8198664081319068979": {
     "eng": "Use the terminals in any player hub to enter instances.\n\n#mission#Bosses#/mission# are located through their respective terminals. #mission#HYDRA Turreta & Mechs#/mission# can be found throughout HYDRA Island. #mission#Henchmen#/mission# can be defeated in any terminal.",
-    "rus": "Используйте #mission#красные#/mission#, #mission#зеленые#/mission# или #mission#космические#/mission#терминалы в любом штабе, чтобы войти на карты. Космические терминалы открываются на 60 уровне.\n\n#mission#Боссов#/mission# можно найти, воспользовавшись соответствующими терминалами. #mission#Мехов и турели ГИДРЫ#/mission# можно найти по всему острову ГИДРЫ. #mission#Головорезов#/mission# можно победить в любом терминале.",
+    "rus": "Используйте терминалы в любом штабе, чтобы войти на карты.\n\n#mission#Боссов#/mission# можно найти, воспользовавшись соответствующими терминалами. #mission#Мехов и турели ГИДРЫ#/mission# можно найти по всему острову ГИДРЫ. #mission#Головорезов#/mission# можно победить в любом терминале.",
     "path": "Missions/Prototypes/SharedQuests/DailyMissionTerminal4Wednesday.prototype"
   },
   "8261326065093707110": {
     "eng": "Removes the $primaryManaBehaviorName$ cost of #powername#$powerReference0.powerName$#/powername# and reduces its Cooldown by 0.5s when you pick up a #debris#Debris Orb#/debris#",
-    "rus": "Обнуляет расход $primarymanabehaviorname.locflagG$ на применение способности #emphasis#$powerReference0.powerName$#/emphasis# и снижает время перезарядки на 0,5 с каждый раз, когда вы подбираете сферу #debris#Обломков#/debris#",
+    "rus": "Обнуляет расход $primarymanabehaviorname.locflagG$ на применение способности #emphasis#$powerReference0.powerName$#/emphasis# и снижает время перезарядки на 0.5с каждый раз, когда вы подбираете #debris#сферу Обломков#/debris#",
     "path": "Localization/Translations/Powers/TooltipStrings/Magneto/CDROnMetalOrbPickup.prototype"
   },
   "8261740177256613229": {
@@ -1381,32 +1381,32 @@
   },
   "8321995007828362552": {
     "eng": "$healingOverTimeBase.divby2.noFraction$ Health per second\n(this effect is tripled for $duration$ when you fall below 35% of your Maximum Health, once every $cooldown$)",
-    "rus": "$healingOverTimeBase.divby2.noFraction$ Здоровья в секунду\n(этот эффект утрачивается в три раза при снижении ниже 35% от вашего Максимального Здоровья, один раз каждые $cooldown$)",
+    "rus": "$healingOverTimeBase.divby2.noFraction$ Здоровья в секунду\n(этот эффект утрачивается в три раза за $duration$ при снижении ниже 35% от вашего Максимального Здоровья, один раз каждые $cooldown$)",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Value/HealingOverTimeWithBonusEffectAtLowHealth.prototype"
   },
   "8444902094065042737": {
     "eng": "Use the terminals in any player hub to enter #mission#Sinister's Lab#/mission#. \n\n#mission#Tech Barrels#/mission# can be thrown to damage enemies. #mission#Mister Sinister#/mission# is located at the end of the instance.",
-    "rus": "Используйте #mission#красные#/mission#, #mission#зеленые#/mission# или #mission#космические#/mission# терминалы в любом штабе, чтобы попасть в #mission#лабораторию Зловещего#/mission#. Космический терминал доступен на 60 уровне.\n\nБросайте #mission#технобочки#/mission#, чтобы нанести урон врагам. #mission#Мистер Зловещий#/mission# находится в конце карты.",
+    "rus": "Используйте терминалы в любом штабе, чтобы попасть в #mission#лабораторию Зловещего#/mission#. \n\nБросайте #mission#технобочки#/mission#, чтобы нанести урон врагам. #mission#Мистер Зловещий#/mission# находится в конце карты.",
     "path": "Missions/Prototypes/LegendaryQuests/LQTerminal/LegendaryTerminalSinister.prototype"
   },
   "8474003937769293110": {
     "eng": "Damage: +$evalRegisterFloat1.pct$% to #powermechanic#Pulsars#/powermechanic# (stacks up to 2 times)",
-    "rus": "Урон: +$evalRegisterFloat1.pct$% для пульсаров (накапливается до 2 раз)",
+    "rus": "Урон: +$evalRegisterFloat1.pct$% для #powermechanic#пульсаров#/powermechanic# (накапливается до 2 раз)",
     "path": "Localization/Translations/Powers/TooltipStrings/Nova/PulsarBuff.prototype"
   },
   "8484835733623997755": {
     "eng": "Regenerate $healing$ Health for each #powermechanic#Burning#/powermechanic# enemy hit",
-    "rus": "Восстанавливает $healing$ ед. здоровья за каждую атаку горящего врага",
+    "rus": "Восстанавливает $healing$ ед. здоровья за каждую атаку #powermechanic#горящего#/powermechanic# врага",
     "path": "Localization/Translations/Powers/TooltipStrings/HumanTorch/HealOnBurning.prototype"
   },
   "8492654764537546045": {
     "eng": "+30 Spirit and Bonus Spirit Regeneration for 20 minutes.",
-    "rus": "#power#Бонус к духу и восстановлению духа#/power#",
+    "rus": "+30 к духу и бонус к восстановлению духа на 20 минут.",
     "path": "Powers/ItemPowers/ItemConditions/FlaskOfSpiritGreaterCondition.prototype"
   },
   "8499647009892009226": {
     "eng": "Adds the #emphasis#A.R.M.O.R. Defense Upgrade#/emphasis# enchantment to any Slot 2, 3, or 4 gear of Epic or higher rarity, replacing any existing enchantments already on the item.  This enchantment can only be used on item level 63 items and higher.\n\nLevel 60 enchantment gives you:\n#emphasis#+200 Defense Rating#/emphasis#\n",
-    "rus": "Добавляет заклинание #emphasis#Улучшение защиты АРМОР#/emphasis# к любой ячейке снаряжения (2, 3 или 4) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n#emphasis#+200 к рейтингу защиты/emphasis#",
+    "rus": "Добавляет заклинание #emphasis#Улучшение защиты АРМОР#/emphasis# к любой ячейке снаряжения (2, 3 или 4) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n#emphasis#+200 к рейтингу защиты#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Enchanting/EnchantmentRecipe025.prototype"
   },
   "8640462477789562215": {
@@ -1416,22 +1416,22 @@
   },
   "8657376522748232979": {
     "eng": "Fire snapshot beams from your visor that efficiently pierce through anything in their path, dealing increased damage to #emphasis#slowed#/emphasis# targets.",
-    "rus": "Быстро выпустить заряды энергии из визора у вас во лбу, поражая всех врагов на пути.",
+    "rus": "Выпускайте мгновенные лучи из визора, которые эффективно пробивают всё на своём пути, нанося увеличенный урон #emphasis#замедленным#/emphasis# целям.",
     "path": "Powers/Player/Cyclops/Rework/BasicBeam.prototype"
   },
   "8660731738360972600": {
     "eng": "Use the terminals in any player hub to enter #mission#HYDRA Island#/mission#.\n\n#mission#HYDRA Guards and Turrets#/mission# are found throughout the instance. #mission#Mandarin#/mission# is located though the door marked #mission#Mandarin's Throne Room#/mission# at the end of the instance.",
-    "rus": "Используйте #mission#красные#/mission#, #mission#зеленые#/mission# или #mission#космические#/mission# терминалы в любом штабе, чтобы попасть на #mission#остров ГИДРЫ#/mission#. Космический терминал доступен на 60 уровне.\n\n#mission#Охранники ГИДРЫ и турели#/mission# есть по всей карте. #mission#Мандарин#/mission# находится в помещении за дверью, помеченной #mission#Тронный зал Мандарина#/mission#, в конце карты.",
+    "rus": "Используйте терминалы в любом штабе, чтобы попасть на #mission#остров ГИДРЫ#/mission#.\n\n#mission#Охранники ГИДРЫ и турели#/mission# есть по всей карте. #mission#Мандарин#/mission# находится в помещении за дверью, помеченной #mission#Тронный зал Мандарина#/mission#, в конце карты.",
     "path": "Missions/Prototypes/LegendaryQuests/LQTerminal/LegendaryTerminalMandarin.prototype"
   },
   "8675794158609368379": {
     "eng": "Adds the #emphasis#A.R.M.O.R. Health Upgrade#/emphasis# enchantment to any Slot 2, 3, or 4 gear of Epic or higher rarity, replacing any existing enchantments already on the item.. This enchantment can only be used on item level 63 items and higher.\n\nLevel 60 enchantment gives you:\n#emphasis#+300 Health#/emphasis#",
-    "rus": "Добавляет заклинание #emphasis#Улучшение здоровья АРМОР#/emphasis# к любой ячейке снаряжения (2, 3 или 4) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+300 к здоровью/emphasis#",
+    "rus": "Добавляет заклинание #emphasis#Улучшение здоровья АРМОР#/emphasis# к любой ячейке снаряжения (2, 3 или 4) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+300 к здоровью#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Enchanting/EnchantmentRecipe027.prototype"
   },
   "8685128007302776120": {
     "eng": "Damage: +$evalRegisterFloat0.pct$% for 6s, after you spend #powermechanic#Photonic Energy#/powermechanic# with a Power",
-    "rus": "Урон: +$evalRegisterFloat0.pct$% в течение 6 с после применения способности, тратящей фотонную энергию",
+    "rus": "Урон: +$evalRegisterFloat0.pct$% в течение 6 с после применения способности, тратящей #powermechanic#фотонную энергию#/powermechanic#",
     "path": "Localization/Translations/Powers/TooltipStrings/MsMarvel/PhotonicEnergyBonusDamageER0.prototype"
   },
   "8781555718232802625": {
@@ -1441,12 +1441,12 @@
   },
   "8826460791009772854": {
     "eng": "When you use a #powerkeyword#Lightning#/powerkeyword# Power, the next #powername#$PowerReference0.PowerName$#/powername# deals $DamageMultForPower.pct$% more damage",
-    "rus": "При использовании грозовой способности следующий Грозовой натиск наносит на $DamageMultForPower.pct$% больше урона",
+    "rus": "При использовании #powerkeyword#грозовой#/powerkeyword# способности следующий #powername#$PowerReference0.PowerName$#/powername# наносит на $DamageMultForPower.pct$% больше урона",
     "path": "Localization/Translations/Powers/TooltipStrings/Storm/ChargedStrike.prototype"
   },
   "8829530842234225989": {
     "eng": "Restore $endurancechangebase$ $primarymanabehaviorname$ when you hit with a #powerkeyword#Ranged#/powerkeyword# Power",
-    "rus": "Восстановление $endurancechangebase$ ед. $primarymanabehaviorname.locflagG$ за попадание с расстояния",
+    "rus": "Восстановление $endurancechangebase$ ед. $primarymanabehaviorname.locflagG$ за попадание с #powerkeyword#дальней#/powerkeyword# способности",
     "path": "Localization/Translations/Powers/TooltipStrings/EnduranceChangeBaseOnRangedHit.prototype"
   },
   "8831714231799579963": {
@@ -1456,7 +1456,7 @@
   },
   "8843782638928069944": {
     "eng": "Regenerate $healing.nofraction$ Health when you hit an enemy afflicted with #powermechanic#Hellfire#/powermechanic#",
-    "rus": "Восстанавливает $healing.nofraction$ ед. здоровья, если вы успешно атакуете врага, пораженного \"Адским огнем\"",
+    "rus": "Восстанавливает $healing.nofraction$ ед. здоровья, если вы успешно атакуете врага, пораженного #powermechanic#Адским огнем#/powermechanic#",
     "path": "Localization/Translations/Powers/TooltipStrings/GhostRider/HealOnHitWithHellfire.prototype"
   },
   "8879060070137070955": {
@@ -1466,7 +1466,7 @@
   },
   "8881316993733494033": {
     "eng": "#emphasis#On Repeated Activation:#/emphasis#",
-    "rus": "#emphasis#При повторной активации:#/emphasis#\n+$DamagePctBonusForPowerKeyword.pct$% к базовому урону\n+$HealingReceivedMultPowerKeyword.pct$% к скорости исцеления\n+$EnduranceCostChangePctKeywrd.pct$% к расходу $primarymanabehaviorname.locflagG$\nНеиспользованные бонусы обнуляются через $duration$",
+    "rus": "#emphasis#При повторной активации:#/emphasis#",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/CategoryOnRepeatedActivation.prototype"
   },
   "8883789662304535879": {
@@ -1476,22 +1476,22 @@
   },
   "8932012859367032170": {
     "eng": "Use this item this item to increase your Rare Item Find by 50%, increase your Special Item Find by 50%, and to increase the amount of Danger Room Merits granted from the Danger Room Victory chests. Lasts 1 hour.",
-    "rus": "Щелкните ПКМ, чтобы увеличить на 50% шанс найти особые или редкие предметы, а также получить дополнительные марки Одина за выполнение легендарных заданий и найти марки Одина после победы над боссом или в сундуке с наградой \"Защиты Икс\" или \"Голо-симулятора\". Эффект действует 2 часа.\n#emphasis#Увеличивает шанс получить Дар Одина (большой набор подарков) после победы над боссом или после завершения \"Защиты Икс\" или \"Голо-симулятора\".#/emphasis#",
+    "rus": "Используйте этот предмет, чтобы увеличить шанс нахождения редких предметов на 50%, шанс нахождения особых предметов на 50% и количество наградных знаков Комнаты Опасности, получаемых из сундуков победы в Комнате Опасности. Действует 1 час.",
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/DeprecatedConsumables/Jackpot/Items/DangerRoomBoost2.prototype"
   },
   "8932357925694473628": {
     "eng": "#emphasis#You have been given a Gift! Wow! You sure are popular!#/emphasis#\nUse this item this item to increase your Special Item Find by $usepower.condition0.lootbonusspecialpct$% for $usepower.condition0.duration$.",
-    "rus": "Щелкните ПКМ, чтобы увеличить шанс найти особые предметы на $usepower.condition0.lootbonusspecialpct$% на $usepower.condition0.duration$.",
+    "rus": "#emphasis#Вам вручили подарок! Вау! Вы действительно популярны!#/emphasis#\nИспользуйте этот предмет, чтобы увеличить шанс нахождения особых предметов на $usepower.condition0.lootbonusspecialpct$% на $usepower.condition0.duration$.",
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/DeprecatedConsumables/SpecialItemFind/Items/ShopBoostSIFGifty.prototype"
   },
   "8967253813294007610": {
     "eng": "Regenerate $healingovertimebase.nofraction$ Health per second while #powermechanic#Stealthed#/powermechanic#",
-    "rus": "Восстановление $healingovertimebase.nofraction$ ед. здоровья в секунду в режиме маскировки",
+    "rus": "Восстановление $healingovertimebase.nofraction$ ед. здоровья в секунду в #powermechanic#режиме маскировки#/powermechanic#",
     "path": "Localization/Translations/Powers/TooltipStrings/HealingOverTimeBaseWhileStealthed.prototype"
   },
   "8976603072338199869": {
     "eng": "Adds the #emphasis#A.R.M.O.R. Summoned Ally Damage Upgrade#/emphasis# enchantment to any Slot 1 or 5 gear of Epic or higher rarity, replacing any existing enchantments already on the item. This enchantment can only be used on item level 63 items and higher.\n\nLevel 60 enchantment gives you:\n#emphasis#+5% Summon Ally Damage#/emphasis#",
-    "rus": "Добавляет заклинание #emphasis#Улучшение урона от призванных союзников АРМОР#/emphasis# к любой ячейке снаряжения (от 1 до 5) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+5% к урону призванных союзников/emphasis#",
+    "rus": "Добавляет заклинание #emphasis#Улучшение урона от призванных союзников АРМОР#/emphasis# к любой ячейке снаряжения (от 1 до 5) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+5% к урону призванных союзников#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Enchanting/EnchantmentRecipe032.prototype"
   },
   "8980780409078678858": {
@@ -1501,22 +1501,22 @@
   },
   "8984571202983101711": {
     "eng": "$InfluenceCurrentWeeklyAmount$ / $InfluenceWeeklyCap$ Influence Weekly Limit\n\nWeekly Limits are reset on $InfluenceResetDay$ at $InfluenceResetTime$am GMT",
-    "rus": "$InfluenceCurrentWeeklyAmount$ / $InfluenceWeeklyCap$ - еженедельный лимит репутации\n\nВремя обнуления еженедельных лимитов репутации: $InfluenceResetTime$ утра по Гринвичу",
+    "rus": "$InfluenceCurrentWeeklyAmount$ / $InfluenceWeeklyCap$ - еженедельный лимит репутации\n\nВремя обнуления еженедельных лимитов репутации: каждый $InfluenceResetDay$ в $InfluenceResetTime$ утра по Гринвичу",
     "path": "Localization/Translations/Tooltips/InfluenceWeeklyLimit.prototype"
   },
   "9013904145989436688": {
     "eng": "+$damagepctbonus.pct$% when you use a stolen #teambuff#Enhancement#/teambuff# power",
-    "rus": "Рейтинг урона: +$damagerating$#hidden# ($damagerating.divbylevel$ за каждый уровень)#/hidden# в течение $duration$ (независимо от длительности способности), когда вы используете украденную #teambuff#ударную#/teambuff# способность",
+    "rus": "+$damagepctbonus.pct$% когда вы используете украденную способность #teambuff#Усиления#/teambuff#",
     "path": "Localization/Translations/Powers/TooltipStrings/Rogue/StolenPowerRedSkullSummonBuff.prototype"
   },
   "9076026175177098649": {
     "eng": "Use this item to claim a random reward! Items given will be for your #emphasis#current hero#/emphasis#! Find more of these Fortune Cards by getting loot explosions from the summer power ups!\n\n#RarityCosmic#Super Epics: #/RarityCosmic#\n*Random Costume\n*Ultimate Upgrade Token\n\n#QualityEpic# Epics: #/QualityEpic#\n*Random Unique Item with Challenge Bonus\n*Brutally Awesome Summer Shades \n*The Perfect Wave\n*The Big Kahuna\n*Chest of 100 Odin Marks\n\n#RarityRare# Rares: #/RarityRare#\n*Random Cosmic Medallion\n*Random Unique Item\n*Cosmic Team-Up Gear\n\n#RarityUncommon# Commons: #/RarityUncommon#\n*Cosmic Ring\n*Epic Team-Up Gear\n*Epic Insignia\n*Stack of 10 Relics\n*Cosmic Catalyst\n*Chest of 10 Odin Marks\n*Stack of 10 Crafting Elements or an Unstable Molecule",
-    "rus": "Щелкните ПКМ, чтобы получить выбранную случайным образом награду! Данные предметы получит ваш #emphasis#выбранный герой#/emphasis#! Получите больше карт судьбы, победив врагов в Мидтауне!\nЭти карты судьбы - #emphasis#космические#/emphasis#, они дают более высокий шанс получить редкий, эпический или суперэпический предмет!\n\n#RarityCosmic#Суперэпические предметы: #/RarityCosmic#\n*Случайный костюм\n*Жетон абсолютного улучшения\n\n#QualityEpic# Эпические предметы: #/QualityEpic#\n*Случайный абсолютный предмет с бонусом испытания\n*Бронежилет мидтаунского патруля \n*Кепка Фреда Доусона\n*Сундук с 100 марками Одина\n\n#RarityRare# Редкие предметы: #/RarityRare\n*Случайный космический медальон\n*Мидтаунский перстень доблести\n*Случайный абсолютный предмет\n\n#rarityuncommon# Обычные предметы: #/rarityuncommon#\n*Космическое кольцо\n*Эпическое снаряжение напарника\n*Эпическая символика команды\n*Набор из 10 реликвий\n*Мощное ядро костюма\n*Сундук с 10 марками Одина\n*Нестабильная молекула",
+    "rus": "Используйте этот предмет, чтобы получить случайную награду! Предметы будут выданы для #emphasis#текущего героя#/emphasis#! Дополнительные Карты Удачи можно получить, собирая летние усиления!\n\n#RarityCosmic#Супер-эпические:#/RarityCosmic#\n*Случайный костюм\n*Жетон ультимативности\n\n#QualityEpic# Эпические:#/QualityEpic#\n*Случайный уникальный предмет с бонусом испытания\n*Сокрушительно крутые летние очки\n*Идеальная волна\n*Большой Кахуна\n*Сундук со 100 знаками Одина\n\n#RarityRare# Редкие:#/RarityRare#\n*Случайная космическая медаль\n*Случайный уникальный предмет\n*Космическая экипировка напарника\n\n#RarityUncommon# Обычные:#/RarityUncommon#\n*Космическое кольцо\n*Эпическая экипировка напарника\n*Эпический символ\n*Набор из 10 реликвий\n*Космический катализатор\n*Сундук с 10 знаками Одина\n*Набор из 10 элементов крафта или нестабильная молекула",
     "path": "Entity/Items/Consumables/Prototypes/FortuneCard/SummerFortuneCardV2.prototype"
   },
   "9111251503958197571": {
     "eng": "Can only be activated within 3 seconds of performing a #powerkeyword#Finisher#/powerkeyword# at maximum $secondarymanabehaviorname$",
-    "rus": "Можно активировать только в течение 3 секунд после добивающего удара, при наличии максимального числа очков комбо",
+    "rus": "Можно активировать только в течение 3 секунд после #powerkeyword#добивающего удара#/powerkeyword#, при наличии максимального числа очков комбо",
     "path": "Localization/Translations/Powers/TooltipStrings/OnlyUsableAfterFullComboFinisher.prototype"
   },
   "9120860071646463299": {
@@ -1531,17 +1531,17 @@
   },
   "9201636092874458481": {
     "eng": "Lockheed uses his own #purple#Spirit#/purple#, which regenerates over time.  Regeneration is paused for a short duration when he uses a power.",
-    "rus": "Локхид использует собственный дух, который со временем восстанавливается, когда не применяются способности.",
+    "rus": "Локхид использует собственный #purple#дух#/purple#, который со временем восстанавливается, когда не применяются способности.",
     "path": "Entity/Characters/Avatars/ManaBehaviors/SecondaryResource/KittyPrydeLockheedEnergy.prototype"
   },
   "9234715703225419010": {
     "eng": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% $primaryManaBehaviorName$ Cost to $param1.powerKeyword$ Powers",
-    "rus": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% расхода $primaryManaBehaviorName.locflagG$ для применения \"Полета ветра\"",
+    "rus": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% расхода $primaryManaBehaviorName.locflagG$ для применения $param1.powerKeyword$",
     "path": "Entity/Items/Armor/UniquePrototypes/Avatars/Storm/Unique043.prototype"
   },
   "9310504490037937471": {
     "eng": "Gain a 5% chance on hit to trigger #powername#$powername$#/powername# and create a #powername#$onpowerstartpower.summonentity.displayname$#/powername# (Cooldown: $cooldown$)",
-    "rus": "5% шанс при попадании сделать выпад корнями, нанося $damage$ ед. физического урона и создавая саженец Грута (перезарядка: 30 с)",
+    "rus": "5% шанс при попадании активировать #powername#$powername$#/powername# и создать #powername#$onpowerstartpower.summonentity.displayname$#/powername# (перезарядка: $cooldown$)",
     "path": "Localization/Translations/Powers/TooltipStrings/Rogue/StolenPowerGrootProcs.prototype"
   },
   "9311220620001346880": {
@@ -1551,12 +1551,12 @@
   },
   "9317343937632929034": {
     "eng": "Enemy takes +$damagepctvulnerabilityVsPower.pct$% damage from #green#Air#/green# effects for $duration$ (stacks up to 2 times)",
-    "rus": "#bionic#Смертельный ход:#/bionic# враги получают на $damagepctvulnerabilityVsPowerKwd.pct$% больше урона от $damagepctvulnerabilityVsPowerKwd.param0.powerkeyword.locflagP2G$ на $duration$",
+    "rus": "Враг получает +$damagepctvulnerabilityVsPower.pct$% урона от эффектов #green#Воздуха#/green# в течение $duration$ (складывается до 2 раз)",
     "path": "Localization/Translations/Powers/TooltipStrings/Starlord/AirVulnerability.prototype"
   },
   "9345792160329499921": {
     "eng": "When you hit an enemy, your next attack restores $endurancechangebase$ $primaryManaBehaviorName$ (cannot trigger from #powername#$powerReference0.powername$#/powername#)",
-    "rus": "При попадании ваша следующая атака восстанавливает $secondaryresourcechangepct.pct$% псионического барьера и 25 ед. $primarymanabehaviorname.locflagG$ (не активируется Пси-толчком)",
+    "rus": "При попадании по врагу ваша следующая атака восстанавливает $endurancechangebase$ $primaryManaBehaviorName$ (не срабатывает от #powername#$powerReference0.powername$#/powername#)",
     "path": "Localization/Translations/Powers/TooltipStrings/Psylocke/PsiEnergyOnNextHit.prototype"
   },
   "9361296781949273474": {
@@ -1566,7 +1566,7 @@
   },
   "9384195155251168616": {
     "eng": "Enemies who are both #powermechanic#Vulnerable#/powermechanic# and #powermechanic#Weakened#/powermechanic# are dealt damage twice and are #powermechanic#Stunned#/powermechanic# for $duration$",
-    "rus": "Враги, одновременно уязвимые и ослабленные, получают вдвое больше урона. Кроме того, они оглушены в течение $duration$",
+    "rus": "Враги, одновременно #powermechanic#уязвимые#/powermechanic# и #powermechanic#ослабленные#/powermechanic#, получают вдвое больше урона. Кроме того, они #powermechanic#оглушены#/powermechanic# в течение $duration$",
     "path": "Localization/Translations/Powers/TooltipStrings/Psylocke/ConeBlastCombo.prototype"
   },
   "9398254764999116097": {
@@ -1596,12 +1596,12 @@
   },
   "9500343599292155189": {
     "eng": "$currencyamount:0$ S.H.I.E.L.D. Omega Access Files",
-    "rus": "Файл ЩИТа с уровнем доступа \"Омега\"",
+    "rus": "$currencyamount:0$ Файлов ЩИТа с уровнем доступа \"Омега\"",
     "path": "Entity/Items/CurrencyItems/SeasonalLE/Seasonal/Omega/OmegaFile.prototype"
   },
   "9508390439567623482": {
     "eng": "Damage: +$DamageMultVsKeyword.pct$% against #powermechanic#Stunned#/powermechanic# enemies",
-    "rus": "Урон: +$DamageMultVsKeyword.pct$% против оглушенных врагов",
+    "rus": "Урон: +$DamageMultVsKeyword.pct$% против #powermechanic#оглушенных#/powermechanic# врагов",
     "path": "Localization/Translations/Powers/TooltipStrings/DamageMultVsStun.prototype"
   },
   "9599547465404384568": {
@@ -1611,7 +1611,7 @@
   },
   "9611919290450314511": {
     "eng": "#powername#Tiger Burst#/powername# $damageType$ Damage: $damage$ #hidden#($damageRange.precision1.divByLevel$ per level)#/hidden#",
-    "rus": "#powername#Тигриный Взрыв#/powername$ $damageType$ Урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#",
+    "rus": "#powername#Тигриный Взрыв#/powername# $damageType$ Урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#",
     "path": "Localization/Translations/Powers/TooltipStrings/TigerStanceChiBurstDamage.prototype"
   },
   "9624334743942464881": {
@@ -1626,12 +1626,12 @@
   },
   "9690513369497601336": {
     "eng": "$displayName$ conjures a grand thunderstorm above your enemies, striking them with vicious lightning strikes.",
-    "rus": "Пролетая по воздуху, ваш напарник может наколдовать сильнейшую грозу, которая пройдет над вашими врагами и будет разить их страшными молниями.",
+    "rus": "$displayName$ создаёт мощную грозу над врагами, поражая их яростными ударами молний.",
     "path": "Powers/TeamUps/BetaRayBill/AwaySkuttlebuttProc.prototype"
   },
   "9713855357169436006": {
     "eng": "#powermechanic#Stealth#/powermechanic# Duration: $duration$ (applies if you do not hit an enemy during #powername#$PowerName$#/powername#)",
-    "rus": "Длительность маскировки: $duration$ (применяется, если вы не атакуете врага во время Рывка в тени)",
+    "rus": "Длительность #powermechanic#маскировки#/powermechanic#: $duration$ (применяется, если вы не атакуете врага во время #powername#$PowerName$#/powername#)",
     "path": "Localization/Translations/Powers/TooltipStrings/Psylocke/StealthDuration.prototype"
   },
   "9764520496437134650": {
@@ -1646,17 +1646,17 @@
   },
   "9774160400216360258": {
     "eng": "Use the Chapter 2 waypoint to travel to the #mission#Shipping Yard#/mission# in the #mission#New Jersey Docks#/mission#. \n\n#mission#Treasure Rooms#/mission# are located in the #mission#Shipping yard#/mission# of the New Jersey Docks. Treasure Rooms are identifiable by golden doorways and only one treasure room in the Shipping Yard needs to be cleared. Opening the Treasure Chest denotes completion.",
-    "rus": "Используйте точку перемещения из главы 2, чтобы попасть в #mission#Грузовой порт#/mission# в #mission#доках Нью-Джерси#/mission#. \n\n#mission#Сокровищницы#/ расположены в #mission#Грузовой порте#/mission# в доках Джерси. Сокровищы можно узнать по золотым дверям, и только одна сокровища в Грузовом порте должна быть очищена. Открытие сундука сокровищ означает завершение.",
+    "rus": "Используйте точку перемещения из главы 2, чтобы попасть в #mission#Грузовой порт#/mission# в #mission#доках Нью-Джерси#/mission#. \n\n#mission#Сокровищницы#/mission# расположены в #mission#Грузовой порте#/mission# в доках Джерси. Сокровищы можно узнать по золотым дверям, и только одна сокровища в Грузовом порте должна быть очищена. Открытие сундука сокровищ означает завершение.",
     "path": "Missions/Prototypes/LegendaryQuests/LQStory/LegendaryCH02StorageYard2.prototype"
   },
   "9805446294912828736": {
     "eng": "When you Brutally Strike with a Ranged Power, gain +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ Ranged Damage Rating, +$param1.power.condition0.critratingbonusaddpowerkeyword.nofraction$ Critical Rating with Ranged Powers, +$param1.power.condition0.defense.nofraction$ Defense Rating and +$param1.power.condition0.BlockRatingBonusAdd.nofraction$ Deflect Rating for $param1.power.condition0.duration$",
-    "rus": "Если вы наносите Критический удар любой способностью, то получаете +$param1.power.condition0.statstrengthmodifier$ к силе и +$param1.power.condition0.statenergyprojectionmodifier$ к энергии на $param1.power.condition0.duration$",
+    "rus": "При нанесении Сокрушительного удара в дальнем бою вы получаете +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ к рейтингу урона в дальнем бою, +$param1.power.condition0.critratingbonusaddpowerkeyword.nofraction$ к рейтингу критического удара для атак дальнего боя, +$param1.power.condition0.defense.nofraction$ к рейтингу защиты и +$param1.power.condition0.BlockRatingBonusAdd.nofraction$ к рейтингу отражения на $param1.power.condition0.duration$",
     "path": "Entity/Items/Armor/UniquePrototypes/Avatars/AnyHero/Slot3/Unique381.prototype"
   },
   "9831584258986345785": {
     "eng": "Use any waypoint or terminal to travel to #mission#Midtown Patrol#/mission#. Midtown Patrol is found under the M.A.P. #mission#Challenges#/mission# tab. \n\n#mission#Doop Duplicates#/mission# count toward the Midtown Bosses objective. #mission#Elite#/mission# enemies are identifiable by blue and yellow auras. #mission#Rescue citizens#/mission# by participating in ambushes and discoveries involving threatened civilians.\n\nAll objectives must be completed in #mission#Midtown Patrol#/mission# to receive credit.",
-    "rus": "Используйте любую точку перемещения или терминал, чтобы отправиться на задание #mission#\"Патруль в Мидтауне\"#/mission# на закладке \"Испытания\" К.А.Р.Т.Ы.\n\n#mission#Копии Дупа#/mission#идут в зачет задачи по уничтожению боссов Мидтауна. #mission#Элитных#/mission# врагов можно узнать по синей или желтой ауре. #mission#Спасайте граждан#/mission#, участвуя в засадах и поисковых операциях, спасая граждан, которым угрожает опасность.\n\nЧтобы задание было зачтено, выполните все задачи в #mission#\"Патруле в Мидтауне\"#/mission#.",
+    "rus": "Используйте любую точку перемещения или терминал, чтобы отправиться на задание #mission#\"Патруль в Мидтауне\"#/mission# на вкладке #mission#Испытания#/mission# К.А.Р.Т.Ы.\n\n#mission#Копии Дупа#/mission#идут в зачет задачи по уничтожению боссов Мидтауна. #mission#Элитных#/mission# врагов можно узнать по синей или желтой ауре. #mission#Спасайте граждан#/mission#, участвуя в засадах и поисковых операциях, спасая граждан, которым угрожает опасность.\n\nЧтобы задание было зачтено, выполните все задачи в #mission#\"Патруле в Мидтауне\"#/mission#.",
     "path": "Missions/Prototypes/SharedQuests/DailyMissionPatrol4Wed.prototype"
   },
   "9863006720712770839": {
@@ -1666,12 +1666,12 @@
   },
   "9878810366520001901": {
     "eng": "Use the terminals in any player hub to enter #mission#Fisk Tower#/mission#. \n\n#mission#Conference Tables#/mission# and #mission#Hammerhead Gang Members#/mission# are found throughout the instance. #mission#Kingpin#/mission# is located through the elevator door marked #mission#Kingpin's Office#/mission# on the fourth floor.",
-    "rus": "Используйте #mission#красные#/mission#, #mission#зеленые#/mission# или #mission#космические#/mission# терминалы в любом штабе, чтобы попасть в #mission#Башню Фиска#/mission#. Космический терминал доступен на 60 уровне.\n\n#mission#Столы для совещаний#/mission# и #mission#Маггия#/mission# расположены по всей карте. К #mission#Кингпину#/mission# можно попасть через лифт на четвертом этаже, помеченный как #mission#офис Кингпина#/mission#.",
+    "rus": "Используйте терминалы в любом штабе, чтобы попасть в #mission#Башню Фиска#/mission#. \n\n#mission#Столы для совещаний#/mission# и #mission#бандиты Кувалды#/mission# расположены по всей карте. К #mission#Кингпину#/mission# можно попасть через лифт на четвертом этаже, помеченный как #mission#офис Кингпина#/mission#.",
     "path": "Missions/Prototypes/LegendaryQuests/LQTerminal/LegendaryTerminalKingpin.prototype"
   },
   "9952733900444665142": {
     "eng": "#powername#Harlem Dropkick:#/powername# +$CritRatingBonusAdd.precision0$ #hidden#($CritRatingBonusAdd.precision1.divbylevel$ per level) #/hidden#Critical Hit Rating",
-    "rus": "Гарлемский бросок с подсечкой: +$CritRatingBonusAdd.precision0$ #hidden#($CritRatingBonusAdd.precision1.divbylevel$ за каждый уровень) #/hidden# Рейтинг критического удара",
+    "rus": "#powername#Гарлемский бросок с подсечкой:#/powername# +$CritRatingBonusAdd.precision0$ #hidden#($CritRatingBonusAdd.precision1.divbylevel$ за каждый уровень) #/hidden# Рейтинг критического удара",
     "path": "Localization/Translations/Powers/TooltipStrings/LukeCage/HarlemDropkickCritRatingBonusAdd.prototype"
   },
   "9954705234602362170": {
@@ -1686,22 +1686,22 @@
   },
   "10041381720500143425": {
     "eng": "Unleash a continuous blast of wind that knocks back enemies with the initial blast.",
-    "rus": "Призвать непрерывный ветер из верхних слоев тропосферы, который сбивает врагов с ног своим первым порывом. Враги, попавшие в непрерывную струю, промерзают до костей и #highlight#замедляются#/highlight#, а выпущенные ими снаряды имеют шанс на отражение.",
+    "rus": "Призвать непрерывный ветер из верхних слоев тропосферы, который сбивает врагов с ног своим первым порывом.",
     "path": "Powers/Player/Storm/Zephyr.prototype"
   },
   "10049519382161524046": {
     "eng": "Regenerate $healing.nofraction$ Health when you hit with a #powerkeyword#Melee#/powerkeyword# Power",
-    "rus": "Восстановление $healing.nofraction$ ед. здоровья при попадании в ближнем бою",
+    "rus": "Восстановление $healing.nofraction$ ед. здоровья при попадании в #powerkeyword#ближнем бою#/powerkeyword#",
     "path": "Localization/Translations/Powers/TooltipStrings/HealingOnMeleeHit.prototype"
   },
   "10064887402191390003": {
     "eng": "$displayname$ pulls out the M-60 and lays waste with a rain of lead.",
-    "rus": "Франкенкастл достает М-60 и поливает все вокруг свинцом.",
+    "rus": "$displayname$ достает М-60 и поливает все вокруг свинцом.",
     "path": "Powers/TeamUps/FrankenCastle/BulletSpray.prototype"
   },
   "10091160309860074819": {
     "eng": "Craft a Red Onslaught Medallion, a Level 60 Unique Medallion that is usable by Any Hero\n\n#emphasis#Red Onslaught Medallion#/emphasis#\n#emphasis#When you Critically Hit a Raid Boss, restore Health and gain Damage Rating for 8s#/emphasis#\n#emphasis#+Energy#/emphasis#\n#emphasis#+Health#/emphasis#\n#emphasis#You take % less damage from enemy Area Powers#/emphasis#\n#emphasis#+Strength#/emphasis#\n#emphasis#+Critical Damage Rating#/emphasis#\n#emphasis#+Brutal Damage Rating#/emphasis#\n#emphasis#Manifest a Damage Amplification Field when you defeat an enemy, increasing the damage of anyone standing inside of it.#/emphasis#",
-    "rus": "Создает палицу надзирателя - уникальный предмет уровня 60 в ячейке 1, может использовать любой герой\n\n#emphasis#Палица надзирателя#/emphasis#\n#emphasis#+ к рейтингу урона#/emphasis#\n#emphasis#+ к рейтингу физической защиты#/emphasis#\n#emphasis#+ к рейтингу урона в ближнем бою#/emphasis#\n#emphasis#+ Рейтинг критического урона#/emphasis#\n#emphasis#Снижение урона от атак по площади#/emphasis#\n#emphasis#+ ед. здоровья#/emphasis#\n#emphasis#При попадании способностью ближнего боя вы получите +1 ед. силы на 10 с (эффект суммируется до 3 раз)#/emphasis#\n#emphasis#Нанеся Критический удар, вы можете получить + к рейтингу защиты на 5 с (перезарядка 30 с)#/emphasis#\n#emphasis#Погибая, союзник наносит врагам физический урон и ослабляет их#/emphasis#\n#emphasis#+2 ко всем навыкам#/emphasis#",
+    "rus": "Создать Медальон Красного Натиска - уникальный медальон 60-го уровня для любого героя\n\n#emphasis#Медальон Красного Натиска#/emphasis#\n#emphasis#При критическом попадании по рейдовому боссу восстанавливает здоровье и увеличивает рейтинг урона на 8 сек#/emphasis#\n#emphasis#+Энергия#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#Вы получаете на % меньше урона от вражеских атак по области#/emphasis#\n#emphasis#+Сила#/emphasis#\n#emphasis#+Рейтинг критического урона#/emphasis#\n#emphasis#+Рейтинг сокрушительного урона#/emphasis#\n#emphasis#Создает поле усиления урона при победе над врагом, увеличивая урон всех, кто находится внутри.#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/RedOnslaughtMedallionRecipe.prototype"
   },
   "10094089533382460731": {
@@ -1711,7 +1711,7 @@
   },
   "10105919715808970006": {
     "eng": "#orange#Lockheed Spirit#/orange# Cost:",
-    "rus": "Расход #orange#духа Локхида#/orange#: $SecondaryResourceCost$",
+    "rus": "Расход #orange#духа Локхида#/orange#:",
     "path": "Localization/Translations/Powers/TooltipStrings/CostInfoStrings/SecondaryResourceLockheedEnergy.prototype"
   },
   "10159969263593784599": {
@@ -1726,22 +1726,22 @@
   },
   "10287690333858694410": {
     "eng": "Blast all nearby enemies with a wave of consuming frost magic.",
-    "rus": "Разметать ближайших врагов волной холода.\nУ #emphasis#охлажденных#/emphasis# врагов, попавших под удар, высасывается жизненная сила.\n#emphasis#Замороженные#/emphasis# враги раскалываются на куски, после чего волна наносит им двойной урон.",
+    "rus": "Сокрушите всех ближайших врагов волной всепоглощающей ледяной магии.",
     "path": "Powers/Player/Loki/FrostNova.prototype"
   },
   "10294084505124603187": {
     "eng": "#waypointheader#Chapter 7#/waypointheader#    #waypointlabel#LOCATION (Public):#/waypointlabel# #waypointlevels#Mutate Marsh#/waypointlevels##waypointlabel#   LEVEL RANGE:#/waypointlabel# #waypointlevels#$MinLevel$-$MaxLevel$#/waypointlevels#\n#waypointtext#On the edge of Mutate Marsh, close to the Chasm of Mist leading to the Infested Jungle. Sabretooth stalks the marsh, acting as the first layer of defense for Sinister's Lab.#/waypointtext#\n#waypointlabel#Super Villain Showdown: #/waypointlabel##waypointtext#Sabretooth Showdown#waypointtext# ",
-    "rus": "#waypointheader#Болото выродков#/waypointheader# #waypointlabel#МЕСТОНАХОЖДЕНИЕ:#/waypointlabel# #waypointlevels#Дикая Земля#/waypointlevels##waypointlabel# ДИАПАЗОН УРОВНЕЙ:#/waypointlabel##waypointlevels#$MinLevel$-$MaxLevel$#/waypointlevels#\n#waypointtext#На краю Болота выродков, рядом с Туманным ущельем, ведущим в Зараженные джунгли. По болоту бродит Саблезубый, который служит первым уровнем защиты лаборатории Зловещего.#/waypointtext#",
+    "rus": "#waypointheader#Chapter 7#/waypointheader# #waypointlabel#МЕСТО (Общее):#/waypointlabel# #waypointlevels#Болото выродков#/waypointlevels##waypointlabel# ДИАПАЗОН УРОВНЕЙ:#/waypointlabel##waypointlevels#$MinLevel$-$MaxLevel$#/waypointlevels#\n#waypointtext#На краю Болота выродков, рядом с Туманным ущельем, ведущим в Зараженные джунгли. По болоту бродит Саблезубый, который служит первым уровнем защиты лаборатории Зловещего.#/waypointtext#",
     "path": "Waypoints/CH07Savageland/MutateMarsh.prototype"
   },
   "10361872549495702849": {
     "eng": "Deals $evalregisterfloat0.pct$% additional damage per stack of #powermechanic#Hellfire#powermechanic#",
-    "rus": "Наносит 20% дополнительного урона за каждый накопленный набор #emphasis#Адского Пламени#/emphasis#",
+    "rus": "Наносит $evalregisterfloat0.pct$% дополнительного урона за каждый накопленный набор #powermechanic#Адского Пламени#/powermechanic#",
     "path": "Localization/Translations/Powers/TooltipStrings/GhostRider/BonusDamagePerHellfireStackER0.prototype"
   },
   "10375319632476112141": {
     "eng": "Stun Duration: $duration$ if enemy is #powermechanic#Slowed#/powermechanic#",
-    "rus": "Длительность оглушения: $duration$, если противник замедлен",
+    "rus": "Длительность оглушения: $duration$, если противник #powermechanic#замедлен#/powermechanic#",
     "path": "Localization/Translations/Powers/TooltipStrings/DurationStunVsSlowed.prototype"
   },
   "10442925188083090790": {
@@ -1756,37 +1756,37 @@
   },
   "10491883782242764112": {
     "eng": "+$evalRegisterFloat0.pct$% while you have 50% or more maximum $primarymanabehaviorname$",
-    "rus": "+$evalRegisterFloat0.pct$%, если у вас есть не менее 50% #debris#Обломков#/debris#",
+    "rus": "+$evalRegisterFloat0.pct$%, если у вас есть не менее 50% $primarymanabehaviorname$",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Value/DamageBasedOnMetalER0.prototype"
   },
   "10500416439080912144": {
     "eng": "Khonshu blesses you with the powers of Vengeance. In exchange for sacrificing your Health, you are immune to death for a short time. ",
-    "rus": "Хоншу благословляет вас силой мщения. Потеряв часть здоровья, вы на время получите бессмертие. \nПри этом ваши способности получат бонус, зависящий от количества потерянных единиц здоровья и $primarymanabehaviorname.locflagG$.",
+    "rus": "Хоншу благословляет вас силой мщения. Потеряв часть здоровья, вы на время получите бессмертие. ",
     "path": "Powers/Player/MoonKnight/KhonshuSteroidHealth.prototype"
   },
   "10508396552787461426": {
     "eng": "Automatically fire a barrage of $MissileCreationCountTotal$ micro-missiles when you use a power, at the cost of 5% $primarymanabehaviorname$ per barrage. ($cooldown$ cooldown)",
-    "rus": "Автоматически выпускает залп из 5 микроракет, когда вы применяете способность. На каждый залп тратится 5% $primarymanabehaviorname.locflagG$. (Перезарядка - $cooldown$)",
+    "rus": "Автоматически выпускает залп из $MissileCreationCountTotal$ микроракет, когда вы применяете способность. На каждый залп тратится 5% $primarymanabehaviorname.locflagG$. (Перезарядка - $cooldown$)",
     "path": "Localization/Translations/Powers/TooltipStrings/IronMan/ToggledMissiles.prototype"
   },
   "10558877910470624573": {
     "eng": "On your command, #highlight#Jean Grey#/highlight# begins the assault with a quick irresistable TK Implosion at your target, then she and #highlight#Beast#/highlight# assault on the ground while #highlight#Angel#/highlight# and #highlight#Iceman#/highlight# strike from above with vicious melee and ice attacks.",
-    "rus": "По вашему приказу #highlight#Джин Грей#/highlight# ударит телекинетической мощью по выбранной цели, затем она и #highlight#Зверь#/highlight# атакуют врагов на земле, а #highlight#Ангел#/highlight# и Человек-Лед нападут с воздуха, нанося удары в ближнем бою и заледеняя врагов.",
+    "rus": "По вашему приказу #highlight#Джин Грей#/highlight# ударит телекинетической мощью по выбранной цели, затем она и #highlight#Зверь#/highlight# атакуют врагов на земле, а #highlight#Ангел#/highlight# и #highlight#Человек-Лед#/highlight# нападут с воздуха, нанося удары в ближнем бою и заледеняя врагов.",
     "path": "Powers/Player/Cyclops/Ultimate.prototype"
   },
   "10559134865537369451": {
     "eng": "Damage: +$DamageMultVsKeyword.pct$% against #powermechanic#Bleeding#/powermechanic# enemies",
-    "rus": "Урон: +$DamageMultVsKeyword.pct$% против истекающих кровью врагов",
+    "rus": "Урон: +$DamageMultVsKeyword.pct$% против #powermechanic#кровоточащих#/powermechanic# врагов",
     "path": "Localization/Translations/Powers/TooltipStrings/DamageMultVsKeywordBleeding.prototype"
   },
   "10594333990772475189": {
     "eng": "Use the terminals in any player hub to enter #mission#Command Bunker#/mission#. \n\n#mission#Purifiers and Ammo Crates#/mission# are found throughout the instance. #mission#Magneto#/mission# is located through the door at the end of the instance.",
-    "rus": "Используйте #mission#красные#/mission#, #mission#зеленые#/mission# или #mission#космические#/mission# терминалы в любом штабе, чтобы попасть в #mission#командный бункер#/mission#. Космический терминал доступен на 60 уровне.\n\n#mission#Очистители и ящики с боеприпасами #/mission# есть по всей карте. К #mission#Магнето#/mission# можно попасть через дверь в конце карты.",
+    "rus": "Используйте терминалы в любом штабе, чтобы попасть в #mission#командный бункер#/mission#. \n\n#mission#Очистители и ящики с боеприпасами #/mission# есть по всей карте. К #mission#Магнето#/mission# можно попасть через дверь в конце карты.",
     "path": "Missions/Prototypes/LegendaryQuests/LQTerminal/LegendaryTerminalMagneto.prototype"
   },
   "10615309575967737148": {
     "eng": "Adds the #emphasis#A.R.M.O.R. Damage Upgrade#/emphasis# enchantment to any Slot 1 or 5 gear of Epic or higher rarity, replacing any existing enchantments already on the item. This enchantment can only be used on item level 63 items and higher.\n\nLevel 60 enchantment gives you:\n#emphasis#+60 Damage Rating#/emphasis#",
-    "rus": "Добавляет заклинание #emphasis#Улучшение урона АРМОР#/emphasis# к любой ячейке снаряжения (от 1 до 5) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+60 к рейтингу урона/emphasis#",
+    "rus": "Добавляет заклинание #emphasis#Улучшение урона АРМОР#/emphasis# к любой ячейке снаряжения (от 1 до 5) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+60 к рейтингу урона#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Enchanting/EnchantmentRecipe030.prototype"
   },
   "10638955638616229131": {
@@ -1811,12 +1811,12 @@
   },
   "10771978876084028686": {
     "eng": "This power deals $evalRegisterFloat5.pct$% of #power#$powerReference0.powerName$'s#/power# and #power#$powerReference1.powerName$'s#/power# damage",
-    "rus": "$damageType$ урон: $damage$ ед. #hidden#($damageRange.precision1.divByLevel$ ед. за уровень) #/hidden#врагам, если они атакуют или пытаются применить способности",
+    "rus": "Эта способность наносит $evalRegisterFloat5.pct$% урона от #power#$powerReference0.powerName$#/power# и #power#$powerReference1.powerName$#/power#",
     "path": "Localization/Translations/Powers/TooltipStrings/TeamUpAwayProcDamagePR0PR1ER5.prototype"
   },
   "10772864923593213238": {
     "eng": "",
-    "rus": "Задание выполнено: $missionname$",
+    "rus": "",
     "path": ""
   },
   "10804578614221997376": {
@@ -1826,12 +1826,12 @@
   },
   "10807122652207842632": {
     "eng": "Gain 25 #fury#$PrimaryManaBehaviorName$#/fury# when hit",
-    "rus": "#fury#Получите 25 очков ярости при попадании в вас#/fury#",
+    "rus": "Получите 25 очков #fury#ярости#/fury# при попадании в вас",
     "path": "Localization/Translations/Powers/TooltipStrings/Wolverine/FuryGainGotHit.prototype"
   },
   "10882917688122017086": {
     "eng": "+300 Health and Bonus Health Regeneration for 20 minutes.",
-    "rus": "#power#Увеличенный бонус к здоровью и восстановлению здоровья#/power#",
+    "rus": "+300 к здоровью и бонус к восстановлению здоровья на 20 минут.",
     "path": "Powers/ItemPowers/ItemConditions/FlaskOfHealthGreaterCondition.prototype"
   },
   "10948569939667911939": {
@@ -1846,7 +1846,7 @@
   },
   "11002268455483933959": {
     "eng": "When you Critically Hit, gain +$param1.power.condition0.defense.nofraction$ Defense Rating, +$param1.power.condition0.critratingbonusadd.nofraction$ Critical Hit Rating and +$param1.power.condition0.critdamagerating.nofraction$ Critical Damage Rating for $param1.power.condition0.duration$.  This effect stacks up to 3 times.  When you reach 3 stacks, you have a 20% chance when you land a Brutal Strike to gain +$param1.power.onstackcountpower.condition0.proceffect0.condition0.statfightingskillsmodifier$ Fighting for $param1.power.onstackcountpower.condition0.proceffect0.condition0.duration$. ",
-    "rus": "Если вы наносите Сокрушительный удар в ближнем бою, то получаете +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ к рейтингу урона в ближнем бою, +$param1.power.condition0.critratingbonusaddpowerkeyword.nofraction$ к рейтингу критических ударов для способностей ближнего боя, +$param1.power.condition0.defense.nofraction$ к рейтингу защиты и +$param1.power.condition0.dodgeratingbonusadd.nofraction$ к рейтингу уклонения на $param1.power.condition0.duration$",
+    "rus": "При критическом ударе вы получаете +$param1.power.condition0.defense.nofraction$ к рейтингу защиты, +$param1.power.condition0.critratingbonusadd.nofraction$ к рейтингу критических ударов и +$param1.power.condition0.critdamagerating.nofraction$ к рейтингу критического урона на $param1.power.condition0.duration$. Эффект может складываться до 3 раз. При достижении 3 стаков у вас есть 20% шанс при нанесении сокрушительного удара получить +$param1.power.onstackcountpower.condition0.proceffect0.condition0.statfightingskillsmodifier$ к боевой подготовке на $param1.power.onstackcountpower.condition0.proceffect0.condition0.duration$.",
     "path": "Entity/Items/Armor/UniquePrototypes/Avatars/AnyHero/Slot3/Unique400.prototype"
   },
   "11102301417847457079": {
@@ -1856,7 +1856,7 @@
   },
   "11187515488856114495": {
     "eng": "",
-    "rus": "Чтобы зайти на карту, используйте #mission#космический#/mission# терминал на любой базе игрока.\n\nЗадания с #mission#боссами#/mission# находятся в конце соответствующих терминалов. Победите всех четырех боссов, чтобы выполнить ударное задание У.О.Г.",
+    "rus": "",
     "path": ""
   },
   "11233709099070915897": {
@@ -1866,7 +1866,7 @@
   },
   "11240657479986251070": {
     "eng": "Use any waypoint or terminal to travel to #mission#Hightown Patrol#/mission#. Hightown Patrol is found under the M.A.P. #mission#Challenges#/mission# tab. \n\n\n#mission#Elite#/mission# enemies are identifiable by blue and yellow auras.\n#mission#Skrull Captains#/mission# appear in ambushes throughout the zone.\n\nAll objectives must be completed in #mission#Hightown Patrol#/mission# to receive credit. ",
-    "rus": "Используйте любую точку перемещения или терминал, чтобы отправиться на задание #mission#\"Патруль в Хайтауне\"#/mission# на закладке \"Испытания\" К.А.Р.Т.Ы. \n\n\n#mission#Элитные#/mission# враги обладают синей или желтой аурой.\n#mission#Капитаны скруллов#/mission# устраивают засады в зоне.\n\nВыполните все задачи #mission#\"Патруля в Хайтауне\"#/mission#, чтобы получить награду.",
+    "rus": "Используйте любую точку перемещения или терминал, чтобы отправиться на задание #mission#\"Патруль в Хайтауне\"#/mission# на вкладке #mission#Испытания#/mission# К.А.Р.Т.Ы. \n\n\n#mission#Элитные#/mission# враги обладают синей или желтой аурой.\n#mission#Капитаны скруллов#/mission# устраивают засады в зоне.\n\nВыполните все задачи #mission#\"Патруля в Хайтауне\"#/mission#, чтобы получить награду.",
     "path": "Missions/Prototypes/SharedQuests/DailyMissionPatrol1Sunday.prototype"
   },
   "11303663271591740778": {
@@ -1886,17 +1886,17 @@
   },
   "11386765296654157108": {
     "eng": "Use the terminals in any player hub to enter #mission#Times Square#/mission#.\n\n#mission#Restaurant furniture#/mission# is located in the hotel restaurant over-looking downtown Times Square. #mission#Ultron#/mission# is located at the end of the instance.",
-    "rus": "Используйте #mission#красные#/mission#, #mission#зеленые#/mission# или #mission#космические#/mission# терминалы в любом штабе, чтобы попасть в #mission#Институт Таскмастера#/mission#. Космический терминал доступен на 60 уровне.\n\n#mission#Тренировочное снаряжение#/mission# включает в себя цели, тренировочные манекены и заграждения. #mission#Таскмастер#/mission# находится в конце карты.",
+    "rus": "Используйте терминалы в любом штабе, чтобы попасть в #mission#Институт Таскмастера#/mission#. \n\n#mission#Тренировочное снаряжение#/mission# включает в себя цели, тренировочные манекены и заграждения. #mission#Таскмастер#/mission# находится в конце карты.",
     "path": "Missions/Prototypes/LegendaryQuests/LQTerminal/LegendaryTerminalUltron.prototype"
   },
   "11417995455566316855": {
     "eng": "Craft Blade of Hrinmeer, a Level 60 Slot 1 Unique Item that is usable by Any Hero\n\n#emphasis#Blade of Hrinmeer#/emphasis#\n#emphasis#+Damage Rating#/emphasis#\n#emphasis#+Damage Rating vs. Bleeding Targets#/emphasis#\n#emphasis#+Fighting#/emphasis#\n#emphasis#+Brutal Strike Rating to Melee Attacks#/emphasis#\n#emphasis#+Brutal Damage Rating#/emphasis#\n#emphasis#Chance when you hit to cause enemies to Bleed#/emphasis#",
-    "rus": "Создает палицу надзирателя - уникальный предмет уровня 60 в ячейке 1, может использовать любой герой\n\n#emphasis#Палица надзирателя#/emphasis#\n#emphasis#+ к рейтингу урона#/emphasis#\n#emphasis#+ к рейтингу физической защиты#/emphasis#\n#emphasis#+ к рейтингу урона в ближнем бою#/emphasis#\n#emphasis#+ Рейтинг критического урона#/emphasis#\n#emphasis#Снижение урона от атак по площади#/emphasis#\n#emphasis#+ ед. здоровья#/emphasis#\n#emphasis#При попадании способностью ближнего боя вы получите +1 ед. силы на 10 с (эффект суммируется до 3 раз)#/emphasis#\n#emphasis#Нанеся Критический удар, вы можете получить + к рейтингу защиты на 5 с (перезарядка 30 с)#/emphasis#\n#emphasis#Погибая, союзник наносит врагам физический урон и ослабляет их#/emphasis#\n#emphasis#+2 ко всем навыкам#/emphasis#",
+    "rus": "Создать Клинок Хринмира – уникальный предмет 60-го уровня для 1-го слота экипировки, доступный любому герою\n\n#emphasis#Клинок Хринмира#/emphasis#\n#emphasis#+Рейтинг урона#/emphasis#\n#emphasis#+Рейтинг урона по кровоточащим целям#/emphasis#\n#emphasis#+Боевая подготовка#/emphasis#\n#emphasis#+Рейтинг сокрушительных ударов в ближнем бою#/emphasis#\n#emphasis#+Рейтинг сокрушительного урона#/emphasis#\n#emphasis#Шанс при ударе нанести врагам кровотечение#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/Unique306Recipe.prototype"
   },
   "11435544335458239804": {
     "eng": "After spending #powermechanic#Photonic Energy#/powermechanic# with a Power, regenerate $healingovertimebase.nofraction$ additional Health per second over 6 seconds",
-    "rus": "При расходе фотонной энергии на способности дополнительно восстанавливается $healingovertimebase.nofraction.mulby2$ ед. здоровья в секунду в течение 6 с",
+    "rus": "При расходе #powermechanic#фотонной энергии#/powermechanic# на способности дополнительно восстанавливается $healingovertimebase.nofraction.mulby2$ ед. здоровья в секунду в течение 6 с",
     "path": "Localization/Translations/Powers/TooltipStrings/MsMarvel/PhotonicRegeneration.prototype"
   },
   "11450011090978145589": {
@@ -1906,27 +1906,27 @@
   },
   "11528494621765076246": {
     "eng": "#powername#$powerreference1.powername$#/powername# restores $powerreference0.condition0.EnduranceCOTPctBase.pct$% of your maximum $primarymanabehaviorname$ per second, and increases all damage output by $powerreference0.condition0.DamageMult.pct$% as long as you are in its area of effect",
-    "rus": "Восстановление $EnduranceCOTPctBase.pct$% от максимума $primarymanabehaviorname.locflagG$ в секунду, когда вы парите над Горизонтом событий",
+    "rus": "#powername#$powerreference1.powername$#/powername# восстанавливает $powerreference0.condition0.EnduranceCOTPctBase.pct$% от вашего максимального $primarymanabehaviorname$ в секунду и увеличивает весь исходящий урон на $powerreference0.condition0.DamageMult.pct$%, пока вы находитесь в зоне его действия",
     "path": "Localization/Translations/Powers/TooltipStrings/SilverSurfer/BlackHoleEnduranceCOTPct.prototype"
   },
   "11655583606046852414": {
     "eng": "Use the Chapter 3 waypoint to travel to #mission#Buccaneer Beach#/mission# in #mission#Madripoor#/mission#.\n\n#mission#Rum Barrels#/mission# are wooden. #mission#Treasure Rooms#/mission# are located in #mission#Buccaneer Beach#/mission#. Treasure Rooms are identifiable by golden doorways.",
-    "rus": "Используйте точку перемещения из главы 3, чтобы попасть на #mission#Пиратский пляж#/mission# в #mission#Мадрипуре#/mission#.\n\n#mission#Бочки с ромом#/mission# - деревянные. #mission#Сокровищницы#/ расположены на #mission#Пиратском пляже#/mission# в Мадрипуре. К #mission#сокровищницам#/mission# ведут золотые двери.",
+    "rus": "Используйте точку перемещения из главы 3, чтобы попасть на #mission#Пиратский пляж#/mission# в #mission#Мадрипуре#/mission#.\n\n#mission#Бочки с ромом#/mission# - деревянные. #mission#Сокровищницы#/ расположены на #mission#Пиратском пляже#/mission# в Мадрипуре. К сокровищницам ведут золотые двери.",
     "path": "Missions/Prototypes/LegendaryQuests/Redacted/LegendaryCH03BuccaneerBeach2.prototype"
   },
   "11692414294930818357": {
     "eng": "#emphasis#Shatter#/emphasis# - Deals $damage$ additional $damageType$ damage against #emphasis#Frozen#/emphasis# enemies, consuming the effect",
-    "rus": "#emphasis#\"Раскалывание\"#/emphasis# - на $DamageMultVsKeyword.pct$% больше урона против #emphasis#замороженных#/emphasis# врагов. При этом поглощаются эффекты #emphasis#заморозки#/emphasis# и #emphasis#охлаждения#/emphasis#",
+    "rus": "#emphasis#Раскалывание#/emphasis# - наносит $damage$ больше $damageType$ урона против #emphasis#замороженных#/emphasis# врагов. При этом поглощаются эффекты #emphasis#заморозки#/emphasis# и #emphasis#охлаждения#/emphasis#",
     "path": "Localization/Translations/Powers/TooltipStrings/Iceman/Shatter.prototype"
   },
   "11783103800641586441": {
     "eng": "You are ranked in the top #blue18#$RankPercentile$%#/blue18#",
-    "rus": "Вы находитесь в топе #blue#18#$RankPercentile$%#/blue#",
+    "rus": "Вы находитесь в топе #blue18#$RankPercentile$%#/blue18#",
     "path": "Localization/Translations/Leaderboards/PercentileRank.prototype"
   },
   "11785751854197507391": {
     "eng": "Damage: +$DamageMultVsKeyword.pct$% against #powermechanic#Burning#/powermechanic# enemies",
-    "rus": "Урон: +$DamageMultVsKeyword.pct$% против отравленных врагов",
+    "rus": "Урон: +$DamageMultVsKeyword.pct$% против #powermechanic#Горящих#/powermechanic# врагов",
     "path": "Localization/Translations/Powers/TooltipStrings/DamageMultVsKeywordBurning.prototype"
   },
   "11834918187430774119": {
@@ -1951,7 +1951,7 @@
   },
   "11997137401286558995": {
     "eng": "Use the Chapter 1 waypoint and travel to #mission#Hell's Kitchen South#/mission# or #mission#Hell's Kitchen North#/mission#. \n\nComplete the #mission#A City Aflame#/mission# event or the #mission#Raid of the Hell Riders#/mission# event in either area to complete this quest.",
-    "rus": "Используйте точку перемещения из главы 1, чтобы попасть на #mission#блокпост ЩИТа на крыше#/mission# в #mission#Адской Кухне#/mission#. \n\n#mission#Сокровищницы#/ расположены в #mission#полуразрушенных особняках#/mission# в Адской Кухне. К сокровищницам ведут золотые двери. ",
+    "rus": "Используйте точку перемещения Главы 1 и отправляйтесь на #mission#юг Адской Кухни#/mission# или на #mission#север Адской Кухни#/mission#.\n\nЗавершите событие #mission#Город в огне#/mission# или событие #mission#Рейд Адских Всадников#/mission# в любой из этих зон, чтобы выполнить это задание.",
     "path": "Missions/Prototypes/LegendaryQuests/Redacted/LegendaryCH01Brownstones1.prototype"
   },
   "12121618155066754408": {
@@ -1966,17 +1966,17 @@
   },
   "12180679946807674171": {
     "eng": "When you hit with an Energy Power, regenerate $param1.power.healing$ Health",
-    "rus": "После удачного применения физической способности вы восстанавливаете $param1.power.healing$ ед. здоровья. Если у вас не максимум #blue#очков комбо#/blue#, восстанавливается вдвое больше здоровья. Эффект срабатывает дважды в секунду.",
+    "rus": "После удачного применения энергетической способности вы восстанавливаете $param1.power.healing$ ед. здоровья",
     "path": "Entity/Items/Artifacts/Prototypes/SpecialArtifacts/Art278.prototype"
   },
   "12185246338798060808": {
     "eng": "Damage Rating: +$DamageRatingBonusForPowerKeyword.noFraction$ #hidden# ($DamageRatingBonusForPowerKeyword.precision1.divByLevel$ per level) #/hidden#to #powerkeyword#Ranged#/powerkeyword# Powers",
-    "rus": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.noFraction$ #hidden# ($DamageRatingBonusForPowerKeyword.precision1.divByLevel$ за каждый уровень)#/hidden# для способностей дальнего боя",
+    "rus": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.noFraction$ #hidden# ($DamageRatingBonusForPowerKeyword.precision1.divByLevel$ за каждый уровень)#/hidden# для способностей #powerkeyword#дальнего боя#/powerkeyword#",
     "path": "Localization/Translations/Powers/TooltipStrings/DamageRatingBonusForPowerKeywordRanged.prototype"
   },
   "12210563908344612152": {
     "eng": "Craft Fire Giant's Aegis, a Level 60 Slot 2 Unique Item that is usable by Any Hero\n\n#emphasis#Fire Giant's Aegis#/emphasis#\n#emphasis#+Defense Rating#/emphasis#\n#emphasis#+Physical Defense Rating#/emphasis#\n#emphasis#+Damage Rating vs. Burning Targets#/emphasis#\n#emphasis#+Health#/emphasis#\n#emphasis#Cost Reduction#/emphasis#\n#emphasis#+Strength#/emphasis#\n#emphasis#+Energy#/emphasis#\n#emphasis#+Dodge Rating#/emphasis#\n#emphasis#+Block Chance#/emphasis#\n#emphasis#Less Damage from Melee Powers#/emphasis#\n#emphasis#Chance to Burn your target when you hit#/emphasis#",
-    "rus": "Создает палицу надзирателя - уникальный предмет уровня 60 в ячейке 1, может использовать любой герой\n\n#emphasis#Палица надзирателя#/emphasis#\n#emphasis#+ к рейтингу урона#/emphasis#\n#emphasis#+ к рейтингу физической защиты#/emphasis#\n#emphasis#+ к рейтингу урона в ближнем бою#/emphasis#\n#emphasis#+ Рейтинг критического урона#/emphasis#\n#emphasis#Снижение урона от атак по площади#/emphasis#\n#emphasis#+ ед. здоровья#/emphasis#\n#emphasis#При попадании способностью ближнего боя вы получите +1 ед. силы на 10 с (эффект суммируется до 3 раз)#/emphasis#\n#emphasis#Нанеся Критический удар, вы можете получить + к рейтингу защиты на 5 с (перезарядка 30 с)#/emphasis#\n#emphasis#Погибая, союзник наносит врагам физический урон и ослабляет их#/emphasis#\n#emphasis#+2 ко всем навыкам#/emphasis#",
+    "rus": "Создать Эгиду Огненного Великана - уникальный предмет 60-го уровня для 2-го слота экипировки, доступный любому герою\n\n#emphasis#Эгида Огненного Великана#/emphasis#\n#emphasis#+Рейтинг защиты#/emphasis#\n#emphasis#+Рейтинг физической защиты#/emphasis#\n#emphasis#+Рейтинг урона по горящим целям#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#Снижение затрат#/emphasis#\n#emphasis#+Сила#/emphasis#\n#emphasis#+Энергия#/emphasis#\n#emphasis#+Рейтинг уклонения#/emphasis#\n#emphasis#+Шанс блока#/emphasis#\n#emphasis#Сниженный урон от атак ближнего боя#/emphasis#\n#emphasis#Шанс поджечь цель при попадании#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/Unique294Recipe.prototype"
   },
   "12389242137073550659": {
@@ -1991,7 +1991,7 @@
   },
   "12408178557678519606": {
     "eng": "Reduce the cooldown of #powername#$powerName$#/powername# by 1s when you hit with a #powerkeyword#Ranged#/powerkeyword# Power",
-    "rus": "Сокращение перезарядки $powerName$ на 1 с при попадании способностью дальнего боя",
+    "rus": "Сокращение перезарядки #powername#$powerName$#/powername# на 1 с при попадании способностью #powerkeyword#дальнего боя#/powerkeyword#",
     "path": "Localization/Translations/Powers/TooltipStrings/Starlord/PassiveHybrid.prototype"
   },
   "12424076920295064893": {
@@ -2041,17 +2041,17 @@
   },
   "12739790890898228490": {
     "eng": "Call a powerful lightning strike onto nearby enemies to recover $primaryManaBehaviorName$ per enemy hit and infuse yourself with $secondarymanabehaviorname$.",
-    "rus": "Обрушить на врагов огромную молнию. При каждом попадании $primaryManaBehaviorName$ восстанавливается, наполняя героя #emphasis#силой Одина#/emphasis#.\nОдновременно восстанавливается и $primaryManaBehaviorName$.",
+    "rus": "Обрушить на врагов огромную молнию. При каждом попадании $primaryManaBehaviorName$ восстанавливается, наполняя героя #emphasis#силой Одина#/emphasis#.",
     "path": "Powers/Player/Thor/Rework/ImmortalCombatRestore.prototype"
   },
   "12764108806887572862": {
     "eng": "While #green#Very Angry#/green#, #powerkeyword#$DamageMultForPowerKeyword.Param0.PowerKeyword$#/powerkeyword# Powers gain the following effects:",
-    "rus": "Пока #green#Очень сердитый#/green#, #powerkeyword$$DamageMultForPowerKeyword.Param0.PowerKeyword$#/powerkeyword# Силы получают следующие эффекты:",
+    "rus": "Пока #green#Очень сердитый#/green#, #powerkeyword#$DamageMultForPowerKeyword.Param0.PowerKeyword$#/powerkeyword# Силы получают следующие эффекты:",
     "path": "Localization/Translations/Powers/ReworkTooltipStrings/Description/SheHulkNoComboFinisherBonus.prototype"
   },
   "12776327391709431052": {
     "eng": "Thank you, $AvatarName$. We appreciate your efforts in saving these innocent mutants.",
-    "rus": "Благодарим за усилия по спасению этих невинных мутантов.\n\n#mission#Внедренный агент#/mission#, работающий на ЩИТ, также хотел бы поблагодарить тебя за отличную работу.",
+    "rus": "Спасибо тебе, $AvatarName$. Мы ценим твои усилия по спасению этих невинных мутантов.",
     "path": "Missions/Prototypes/Story/CH06FortStryker/Events/CH06EventDefendTheMutants.prototype"
   },
   "12837657373035005292": {
@@ -2076,7 +2076,7 @@
   },
   "12949832504118871306": {
     "eng": "Coffers of Achievement are rewarded for various achievements, sometimes in multiples. Energetic achievers will receive hundreds of these coffers in their lifetime!\n\n#RarityUncommon#Each coffer contains 4 things for your current hero:#/RarityUncommon#\n\n#RarityRare#Item One#/RarityRare#\nA #Relics#Relic#/Relics# or #RarityCosmic#Cosmic#/RarityCosmic# or #RarityUnique#Unique#/RarityUnique# item for slot 1-5.\n\n#RarityRare#Item Two#/RarityRare#\nA miscellaneous item of #QualityEpic#Epic#/QualityEpic# or #RarityCosmic#Cosmic#/RarityCosmic# quality. Includes Insignias, Medallions, Rings, or Team-Up Items.\n\n#RarityRare#Item Three#/RarityRare#\nA random currency. Includes Commendations, Eternity Splinters, event currency, etc.\n\n#RarityRare#Item Four#/RarityRare#\nOne flask of #RarityUnique#Achiever's Brew#/RarityUnique#.\n\n",
-    "rus": "Щелкните ПКМ, чтобы получить награду для текущего героя.\nВнутри вы найдете один из этих предметов:\n\n#emphasis#Уникальный предмет с бонусом испытания#/emphasis#\n#emphasis#Космический медальон#/emphasis#\n#emphasis#Космический предмет напарника#/emphasis#\n#emphasis#Демоническое кольцо кровавого камня#/emphasis#\n#emphasis#Артефакт из крови демона Хаоса#/emphasis#\n#emphasis#Демоническую суму#/emphasis#\n#emphasis#Редкий предмет: жетон абсолютного улучшения или ящик со случайным костюмом#/emphasis#",
+    "rus": "Сундуки Достижений выдаются за различные достижения, иногда в нескольких экземплярах. Активные игроки могут получить сотни таких сундуков за время игры!\n\n#RarityUncommon#Каждый сундук содержит 4 предмета для текущего героя:#/RarityUncommon#\n\n#RarityRare#Первый предмет#/RarityRare#\n#Relics#Реликвия#/Relics#, либо предмет #RarityCosmic#Космического#/RarityCosmic# или #RarityUnique#Уникального#/RarityUnique# качества для слотов 1-5.\n\n#RarityRare#Второй предмет#/RarityRare#\nРазличные предметы #QualityEpic#Эпического#/QualityEpic# или #RarityCosmic#Космического#/RarityCosmic# качества. Включают эмблемы, медальоны, кольца или предметы для напарника.\n\n#RarityRare#Третий предмет#/RarityRare#\nСлучайную валюту. Включает рекомендации, осколки вечности, валюту событий и т.д.\n\n#RarityRare#Четвертый предмет#/RarityRare#\nОдин флакон #RarityUnique#Эликсира Достижений#/RarityUnique#.\n\n",
     "path": "Entity/Items/Consumables/Prototypes/AchievementRewards/ItemRewards/AchieversLootCrate.prototype"
   },
   "12957506829052085566": {
@@ -2101,7 +2101,7 @@
   },
   "13086408542822401285": {
     "eng": "Loki has been defeated and Volstagg has rewarded you for your efforts.",
-    "rus": "Локи был побежден, и Вольштагг наградил этого персонажа, дав ему #mission#постоянный бонус в +5 ед. $primarymanabehaviorname.locflagG$#/mission#.",
+    "rus": "Локи был побежден и Вольштагг наградил вас за ваши усилия.",
     "path": "Missions/Prototypes/Act3/Ch09Asgard/CH09Main5ClaimYourReward.prototype"
   },
   "13176781956296803690": {
@@ -2121,7 +2121,7 @@
   },
   "13302073144523556198": {
     "eng": "Use the Chapter 3 waypoint to travel to #mission#Lowtown#/mission# in #mission#Madripoor#/mission#. \n\n#mission#Madame HYDRA#/mission# appears during \"Viper's Vendetta\" event in Lowtown.",
-    "rus": "Используйте точку перемещения из главы 3, чтобы попасть в #mission#Лоутаун#/mission# в #mission#Мадрипуре#/mission#. \n\n#mission#Мадам ГИДРУ#/mission# можно найти во время события #mission#\"Вендетта Гадюки\"#/mission# в Лоутауне.",
+    "rus": "Используйте точку перемещения из главы 3, чтобы попасть в #mission#Лоутаун#/mission# в #mission#Мадрипуре#/mission#. \n\n#mission#Мадам ГИДРУ#/mission# можно найти во время события \"Вендетта Гадюки\" в Лоутауне.",
     "path": "Missions/Prototypes/LegendaryQuests/Redacted/LegendaryCH03Lowtown1.prototype"
   },
   "13332637162472670465": {
@@ -2161,7 +2161,7 @@
   },
   "13501860433081992516": {
     "eng": "Use the Chapter 1 waypoint to travel to the #mission#Nightclub District#/mission# in #mission#Hell's Kitchen#/mission#.\n\n#mission#Kingpin's Warehouse#/mission# can be accessed through the back door of the Blood Rose nightclub.",
-    "rus": "Используйте точку перемещения из главы 1, чтобы попасть в #mission#район ночных клубов#/mission# в #mission#Адской Кухне#/mission#.\n\nНа #mission#склад Кингпина#/mission# можно попасть через черный ход в ночном клубе #mission#\"Кровавая роза\"#/mission#.",
+    "rus": "Используйте точку перемещения из главы 1, чтобы попасть в #mission#район ночных клубов#/mission# в #mission#Адской Кухне#/mission#.\n\nНа #mission#склад Кингпина#/mission# можно попасть через черный ход в ночном клубе \"Кровавая роза\".",
     "path": "Missions/Prototypes/LegendaryQuests/LQStory/LegendaryCH01KingpinsWarehouse1.prototype"
   },
   "13506188587524424972": {
@@ -2176,7 +2176,7 @@
   },
   "13573107218889049402": {
     "eng": "This bag contains 1 #emphasis#random#/emphasis# artifact, insignia, ring, medal.\n#emphasis#Use this item to receive your reward.#/emphasis#",
-    "rus": "В этой коробке находятся 10 реликвий альтернативной реальности АРМОР \n#emphasis#Щелкните ПКМ, чтобы получить награду.#/emphasis#",
+    "rus": "В этой сумке содержится 1 #emphasis#случайный#/emphasis# артефакт, символ, кольцо или медаль.\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#",
     "path": "Entity/Items/Consumables/Prototypes/RandomGiftboxes/MysteriousItemBag.prototype"
   },
   "13574559428996236650": {
@@ -2186,7 +2186,7 @@
   },
   "13582783569813177705": {
     "eng": "Damage Rating: +$DamageRatingBonusVsAggroed.precision0$ #hidden# ($DamageRatingBonusVsAggroed.divByLevel$ per level) #/hidden#with #powerkeyword#Melee#/powerkeyword# Powers and vs. enemies targeting you",
-    "rus": "Рейтинг урона: +$DamageRatingBonusVsAggroed.precision0$ #hidden# ($DamageRatingBonusVsAggroed.divByLevel$ за каждый уровень) #/hidden# в ближнем бою и против атакующих вас противников",
+    "rus": "Рейтинг урона: +$DamageRatingBonusVsAggroed.precision0$ #hidden# ($DamageRatingBonusVsAggroed.divByLevel$ за каждый уровень) #/hidden# в #powerkeyword#ближнем бою#/powerkeyword# и против атакующих вас противников",
     "path": "Localization/Translations/Powers/TooltipStrings/MoonKnight/PassiveDamage.prototype"
   },
   "13618151968374130034": {
@@ -2296,12 +2296,12 @@
   },
   "14326065855473583422": {
     "eng": "Use any waypoint to travel to #mission#Midtown#/mission#, #mission#Hightown#/mission#, or #mission#S.H.I.E.L.D. Holo-Sim#/mission#. Midtown, Hightown, and the S.H.I.E.L.D. Holo-Sim are found under the #mission#Challenges#/mission# tab. Hightown will be accessible upon reaching Chapter 10 in the Story.\n\nInterlopers include: #mission#Brood#/mission#, #mission#Lavamen#/mission# and #mission#Skrulls#/mission#.\n\nAny combination of the above can be defeated to count towards this mission.",
-    "rus": "Воспользуйтесь любой точкой перемещения или терминалом, чтобы отправиться в #mission#Мидтаун#/mission# или #mission#голо-симулятор ЩИТа#/mission#, которые можно найти на закладке #mission#\"Испытания\"#/mission#. \n\nЧужаки включают в себя #mission#инсектоидов#/mission#, #mission#кротоидов#/mission# и #mission#лавовых стражей#/mission#.\n\nЛюбое сочетание этих врагов засчитывается в этом задании.",
+    "rus": "Воспользуйтесь любой точкой перемещения или терминалом, чтобы отправиться в #mission#Мидтаун#/mission# или #mission#голо-симулятор ЩИТа#/mission#, которые можно найти на вкладке #mission#Испытания#/mission#. \n\nЧужаки включают в себя #mission#инсектоидов#/mission#, #mission#кротоидов#/mission# и #mission#лавовых стражей#/mission#.\n\nЛюбое сочетание этих врагов засчитывается в этом задании.",
     "path": "Missions/Prototypes/LegendaryQuests/LQChallenges/LQMidtownHoloSimInterloper.prototype"
   },
   "14347460728239752494": {
     "eng": "Use the terminals in any player hub to enter instances.\n\n#mission#Bosses#/mission# are located through their respective terminals. #mission#Destructible#/mission# props can be found throughout Fisk Tower. #mission#Henchmen#/mission# can be defeated in any terminal.",
-    "rus": "Используйте #mission#красные#/mission#, #mission#зеленые#/mission# или #mission#космические#/mission#терминалы в любом штабе, чтобы войти на карты. Космические терминалы открываются на 60 уровне.\n\n#mission#Боссов#/mission# можно найти, воспользовавшись соответствующими терминалами. #mission#Разрушаемые#/mission# элементы можно найти в Башне Фиска. #mission#Головорезов#/mission# можно победить в любом терминале.",
+    "rus": "Используйте терминалы в любом штабе, чтобы войти на карты.\n\n#mission#Боссов#/mission# можно найти, воспользовавшись соответствующими терминалами. #mission#Разрушаемые#/mission# элементы можно найти в Башне Фиска. #mission#Головорезов#/mission# можно победить в любом терминале.",
     "path": "Missions/Prototypes/SharedQuests/DailyMissionTerminal5Thursday.prototype"
   },
   "14360834582107784517": {
@@ -2461,7 +2461,7 @@
   },
   "15392350005634794813": {
     "eng": "Use any waypoint or terminal to travel to #mission#Midtown Patrol#/mission#. Midtown Patrol is found under the M.A.P. #mission#Challenges#/mission# tab. \n\n#mission#Doop Duplicates#/mission# count toward the Midtown Bosses objective. #mission#Elite#/mission# enemies are identifiable by blue and yellow auras. #mission#Hidden A.I.M. machines#/mission# include Death Machines and Turrets. Machines spawn randomly from destructible props throughout the zone.\n\nAll objectives must be completed in #mission#Midtown Patrol#/mission# to receive credit.",
-    "rus": "Используйте любую точку перемещения или терминал, чтобы отправиться на задание #mission#\"Патруль в Мидтауне\"#/mission# на закладке \"Испытания\" К.А.Р.Т.Ы.\n\n#mission#Копии Дупа#/mission# идут в зачет задачи по уничтожению боссов Мидтауна. #mission#Элитных#/mission# врагов можно узнать по синей или желтой ауре. #mission#Скрытые машины А.И.М.#/mission# - это Машины смерти и Турели. Машины случайно появляются в разрушаемых элементах по всей зоне.\n\nЧтобы задание было зачтено, выполните все задачи в #mission#\"Патруле в Мидтауне\"#/mission#.",
+    "rus": "Используйте любую точку перемещения или терминал, чтобы отправиться на задание #mission#\"Патруль в Мидтауне\"#/mission# на вкладке #mission#Испытания#/mission# К.А.Р.Т.Ы.\n\n#mission#Копии Дупа#/mission# идут в зачет задачи по уничтожению боссов Мидтауна. #mission#Элитных#/mission# врагов можно узнать по синей или желтой ауре. #mission#Скрытые машины А.И.М.#/mission# - это Машины смерти и Турели. Машины случайно появляются в разрушаемых элементах по всей зоне.\n\nЧтобы задание было зачтено, выполните все задачи в #mission#\"Патруле в Мидтауне\"#/mission#.",
     "path": "Missions/Prototypes/SharedQuests/DarkDimension/DailyMissionDDPatrolFriday.prototype"
   },
   "15407781350764053892": {
@@ -2676,7 +2676,7 @@
   },
   "16728128750732772672": {
     "eng": "Use any waypoint to travel to #mission#Midtown#/mission#, #mission#Industry City#/mission#, #mission#Hightown#/mission#, or the #mission#S.H.I.E.L.D. Holo-Sim#/mission#. Midtown, Industry City, Hightown, and the S.H.I.E.L.D. Holo-Sim are found under the #mission#Challenges#/mission# tab. Soldiers in these game modes are eligible for this mission.\n\nSoldiers include: #mission#A.I.M. Specialists and Exterminators#/mission#, #mission#HYDRA Riflemen and Mechs#/mission#, #mission#Mercenaries#/mission# of all types, #mission#Hand#/mission#, #mission#Hand ninjas#/mission#, and #mission#Purifiers#/mission#.\n\nAny combination of the above can be defeated to count towards this mission.",
-    "rus": "Воспользуйтесь любой точкой перемещения или терминалом, чтобы отправиться в #mission#Мидтаун#/mission#, #mission#Промышленный район#/mission# или в #mission#голо-симулятор ЩИТа#/mission#, которые можно найти на закладке #mission#\"Испытания\"#/mission#. В этом задании засчитываются солдаты в данных режимах.\n\nСолдаты включают в себя: #mission#специалистов и экстерминаторов А.И.М.#/mission#, #mission#стрелков и мехов ГИДРЫ#/mission#, #mission#наемников#/mission# всех видов, #mission#ниндзя клана Руки#/mission# и #mission#Очистителей#/mission#.\n\nЛюбое сочетание этих врагов засчитывается в этом задании.",
+    "rus": "Воспользуйтесь любой точкой перемещения или терминалом, чтобы отправиться в #mission#Мидтаун#/mission#, #mission#Промышленный район#/mission# или в #mission#голо-симулятор ЩИТа#/mission#, которые можно найти на вкладке #mission#Испытания#/mission#. В этом задании засчитываются солдаты в данных режимах.\n\nСолдаты включают в себя: #mission#специалистов и экстерминаторов А.И.М.#/mission#, #mission#стрелков и мехов ГИДРЫ#/mission#, #mission#наемников#/mission# всех видов, #mission#ниндзя клана Руки#/mission# и #mission#Очистителей#/mission#.\n\nЛюбое сочетание этих врагов засчитывается в этом задании.",
     "path": "Missions/Prototypes/LegendaryQuests/LQChallenges/LQMidtownHoloSimParamilitary.prototype"
   },
   "16751223232315393377": {
@@ -2776,7 +2776,7 @@
   },
   "17625103370227418420": {
     "eng": "This recipe requires (1) #emphasis#Asgardian Forged Ingot#/emphasis# and 100,000 credits each time you wish to craft this item. \n\nCraft Fire Giant's Aegis, a Level 60 Slot 2 Unique Item that is usable by Any Hero\n\n#emphasis#Fire Giant's Aegis#/emphasis#\n#emphasis#+Defense Rating#/emphasis#\n#emphasis#+Physical Defense Rating#/emphasis#\n#emphasis#+Damage Rating vs. Burning Targets#/emphasis#\n#emphasis#+Health#/emphasis#\n#emphasis#Cost Reduction#/emphasis#\n#emphasis#+Strength#/emphasis#\n#emphasis#+Energy#/emphasis#\n#emphasis#+Dodge Rating#/emphasis#\n#emphasis#+Block Chance#/emphasis#\n#emphasis#Less Damage from Melee Powers#/emphasis#\n#emphasis#Chance to Burn your target when you hit#/emphasis#",
-    "rus": "Требуется: (1) #emphasis#слиток асгардской работы#/emphasis# и 100 000 кредитов, чтобы создать предмет. \n\nСоздать палицу Надзирателя - уникальный предмет уровня 60 в ячейке 1, может использовать любой герой\n\n#emphasis#Палица Надзирателя#/emphasis#\n#emphasis#+ к рейтингу урона#/emphasis#\n#emphasis#+ к рейтингу физической защиты#/emphasis#\n#emphasis#+ к рейтингу урона в ближнем бою#/emphasis#\n#emphasis#+ Рейтинг критического урона#/emphasis#\n#emphasis#Снижение урона от атак по площади#/emphasis#\n#emphasis#+ к здоровью#/emphasis#\n#emphasis#При попадании способностью ближнего боя вы получите +1 ед. силы на 10 с (эффект суммируется до 3 раз)#/emphasis#\n#emphasis#Нанеся Критический удар, вы можете получить + к рейтингу защиты на 5 с (перезарядка 30 с)#/emphasis#\n#emphasis#Пгогибая, союзник наносит врагам физический урон и ослабляет их#/emphasis#\n#emphasis#+2 ко всем навыкам#/emphasis#",
+    "rus": "Для создания этого предмета каждый раз требуется (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 кредитов.\n\nСоздать Эгиду Огненного Великана — уникальный предмет 60-го уровня для 2-го слота экипировки, доступный любому герою.\n\n#emphasis#Эгида Огненного Великана#/emphasis#\n#emphasis#+Рейтинг защиты#/emphasis#\n#emphasis#+Рейтинг физической защиты#/emphasis#\n#emphasis#+Рейтинг урона по горящим целям#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#Снижение затрат#/emphasis#\n#emphasis#+Сила#/emphasis#\n#emphasis#+Энергия#/emphasis#\n#emphasis#+Рейтинг уклонения#/emphasis#\n#emphasis#+Шанс блока#/emphasis#\n#emphasis#Сниженный урон от атак ближнего боя#/emphasis#\n#emphasis#Шанс поджечь цель при попадании#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/Unique294Recipe.prototype"
   },
   "17646834985624012087": {
