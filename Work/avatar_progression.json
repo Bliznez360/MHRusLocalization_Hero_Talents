@@ -7598,7 +7598,7 @@
     "Desc": {
       "id": "16231723409983669568",
       "eng": "The Hulk was created when the nuclear physicist Bruce Banner was exposed to gamma radiation. When he's angry, he manifests impossible strength and invulnerability that make him a force of nature... and he's always angry.",
-      "rus": "Халк появился на свет, когда физик-ядерщик Брюс Бэннер попал под воздействие гамма-радиации. Когда Халк рассержен, он обладает невероятной физической мощью и неуязвимостью, благодаря которым становится силой природы... А рассержен он всегда."
+      "rus": "Халк появился на свет, когда физик-ядерщик Брюс Бэннер попал под воздействие гамма-радиации. Когда Халк злится, то его невероятные физическая сила и неуязвимость, возрастают ещё больше, чем было дано от природы... А зол он всегда."
     },
     "Bio": {
       "id": "12457438078828610926",
@@ -7622,7 +7622,7 @@
             "Desc": {
               "id": "12734650175884952896",
               "eng": "Swing your massive green fists at enemies in front of you with reckless abandon, your endless rage fueling your gamma-infused body to recover quickly from even the harshest punishment.",
-              "rus": "Валить врагов ударами огромных зеленых кулаков. Ваша неисчерпаемая ярость помогает пропитанному гамма-излучением телу быстро восстанавливаться даже после самых тяжелых травм."
+              "rus": "Размахивая огромными зелёными кулаками бейте по врагам перед собой с безудержной яростью, которая подпитает ваше пронизанное гамма-излучением тело, позволяя быстро восстанавливаться даже после получения любых ран."
             }
           },
           {
@@ -7646,7 +7646,7 @@
             "Desc": {
               "id": "10186215525395203453",
               "eng": "Smash your forehead into an enemy, knocking down that foe.",
-              "rus": "Ударить противника лбом, сбивая его с ног."
+              "rus": "Врежь лбом своему врагу, сбивая его с ног."
             }
           },
           {
@@ -7658,19 +7658,19 @@
             "Desc": {
               "id": "7147458930043520363",
               "eng": "Stomp the ground to create a massive crater, causing enemies to tumble toward you.",
-              "rus": "С силой топнуть по земле, создавая кратер. Находящиеся рядом враги смещаются ближе к вам."
+              "rus": "Мощно топните по земле, создав огромный кратер, который притягивает врагов к вам."
             }
           },
           {
             "Name": {
               "id": "17307413100433573177",
               "eng": "Pummel",
-              "rus": "Бита"
+              "rus": "Молотилка"
             },
             "Desc": {
               "id": "16052623484191966523",
               "eng": "Pummel an enemy into the dirt with a rapid flurry of crushing punches.",
-              "rus": "Вбить врага в землю серией быстрых сокрушительных ударов."
+              "rus": "Обрушьте на врага мощную серию ударов кулаками, буквально вбивая его в землю"
             }
           },
           {
@@ -7682,7 +7682,7 @@
             "Desc": {
               "id": "15221258600361428236",
               "eng": "Leap with enough force to create a vacuum at your location, pulling all enemies in.\nGrab a meteor from low orbit and bring it crashing into Earth, crushing enemies in a wide area, sending red-hot debris in all directions, and creating a smoldering, irradiated impact crater.",
-              "rus": "Подпрыгнуть с такой силой, чтобы создать вакуум, притягивающий врагов.\nСхватить метеорит с орбиты и обрушить его на землю, давя врагов на большой площади. Во все стороны полетят раскаленные обломки, а на месте падения останется дымящийся радиоактивный кратер."
+              "rus": "Подпрыгните с такой силой, чтобы создать вакуум, притягивающий врагов.\nСхватите метеорит с орбиты и обрушьте его на землю, уничтожая врагов в широком радиусе. Во все стороны полетят раскаленные обломки, а на месте падения останется дымящийся радиоактивный кратер."
             }
           },
           {
@@ -7694,7 +7694,7 @@
             "Desc": {
               "id": "3875403958791243019",
               "eng": "Clap your hands to crush an enemy, creating a shockwave that #emphasis#knocks back#/emphasis# foes and reflects projectiles in front of you.",
-              "rus": "Вы хлопаете в ладоши, чтобы сокрушить врага. Возникающая при этом ударная волна #emphasis#отбрасывает назад#/emphasis# врагов и отбивает снаряды, которые находятся перед вами."
+              "rus": "Хлопните в ладоши, чтобы сокрушить врага. Возникшая при этом ударная волна #emphasis#отбрасывает#/emphasis# врагов и отбивает снаряды, которые находились на её пути."
             }
           }
         ]
@@ -7715,7 +7715,7 @@
             "Desc": {
               "id": "18236737516641125656",
               "eng": "Punch the ground hard enough to create a localized earthquake that #emphasis#knocks down#/emphasis# enemies.",
-              "rus": "Ударить по земле, чтобы создать небольшое землетрясение, которое #emphasis#сбивает с ног#/emphasis# врагов."
+              "rus": "Ударьте по земле так, что произойдет небольшое землетрясение, которое #emphasis#сбивает с ног#/emphasis# врагов."
             }
           },
           {
@@ -7727,7 +7727,7 @@
             "Desc": {
               "id": "5232380708382049660",
               "eng": "Charge into a group of enemies, knocking them off balance.",
-              "rus": "Ворваться в группу врагов, сбивая их с ног."
+              "rus": "Ворвитесь прямо в гущу врагов, сбивая их с ног."
             }
           },
           {
@@ -7739,7 +7739,7 @@
             "Desc": {
               "id": "8975000547026994496",
               "eng": "Smash the ground with your fists, dealing massive damage and knocking down nearby enemies.",
-              "rus": "Бить по земле кулаками, нанося огромный урон врагам и сбивая их с ног."
+              "rus": "Бейте по земле кулаками, нанося огромный урон врагам в радиусе поражения и сбивая их с ног."
             }
           },
           {
@@ -7751,7 +7751,7 @@
             "Desc": {
               "id": "8182710004401374525",
               "eng": "Channel your anger into a ferocious roar, #emphasis#terrifying#/emphasis# nearby enemies.",
-              "rus": "Превратить свой гнев в яростный рев, #emphasis#пугающий#/emphasis# находящихся рядом врагов."
+              "rus": "Превратите свой гнев в яростный рев, #emphasis#пугающий#/emphasis# находящихся рядом врагов."
             }
           },
           {
@@ -7763,7 +7763,7 @@
             "Desc": {
               "id": "5323696987181221128",
               "eng": "Rip up a large section of the ground, and hurl it at your enemies.",
-              "rus": "Вырвать большой пласт земли и швырнуть его во врагов."
+              "rus": "Вырвите большой пласт земли и швырните его прямо в своих врагов."
             }
           },
           {
@@ -7775,19 +7775,19 @@
             "Desc": {
               "id": "10658093227035657593",
               "eng": "Leap into the air, #emphasis#knocking nearby enemies up#/emphasis# when you land.",
-              "rus": "Подпрыгнуть, #emphasis#подбросив в воздух#/emphasis# врагов после приземления."
+              "rus": "Подпрыгните, #emphasis#подбросив в воздух#/emphasis# врагов после приземления."
             }
           },
           {
             "Name": {
               "id": "4543471441484121353",
               "eng": "Knuckledusters",
-              "rus": "Кастет"
+              "rus": "Кастеты"
             },
             "Desc": {
               "id": "12406348579496592705",
               "eng": "Tear a nearby car in half and use it as improvised boxing gloves.",
-              "rus": "РазорвитеNearby машину пополам и используйте ее в качестве импровизированных боксерских перчаток."
+              "rus": "Разорвите машину пополам и используйте ее в качестве импровизированных боксерских перчаток."
             }
           },
           {
@@ -7799,7 +7799,7 @@
             "Desc": {
               "id": "9180198948965319999",
               "eng": "Unleash the full-extent of your gamma-infused rage in an astronomical explosion with enough sheer force to crack a planet.",
-              "rus": "Дайте волю своему гневу во взрыве космической мощи, которой хватит на то, чтобы расколоть планету."
+              "rus": "Используйте полную мощь своей гамма-ярости создав взрыв чудовищной силы, способный расколоть планету."
             }
           }
         ]
@@ -7839,7 +7839,7 @@
             "Name": {
               "id": "185961428779205947",
               "eng": "Hulk Tough!",
-              "rus": "Халк прочный!"
+              "rus": "Халк крепкий!"
             },
             "Desc": {
               "id": "Invalid",
@@ -7865,14 +7865,14 @@
     "Bio": {
       "id": "2009851451823424902",
       "eng": "#emphasis#Real Name:#/emphasis# James Rupert Rhodes\n#emphasis#Identity:#/emphasis# Secret\n\nLieutenant Colonel James Rhodes of the U.S. Marine Corps has fought and bled for his country. But it was his friendship to Tony Stark that opened Rhodey up to the most difficult battles of his life. Tony Stark, the Invincible Iron Man, was feeling less than invincible when a dark time continually interfered with his super heroics. Donning the Iron Man suit while Tony got his life back together, Rhodey demonstrated an aptitude for Stark-built armor that would eventually inspire Tony to launch the lieutenant colonel's career as the one man army: War Machine!\n\n\n#emphasis#Created By:#/emphasis# David Michelinie & Bob Layton\n#emphasis#First Appearance:#/emphasis# Iron Man #118 (January 1979)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Джеймс Руперт Роудс\n#emphasis#Личность:#/emphasis# Секретна\n\nПодполковник Джеймс Роудс из корпуса морской пехоты США сражался и проливал кровь за свою страну. Но именно дружба с Тони Старком привела Роуди к самым трудным сражениям в его жизни. Тони Старк, Неуязвимый Железный Человек, чувствовал себя не таким неуязвимым в тёмный период, мешавший его героической деятельности. Надев костюм Железного Человека, пока Тони восстанавливал свою жизнь, Роуди проявил талант в управлении бронёй, созданной Старком, что в итоге вдохновило Тони запустить карьеру подполковника как армии в одном лице — Военной Машины!\n\n\n#emphasis#Создатели:#/emphasis# Дэвид Мишелини и Боб Лэйтон\n#emphasis#Первое появление:#/emphasis# Железный Человек #118 (январь 1979)"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Джеймс Руперт Роудс\n#emphasis#Личность:#/emphasis# Секретна\n\nПодполковник Джеймс Роудс — морской пехотинец, патриот, прошедший огонь и воду. Но самые сложные битвы в его жизни начались из-за дружбы с Тони Старком. Даже «Непобедимый Железный человек» временами терял веру в себя, когда чёрная полоса жизни мешала ему быть героем. Роуди взял на себя роль Железного человека, пока Тони приходил в себя, — и так мастерски пользовался его броней, что впечатлённый Старк создал новую специальную броню, которая дала старт полноценной героической карьере «армии из одного человека» — «Воителя»!\n\n\n#emphasis#Создатели:#/emphasis# Дэвид Мишелини и Боб Лэйтон\n#emphasis#Первое появление:#/emphasis# Железный Человек #118 (январь 1979)"
     },
     "PowerTables": [
       {
         "Name": {
           "id": "17031833705005712641",
           "eng": "Shock",
-          "rus": "Шок|Шока"
+          "rus": "Шок"
         },
         "Powers": [
           {
@@ -7884,7 +7884,7 @@
             "Desc": {
               "id": "17504190239678268685",
               "eng": "Bring a chainsaw onto a battlefield you better believe it's going to get used.",
-              "rus": "Не забудь прихватить цепную пилу на поле боя - никогда не знаешь, где она может пригодиться."
+              "rus": "Не забудьте прихватить цепную пилу на поле боя - никогда не знаешь, где она может пригодиться."
             }
           },
           {
@@ -7896,7 +7896,7 @@
             "Desc": {
               "id": "15860913512889189647",
               "eng": "Rocket forward, offensively using your laser blade to #emphasis#knock back#/emphasis# enemies in your path.",
-              "rus": "Ринуться вперед, безжалостно #emphasis#сбивая с ног#/emphasis# всех врагов, которые встретятся на пути."
+              "rus": "Риньтесь вперед, безжалостно #emphasis#сбивая с ног#/emphasis# всех врагов, которые окажутся на пути."
             }
           },
           {
@@ -7920,7 +7920,7 @@
             "Desc": {
               "id": "8082487591024723205",
               "eng": "Use your flamethrower to clear a path of red hot destruction in front of you.",
-              "rus": "С помощью огнемета проложить широкую, раскаленную дорогу в гуще врагов."
+              "rus": "Используйте огнемёт, чтобы расчистить дорогу и устроить пылающий ад для врагов, вставших у вас на пути."
             }
           },
           {
@@ -7932,7 +7932,7 @@
             "Desc": {
               "id": "16257095066003375431",
               "eng": "Take flight and slam into the middle of a group of enemies, #emphasis#knocking them down#/emphasis#.",
-              "rus": "Взлететь и врезаться сверху в толпу врагов, #emphasis#сбивая их с ног#/emphasis#."
+              "rus": "взмойте в воздух и силой обрушьтесь на группу врагов, #emphasis#сбивая их с ног#/emphasis#."
             }
           },
           {
@@ -7944,7 +7944,7 @@
             "Desc": {
               "id": "6289039226881770820",
               "eng": "Overload your reactor, causing it to violently discharge excess energy.\nThis removes negative conditions and restores some of your $primarymanabehaviorname$.",
-              "rus": "Перегрузить реактор, вызвав резкое высвобождение излишков энергии.\nОтрицательные эффекты при этом снимутся, также частично восстановится запас $primarymanabehaviorname.locflagG$."
+              "rus": "Перегрузите реактор, вызвав резкое высвобождение излишков энергии.\nОтрицательные эффекты при этом снимутся, также частично восстановится запас $primarymanabehaviorname.locflagG$."
             }
           },
           {
@@ -7968,7 +7968,7 @@
             "Desc": {
               "id": "16292602161918313779",
               "eng": "Take aim and fill an area with crowd-affecting tear gas.",
-              "rus": "Выбрать цель и выпустить облако слезоточивого газа."
+              "rus": "Выберите цель и выпустить облако слезоточивого газа."
             }
           },
           {
@@ -7980,7 +7980,7 @@
             "Desc": {
               "id": "3877584487978435905",
               "eng": "Release a localized electromagnetic pulse that stuns all enemies and inflicts massive damage, but generates excessive heat and scrambles your targeting computer for a brief duration.\nWhen your systems reach maximum capacity, the electromagnetic field discharges its energy to nearby foes.",
-              "rus": "Выпустить электромагнитный заряд, который оглушит всех врагов и нанесет мощный урон. При этом выделится большой объем тепла, которое зарядит выбранный компьютер. Когда система подзарядится, остаточное электромагнитное поле поразит ближайших врагов."
+              "rus": "Выпустите электромагнитный заряд, который оглушит всех врагов и нанесет мощный урон. При этом выделится большой объем тепла, которое зарядит вашу систему наведения. Когда система подзарядится, остаточное электромагнитное поле поразит ближайших врагов."
             }
           }
         ]
@@ -7996,12 +7996,12 @@
             "Name": {
               "id": "17268736395941774645",
               "eng": "Plasma Cannon",
-              "rus": "плазменная пушка"
+              "rus": "Плазменная пушка"
             },
             "Desc": {
               "id": "17528783239597065487",
               "eng": "Fire a beam of plasma from your shoulder mounted cannon that sets the ground ablaze around it's target.",
-              "rus": "Выпустить луч плазмы из плечевого оружия, раскалив землю вокруг врагов."
+              "rus": "Выпустите луч плазмы из наплечного орудия, создав раскаленную область земли под ногами у вашей цели."
             }
           },
           {
@@ -8013,7 +8013,7 @@
             "Desc": {
               "id": "12405036763275461896",
               "eng": "Unleash from your wrist-mounted machine guns short and lethal bursts at any enemies within your path.",
-              "rus": "Срубите всех окружающих врагов смертельным огнем из наручных пулеметов."
+              "rus": "Выпускайте из встроенных в предплечья пулемётов короткие смертоносные очереди по всем врагам на пути."
             }
           },
           {
@@ -8025,43 +8025,43 @@
             "Desc": {
               "id": "18076969715370755324",
               "eng": "Sweep the area with both wrist-mounted machine guns, clearing the stage of any charging enemies.",
-              "rus": "Зачистите территорию, залив все вокруг огнем из обоих наручных пулеметов."
+              "rus": "Зачистите территорию от врагов с помощью очереди из ваших встроенных в броню пулемётов."
             }
           },
           {
             "Name": {
               "id": "16086280333921879306",
               "eng": "Total War",
-              "rus": "Глобальная война"
+              "rus": "Война на уничтожение"
             },
             "Desc": {
               "id": "5334302292220249344",
               "eng": "It's time for a full barrage. Launch a hail of gunfire from both of your machine guns at everything in your way for a direct dose of maximum damage.",
-              "rus": "Пора задать врагам по полной! Выкосите всех вокруг огнем из обоих пулеметов, нанося максимальный урон."
+              "rus": "Настало время дать полный залп - откройте шквальный огонь из обоих пулемётов, нанося максимальный урон всему что окажется на вашем на пути."
             }
           },
           {
             "Name": {
               "id": "6320091402277815563",
               "eng": "Spit Fire",
-              "rus": "Огненный плевок"
+              "rus": "Пламенный выброс"
             },
             "Desc": {
               "id": "14123135595638162696",
               "eng": "Direct all heat build-up and fire an explosive thermite shot, melting all enemies struck.",
-              "rus": "Собрать сгусток огня и направить его во врагов, расплавляя всех, в кого он попадет."
+              "rus": "Высвободите весь накопленный жар в одном термическом выстреле, который прожжёт всех врагов на пути."
             }
           },
           {
             "Name": {
               "id": "14300445679703426307",
               "eng": "Clear the Room",
-              "rus": "Уборка"
+              "rus": "Уборка номеров"
             },
             "Desc": {
               "id": "12847275836266251577",
               "eng": "Spray the entire area with anti-tank bullets guaranteed to hit every enemy around you with a serious payload of ammunition.",
-              "rus": "Зачистите территорию, засыпав все вокруг градом противотанковых пуль. После такого горячего приема врагов больше не останется."
+              "rus": "Зачистите территорию, засыпая всё вокруг градом противотанковых пуль. После такого горячего приема врагов больше не останется."
             }
           },
           {
@@ -8073,7 +8073,7 @@
             "Desc": {
               "id": "13808527239817856323",
               "eng": "This multipurpose assault weapon launches a thermobaric warhead powerful enough to level a building, leaving a #emphasis#burning#/emphasis# inferno which should take care of anyone that survives the initial blast.",
-              "rus": "Многофункциональное штурмовое оружие, стреляет термобарическими боеприпасами, достаточно мощными, чтобы сравнять с землей дом, оставив на месте взрыва #emphasis#горящий#/emphasis# ад, в котором погибнут те, кто переживет сам взрыв."
+              "rus": "Многофункциональное штурмовое оружие, стреляющее термобарическими боеприпасами, достаточно мощными, чтобы сравнять с землей дом, оставив на месте взрыва #emphasis#горящий#/emphasis# ад, в котором погибнут те, кто переживет сам взрыв."
             }
           },
           {
@@ -8085,14 +8085,14 @@
             "Desc": {
               "id": "13468684280263476496",
               "eng": "Fire your weapon. Which one? ALL OF THEM! Fire every single piece of hardware you have on your person and show them why they call you the \"War Machine.\"",
-              "rus": "Стреляйте. Из чего? Да из всего! Открывайте огонь из всех стволов, и пусть враги наконец узнают, почему вас называют Воителем."
+              "rus": "Открывайте огонь. Из чего? ДА ИЗ ВСЕГО! Используйте весь ваш арсенал оружия одновременно, и пусть враги наконец узнают, почему вас называют Воителем."
             }
           },
           {
             "Name": {
               "id": "13528256941235897607",
               "eng": "Sidekick",
-              "rus": "Помощник"
+              "rus": "Напарник"
             },
             "Desc": {
               "id": "8672531718572934411",
@@ -8125,7 +8125,7 @@
             "Name": {
               "id": "582391836471264525",
               "eng": "Heat",
-              "rus": "Жара"
+              "rus": "Жар"
             },
             "Desc": {
               "id": "Invalid",
