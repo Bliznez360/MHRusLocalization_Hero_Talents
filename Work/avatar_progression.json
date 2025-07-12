@@ -8158,12 +8158,12 @@
     "Desc": {
       "id": "15280040124072133902",
       "eng": "Utilizing his control over all electromagnetism, Magneto has used his powers for many purposes: leader of the Brotherhood, terrorist, and even X-Man. Once a close friend of Professor Charles Xavier, Magneto took a more extreme path against prejudice and used his powers to prove mutantkind's superiority by any means necessary. Not an unreasonable man by any means, Magneto has been known to work on the side of angels if he feels it will accomplish noble goals and this time is no different.",
-      "rus": "Магнето умеет управлять электромагнитными полями, и эту способность он использовал для самых разных целей: он был лидером Братства, террористом и даже Человеком Икс. Когда-то он был близким другом профессора Чарльза Ксавье, но позднее решил бороться с несправедливостью более радикальными методами и любой ценой доказать превосходство мутантов. Его нельзя назвать безрассудным, и время от времени он помогает ангелам, если их цели кажутся ему благородными. Данный случай - не исключение."
+      "rus": "Магнето умеет управлять электромагнитными полями, и эту способность он использовал для самых разных целей: он был лидером Братства мутантов, террористом и даже Человеком Икс. Когда-то он был близким другом профессора Чарльза Ксавье, но позднее решил бороться с несправедливостью более радикальными методами и любой ценой доказать превосходство мутантов. Его нельзя назвать безрассудным, и время от времени он помогает другим, если их цели кажутся ему благородными. Данный случай - не исключение."
     },
     "Bio": {
       "id": "17277167515596817776",
       "eng": "#emphasis#Real Name:#/emphasis# Max Eisenhardt\n#emphasis#Identity:#/emphasis# Public\n\nUtilizing his control over all electromagnetism, Magneto has used his powers for many purposes: leader of the Brotherhood, terrorist, and even X-Man. Once a close friend of Professor Charles Xavier, Magneto took a more extreme path against prejudice and used his powers to prove mutantkind's superiority by any means necessary. Not an unreasonable man by any means, Magneto has been known to work on the side of angels if he feels it will accomplish noble goals and this time is no different.\n\n#emphasis#Created By:#/emphasis# Stan Lee and Jack Kirby\n#emphasis#First Appearance:#/emphasis# X-Men #1 (September 1963)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Макс Эйзенхардт\n#emphasis#Личность:#/emphasis# Публичная\n\nИспользуя свой контроль над всем электромагнетизмом, Магнето использовал свои силы для многих целей: лидер Братства, террорист и даже Люди Икс. Когда-то близкий друг профессора Чарльза Ксавье, Магнето выбрал более радикальный путь против предвзятости и использовал свои силы, чтобы доказать превосходство мутантов любыми необходимыми средствами. Не будучи необоснованным человеком, Магнето известен тем, что может работать на стороне ангелов, если считает, что это поможет достичь благородных целей, и в этот раз не исключение.\n\n#emphasis#Создано:#/emphasis# Станом Ли и Джеком Кирби\n#emphasis#Первое появление:#/emphasis# Люди Икс #1 (сентябрь 1963)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Макс Эйзенхардт\n#emphasis#Личность:#/emphasis# Публичная\n\nИспользуя свой контроль над всем электромагнетизмом, Магнето применял свои силы для многих целей: лидер Братства, террорист и даже будучи с Людьми Икс. Когда-то близкий друг профессора Чарльза Ксавье, Магнето выбрал более радикальный путь борьбы против угнетения и использовал свои силы, чтобы доказать превосходство мутантов любыми необходимыми средствами. Не будучи совершенно безрассудным человеком, Магнето известен тем, что может работать на стороне и добра, если посчитает цели союзников достойными, и этот раз не исключение.\n\n#emphasis#Создано:#/emphasis# Станом Ли и Джеком Кирби\n#emphasis#Первое появление:#/emphasis# Люди Икс #1 (сентябрь 1963)\n"
     },
     "PowerTables": [
       {
@@ -8182,7 +8182,7 @@
             "Desc": {
               "id": "17236381638507955517",
               "eng": "Send a large, magnetically charged ball of scrap careening into your enemies.",
-              "rus": "Бросить во врагов большой шар намагниченных обломков."
+              "rus": "Метните во врагов огромный намагниченный шар состоящий из обломков и мусора."
             }
           },
           {
@@ -8194,7 +8194,7 @@
             "Desc": {
               "id": "3536097771540579687",
               "eng": "Project a powerful magnetic field that retrieves all nearby Debris and severely damages anything it passes through.",
-              "rus": "Создать мощное магнитное поле, которое собирает все обломки и наносит ими урон противникам."
+              "rus": "Создайте мощное магнитное поле, которое притягивает все металлические обломки вокруг и наносит урон всему, через что проходит."
             }
           },
           {
@@ -8206,19 +8206,19 @@
             "Desc": {
               "id": "15848202054785041776",
               "eng": "Direct a devastating beam of concentrated electromagnetic force that disintegrates anything it passes through.",
-              "rus": "Выпустить смертельный луч концентрированной электромагнитной энергии, уничтожающий все объекты на своем пути."
+              "rus": "Выпустите смертельный луч концентрированной электромагнитной энергии, уничтожающий все объекты на своем пути."
             }
           },
           {
             "Name": {
               "id": "4346186143187404094",
               "eng": "Metal Tempest",
-              "rus": "Направленный конус"
+              "rus": "Металлический шторм"
             },
             "Desc": {
               "id": "1344018563223717184",
               "eng": "#emphasis#Slow#/emphasis# oncoming enemies with relentless waves of flying metallic shrapnel.",
-              "rus": "#emphasis#Замедлить#/emphasis# наступающих врагов шквалом металлической шрапнели."
+              "rus": "#emphasis#Замедлите#/emphasis# наступающих врагов настоящим шквалом металлической шрапнели."
             }
           },
           {
@@ -8230,7 +8230,7 @@
             "Desc": {
               "id": "2749620269530088770",
               "eng": "You're surrounded by a strong, ambient magnetic field that protects you from harm.\nActivate to cause a surge through the field that stuns nearby enemies and stops incoming projectiles mid-flight.",
-              "rus": "Окружить и защитить себя мощным магнитным полем. При активации магнитный импульс оглушает ближайших врагов и останавливает летящие в вас снаряды."
+              "rus": "Окружите себя мощным магнитным полем, защищающим от повреждений. А затем активируйте его, чтобы создать импульс, который оглушает ближайших врагов и останавливает летящие в вас снаряды."
             }
           },
           {
@@ -8242,7 +8242,7 @@
             "Desc": {
               "id": "15584421716210550083",
               "eng": "Pull in all enemies while charging a powerful polarity field, then detonate the field to decimate those caught in the blast radius.",
-              "rus": "Притянуть врагов, одновременно зарядив мощное поле полярности, затем детонировать это поле, нанеся опустошительный урон."
+              "rus": "Притяните врагов, одновременно зарядив мощное поле полярности, а затем сдетонируйте это поле, нанеся опустошительный урон."
             }
           },
           {
@@ -8254,7 +8254,7 @@
             "Desc": {
               "id": "15133933024774849909",
               "eng": "Cause a surge in the magnetic field of the planet itself, causing cascading eruptions of force beneath the feet of your enemies.",
-              "rus": "Вызвать мощное изменение в магнитном поле самой планеты и создать магнитные аномалии под ногами врагов."
+              "rus": "Вызовите мощный всплеск магнитного поля самой планеты, пробуждая каскадные разрывы энергии прямо под ногами врагов."
             }
           },
           {
@@ -8266,7 +8266,7 @@
             "Desc": {
               "id": "9663685492003046764",
               "eng": "Cause a deadly implosion of magnetic energy that devours nearby enemies.",
-              "rus": "Взрыв магнитной энергии поглощает ближайших врагов."
+              "rus": "Создайте смертоносный взрыв магнитной энергии, который поглотит всех врагов вокруг."
             }
           },
           {
@@ -8278,7 +8278,7 @@
             "Desc": {
               "id": "9272129365266335032",
               "eng": "Effortlessly hurl a nearby vehicle at your enemies, leaving them devastated by the tremendous force.",
-              "rus": "Швырнуть машину во врагов, нанеся им массивный урон."
+              "rus": "С лёгкостью поднимите в воздух машину и швырните её во врагов, нанося им огромный урон."
             }
           }
         ]
@@ -8299,7 +8299,7 @@
             "Desc": {
               "id": "17413840843900388715",
               "eng": "Surge forward with a layer of metal held in front of you, unleashing it in a shotgun blast on your arrival.",
-              "rus": "Рвануться вперед, держа перед собой скопление металла, и выпустить его по прибытии, словно картечь из дробовика."
+              "rus": "Рваните вперед, прикрываясь щитом из металлических осколков, а по прибытии метните их, словно картечь из дробовика."
             }
           },
           {
@@ -8311,19 +8311,19 @@
             "Desc": {
               "id": "12889228239296333113",
               "eng": "Fling a spread of razor-sharp shrapnel at enemies in front of you.",
-              "rus": "Осыпать врагов перед собой бритвенно-острой шрапнелью."
+              "rus": "Осыпьте врагов перед собой бритвенно-острой металлической шрапнелью."
             }
           },
           {
             "Name": {
               "id": "4000489242058229060",
               "eng": "Compressed Shrapnel",
-              "rus": "Компактная шрапнель"
+              "rus": "Пресованная шрапнель"
             },
             "Desc": {
               "id": "8539660591729476926",
               "eng": "#emphasis#Knock down#/emphasis# enemies in front of you with a sudden shot of your Debris compressed into metal spheres.",
-              "rus": "#emphasis#Сбить с ног#/emphasis# врагов перед вами внезапным броском осколков, скомканных в металлические сферы."
+              "rus": "#emphasis#Сбейте с ног#/emphasis# врагов перед вами внезапным броском осколков, спрессованных в металлические сферы."
             }
           },
           {
@@ -8335,7 +8335,7 @@
             "Desc": {
               "id": "12156309190034261353",
               "eng": "Use some Debris to create a deadly whirlwind of razor-sharp metal at a location.",
-              "rus": "Создать смертоносный вихрь из острых осколков металла."
+              "rus": "Используйте обломки, чтобы создать вихри из бритвенно-острого металла в выбранной зоне."
             }
           },
           {
@@ -8347,31 +8347,31 @@
             "Desc": {
               "id": "17215650054711018816",
               "eng": "Strangle enemies by bending strips of metal around their bodies, rendering them #emphasis#vulnerable#/emphasis# and #emphasis#immobilized#/emphasis#.",
-              "rus": "Обвивать тела врагов гнутыми полосами металла. Враги станут #emphasis#уязвимыми#/emphasis# и #emphasis#неподвижными#/emphasis#."
+              "rus": "Используйте полосы металла, чтобы опутать врагов, обездвиживая их. Враги станут #emphasis#уязвимыми#/emphasis# и #emphasis#неподвижными#/emphasis#."
             }
           },
           {
             "Name": {
               "id": "3954064889012159806",
               "eng": "Impale with Iron",
-              "rus": "Пронзание"
+              "rus": "Копья стали"
             },
             "Desc": {
               "id": "7249055088643868010",
               "eng": "Compress some of your Debris into massive spikes of metal, and slam them into the ground around an unfortunate enemy.",
-              "rus": "Спрессуйте обломки в массивные металлические пики и вбейте их в землю рядом с врагами."
+              "rus": "Спрессуйте массивные шипы из металлических осколков и вбейте их в землю вокруг своей цели, нанося урон по области."
             }
           },
           {
             "Name": {
               "id": "18228765219874080068",
               "eng": "Storm of Steel",
-              "rus": "Металловорот"
+              "rus": "Металлический шторм"
             },
             "Desc": {
               "id": "18122427554753545482",
               "eng": "Calmly levitate in the eye of a hurricane of spinning scrap metal. As you float through the battlefield, anything in your path is quickly dissected by a tidal wave of metal.",
-              "rus": "Спокойно парить в центре торнадо из металлических обломков. Летая по полю боя, вы будете рассекать все неудержимой волной металла."
+              "rus": "Спокойно парите в центре торнадо из металлического мусора. Пока вы левитируете над полем боя, всё что окажется на вашем пути мгновенно разрывает настоящая буря из металла."
             }
           },
           {
@@ -8383,7 +8383,7 @@
             "Desc": {
               "id": "9133574072426824968",
               "eng": "Convert one of humanity's feeble attempts at controlling mutant kind into a weapon by effortlessly hurling it at your enemies, then utilize the debris from that weapon to create a whirlwind of destruction.",
-              "rus": "Использовать как оружие прибор, с помощью которого жалкие людишки пытались управлять мутантами. Швырннуть его во врагов, а из обломков создать разрушительный вихрь."
+              "rus": "Используйте жалкие попытки создать антимутантные технологии против самих же людей: бросьте останки этих устройств во врагов, а затем используйте их обломки для создания смертоносной металлической бури."
             }
           }
         ]
@@ -8468,7 +8468,7 @@
             "Desc": {
               "id": "7582681383572145479",
               "eng": "Rapidly fire your twin handguns, unloading photon bursts that pierce through enemies.",
-              "rus": "Быстро выстрелить из двух пистолетов фотонными импульсами, пробивающими врагов насквозь."
+              "rus": "Быстро выстрелите из двух пистолетов фотонными импульсами, пробивающими врагов насквозь."
             }
           },
           {
@@ -8480,7 +8480,7 @@
             "Desc": {
               "id": "7676703861199471878",
               "eng": "Launch a high-intensity charge of plasma at targeted location that #emphasis#burns#/emphasis# and slows enemies. ",
-              "rus": "Выстрелить зарядом перегретой плазмы, которая #emphasis#обжигает#/emphasis# и замедляет врагов."
+              "rus": "Выстрелите зарядом перегретой плазмы, которая #emphasis#обжигает#/emphasis# и замедляет врагов."
             }
           },
           {
@@ -8492,7 +8492,7 @@
             "Desc": {
               "id": "5298852336595895605",
               "eng": "Destroy enemies with a constant stream of white-hot plasma from your biggest gun.",
-              "rus": "Уничтожить врагов непрерывным потоком раскаленной плазмы из вашей самой большой пушки."
+              "rus": "Уничтожьте врагов непрерывным потоком раскаленной плазмы из вашей самой большой пушки."
             }
           },
           {
@@ -8504,7 +8504,7 @@
             "Desc": {
               "id": "15735289868414420230",
               "eng": "Unleash heavy plasma rounds at your target that deliver explosive energy detonations on impact.",
-              "rus": "Расстрелять цель тяжелыми плазменными зарядами, взрывающимися при попадании."
+              "rus": "Расстреляйте цель тяжелыми плазменными зарядами, взрывающимися при попадании."
             }
           },
           {
@@ -8516,7 +8516,7 @@
             "Desc": {
               "id": "11591950358369207557",
               "eng": "Inspired by the original Raccoonatics LW-60, the recent model of the minigun combines rapidfire technology with breakthroughs in photon laser research.\n\nHold down the hotkey to barrage an enemy with a constant stream of photon lasers.",
-              "rus": "Созданная по образцу легендарного \"Енотикс LW-60\", новейшая модель минигана объединяет в себе технологию сверхскоростной стрельбы с последними достижениями фотонно-лазерных разработок.\n\nУдерживать горячую клавишу, чтобы обрушить на врага непрерывную очередь фотонных лазерных лучей."
+              "rus": "Созданная по образцу легендарного \"Енотикс LW-60\", новейшая модель минигана объединяет в себе технологию сверхскоростной стрельбы с последними достижениями фотонно-лазерных разработок.\n\nУдерживайте горячую клавишу, чтобы обрушить на врага непрерывную очередь фотонных лазерных лучей."
             }
           },
           {
@@ -8528,7 +8528,7 @@
             "Desc": {
               "id": "1429885370473710914",
               "eng": "Roll backwards out of combat, firing double shots from your Photon Pistols that stun your target.",
-              "rus": "Перекатом назад выйти из боя, одновременно сделав два выстрела из фотонных пистолетов, оглушая противника."
+              "rus": "Перекатом назад выйдите из боя, одновременно сделав два выстрела из фотонных пистолетов, оглушая противника."
             }
           },
           {
@@ -8540,7 +8540,7 @@
             "Desc": {
               "id": "5390377857755972932",
               "eng": "Unleash the quad-barreled tactical nuke launcher, creating a massive high-energy explosion at the point of impact. Fire up to 4 warheads before requiring a recharge.",
-              "rus": "Достать четырехствольный тактический ядерный гранатомет, чьи боеголовки вызывают опустошительные взрывы в точках поражения. До перезарядки можно выпустить до 4 боеголовок."
+              "rus": "Достаньте четырехствольный тактический ядерный гранатомет, чьи боеголовки вызывают опустошительные взрывы в точках поражения. До перезарядки можно выпустить до 4 боеголовок."
             }
           },
           {
@@ -8552,7 +8552,7 @@
             "Desc": {
               "id": "13892119827450103040",
               "eng": "Charge up a high-energy slug and fire it at supersonic speeds, piercing through enemies.\nThis gun's effect overclocks your weapon batteries for a short time, giving them an extra kick.",
-              "rus": "Удерживать горячую клавишу, чтобы разогнать сгусток высокой энергии до сверхзвуковой скорости и запустить его во врагов.\nЭффект этого оружия на некоторое время \"разгоняет\" аккумуляторы, придавая им дополнительную мощность."
+              "rus": "Удерживайте горячую клавишу, чтобы разогнать сгусток высокой энергии до сверхзвуковой скорости и выпустить его во врагов.\nЭффект этого оружия на некоторое время \"разгоняет\" аккумуляторы, придавая им дополнительную мощность."
             }
           }
         ]
@@ -8573,7 +8573,7 @@
             "Desc": {
               "id": "11550550421287339279",
               "eng": "Summon your big buddy, the mighty sentient tree Groot, to fight your enemies.\nRe-activate to direct Groot to charge toward enemies.",
-              "rus": "Призвать своего огромного союзника Грута - могучее разумное дерево, - которое будет сражаться на вашей стороне.\nАктивируйте снова, чтобы он бросился на врага."
+              "rus": "Призовите своего огромного союзника Грута - могучее разумное дерево, - которое будет сражаться на вашей стороне.\nАктивируйте снова, чтобы он бросился на врага."
             }
           },
           {
@@ -8585,7 +8585,7 @@
             "Desc": {
               "id": "12425802002509661513",
               "eng": "Lunge forward, #emphasis#knocking down#/emphasis# enemies in your path and slashing them with your energy knife.",
-              "rus": "Рвануться вперед, #emphasis#сбивая с ног#/emphasis# противников на своем пути и рубя их энергетическим ножом."
+              "rus": "Рваните вперед, #emphasis#сбивая с ног#/emphasis# противников на своем пути и рубя их энергетическим ножом."
             }
           },
           {
@@ -8597,7 +8597,7 @@
             "Desc": {
               "id": "12107244110595622158",
               "eng": "Set up an automated turret that blasts your enemies. Turrets receive a tremendous boost to attack speed when initially deployed.",
-              "rus": "Установить автоматическую бластерную турель. При первоначальной установке турели получают очень большой бонус к скорости атаки."
+              "rus": "Установите автоматическую бластерную турель. При первоначальной установке турели получают очень большой бонус к скорости атаки."
             }
           },
           {
@@ -8621,7 +8621,7 @@
             "Desc": {
               "id": "5658046962733024568",
               "eng": "Set up a temporal distortion device that slows nearby enemies and enemy projectiles.",
-              "rus": "Установить устройство искажения времени. которое замедлит врагов и вражеские снаряды."
+              "rus": "Установите устройство искажения времени, которое замедлит врагов и вражеские снаряды."
             }
           },
           {
@@ -8633,7 +8633,7 @@
             "Desc": {
               "id": "6085257451112826113",
               "eng": "Set up an automated turret that periodically #emphasis#stuns#/emphasis# and #emphasis#weakens#/emphasis# enemies with wide energy pulses.",
-              "rus": "Установить автоматическую турель, которая периодически #emphasis#оглушает#/emphasis# и #emphasis#ослабляет#/emphasis# врагов веерными энергетическими импульсами."
+              "rus": "Установите автоматическую турель, которая периодически #emphasis#оглушает#/emphasis# и #emphasis#ослабляет#/emphasis# врагов веерными энергетическими импульсами."
             }
           },
           {
@@ -8657,19 +8657,19 @@
             "Desc": {
               "id": "3666439312913925385",
               "eng": "Deploy a mine that explodes and redirects gravity to pull all enemies toward it.",
-              "rus": "Установить мину, которая взорвется и перенаправит гравитацию так, что все враги притянутся к ней."
+              "rus": "Установите мину, которая взорвется и перенаправит гравитацию так, что все враги притянутся к ней."
             }
           },
           {
             "Name": {
               "id": "12188052064907167044",
               "eng": "Hadron Enforcer",
-              "rus": "Гадронный Исполнитель"
+              "rus": "Адронный Подавитель"
             },
             "Desc": {
               "id": "9389030931837486358",
               "eng": "For times you wanna blow up moons, fire a miniature atomic warhead from your home-made weapon of mass destruction.",
-              "rus": "В те времена, когда вы хотите взорвать луны, запустите миниатюрную атомную боеголовку из вашего самодельного оружия массового уничтожения."
+              "rus": "Когда нужно взорвать луну — просто запусти миниатюрную атомную боеголовку из своего самодельного оружия массового поражения."
             }
           },
           {
