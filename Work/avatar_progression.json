@@ -8766,19 +8766,19 @@
             "Desc": {
               "id": "5992915886185448716",
               "eng": "Flay enemies with your chains, restoring your health when striking those consumed in #emphasis#Hellfire#/emphasis#.",
-              "rus": "Рубить противников цепями, восстанавливая здоровье при каждом попадании и повергая врагов в #emphasis#адское пламя#/emphasis#."
+              "rus": "Рубите противников цепями, восстанавливая здоровье при каждом попадании и повергая врагов в #emphasis#адское пламя#/emphasis#."
             }
           },
           {
             "Name": {
               "id": "5290859746062239039",
               "eng": "Infernal Wheelie",
-              "rus": "Адский \"козел\""
+              "rus": "Адский \"Козёл\""
             },
             "Desc": {
               "id": "1581289500297856315",
               "eng": "Cut a fiery swath through and over your enemies by performing a wheelie on your #emphasis#Hellfire#/emphasis# bike.",
-              "rus": "Прорубить огненную дорогу посреди полчищ врагов, проехав на заднем колесе своего мотоцикла из #emphasis#адского пламени#/emphasis#."
+              "rus": "Пронесись огненным вихрем сквозь врагов на заднем колесе своего мотоцикла оставляя на земле след #emphasis#адского пламени#/emphasis#."
             }
           },
           {
@@ -8790,7 +8790,7 @@
             "Desc": {
               "id": "13051412114215077136",
               "eng": "Unleash hungry chains to reach out and seize enemies to wrench them back to your feet.",
-              "rus": "Выпустить голодные цепи, которые дотянутся до врагов, схватят их и притянут к вашим ногам."
+              "rus": "Воспользуйтесь своими ненасытными цепями, чтобы дотянутся до врагов, схватить и бросить к вашим ногам."
             }
           },
           {
@@ -8802,7 +8802,7 @@
             "Desc": {
               "id": "9824790947872638270",
               "eng": "Rev your bike up and send it careening into oncoming enemies, leaving a horrific trail of #emphasis#Hellfire#/emphasis#.",
-              "rus": "Дать как следует газу и вломиться на мотоцикле в гущу врагов, оставляя за собой ужасный след из #emphasis#адского пламени#/emphasis#."
+              "rus": "Давите изо всех сих на газ и вломитесь на мотоцикле прямо в гущу врагов, оставляя за собой ужасный след из #emphasis#адского пламени#/emphasis#."
             }
           },
           {
@@ -8814,7 +8814,7 @@
             "Desc": {
               "id": "14637910885236933949",
               "eng": "Hold down the hotkey to swing an infernal chain over your head, reaping the terrified shrieks of the wicked.",
-              "rus": "Удерживать горячую клавишу, чтобы с жуткими воплями раскрутить над головой адскую цепь."
+              "rus": "Зажмите горячую клавишу, чтобы раскрутить адскую цепь над головой, собирая свою дань вопящих грешников."
             }
           },
           {
@@ -8826,7 +8826,7 @@
             "Desc": {
               "id": "1735046748156986629",
               "eng": "Grab hold of your hellbike as it surges upwards. Then hurl it back to the infernal depths, causing an enourmous rift of #emphasis#Hellfire#/emphasis#, scorching and #emphasis#knocking up#/emphasis# any nearby enemies.",
-              "rus": "Ухватиться за свой адский мотоцикл, когда он взлетает вверх. Затем обрушь его обратно в глубины ада, создав чудовищный провал, наполненный #emphasis#адским пламенем#/emphasis#, обжигая и #emphasis#отбрасывая#/emphasis# всех врагов."
+              "rus": "Ухватитесь за свой адский мотоцикл, когда он взлетает "свечкой" вверх. А затем обрушьте его обратно в глубины ада, создав чудовищный провал, наполненный #emphasis#адским пламенем#/emphasis#, обжигая и #emphasis#отбрасывая#/emphasis# всех врагов."
             }
           },
           {
@@ -8838,19 +8838,19 @@
             "Desc": {
               "id": "13276110251847648571",
               "eng": "Conjure chains dredged from the infernos of Perdition to swing out and strike enemies with.",
-              "rus": "Призвать цепи из глубин Преисподней и размахивать ими, круша врагов."
+              "rus": "Призовите цепи выкованные в глубинах Преисподней и обрушьте их на головы своих врагов."
             }
           },
           {
             "Name": {
               "id": "2793062974611326222",
               "eng": "Chain Flechette",
-              "rus": "Цепная флехета"
+              "rus": "Осколочные цепи"
             },
             "Desc": {
               "id": "591338777334449420",
               "eng": "Ignite your chain with hellfire, melting the links before snapping the chain, projecting forward a wave of hellfire shrapnel.",
-              "rus": "Зажгите свою цепь адским огнем, расплавляя звенья перед тем, как разорвать цепь, проецируя вперед волну осколков адского огня."
+              "rus": "Зажгите свою цепь адским огнем, расплавляя звенья перед тем, как разорвать цепь, создав волну шрапнели и адского огня."
             }
           },
           {
@@ -8862,7 +8862,7 @@
             "Desc": {
               "id": "17397679981360645388",
               "eng": "Fling out a pair of enormous, searing chains that split bones and cauterize flesh.",
-              "rus": "Выпустите пару огромных, обжигающих цепей, которые ломают кости и прижигают плоть."
+              "rus": "Воспользуйтесь парой огромных, обжигающих цепей, которые ломают кости и прижигают плоть."
             }
           }
         ]
@@ -8883,19 +8883,19 @@
             "Desc": {
               "id": "7675453355762517307",
               "eng": "Hurl a ball of #emphasis#Hellfire#/emphasis# that explodes when it hits the first enemy in its path.",
-              "rus": "Швырнуть шар #emphasis#адского пламени#/emphasis#, который взрывается, попав в первого врага на своем пути."
+              "rus": "Швырните шар #emphasis#адского пламени#/emphasis#, который взрывается, попав в первого врага на своем пути."
             }
           },
           {
             "Name": {
               "id": "13610905877386036491",
               "eng": "Hellfire Beam",
-              "rus": "Адское пламя"
+              "rus": "Адский луч"
             },
             "Desc": {
               "id": "15172256721486480658",
               "eng": "Blast enemies in front of you with beams of potent magical energies.",
-              "rus": "Разить врагов лучами могущественной магической энергии."
+              "rus": "Разите врагов лучами могущественной магической энергии."
             }
           },
           {
@@ -8907,7 +8907,7 @@
             "Desc": {
               "id": "3992688619372545343",
               "eng": "Ignite an area with an all-consuming column of #emphasis#Hellfire#/emphasis#.",
-              "rus": "Поджечь область всепоглощающим столпом #emphasis#адского пламени#/emphasis#."
+              "rus": "Воспламените область всепоглощающим костром #emphasis#адского пламени#/emphasis#."
             }
           },
           {
@@ -8919,7 +8919,7 @@
             "Desc": {
               "id": "12337180235673109779",
               "eng": "Drive fear deep into the sanity and souls of your foes, #emphasis#terrifying#/emphasis# them with visions of dread.",
-              "rus": "Вселите страх в разум и души ваших врагов, #emphasis#ужасающими#/emphasis# видениями их кошмаров."
+              "rus": "Вселите страх в разум и души ваших врагов, наслав на них #emphasis#ужасающие#/emphasis# видениями прямиком из их кошмаров."
             }
           },
           {
@@ -8931,19 +8931,19 @@
             "Desc": {
               "id": "7465490911676466493",
               "eng": "Hold down the hotkey to incinerate enemies in front of you with a fountain of  #emphasis#Hellfire#emphasis#.",
-              "rus": "Удерживать горячую клавишу, чтобы испепелить противников фонтаном #emphasis#адского пламени#emphasis#."
+              "rus": "Удерживайте горячую клавишу, чтобы испепелить противников фонтаном #emphasis#адского пламени#emphasis#."
             }
           },
           {
             "Name": {
               "id": "3927837164408407352",
               "eng": "Flay",
-              "rus": "Обдирание"
+              "rus": "Растерзание"
             },
             "Desc": {
               "id": "14334449219261302028",
               "eng": "Crack your chains against the ground, causing a fiery shockwave that #emphasis#knocks down#/emphasis# enemies.",
-              "rus": "Разбейте свои цепи о землю, вызывая огненный удар, который #emphasis#сбрасывает#/emphasis# врагов."
+              "rus": "Разбейте свои цепи о землю, вызывая огненную волну, которая ранит и #emphasis#сбивает с ног#/emphasis# врагов."
             }
           },
           {
@@ -8955,7 +8955,7 @@
             "Desc": {
               "id": "7714215744785483015",
               "eng": "Fling out a length of searing hot living chain that wraps itself around a group of enemies, #emphasis#immobilizing#/emphasis#, strangling, and burning them.",
-              "rus": "Метнуть длинную, раскаленную цепь, которая обовьется вокруг группы врагов, #emphasis#парализуя#/emphasis#, удушая и обжигая их."
+              "rus": "Метните длинную, раскаленную цепь, которая обовьется вокруг группы врагов, #emphasis#парализуя#/emphasis#, удушая и обжигая их."
             }
           },
           {
@@ -8967,7 +8967,7 @@
             "Desc": {
               "id": "10392013143861953809",
               "eng": "Ruin an enemy's mind by burying it under the colossal weight of all their sins, terrifying them with the full extent of the suffering they have caused others.",
-              "rus": "Обезвредить врагов, похоронив их под колоссальным грузом их грехов. Враги придут в ужас и будут страдать так же, как от их дел страдали другие."
+              "rus": "Сокруши сознание врага, погребя его под чудовищной тяжестью всех его грехов. Заставь его узреть и ощутить весь ужас и страдания, которые он причинил другим."
             }
           },
           {
@@ -8979,7 +8979,7 @@
             "Desc": {
               "id": "3172928299076945151",
               "eng": "Watch as the ground around you erupts with #emphasis#Hellfire#/emphasis#, forming into living chains that seek out and shred the souls of all evil-doers.",
-              "rus": "Смотрите, как земля вокруг вас взрывается #emphasis#Адским огнем#/emphasis#, формируя живые цепи, которые ищут и разрывают души всех злодеев."
+              "rus": "Взгляните, как земля вокруг вас взрывается #emphasis#Адским огнем#/emphasis#, формируя живые цепи, которые ищут и разрывают в клочья души всех злодеев."
             }
           }
         ]
@@ -9040,7 +9040,7 @@
     "Desc": {
       "id": "4489597472018269498",
       "eng": "Spider-Man uses his web-shooters and quick punches to defeat enemies.\nHis amazing reflexes and precognitive \"spider-sense\" lets him avoid danger.",
-      "rus": "Человек-Паук побеждает врагов, нанося им быстрые удары и используя паутинострелы.\nЕго потрясающая реакция и вещее \"паучье чутье\" помогают ему избегать опасности."
+      "rus": "Человек-Паук побеждает врагов, нанося им быстрые удары и используя паутиномёты.\nЕго потрясающая реакция и интуитивное \"паучье чутье\" помогают ему избегать опасности."
     },
     "Bio": {
       "id": "13176781956296803690",
@@ -9064,7 +9064,7 @@
             "Desc": {
               "id": "3770731907816359175",
               "eng": "Spring into a brutal combo of kicks and punches, which are sure to lay out even the toughest bad guys.",
-              "rus": "Провести комбо из сокрушимых ударов руками и ногами, выводящее из строя даже самых крутых врагов."
+              "rus": "Проведите комбо из сокрушимых ударов руками и ногами, выводящее из строя даже самых крутых врагов."
             }
           },
           {
@@ -9076,7 +9076,7 @@
             "Desc": {
               "id": "10772222366430266690",
               "eng": "Show off a display of acrobatics and agility, moving quickly through the fight with grace and speed.",
-              "rus": "Покажите демонстрацию акробатики и ловкости, быстро перемещаясь по бою с грацией и скоростью."
+              "rus": "Продемонстрируйте свои акробатические навыки и ловкость, быстро атакуя с невероятной грацией и скоростью."
             }
           },
           {
@@ -9088,7 +9088,7 @@
             "Desc": {
               "id": "14481401396503905599",
               "eng": "Do whatever a spider can and pull yourself up with a web-assisted kick directly into your enemies.",
-              "rus": "Делай всё, что может паук, и поднимайся с помощью удара ногой с использованием паутины прямо в своих врагов."
+              "rus": "Используй свои паучьи навыки: резко оттолкнись паутиной и с мощным ударом влетай прямо во врагов."
             }
           },
           {
@@ -9100,7 +9100,7 @@
             "Desc": {
               "id": "12896376984723326260",
               "eng": "Fly into a dizzying blur of attacks, leaving no enemies standing.",
-              "rus": "Влетите в головокружительный вихрь атак, не оставляя врагов в живых."
+              "rus": "Ворвитесь в бой мощной серией ударов, не оставляя врагам ни шанса устоять."
             }
           },
           {
@@ -9112,7 +9112,7 @@
             "Desc": {
               "id": "3806683369652487428",
               "eng": "Pull yourself forward using a web zipline, #emphasis#knocking down#/emphasis# all enemies in your path. ",
-              "rus": "Качнуться вперед на тросе, #emphasis#сбивая с ног#/emphasis# всех противников на своем пути."
+              "rus": "Качнитесь вперед на паутине, #emphasis#сбивая с ног#/emphasis# всех противников на своем пути."
             }
           },
           {
@@ -9124,19 +9124,19 @@
             "Desc": {
               "id": "3391532711289881862",
               "eng": "Backflip into the air before quickly web-zipping back to the ground in a diving kick.",
-              "rus": "Сальто назад в воздухе, прежде чем быстро пролететь на паутине обратно к земле в ударе с разворота."
+              "rus": "Сделайте сальто назад в воздухе, прежде чем пролететь на паутине обратно к земле в ударе с разворота."
             }
           },
           {
             "Name": {
               "id": "463845426362516867",
               "eng": "Infuriating Humor",
-              "rus": "Злой юмор"
+              "rus": "Язвительная насмешка"
             },
             "Desc": {
               "id": "2861671538105910537",
               "eng": "Embarrass nearby enemies with a sharp-witted insult that #emphasis#weakens#/emphasis# and #emphasis#taunts#/emphasis# them.",
-              "rus": "Вывести врагов из равновесия остроумными оскорблениями, #emphasis#ослабляя#/emphasis# и #emphasis#провоцируя#/emphasis# их."
+              "rus": "Выведите врагов из себя остроумными оскорблениями, #emphasis#ослабляя#/emphasis# и #emphasis#провоцируя#/emphasis# их."
             }
           },
           {
@@ -9148,7 +9148,7 @@
             "Desc": {
               "id": "13189715266700182843",
               "eng": "Leap high into the air and slam yourself back onto enemies below, #emphasis#knocking them down#/emphasis#.",
-              "rus": "Прыгнуть высоко в воздух и обрушиться на врагов, #emphasis#сбивая их с ног#/emphasis#."
+              "rus": "Прыгните высоко в воздух и обрушьтесь на врагов, #emphasis#сбивая их с ног#/emphasis#."
             }
           },
           {
@@ -9181,19 +9181,19 @@
             "Desc": {
               "id": "6189587090115200264",
               "eng": "Shoot a ball of webbing that slaps onto the first enemy it hits.",
-              "rus": "Выстрелить паутинным шаром, который нанесет урон первому врагу, в которого попадет."
+              "rus": "Выстрелите паутинным шаром, который нанесет урон первому врагу, в которого попадет."
             }
           },
           {
             "Name": {
               "id": "6690681362621072640",
               "eng": "Rapidfire Webs",
-              "rus": "Быстрострельные паутины"
+              "rus": "Скоростные паутинометы"
             },
             "Desc": {
               "id": "16704975380837762308",
               "eng": "Thwip web bullets at superhuman speeds, hitting all enemies in front of you.",
-              "rus": "Стреляйте паутинными пулями с суперчеловеческой скоростью, поражая всех врагов перед вами."
+              "rus": "Стреляйте паутинными зарядами со сверхчеловеческой скоростью, поражая всех врагов перед вами."
             }
           },
           {
@@ -9217,7 +9217,7 @@
             "Desc": {
               "id": "7414640285529277694",
               "eng": "Fill an area with sticky webbing that #emphasis#immobilizes#/emphasis# and sticks to enemies.",
-              "rus": "Заполнить зону липкой паутиной, которая #emphasis#обездвижит#/emphasis# попавших в нее врагов и прилипнет к ним."
+              "rus": "Заполните зону липкой паутиной, которая #emphasis#обездвижит#/emphasis# попавших в нее врагов и прилипнет к ним."
             }
           },
           {
@@ -9229,7 +9229,7 @@
             "Desc": {
               "id": "15755471327089460536",
               "eng": "Hold down the hotkey to fire a continuous barrage of web bullets.",
-              "rus": "Удерживать горячую клавишу, чтобы непрерывно стрелять паутиной."
+              "rus": "Удерживайте горячую клавишу, чтобы непрерывно стрелять паутиной."
             }
           },
           {
@@ -9241,19 +9241,19 @@
             "Desc": {
               "id": "12969971214983497017",
               "eng": "Leap away from combat and fire a thick wad of webbing back at any pursuers, damaging and #emphasis#immobilizing#/emphasis# them.",
-              "rus": "Выпрыгнуть из боя и выстрелить в преследователей большим зарядом паутины, нанеся им урон и #emphasis#обездвижив#/emphasis# их."
+              "rus": "Выйдите из боя прыжком и выстрелите в преследователей большим зарядом паутины, нанеся им урон и #emphasis#обездвижив#/emphasis# их."
             }
           },
           {
             "Name": {
               "id": "8602609912981947653",
               "eng": "Web Sling",
-              "rus": "Прыжок по паутине"
+              "rus": "Паучья праща"
             },
             "Desc": {
               "id": "322259887983494407",
               "eng": "Shoot a pair of webs behind you, pulling up a chunk of earth and hurling it forward.",
-              "rus": "Выстрелите парой паутины за собой, поднимая кусок земли и бросая его вперед."
+              "rus": "Выстрелите паутиной себе за спину, вырвите кусок земли и швырните его перед собой."
             }
           },
           {
@@ -9265,7 +9265,7 @@
             "Desc": {
               "id": "335538689916536077",
               "eng": "Hold down the hotkey to fire a line of sticky webbing, #emphasis#immobilizing#/emphasis# and damaging all enemies in its path.",
-              "rus": "Удерживайте горячую клавишу, чтобы выстрелить линией липкой паутины, #emphasis#парализуя#/emphasis# и нанося урон всем врагам на своем пути."
+              "rus": "Удерживайте горячую клавишу, чтобы выстрелить непрерыным потоком липкой паутины, #emphasis#парализуя#/emphasis# и нанося урон всем врагам на своем пути."
             }
           },
           {
@@ -9277,7 +9277,7 @@
             "Desc": {
               "id": "7025069692230108464",
               "eng": "Leap into the air, spinning a mighty ball of webbing, then smash it into your enemies to #emphasis#immobilize#/emphasis# them.",
-              "rus": "Подпрыгнуть, раскручивая мощный шар из паутины, и швырнуть его во врагов, чтобы #emphasis#обездвижить#/emphasis# их."
+              "rus": "Подпрыгните, раскручивая мощный шар из паутины, и швырните его во врагов, чтобы #emphasis#обездвижить#/emphasis# их."
             }
           },
           {
@@ -9289,7 +9289,7 @@
             "Desc": {
               "id": "13036117714322130294",
               "eng": "Cover the area around you in a giant web that #emphasis#stuns#/emphasis# all enemies inside. Then explode into a blur of motion, beating down the foes caught in your web.\nEnemies affected by this power are considered webbed.",
-              "rus": "Окутать область вокруг себя гигантской паутиной, которая #emphasis#оглушит#/emphasis# всех врагов внутри. Затем резко рвануть и повергнуть всех врагов, попавших в паутину.\nВраги, ставшие жертвами этой способности, считаются попавшими в паутину."
+              "rus": "Опутайте область вокруг себя гигантской паутиной, которая #emphasis#оглушит#/emphasis# всех врагов внутри. Затем резко рваните нити паутины, чтобы повергнуть всех врагов, попавших в неё.\nВраги, ставшие жертвами этой способности, считаются попавшими в паутину."
             }
           }
         ]
@@ -9305,7 +9305,7 @@
             "Name": {
               "id": "13066680641409779011",
               "eng": "Spider DNA",
-              "rus": "ДНК паука"
+              "rus": "Паучье ДНК"
             },
             "Desc": {
               "id": "Invalid",
@@ -9329,7 +9329,7 @@
             "Name": {
               "id": "9049129414818137413",
               "eng": "Spider-Sense",
-              "rus": "Чувство паука"
+              "rus": "Паучье чутьё"
             },
             "Desc": {
               "id": "Invalid",
