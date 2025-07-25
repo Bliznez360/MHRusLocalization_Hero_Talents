@@ -9941,7 +9941,7 @@
     "Name": {
       "id": "5047794086344262965",
       "eng": "Iceman",
-      "rus": "Человек-Лед"
+      "rus": "Человек-Лёд"
     },
     "Desc": {
       "id": "Invalid",
@@ -9951,7 +9951,7 @@
     "Bio": {
       "id": "15424076993539147123",
       "eng": "#emphasis#Real Name:#/emphasis# Robert Louis Drake\n#emphasis#Identity:#/emphasis# Secret\n\nOne of the original five X-Men, Bobby Drake has been a super hero since he was a teenager. Using his powers of Thermokinesis (the ability to control and project extreme temperature, in Bobby's case, ice) Iceman has been a valuable asset to the heroic community for quite some time. Having served as an X-Man, Defender, member of X-Factor and even a champion, he has put his Omega Level powers to the test against a large range of foes.\n\n#emphasis#Created By:#/emphasis# Stan Lee and Jack Kirby\n#emphasis#First Appearance:#/emphasis# X-Men #1 (September 1963)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Роберт Луис Дрейк\n#emphasis#Личность:#/emphasis# Секретная\n\nОдин из первых пяти Людей Икс, Бобби Дрейк является супергероем с подросткового возраста. Используя свои способности термокинеза (умение контролировать и проецировать экстремальные температуры, в случае Бобби — лед), Ледяной человек стал ценным активом для героического сообщества на протяжении долгого времени. Он служил Людем Икс, Защитником, членом X-Factor и даже чемпионом, и проверял свои силы уровня Омега против множества врагов.\n\n#emphasis#Создано:#/emphasis# Станом Ли и Джеком Кирби\n#emphasis#Первое появление:#/emphasis# Люди Икс #1 (сентябрь 1963)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Роберт Луис Дрейк\n#emphasis#Личность:#/emphasis# Секретная\n\nОдин из первых пяти Людей Икс, Бобби Дрейк является супергероем с подросткового возраста. Используя свои способности термокинеза (умение контролировать и проецировать экстремальные температуры, в случае Бобби — лед), Человек-лёд стал ценным активом для героического сообщества на протяжении долгого времени. Он был членом Людей Икс, Защитников, Икс Фактор (и даже стал чемпионом последних), и не раз проверил свои силы уровня Омега в сражениях с множеством врагов.\n\n#emphasis#Создано:#/emphasis# Станом Ли и Джеком Кирби\n#emphasis#Первое появление:#/emphasis# Люди Икс #1 (сентябрь 1963)\n"
     },
     "PowerTables": [
       {
@@ -9970,7 +9970,7 @@
             "Desc": {
               "id": "16824174428619015500",
               "eng": "Dampen enemy spirits by projecting quick blasts of sleet from your palms.",
-              "rus": "Вы подрываете боевой дух врагов, стреляя в них зарядами мокрого снега из ладоней."
+              "rus": "Вы подрываете боевой дух врагов, стреляя в них зарядами ледяной крошки из ладоней."
             }
           },
           {
@@ -9982,7 +9982,7 @@
             "Desc": {
               "id": "17964441267359647057",
               "eng": "Slide forward, plowing through enemies and knocking them down.",
-              "rus": "Вы скользите вперед, пробивая врагов или сбивая их с ног."
+              "rus": "Вы скользите вперед, проходя сквозь врагов или сбивая их с ног."
             }
           },
           {
@@ -9994,7 +9994,7 @@
             "Desc": {
               "id": "10690196526894810375",
               "eng": "Hold down the hotkey to unleash a continuous cascade of ice from both hands.",
-              "rus": "Удерживайте горячую клавишу, чтобы создать непрерывный поток льда, который вырывается из обеих рук."
+              "rus": "Удерживайте горячую клавишу, чтобы выпустить непрерывный каскад ледяных осколков."
             }
           },
           {
@@ -10006,7 +10006,7 @@
             "Desc": {
               "id": "6581240867235693895",
               "eng": "Coat the ground with a frosty layer of ice to impede attackers.",
-              "rus": "Вы покрываете землю слоем льда, который замедляет врагов."
+              "rus": "Вы покрываете землю слоем льда, который замедляет атакующих врагов."
             }
           },
           {
@@ -10018,7 +10018,7 @@
             "Desc": {
               "id": "2624252785424336122",
               "eng": "Rapidly form clusters of sharp icicles out of thin air, projecting them towards enemies.",
-              "rus": "Вы создаете из воздуха пучки острых сосулек и бросаете их во врага."
+              "rus": "Вы создаете прямо из воздуха острые сосульки и швыряете их в противников"
             }
           },
           {
@@ -10030,7 +10030,7 @@
             "Desc": {
               "id": "10690196526894810375",
               "eng": "Hold down the hotkey to unleash a continuous cascade of ice from both hands.",
-              "rus": "Удерживайте горячую клавишу, чтобы создать непрерывный поток льда, который вырывается из обеих рук."
+              "rus": "Удерживайте горячую клавишу, чтобы создать непрерывный поток льда из обеих рук."
             }
           },
           {
@@ -10042,7 +10042,7 @@
             "Desc": {
               "id": "3940046635397809429",
               "eng": "Direct a focused frozen beam that quickly forces a single enemy to chill out.",
-              "rus": "Направленный замороженный луч быстро вызывает переохлаждение у врага."
+              "rus": "Выпустите направленный замораживающий луч мгновенно вызывающий переохлаждение у врага."
             }
           },
           {
@@ -10054,7 +10054,7 @@
             "Desc": {
               "id": "8757083505607836926",
               "eng": "Slide laps around your enemies, #emphasis#freezing#/emphasis# the whole area and subjecting unfortunate foes to the kind of frostbite that no mittens could hope to protect against.",
-              "rus": "Вы скользите вокруг врагов, #emphasis#замораживая#/emphasis# весь сектор и вызывая у несчастных такое обморожение, от которого не спасут никакие варежки."
+              "rus": "Вы скользите вокруг врагов, #emphasis#замораживая#/emphasis# всё в радиусе атаки и вызывая у несчастных такое обморожение, от которого не спасут никакие варежки."
             }
           }
         ]
@@ -10063,31 +10063,31 @@
         "Name": {
           "id": "11883679114307634506",
           "eng": "Chilling Constructs",
-          "rus": "Леденящие конструкции"
+          "rus": "Ледяные конструкции"
         },
         "Powers": [
           {
             "Name": {
               "id": "2687648620215928140",
               "eng": "Frozen Lance",
-              "rus": "Замороженное копье"
+              "rus": "Морозное копьё"
             },
             "Desc": {
               "id": "7320203803134723408",
               "eng": "Make your point by quickly forming a jagged icicle, impaling enemies in a line.",
-              "rus": "Вы создаете сосульку с зазубренными краями и протыкаете ею нескольких врагов, находящихся на одной линии."
+              "rus": "Вы создаете сосульку с зазубренными краями и пробиваете ею нескольких врагов, находящихся на одной линии."
             }
           },
           {
             "Name": {
               "id": "14881440697760351541",
               "eng": "Frozen Orb",
-              "rus": "Замороженный шар"
+              "rus": "Морозный шар"
             },
             "Desc": {
               "id": "3253776570204488985",
               "eng": "Spin up a whirling ball of ice that flings frigid shards at enemies as it travels.",
-              "rus": "Вращающийся ледяной шар обстреливает ледяным осколками врагов, мимо которых движется."
+              "rus": "Создайте вращающийся ледяной шар обстреливающий ледяными осколками врагов, мимо которых он движется."
             }
           },
           {
@@ -10099,7 +10099,7 @@
             "Desc": {
               "id": "764785684335428860",
               "eng": "Loneliness and solo fights are a thing of the past, thanks to these crystalline warriors you can construct out of organic ice.",
-              "rus": "Одиночество (в том числе в бою) осталось в прошлом: теперь вы можете рассчитывать на хрустальных воинов, сделанных из органического льда."
+              "rus": "Одиночество (в том числе в бою) осталось в прошлом: теперь вы можете рассчитывать на кристальных воинов, сделанных из органического льда."
             }
           },
           {
@@ -10111,19 +10111,19 @@
             "Desc": {
               "id": "4363732549191533906",
               "eng": "Harden your frozen exterior, encasing yourself in unbreakable ice at will to briefly avoid enemy attacks.",
-              "rus": "Вас окружает непробиваемый ледяной барьер, который ненадолго делает вас неуязвимым."
+              "rus": "Вас окружает непробиваемый ледяной барьер, который на некоторое время делает вас неуязвимым для атак врага."
             }
           },
           {
             "Name": {
               "id": "12276276289513194826",
               "eng": "Work of Art",
-              "rus": "Шедевр"
+              "rus": "Произведение искусства"
             },
             "Desc": {
               "id": "6365644851914147078",
               "eng": "Create an impeccably handsome ice sculpture, then detonate it to decimate any awestruck onlookers.",
-              "rus": "Создайте безупречно красивую ледяную скульптуру, а затем взорвите её, чтобы уничтожить любых поражённых зрителей."
+              "rus": "Создайте безупречно красивую ледяную скульптуру, а затем взорвите её, чтобы уничтожить находящихся рядом зрителей."
             }
           },
           {
@@ -10135,7 +10135,7 @@
             "Desc": {
               "id": "1986825612389844300",
               "eng": "Project a fan of razor sharp icicles with enough force to shatter frozen enemies.",
-              "rus": "Острые сосульки летят с невероятной скоростью, раскалывая замороженных врагов."
+              "rus": "Выпустите веер лезвий-сосулек, которые нанесут урон и расколют уже замороженных врагов."
             }
           },
           {
@@ -10147,7 +10147,7 @@
             "Desc": {
               "id": "9493409718209414475",
               "eng": "Create a wall of ice that blocks enemy movement and intercepts their projectiles.",
-              "rus": "Вы создаете ледяную стену, которая останавливает врагов и снаряды."
+              "rus": "Вы создаете ледяную стену, которая блокирует движение врагов и выпущенные ими снаряды."
             }
           },
           {
@@ -10159,7 +10159,7 @@
             "Desc": {
               "id": "1626317649683350865",
               "eng": "Launch yourself into the fray on a giant icicle, slamming into the ground and damaging enemies with the shockwave.",
-              "rus": "Вы мчитесь в бой на огромной сосульке. Она врезается в землю, нанося урон врагам ударной волной."
+              "rus": "Вы врываетесь в бой верхом на гигантской сосульке, а когда она врезается в землю, то наносит урон врагам и создает ударную волну."
             }
           },
           {
@@ -10232,12 +10232,12 @@
     "Desc": {
       "id": "8808766998924166457",
       "eng": "Steve Rogers is America's first super hero and a living symbol of bravery. With the Super Soldier Serum running through his veins, Captain America uses hand-to-hand fighting prowess and his Vibranium shield to accomplish amazing feats.",
-      "rus": "Стив Роджерс - первый американский супергерой, воплощение мужества. В жилах Капитана Америки течет сыворотка суперсолдата, он один из лучших в мире мастеров боевых искусств, а вибраниевый щит помогает ему совершать невероятные подвиги."
+      "rus": "Стив Роджерс - первый американский супергерой, воплощение мужества. В жилах Капитана Америки течет сыворотка суперсолдата, он один из лучших в мире мастеров боевых искусств, а вибраниумный щит помогает ему совершать невероятные подвиги."
     },
     "Bio": {
       "id": "848953759072453947",
       "eng": "#emphasis#Real Name:#/emphasis# Steven Rogers\n#emphasis#Identity:#/emphasis# Public\n\nDuring World War II, a military experiment turned Steve Rogers into America's first super-soldier. Captain America served as both a symbol of freedom and America's most effective special operative. In the closing days of the war, he disappeared in an explosion over the North Atlantic. \n\nDecades later, his body was discovered in ice, preserved in a state of suspended animation! Upon his revival, Captain America joined the Avengers and resumed his battle against evil.\n\n#emphasis#Created By:#/emphasis# Joe Simon and Jack Kirby\n#emphasis#First Appearance:#/emphasis# Captain America Comics #1 (Mar 1941)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Стивен Роджерс\n#emphasis#Личность:#/emphasis# открыта\n#emphasis#Рост:#/emphasis# 188 см\n#emphasis#Вес:#/emphasis# 109 кг\n\nВ ходе военного эксперимента, проводившегося во время Второй мировой войны, Стив Роджерс был превращен в первого американского суперсолдата. Капитан Америка стал для своей страны символом свободы и самым эффективным ее спецназовцем. В самом конце войны он исчез над Северной Атлантикой после взрыва самолета. \n\nНесколько десятилетий спустя его тело было обнаружено во льдах - он сохранился так, словно просто не успел закончить начатое движение! Когда Капитана Америку оживили, он присоединился к Мстителям и продолжил свою войну со злом.\n\n#emphasis#Создатели:#/emphasis# Джо Саймон и Джек Керби\n#emphasis#Первое упоминание:#/emphasis# комикс \"Captain America Comics\" № 1 (март 1941 г.)"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Стивен Роджерс\n#emphasis#Личность:#/emphasis# открыта\n#emphasis#Рост:#/emphasis# 188 см\n#emphasis#Вес:#/emphasis# 109 кг\n\nВ ходе военного эксперимента, проводившегося во время Второй мировой войны, Стив Роджерс был превращен в первого американского суперсолдата. Капитан Америка стал для своей страны символом свободы и самым эффективным ее бойцом. В самом конце войны он исчез над Северной Атлантикой после взрыва самолета. \n\nНесколько десятилетий спустя его тело было обнаружено во льдах - он сохранился так, словно просто не успел закончить начатое движение! Когда Капитана Америку оживили, он присоединился к Мстителям и продолжил свою борьбу со злом.\n\n#emphasis#Создатели:#/emphasis# Джо Саймон и Джек Керби\n#emphasis#Первое упоминание:#/emphasis# комикс \"Captain America Comics\" № 1 (март 1941 г.)"
     },
     "PowerTables": [
       {
@@ -10268,19 +10268,19 @@
             "Desc": {
               "id": "8588717463374857540",
               "eng": "Lunge forward with your shield braced, #emphasis#knocking down#/emphasis# enemies caught in your way.",
-              "rus": "Рвануться вперед со щитом наперевес, #emphasis#сбивая с ног#/emphasis# противников на своем пути."
+              "rus": "Сделайте рывок вперед со щитом наперевес, #emphasis#сбивая с ног#/emphasis# противников на своем пути."
             }
           },
           {
             "Name": {
               "id": "5475265661563897150",
               "eng": "Vibranium Bash",
-              "rus": "Вибраниевый удар"
+              "rus": "Вибраниумный удар"
             },
             "Desc": {
               "id": "3090632409254724877",
               "eng": "Use your shield to pummel your enemies senseless, setting up for a brutal finishing blow.",
-              "rus": "Оглушайте врагов щитом и наносите сокрушительные добивающие удары."
+              "rus": "Используйте щит для оглушения противников, после чего нанесите сокрушительные добивающие удары."
             }
           },
           {
@@ -10292,7 +10292,7 @@
             "Desc": {
               "id": "17349688261604738311",
               "eng": "Surprise enemies by suddenly leaping into the air, torquing your body weight into a brutal kick.",
-              "rus": "Неожиданно для врагов подпрыгнуть и нанести сокрушительный удар, вложив в него вес всего тела."
+              "rus": "Неожиданно для врагов подпрыгните и нанести сокрушительный удар, вложив в него весь вес своего тела."
             }
           },
           {
@@ -10304,19 +10304,19 @@
             "Desc": {
               "id": "10810653347241264443",
               "eng": "Lay enemies low with mighty, accurate blows from your fists, kicks, and shield.",
-              "rus": "Разить врагов могучими, точными ударами кулаков, ног и щита."
+              "rus": "Наносите точные мощные удары руками, ногами и щитом, не оставляя врагам никаких шансов."
             }
           },
           {
             "Name": {
               "id": "1502289452345001226",
               "eng": "Patriotic Taunt",
-              "rus": "патриотическая насмешка"
+              "rus": "Патриотическая насмешка"
             },
             "Desc": {
               "id": "12628132525922059575",
               "eng": "Incite rage in your adversaries, forcing them to attack wildly while leaving their weaknesses unprotected.",
-              "rus": "Вызовите ярость у своих противников, заставляя их атаковать неистово, оставляя свои слабости незащищенными."
+              "rus": "Вызовите ярость у своих противников, заставляя их атаковать безрассудно и подставлять свои уязвимые места."
             }
           },
           {
@@ -10328,7 +10328,7 @@
             "Desc": {
               "id": "16270767149431260428",
               "eng": "Leap into the air and throw down your weight upon your shield, obliterating enemies near the impact.",
-              "rus": "Подпрыгнуть и приземлиться всем весом на свой щит, уничтожая противников рядом с точкой приземления."
+              "rus": "Подпрыгните и приземлитесь всем весом на свой щит, уничтожая противников рядом с точкой приземления."
             }
           },
           {
@@ -10340,7 +10340,7 @@
             "Desc": {
               "id": "3863843981361677633",
               "eng": "Finish off enemies with a crushingly heavy overhand shield blow.",
-              "rus": "Вы добиваете врагов сокрушительным ударом тяжелого щита."
+              "rus": "Завершите бой, добивая врага тяжелым рубящим ударом своего щита."
             }
           }
         ]
@@ -10361,7 +10361,7 @@
             "Desc": {
               "id": "3845503478865265980",
               "eng": "Fling your shield, damaging and stunning all enemies in the path of your throw.",
-              "rus": "Метнуть щит, нанося урон всем противникам по траектории броска и оглушая их."
+              "rus": "Метните щит, нанося урон всем противникам по траектории броска и оглушая их."
             }
           },
           {
@@ -10373,7 +10373,7 @@
             "Desc": {
               "id": "14765582576271689020",
               "eng": "Skillfully launch your shield into a quick orbit around you, sending it careening through surrounding enemies.",
-              "rus": "Ловко запустить щит по небольшой дуге вокруг себя, сбивая с ног окружающих врагов."
+              "rus": "Мастерски запустите щит по небольшой дуге вокруг себя, поражая всех находящихся рядом противников и сбивая их с ног."
             }
           },
           {
@@ -10397,7 +10397,7 @@
             "Desc": {
               "id": "5778665514316268867",
               "eng": "Your vibranium shield can protect you from virtually anything. Using it in conjunction with your masterful combat maneuvers makes you nigh invincible.",
-              "rus": "Вибраниевый щит защитит вас от любой атаки. Используйте его в сочетании с мстерскими боевыми приемами - и вы будете неуязвимым."
+              "rus": "Ваш вибраниумный щит способен защитить практически от чего угодно. В сочетании с вашим высоким боевым мастерством он делает вас практически неуязвимым."
             }
           },
           {
@@ -10409,7 +10409,7 @@
             "Desc": {
               "id": "17337849828556604729",
               "eng": "Dive away from combat, #emphasis#stunning#/emphasis# enemies in your path.",
-              "rus": "Выйти из боя обратным сальто, #emphasis#оглушив#/emphasis# противников на своем пути."
+              "rus": "Выйдите из боя обратным сальто, #emphasis#оглушив#/emphasis# противников на своем пути."
             }
           },
           {
@@ -10421,7 +10421,7 @@
             "Desc": {
               "id": "2534268891319305533",
               "eng": "Clear obstacles on the battlefield with seemingly effortless super-human leaps.",
-              "rus": "Преодолевайте препятствия на поле боя нечеловечески мощными прыжками."
+              "rus": "Преодолевайте препятствия на поле боя мощными сверхчеловеческими прыжками."
             }
           },
           {
@@ -10433,7 +10433,7 @@
             "Desc": {
               "id": "8805110186465887551",
               "eng": "Leap high into the air to then hurl your shield to the ground like a star-spangled meteor, and then simply sweep up whatever is still standing.",
-              "rus": "Высоко подпрыгнуть и метнуть щит вниз, словно звездно-полосатый метеорит, а затем смести всех, кто устоял на ногах."
+              "rus": "Взмыв в воздух, вы с силой швыряете щит вниз, словно звездно-полосатый метеор, а затем добиваете всех врагов, что ещё держятся на ногах."
             }
           },
           {
@@ -10445,7 +10445,7 @@
             "Desc": {
               "id": "12122605920111494399",
               "eng": "Perform a devastating team play by calling in a few of the heaviest hitting Avengers to level the playing field.",
-              "rus": "Призвать на подмогу сильнейших из Мстителей - они уравняют шансы в битве с любым врагом!"
+              "rus": "Совершите сокрушительную командную атаку, призвав на помощь сильнейших Мстителей, те самым переломив ход любой битвы."
             }
           }
         ]
@@ -10485,7 +10485,7 @@
             "Name": {
               "id": "8833038902741239057",
               "eng": "Vibranium Shield",
-              "rus": "Гениальная защита"
+              "rus": "Вибраниумный щит"
             },
             "Desc": {
               "id": "Invalid",
