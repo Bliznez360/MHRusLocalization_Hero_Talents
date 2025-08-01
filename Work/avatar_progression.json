@@ -10530,7 +10530,7 @@
             "Desc": {
               "id": "3566879063296509189",
               "eng": "Blast enemies in front of you with a kaleidoscopic array of cosmic beams that blink between targets at random.",
-              "rus": "Расстрелять врагов перед собой калейдоскопическим зарядом космических лучей, которые случайно переключаются между целями."
+              "rus": "Уничтожайте врагов перед вами калейдоскопическим потоком космических лучей, которые хаотично переключаются между целями."
             }
           },
           {
@@ -10542,7 +10542,7 @@
             "Desc": {
               "id": "9324742658810381630",
               "eng": "Rend a relatively small aperture in the fabric of space-time, creating a geyser of plasma that consumes anything inside.",
-              "rus": "Вырвать небольшой клок из материи пространства-времени, создавая плазменный гейзер, поглощающий все вокруг."
+              "rus": "Вы создаёте небольшой разрыв в пространстве-времени из которого вырывается плазменный гейзер, испепеляющий всё вокруг."
             }
           },
           {
@@ -10554,7 +10554,7 @@
             "Desc": {
               "id": "16260179831764616509",
               "eng": "Fire a cosmic beam that strikes multiple nearby enemies.",
-              "rus": "Выстрелить космическим лучом, который поражает противников поблизости.\r"
+              "rus": "Выстрелите космическим лучом, который поражает противников поблизости.\r"
             }
           },
           {
@@ -10566,7 +10566,7 @@
             "Desc": {
               "id": "9328393381011588413",
               "eng": "Unmake the molecular bonds composing an entity, causing disintegration on an atomic level and granting you energy in the process.",
-              "rus": "Разорвать молекулярные связи, вызвав дезинтеграцию до атомарного уровня и получив тем самым энергию."
+              "rus": "Разорвите молекулярные связи цели, обратив её в прах на атомном уровне и поглотив высвободившуюся в ходе этого энергию"
             }
           },
           {
@@ -10578,7 +10578,7 @@
             "Desc": {
               "id": "2135891987154535693",
               "eng": "Concentrate an accumulating stream of photons toward your enemies that grows into an irresistible torrent of energy.",
-              "rus": "Сконцентрировать все увеличивающийся поток фотонов и направить на врагов несокрушимый шквал энергии."
+              "rus": "Сконцентрируйте всё увеличивающийся поток фотонов и направьте на своих врагов сокрушительный шквал энергии."
             }
           },
           {
@@ -10590,7 +10590,7 @@
             "Desc": {
               "id": "4012415159344497976",
               "eng": "Draw in an immense amount of energy into your body, and then unleash it in a radiant shockwave of light.",
-              "rus": "Вобрать в свое тело огромное количество энергии и затем высвободить ее в ослепительной вспышке."
+              "rus": "Вы вбираете в свое тело огромное количество энергии и затем высвобождаете ее в ослепительной вспышке."
             }
           },
           {
@@ -10602,7 +10602,7 @@
             "Desc": {
               "id": "1185970458293175621",
               "eng": "Direct cascading beams of phasing particles to surge through enemies, being especially destructive to the first target struck.",
-              "rus": "Обстрелять врагов пронизывающими их насквозь каскадными лучами фазовых частиц. Первая пораженная цель получает наибольший урон."
+              "rus": "Обстрейте врагов пронизывающими их насквозь каскадными лучами фазовых частиц. Первая пораженная цель получает наибольший урон."
             }
           },
           {
@@ -10614,7 +10614,7 @@
             "Desc": {
               "id": "5591562900516373825",
               "eng": "Coalesce space-time into a super-massive singularity, causing severe damage to nearby matter.",
-              "rus": "Свернуть пространство-время в супермассивную сингулярность, нанеся сильный урон всему веществу поблизости."
+              "rus": "Сверните само пространство-время в супермассивную сингулярность, нанеся сильный урон всему и вся поблизости."
             }
           },
           {
@@ -10626,7 +10626,7 @@
             "Desc": {
               "id": "7023011372049106179",
               "eng": "Become a resonating conduit of the Power Cosmic, causing an initial explosion as you draw from the infinite energy stream underpinning the universe.",
-              "rus": "Стать резонирующим проводником космической силы, вызвав взрыв сразу, как только вы начнете вбирать в себя бесконечные потоки энергии во Вселенной."
+              "rus": "Станьте резонирующим проводником космической силы, вызвав взрыв сразу, как только вы начнете вбирать в себя бесконечные потоки энергии Вселенной."
             }
           }
         ]
@@ -10647,7 +10647,7 @@
             "Desc": {
               "id": "627221498215073030",
               "eng": "Use your board to propel you forward, while simultaneously projecting energy beams at enemies at your sides.",
-              "rus": "Полететь вперед на доске, расстреливая врагов по бокам энергетическими лучами."
+              "rus": "Пронеситесь вперед на своей доске, расстреливая врагов по бокам энергетическими лучами."
             }
           },
           {
@@ -10659,7 +10659,7 @@
             "Desc": {
               "id": "7656866313557706044",
               "eng": "Instantly fly half-way around the globe and phase through the planet to come booming out of the ground where you began, destroying anything nearby with the resulting shockwave.",
-              "rus": "Мгновенно перелететь половину окружности земного шара и фазовым переходом переместиться сквозь планету, чтобы эффектно вырваться из-под земли в начальной точке, уничтожив образовавшейся ударной волной все вокруг."
+              "rus": "Совершите мгонвенный перелёт через половину земного шара и фазовым переходом переместесь сквозь планету, чтобы эффектно вырваться из-под земли в начальной точке, уничтожив образовавшейся ударной волной все вокруг."
             }
           },
           {
@@ -10683,7 +10683,7 @@
             "Desc": {
               "id": "15380616455624131893",
               "eng": "Use your command of matter itself to reconstitute yourself and recharge your powers.",
-              "rus": "Использовать свою власть над веществом, чтобы собрать себя заново и зарядить свои способности."
+              "rus": "Используйте свою власть над материей, чтобы собрать себя вновь и перезарядить свои способности."
             }
           },
           {
@@ -10695,14 +10695,14 @@
             "Desc": {
               "id": "10055895789318374664",
               "eng": "Surge forward at a speed close approaching that of light and then suddenly stop, unleashing a shockwave of energy that annihilates nearby enemies.",
-              "rus": "Рвануться вперед на околосветовой скорости и затем внезапно остановиться, создав ударную волну энергии, уничтожающую врагов поблизости."
+              "rus": "Рванитесь вперед на околосветовой скорости и затем внезапно остановитесь, создав ударную волну энергии, уничтожающую врагов поблизости."
             }
           },
           {
             "Name": {
               "id": "11990997453529089339",
               "eng": "Temporal Recall",
-              "rus": "Исправление времени"
+              "rus": "Сброс Реальности"
             },
             "Desc": {
               "id": "6097710721689912598",
@@ -10719,7 +10719,7 @@
             "Desc": {
               "id": "2107879033691571524",
               "eng": "Reposition yourself using a swift motion of your board, blasting pursuers with a surge of cosmic beams.",
-              "rus": "Быстрым движением доски сменить позицию и поразить преследователей выбросом космических лучей."
+              "rus": "Быстрым движением доски смените позицию и поразите преследователей выбросом космических лучей."
             }
           }
         ]
@@ -10779,8 +10779,8 @@
     },
     "Desc": {
       "id": "753527694656668991",
-      "eng": "The ultimate metal powerhouse, Piotr Rasputin is a heroic icon of the X-Men who specializes in brawling, tanking and protecting those who need to be protected. He will often be joined in battle by Wolverine via his Fastball Special move and by his sister Magik.",
-      "rus": "Универсальный металлический гигант, Пётр Распутин является героическим символом Людей Икс, который специализируется на ближнем бою, танковании и защите тех, кто нуждается в защите. В бою его часто сопровождает Росомаха с помощью его приёма «Фастбол Специальный», а также его сестра Мэджик."
+      "eng": "The ultimate metal powerhouse, Piotr Rasputin is a heroic icon of the X-Men who specializes in brawling, tanking and protecting those who need to be protected. Вместе с Росомахой они устраивают сокрушительные атаки, а его сестра Магик обеспечивает мистическую поддержку в бою.",
+      "rus": "Легендарный металлический гигант, Пётр Распутин, является одним из символов команды Людей Икс, который специализируется на ближнем бою, танковании и защите тех, кто в ней нуждается. В бою его часто сопровождает Росомаха, вместе с которым они выполняют спец.атаку, а также его сестра Мэджик."
     },
     "Bio": {
       "id": "2798023013411063143",
@@ -10804,7 +10804,7 @@
             "Desc": {
               "id": "3348369037357745476",
               "eng": "Rupture the ground with a massive stomp, #emphasis#knocking down#/emphasis# nearby enemies and making them more vulnerable to attack.",
-              "rus": "С силой топнуть ногой так, что ближайшие враги будут #emphasis#сбиты с ног#/emphasis# и станут более уязвимы для атаки."
+              "rus": "С силой топните ногой так, что ближайшие враги будут #emphasis#сбиты с ног#/emphasis# и станут более уязвимыми для следующей атаки."
             }
           },
           {
@@ -10816,7 +10816,7 @@
             "Desc": {
               "id": "11133199137640285448",
               "eng": "Swing your fist at enemies in front of you, and regain #emphasis#health#/emphasis# on each hit.",
-              "rus": "Бить противников кулаком, восстанавливая #emphasis#броню#/emphasis# с каждым попаданием."
+              "rus": "Ударьте противников кулаком, восстанавливая #emphasis#броню#/emphasis# с каждым попаданием."
             }
           },
           {
@@ -10827,8 +10827,8 @@
             },
             "Desc": {
               "id": "172461865472230665",
-              "eng": "Smash the ground to create a seismic shockwave that #emphasis#knocks#/emphasis# enemies into the air.  The aftershocks of the shockwave continue to deal damage to enemies nearby.",
-              "rus": "Ударом оземь создать сейсмическую волну, которая #emphasis#подбрасывает#/emphasis# врагов в воздух. Последующие толчки нанесут дополнительный урон ближайшим врагам."
+              "eng": "Smash the ground to create a seismic shockwave that #emphasis#knocks#/emphasis# enemies into the air. The aftershocks of the shockwave continue to deal damage to enemies nearby.",
+              "rus": "Ударом оземь создайте сейсмическую волну, которая #emphasis#подбрасывает#/emphasis# врагов в воздух. Последующие толчки нанесут дополнительный урон ближайшим врагам."
             }
           },
           {
@@ -10840,7 +10840,7 @@
             "Desc": {
               "id": "13380653273407882552",
               "eng": "Leap forward, using your monumental mass to create a massive crater on landing, #emphasis#knocking down#/emphasis# nearby enemies.",
-              "rus": "Прыгнуть вперед, своей чудовищной массой создав огромный кратер. Ближайшие враги будут #emphasis#сбиты с ног#/emphasis#."
+              "rus": "Прыгните вперед, создав своей чудовищной массой огромный кратер. Ближайшие враги будут #emphasis#сбиты с ног#/emphasis#."
             }
           },
           {
@@ -10864,7 +10864,7 @@
             "Desc": {
               "id": "5946469225138685241",
               "eng": "Spin through enemies with your steel arms outstretched.",
-              "rus": "Вращайся сквозь врагов раскинув стальные руки."
+              "rus": "Раскрутитесь, как стальной вихрь, нанося урон врагам мощью своих рук"
             }
           },
           {
@@ -10876,19 +10876,19 @@
             "Desc": {
               "id": "17787574771742410007",
               "eng": "Finish your foes with a mighty blow that #emphasis#knocks down#/emphasis# enemies and hits harder the more #emphasis#health#/emphasis# you have, ",
-              "rus": "Обрушить на противников град могучих ударов, чтобы #emphasis#сбить их с ног#/emphasis#. Урон от ударов тем сильнее, чем крепче ваша #emphasis#броня#/emphasis#."
+              "rus": "Обрушьте на противников град могучих ударов, чтобы #emphasis#сбить их с ног#/emphasis#. Урон от ударов тем сильнее, чем крепче ваша #emphasis#броня#/emphasis#."
             }
           },
           {
             "Name": {
               "id": "13093743715612296463",
               "eng": "Titan Throw",
-              "rus": "Титаническое Бросание"
+              "rus": "Титанический бросок"
             },
             "Desc": {
               "id": "14315864608012043537",
               "eng": "Use your colossal strength to rip up a massive piece of the terrain around you, then hurl it into a group of enemies.",
-              "rus": "Используйте свою колоссальную силу, чтобы вырвать огромный кусок местности вокруг вас, а затем метните его в группу врагов."
+              "rus": "Используйте свою колоссальную силу, чтобы вырвать огромный кусок земли у вас из-под ног, а затем метните его в группу врагов."
             }
           }
         ]
@@ -10909,7 +10909,7 @@
             "Desc": {
               "id": "14994265391170127109",
               "eng": "Bolster your Osmium defense and charge headlong into the fray, shamshing through enemies with the force of your impact.",
-              "rus": "Укрепить свою осмиевую защиту и кинуться в бой, #emphasis#оглушая#/emphasis# врагов силой своего удара."
+              "rus": "Укрепите вашу осмиевую защиту и риньтесь в бой, #emphasis#оглушая#/emphasis# врагов силой своего удара."
             }
           },
           {
@@ -10921,38 +10921,38 @@
             "Desc": {
               "id": "6296428082396988688",
               "eng": "Nightcrawler delivers Wolverine to be hurled into the fray, where he will slice and dice enemies alongside you.",
-              "rus": "Ночной Змей доставит к вам Росомаху, вы зашвырнете его в гущу боя, где он принимается кромсать и рубить врагов."
+              "rus": "Ночной Змей доставит к вам Росомаху, а вы зашвырнете его в гущу боя, где он примется кромсать и рубить врагов."
             }
           },
           {
             "Name": {
               "id": "16510249852926756101",
               "eng": "Call Kurt",
-              "rus": "Позвоните Курту"
+              "rus": "Просто звоните Курту"
             },
             "Desc": {
               "id": "14687953907078333703",
               "eng": "Nightcrawler teleports you above enemies, sending you crashing down on top of them. Afterwards he'll join you for a short while.",
-              "rus": "Ночнойcrawler телепортирует вас над врагами, сбрасывая вас на них. После этого он присоединится к вам на короткое время."
+              "rus": "Ночной змей телепортирует вас в воздаух прямо над врагами, а после сбрасывает на них. После этого он присоединится к вам в бою на некоторое время."
             }
           },
           {
             "Name": {
               "id": "8277832388861887804",
               "eng": "Call Kitty",
-              "rus": "Позвоните Китти"
+              "rus": "Позовите Китти"
             },
             "Desc": {
               "id": "6843381107999442189",
               "eng": "Your favorite X-Man suddenly arrives and phases the ground in a wide area, trapping enemies in the floor! Afterward, she'll fight by your side for a time.",
-              "rus": "Ваш любимый мутант из Людей Икс внезапно появляется и фазырует землю на большой площади, trapping врагов в полу! После этого она будет сражаться на вашей стороне некоторое время."
+              "rus": "Ваш любимый мутант из Людей Икс внезапно появляется и фазирует землю на большой площади, создав ловушку для врагов! После этого она будет сражаться на вашей стороне некоторое время."
             }
           },
           {
             "Name": {
               "id": "5567540779055777078",
               "eng": "Call Illyana",
-              "rus": "Позвоните Ильяне"
+              "rus": "Позвовите Ильяну"
             },
             "Desc": {
               "id": "4492790728666449212",
@@ -10964,7 +10964,7 @@
             "Name": {
               "id": "10669559028779713911",
               "eng": "Heroic Challenge",
-              "rus": "Геройский вызов"
+              "rus": "Героический вызов"
             },
             "Desc": {
               "id": "8090294089284650300",
@@ -10981,7 +10981,7 @@
             "Desc": {
               "id": "9290130780033910027",
               "eng": "Deafen, damage, and knock down nearby enemies with a supersonic battlecry from your resonant Osmium body.\nThe knockdown cannot be resisted by enemies.",
-              "rus": "Издать сверхзвуковой клич, резонирующий во всем вашем осмиевом теле. Ближайшие враги оглохнут, понесут урон и будут сбиты с ног.\nУстойчивость врагов к сбиванию с ног в этом случае не работает."
+              "rus": "Издайте сверхзвуковой клич, резонирующий во всем вашем осмиевом теле. Ближайшие враги оглохнут, понесут урон и будут сбиты с ног.\nУстойчивость врагов к сбиванию с ног в этом случае не работает."
             }
           },
           {
@@ -10993,7 +10993,7 @@
             "Desc": {
               "id": "15927458293059552518",
               "eng": "You become impervious to harm and roar an irresistible challenge to all nearby enemies. Allies are inspired by your colossal fortitude and bravery.",
-              "rus": "Приобретя неуязвимость к урону, испустить могучий рев, услышав который, все ближайшие враги бросятся на вас. Ваша решимость и храбрость воодушевит союзников."
+              "rus": "Приобретя неуязвимость к урону, испустите могучий рев, услышав который, все ближайшие враги бросятся на вас. Ваша решимость и храбрость воодушевит союзников."
             }
           }
         ]
@@ -11033,7 +11033,7 @@
             "Name": {
               "id": "11508485326964262206",
               "eng": "Osmium Armor",
-              "rus": "Осмиумная броня"
+              "rus": "Осмиевая броня"
             },
             "Desc": {
               "id": "Invalid",
