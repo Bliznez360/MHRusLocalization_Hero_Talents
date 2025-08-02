@@ -11059,7 +11059,7 @@
     "Bio": {
       "id": "6645187398406243692",
       "eng": "#emphasis#Real Name:#/emphasis# Matthew Michael Murdock\n#emphasis#Identity:#/emphasis# Secret\n\nExposure to a radioactive substance blinded young Matt Murdock, but he soon found that his other senses were amplified to superhuman levels. He also manifested a \"radar sense\" that allowed him to visualize his surroundings without relying on sight.\n\nBy day, Matt Murdock uses his law degree to defend those unjustly accused of crimes. By night, he protects his home neighborhood of Hell's Kitchen from criminals as Daredevil. Despite living through more personal tragedies than any man should be able to endure, Matt retains an optimistic, heroic outlook on life.\n\n#emphasis#Created By:#/emphasis# Stan Lee and Bill Everett\n#emphasis#First Appearance:#/emphasis# Daredevil #1 (April 1964)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Мэтью Майкл Мердок\n#emphasis#Личность:#/emphasis# скрыта\n#emphasis#Рост:#/emphasis# 183 см\n#emphasis#Вес:#/emphasis# 91 кг\n\nЕще мальчиком Мэтт Мердок подвергся действию радиации и ослеп, но скоро обнаружил, что все его остальные чувства при этом развились до нечеловеческой остроты. Он также обрел \"радар\" - чувство, которое позволяло ему визуализировать окружающее, не полагаясь на зрение.\n\nДнем Мэтт Мердок, получивший диплом юриста, защищает людей, которых несправедливо обвиняют в совершении преступлений. Ночью он защищает свой район, Адскую Кухню, от преступников, приняв облик Сорвиголовы. Хотя он пережил больше личных трагедий, чем может вынести человек, Мэтт сохраняет героический, полный оптимизма взгляд на жизнь.\n\n#emphasis#Создатели:#/emphasis# Стэн Ли и Билл Эверетт\n#emphasis#Первое упоминание:#/emphasis# комикс \"Daredevil\" № 1 (апрель 1964 г.)"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Мэтью Майкл Мердок\n#emphasis#Личность:#/emphasis# скрыта\n#emphasis#Рост:#/emphasis# 183 см\n#emphasis#Вес:#/emphasis# 91 кг\n\nЕще мальчиком Мэтт Мердок подвергся воздействию радиации и ослеп, но скоро обнаружил, что все его остальные чувства при этом развились до нечеловеческой остроты. Он также обрел \"радар\" - чувство, которое позволяло ему визуализировать окружающее, не полагаясь на зрение.\n\nДнем Мэтт Мердок, получивший диплом юриста, защищает людей, которых несправедливо обвиняют в совершении преступлений. Ночью он защищает свой район, Адскую Кухню, от преступников, приняв облик Сорвиголовы. Хотя он пережил больше личных трагедий, чем может вынести человек, Мэтт сохраняет героический, полный оптимизма взгляд на жизнь.\n\n#emphasis#Создатели:#/emphasis# Стэн Ли и Билл Эверетт\n#emphasis#Первое упоминание:#/emphasis# комикс \"Daredevil\" № 1 (апрель 1964 г.)"
     },
     "PowerTables": [
       {
@@ -11073,24 +11073,24 @@
             "Name": {
               "id": "4701408040537752895",
               "eng": "Assault and Battery",
-              "rus": "Избиение"
+              "rus": "Напади и избей"
             },
             "Desc": {
               "id": "8054944335186691389",
               "eng": "Pummel your enemies with club strikes and kicks.",
-              "rus": "Избивать противников дубинками и ногами."
+              "rus": "Избивайте ваших противников дубинками и ногами."
             }
           },
           {
             "Name": {
               "id": "1806810665269265712",
               "eng": "Apprehend",
-              "rus": "Связка"
+              "rus": "Арестуй"
             },
             "Desc": {
               "id": "10365347319770514752",
               "eng": "Seize enemies in front of you, and drag them toward you using your clubs' connective cable.",
-              "rus": "Захватить противников тросом, прикрепленным к дубинкам, и подтащить их к себе."
+              "rus": "Опутайте врагов перед собой и притяните их к себе, используя соединительный трос ваших дубинок."
             }
           },
           {
@@ -11102,31 +11102,31 @@
             "Desc": {
               "id": "15147098083018671420",
               "eng": "Fasten your clubs together to form a staff, and swiftly pummel your enemies with it.",
-              "rus": "Сделать из дубинок посох и отделывать им врагов, нанося быстрые удары."
+              "rus": "Соедините ваши дубинки в посох и отделайвать им врагов, нанося быстрые размашистые удары."
             }
           },
           {
             "Name": {
               "id": "11200200494317176078",
               "eng": "Nunchuck Beatdown",
-              "rus": "Драка нунчаками"
+              "rus": "Круговерть нунчак"
             },
             "Desc": {
               "id": "1726249684534297915",
               "eng": "Spin your clubs around you by their wire like nunchucks, brutally whipping them into your enemies.",
-              "rus": "Закрутить дубинки на тросе как нунчаки, нанося жестокие удары подвернувшимся врагам."
+              "rus": "Закрутите дубинки на тросе как нунчаки, нанося жестокие удары подвернувшимся под руку врагам."
             }
           },
           {
             "Name": {
               "id": "310469257926673726",
               "eng": "Rebounding Club",
-              "rus": "Бильярдная дубинка"
+              "rus": "Рикошетная дубинка"
             },
             "Desc": {
               "id": "6521037919791416629",
               "eng": "Throw your club, bouncing it between multiple nearby enemies, inflicting lasting injuries.",
-              "rus": "Бросить дубинку в гущу врагов так, что она будет отскакивать от одного противника к другому, нанося долго не заживающие раны."
+              "rus": "Бросьте дубинку в гущу врагов так, чтобы она отскакивала от одного противника к другому, нанося тяжелые повреждения."
             }
           },
           {
@@ -11138,19 +11138,19 @@
             "Desc": {
               "id": "8002088320096601351",
               "eng": "Slide forward and sweep your connected clubs in a wide circle, cracking nearby enemies' skulls, briefly #emphasis#stunning#/emphasis# them.",
-              "rus": "Проскользнуть вперед и сделать широкий взмах сцепленными дубинками, разбивая черепа врагов и на короткое время #emphasis#оглушая#/emphasis# их."
+              "rus": "Скользните вперед и сделайте широкий взмах сцепленными дубинками, разбивая черепа врагов и на короткое время #emphasis#оглушая#/emphasis# их."
             }
           },
           {
             "Name": {
               "id": "6619025206359950654",
               "eng": "Whirling Club",
-              "rus": "Вихрь из дубинок"
+              "rus": "Размашистый удар дубинки"
             },
             "Desc": {
               "id": "3772304900934272263",
               "eng": "Swing your billy club in a wide circle, #emphasis#slowing#/emphasis# all enemies around you.",
-              "rus": "Размахните своей дубинкой в широком круге, #emphasis#замедляя#/emphasis# всех врагов вокруг вас."
+              "rus": "Размахнитесь своей дубинкой в широком радиусе, ненадолго #emphasis#замедляя#/emphasis# всех врагов вокруг вас."
             }
           },
           {
@@ -11162,7 +11162,7 @@
             "Desc": {
               "id": "2365853422469580044",
               "eng": "Clean up Hell's Kitchen with an old-fashioned beatdown, using your connected club nunchucks to send the bad guys packing.",
-              "rus": "Уберите адскую кухню с помощью старомодного избиения, используя свои соединенные клубные нунчаки, чтобы отправить плохих парней восвояси."
+              "rus": "Приберитесь на Адской кухне с помощью старомодного насилия, используя свои соединенные в нунчаки дубинки, чтобы отправить плохих парней восвояси."
             }
           }
         ]
@@ -11183,7 +11183,7 @@
             "Desc": {
               "id": "7272934595652355393",
               "eng": "Roll forward to evade attacks and #emphasis#knock down#/emphasis# enemies.",
-              "rus": "Перекатиться вперед, чтобы уйти от атаки и #emphasis#сбить с ног#/emphasis# противников."
+              "rus": "Перекатитесь вперед, чтобы уйти от атаки и #emphasis#сбить с ног#/emphasis# противников."
             }
           },
           {
@@ -11195,43 +11195,43 @@
             "Desc": {
               "id": "5339175675715650879",
               "eng": "Target an enemy to leap forward and smack them with your billy club, #emphasis#knocking them down#/emphasis#.",
-              "rus": "Нацелиться на врага, чтобы прыгнуть вперед и #emphasis#сбить с ног#/emphasis#, огрев дубинкой."
+              "rus": "Нацельтесь на врага и прыгните вперед, #emphasis#сбивая его с ног#/emphasis#, ударом своей дубинки."
             }
           },
           {
             "Name": {
               "id": "5132002941671310598",
               "eng": "Street Sweeper",
-              "rus": "Метельщик"
+              "rus": "Уборщик улиц"
             },
             "Desc": {
               "id": "9313116594651727159",
               "eng": "Leap into the air, bounding from enemy to enemy, ferociously striking them as you pass.",
-              "rus": "Взвиться в воздух, перепрыгивая от одного противника к другому и беспощадно лупя их."
+              "rus": "Вы взвиваетесь в воздух, а перепрыгиваете от одного противника к другому и беспощадно избивая их."
             }
           },
           {
             "Name": {
               "id": "9023351265858749712",
               "eng": "Tornado Kick",
-              "rus": "Удар Торнадо"
+              "rus": "Торнадо-удар"
             },
             "Desc": {
               "id": "6039127732840236306",
               "eng": "A master of many martial arts, including Tae Kwon Do, Daredevil is able to deliver a perfectly executed Tornado Kick when he has performed a flawless combo.",
-              "rus": "Мастер многих боевых искусств, включая Тхэквондо, Сорвиголова способен выполнить идеально исполненный Ураганный удар, когда он совершил безупречную комбинацию."
+              "rus": "Будучи мастером многих боевых искусств, включая Тхэквондо, Сорвиголова способен выполнить мастерски исполненный Торнадо-удар, если ранее он совершил безупречное комбо."
             }
           },
           {
             "Name": {
               "id": "14675943623730267388",
               "eng": "Club Sweep",
-              "rus": "Взмах дубинками"
+              "rus": "Сметающий удар"
             },
             "Desc": {
               "id": "4108116801754105149",
               "eng": "Lash out at all enemies around you, #emphasis#knocking them down#/emphasis#.",
-              "rus": "Сокрушить дубинками всех врагов вокруг себя, #emphasis#сбив их с ног#/emphasis#."
+              "rus": "Сокрушите дубинками всех врагов вокруг себя, заодно #emphasis#сбив их с ног#/emphasis#."
             }
           },
           {
@@ -11243,7 +11243,7 @@
             "Desc": {
               "id": "13634671791150597381",
               "eng": "Vault over enemies and some obstacles.",
-              "rus": "Перепрыгнуть через препятствие или противника."
+              "rus": "Перепрыгните через препятствие или противника."
             }
           },
           {
@@ -11255,7 +11255,7 @@
             "Desc": {
               "id": "15641849491990971706",
               "eng": "Use your billy club cable to vault into the air and execute a brutal crashdown strike into your enemies at target location.",
-              "rus": "Взлететь в воздух на тросе от дубинок и страшным ударом обрушиться на противников."
+              "rus": "Используйте трос дубинки, чтобы взлететь в воздух и обрушиться на врагов в выбранной точке с сокрушительным ударом."
             }
           },
           {
@@ -11267,7 +11267,7 @@
             "Desc": {
               "id": "5029132689676895553",
               "eng": "Demonstrate the teachings of your old master Stick to allies, increasing your chances to deal devastating critical hits considerably.\nOnce your martial prowess has been displayed, the world's greatest assassin joins you to deal massive damage to nearby enemies in a flurry of quick attacks before absconding for another contract.",
-              "rus": "Продемонстрировать союзникам науку учителя Стика, значительно увеличив шансы нанести Критический удар.\nКак только вы показали свою доблесть, к вам на помощь явится великий ассасин, нанося огромный урон врагам быстрыми атаками, после чего отправится выполнять очередной контракт."
+              "rus": "Продемонстрируйте союзникам, чему вас научил старый мастер Стик, значительно увеличив свои шансы нанести критический удар.\nКак только вы показали свою доблесть, к вам на помощь явится великий ассасин, нанося огромный урон врагам быстрыми атаками, после чего отправится выполнять очередной контракт."
             }
           }
         ]
@@ -11323,7 +11323,7 @@
     "Name": {
       "id": "4255515015523009797",
       "eng": "Invisible Woman",
-      "rus": "Невидимая Леди"
+      "rus": "Женщина невидимка"
     },
     "Desc": {
       "id": "Invalid",
@@ -11352,7 +11352,7 @@
             "Desc": {
               "id": "3722611820075812095",
               "eng": "Throw razor-thin discs of force like boomerangs, slicing through foes in both directions.",
-              "rus": "Бросать как бумеранги тонкие диски силы, разрезающие все на своем пути."
+              "rus": "Метните как бумеранги тонкие диски состоящие из вашей силы, которые разрежут все на своем пути."
             }
           },
           {
@@ -11371,12 +11371,12 @@
             "Name": {
               "id": "3499364359307724089",
               "eng": "Storm of Spheres",
-              "rus": "Буря сфер"
+              "rus": "Буря из сфер"
             },
             "Desc": {
               "id": "6125567853789512967",
               "eng": "Create a system of swirling force-spheres that pummel enemies caught in their path.",
-              "rus": "Создать систему вращающихся силовых сфер, которые беспощадно бьют вставших на пути врагов."
+              "rus": "Создайте систему вращающихся силовых сфер, которые беспощадно бьют вставших на пути врагов."
             }
           },
           {
@@ -11388,7 +11388,7 @@
             "Desc": {
               "id": "11405744606813029685",
               "eng": "Manipulate a swarm of tiny force bubbles to seek out and collide violently with nearby enemies.",
-              "rus": "Управлять роем крошечных пузырьков силы, которые будут искать врагов и яростно вонзаться в их тела."
+              "rus": "Управляйте роем крошечных пузырьков силы, которые будут искать врагов и яростно вонзаться в их тела."
             }
           },
           {
@@ -11400,7 +11400,7 @@
             "Desc": {
               "id": "1980633978929415483",
               "eng": "Unleash broad walls of force in continuous waves, starting with a torrent of energy that #emphasis#knocks back#/emphasis# enemies.",
-              "rus": "Испускать потоки энергии мощными волнами, #emphasis#отбрасывающими назад#/emphasis# врагов."
+              "rus": "Испустите настоящий поток энергии мощными волнами, #emphasis#отбрасывающими назад#/emphasis# врагов и наносящие им урон."
             }
           },
           {
@@ -11412,7 +11412,7 @@
             "Desc": {
               "id": "8397324301792380215",
               "eng": "Sling high velocity disc-shaped shields that ricochet between targets.",
-              "rus": "Запускать с большой скоростью маленькие дискообразные щиты, которые будут рикошетом отскакивать от целей."
+              "rus": "Запустите с большой скоростью маленькие дискообразные щиты, которые будут рикошетить отскакивать от целей."
             }
           },
           {
@@ -11424,7 +11424,7 @@
             "Desc": {
               "id": "3595150625395377418",
               "eng": "Manifest a series of massive orbs covered in brutish spikes that roll around the battlefield, impaling and flattening enemies.",
-              "rus": "Создать несколько здоровенных шаров, покрытых шипами, которые пронесутся по полю битвы, раскатывая врагов или насаживая их на шипы."
+              "rus": "Создайте несколько массивных шаров, покрытых шипами, которые пронесутся по полю битвы, раскатывая врагов или насаживая их на шипы."
             }
           },
           {
@@ -11436,7 +11436,7 @@
             "Desc": {
               "id": "17651544211046794500",
               "eng": "Using techniques taught to you by Iron Fist, perform shield-projecting punches that obliterate an enemy.",
-              "rus": "Используя техники, обученные вам Железным Кулаком, выполняйте удары с проекцией щита, которые уничтожают врага."
+              "rus": "Используйте техники, переданные вам Железным Кулаком, выполняйте удары проекцией щита, которые уничтожают врага."
             }
           },
           {
@@ -11448,7 +11448,7 @@
             "Desc": {
               "id": "150431633937597746",
               "eng": "Pull a series of powerful fields around you into one, drawing in enemies, dealing damage and protecting you from further harm.",
-              "rus": "Сконцентрировать несколько мощных полей в одно, притягивая к себе врагов. \nЗатем можно оставить каждый уровень в качестве щита, либо реактивировать энергию и сбросить самый наружный уровень сильным взрывом, #emphasis#отбросив назад#/emphasis# врагов."
+              "rus": "Сконцентририруйте несколько накладывающихся друг на друга мощных полей в одно, притягивая к себе врагов. \nЗатем можно оставить каждый уровень в качестве щита, либо сбросить самый первый уровень взрывом, #emphasis#отбросив назад#/emphasis# врагов."
             }
           }
         ]
@@ -11469,7 +11469,7 @@
             "Desc": {
               "id": "2018174239359370547",
               "eng": "Dash forward on a wave of force, knocking down enemies in your path and reflecting incoming projectiles.",
-              "rus": "Рвануть вперед на волне силы, сбивая с ног противников на своем пути и отражая летящие в вас снаряды."
+              "rus": "Рваните вперед на волне силы, сбивая с ног противников на своем пути и отражая летящие в вас снаряды."
             }
           },
           {
@@ -11481,7 +11481,7 @@
             "Desc": {
               "id": "12583463543195436348",
               "eng": "Envelop yourself in a light-distorting field that renders you invisible, freeing you from negative status effects and hastening your movement, regeneration, and recovery.",
-              "rus": "Окутать себя искажающим свет полем, которое сделает вас невидимкой, снимет отрицательные эффекты и ускорит движение, восстановление и перезарядку способностей."
+              "rus": "Окутайте себя преломляющим свет полем, которое сделает вас невидимкой, снимет отрицательные эффекты и ускорит движение, восстановление и перезарядку способностей."
             }
           },
           {
@@ -11493,7 +11493,7 @@
             "Desc": {
               "id": "17955305240537204020",
               "eng": "Slam a shockwave of force that radiates out and weakens enemies, causing greater destruction if used while unseen.",
-              "rus": "Создать волну силы, ослабляющую врагов и наносящую еще больше урона, если используется незаметно."
+              "rus": "Создайте волну силы, ослабляющую врагов и наносящую еще больше урона, если используется из невидимости."
             }
           },
           {
@@ -11505,7 +11505,7 @@
             "Desc": {
               "id": "16836410326567683377",
               "eng": "You employ your invisiblity to full effect in combat, passively striking unaware foes where they're least guarded and actively bending light around you and your allies to conceal them.",
-              "rus": "Использовать в бою невидимость на полную катушку: неожиданно бить врагов по уязвимым местам, одновременно искажая свет и скрывая себя и союзников."
+              "rus": "Используйте в бою невидимость на полную катушку: неожиданно атакуйте врагов в их уязвимые места, одновременно преломляя свет и скрывая себя и союзников."
             }
           },
           {
@@ -11517,19 +11517,19 @@
             "Desc": {
               "id": "4825234146701215036",
               "eng": "Crush your enemies into a fine paste under a huge disc-shaped force field.",
-              "rus": "Растолочь врагов в пюре мощным дисковидным силовым полем."
+              "rus": "Раздави врагов в кровавые пятна воспользовавшись гигантским диском силового поля."
             }
           },
           {
             "Name": {
               "id": "8592235247739667769",
               "eng": "Force Pillar",
-              "rus": "Столп силы"
+              "rus": "Силовая колонна"
             },
             "Desc": {
               "id": "5511678158070089015",
               "eng": "Pop enemies into the air using columns of energy, slowing them down and setting them up to be crushed by your force fields.",
-              "rus": "Подбрасывать врагов в воздух силовыми столбами, #emphasis#замедляя#/emphasis# их и подготавливая к сокрушающему воздействию ваших силовых полей."
+              "rus": "Подбросьте врагов в воздух силовыми колоннами, #emphasis#замедляя#/emphasis# их и подготавливая к сокрушающему воздействию ваших силовых полей."
             }
           },
           {
@@ -11541,7 +11541,7 @@
             "Desc": {
               "id": "460663224874763568",
               "eng": "Manifest a force field that blocks enemy movement and intercepts their projectiles.",
-              "rus": "Силовое поле мешает врагам двигаться и останавливает их снаряды."
+              "rus": "Ваше силовое поле мешает врагам двигаться и останавливает направленные в вас снаряды."
             }
           },
           {
@@ -11553,7 +11553,7 @@
             "Desc": {
               "id": "4574016540283766080",
               "eng": "Create a defensive dome of force that knocks enemies aside, slowing them and incoming projectiles down while protecting allies who take cover inside.",
-              "rus": "Создать силовой купол, отбрасывающий врагов и замедляющий их и летящие в купол снаряды, а также защищающий союзников, укрывшихся внутри."
+              "rus": "Создайте силовой купол, отбрасывающий врагов и замедляющий их и летящие в купол снаряды, а также защищающий союзников, укрывшихся внутри."
             }
           },
           {
@@ -11565,7 +11565,7 @@
             "Desc": {
               "id": "15323573079473456488",
               "eng": "Surround yourself with a cloud of spherical force fields orbiting at blinding speed that pummel and #emphasis#slow#/emphasis# nearby enemies. You enter a state of heightened concentration, gaining additional #emphasis#focus#/emphasis# in the eye of the storm.",
-              "rus": "Окружить себя облаком сферических силовых полей, которые на бешеной скорости вращаясь вокруг, будут бить и #emphasis#оглушать#/emphasis# врагов. Вы перейдете в состояние высокой концентрации, получая дополнительный #emphasis#фокус#/emphasis# в самом сердце бури."
+              "rus": "Окружите себя облаком сферических силовых полей, которые вращаясь вокруг на бешенной скорости будут бить и #emphasis#оглушать#/emphasis# врагов. Вы перейдете в состояние высокой концентрации, получая дополнительный #emphasis#фокус#/emphasis# в самом сердце бури."
             }
           }
         ]
@@ -11581,7 +11581,7 @@
             "Name": {
               "id": "7690554203070727475",
               "eng": "Strike Unseen",
-              "rus": "Удар невидимого"
+              "rus": "Атака из ниоткуда"
             },
             "Desc": {
               "id": "Invalid",
