@@ -161,7 +161,7 @@
             "Desc": {
               "id": "4497793313294386485",
               "eng": "Hold down the hotkey to dash repeatedly around your target, striking them from unexpected directions while restoring your shield.",
-              "rus": "Удерживайте горячую клавишу, чтобы совершать рывки вокруг цели, атакуя её с неожиданных направлений,  восстанавливая щит."
+              "rus": "Удерживайте горячую клавишу, чтобы совершать рывки вокруг цели, атакуя её с неожиданных направлений, тем самым восстанавливая щит."
             }
           },
           {
@@ -11619,7 +11619,7 @@
     "Bio": {
       "id": "7971432501396112648",
       "eng": "#emphasis#Real Name:#/emphasis# Jennifer Walters \n#emphasis#Identity:#/emphasis# Public\n\nSeriously wounded after a gangland shooting, attorney Jennifer Walters received an emergency blood transfusion from her cousin, Bruce Banner, aka The Incredible Hulk! Transformed by the blood transfusion, Walters received a milder version of her cousin's powers. She was large, green, and impossibly strong, but she still retained her intellect.  Choosing to spend all her time as The Sensational She-Hulk, Jen Walters has served on the Avengers, the Defenders, the Lady Liberators, and has built a reputation as a brilliant attorney for the super hero community.  \n\n\n\n#emphasis#Created By:#/emphasis# Stan Lee and John Buscema\n",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Дженнифер Уолтерс \n#emphasis#Личность:#/emphasis# Публичная\n\nСерьезно раненая после стрельбы в криминальной среде, адвокат Дженнифер Уолтерс получила экстренную трансфузию крови от своего кузена, Брюса Бэннера, также известного как Невероятный Халк! Преобразованная благодаря трансфузии крови, Уолтерс получила более мягкую версию сил своего кузена. Она стала крупной, зеленой и невероятно сильной, но при этом сохранила свой интеллект. Выбрав проводить все свое время в образе Удивительной Ши-Халк, Джен Уолтерс служила в Мстителях, Защитниках, Леди Освободительницах и заработала репутацию блестящего адвоката для сообщества супергероев. \n\n\n\n#emphasis#Создано:#/emphasis# Станом Ли и Джоном Бусимой\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Дженнифер Уолтерс \n#emphasis#Личность:#/emphasis# Публичная\n\nСерьезно раненая после стрельбы в криминальной среде, адвокат Дженнифер Уолтерс получила экстренное переливание крови от своего кузена, Брюса Бэннера, также известного как Невероятный Халк! Трансформировавшись из-за переливания крови, Уолтерс получила более мягкую версию сил своего кузена. Она точно также стала более крупной, зеленой и невероятно сильной, но при этом сохранила свой интеллект. Выбрав проводить все свое время в образе Удивительной Женщины-Халк, Джен Уолтерс состояла в Мстителях, Защитниках, Леди Освободительницах и заработала репутацию блестящего адвоката для сообщества супергероев. \n\n\n\n#emphasis#Создано:#/emphasis# Станом Ли и Джоном Бусимой\n"
     },
     "PowerTables": [
       {
@@ -11650,19 +11650,19 @@
             "Desc": {
               "id": "6004617846772335942",
               "eng": "Press your advantage by delivering power punches that get your combo rolling.",
-              "rus": "Развить свое преимущество, нанося мощные удары, усиливающие ваше комбо."
+              "rus": "Развивайте свое преимущество, нанося мощные удары, усиливающие ваше комбо."
             }
           },
           {
             "Name": {
               "id": "7046923868762473737",
               "eng": "Barrister Beatdown",
-              "rus": "Адвокатское разбирательство"
+              "rus": "Юридический разгром"
             },
             "Desc": {
               "id": "5709890782760862983",
               "eng": "Pummel foes into submission with a frenzied flurry of punches faster than the eye can follow.",
-              "rus": "Бить врагов, обрушивая на них серию таких быстрых ударов, что за ними невозможно уследить."
+              "rus": "Бейте врагов, обрушивая на них серию таких быстрых ударов, что за ними невозможно уследить."
             }
           },
           {
@@ -11674,7 +11674,7 @@
             "Desc": {
               "id": "11492768302176535885",
               "eng": "Power slide into range for a double dose of your size 13 kicks that hits harder having just objected to all this villainy.",
-              "rus": "Мощно сократить дистанцию и выдать врагу двойную дозу ударов ногами 13-го размера. Выдвинутые вами возражения увеличат урон."
+              "rus": "Мощно сократите дистанцию и выдайте врагу двойную дозу ударов ногами 13-го размера. Выдвинутые вами возражения увеличат урон."
             }
           },
           {
@@ -11686,7 +11686,7 @@
             "Desc": {
               "id": "6430778709572977939",
               "eng": "Get the leg drop on enemies to soften them up, because winning battles and cases alike requires preparation.",
-              "rus": "Пинать врагов, чтобы сломить их защиту, потому что для побед как на поле боя, так и в суде, нужна подготовка."
+              "rus": "Пните врага, чтобы сломить его защиту, потому что для побед как на поле боя, так и в суде, нужна подготовка."
             }
           },
           {
@@ -11698,7 +11698,7 @@
             "Desc": {
               "id": "15767544243874301185",
               "eng": "A canny lawyer knows how to defend against any argument in the courtroom.\nIssue a judicial summons to all nearby enemies, forcing them to appear in front of the court.",
-              "rus": "Опытный юрист знает, как заставить любого явиться в суд.\nВыдайте судебные повестки всем ближайшим врагам, заставив их явиться в суд."
+              "rus": "Опытный адвокат умеет парировать любой довод в зале суда.\nВыдайте судебные повестки всем ближайшим врагам - пусть предстанут перед судом!"
             }
           },
           {
@@ -11710,7 +11710,7 @@
             "Desc": {
               "id": "13069519829545387338",
               "eng": "Put your foot down, shocking enemies around you with enough force to weaken their defenses.",
-              "rus": "Топнуть ногой, отчего уровень защиты врагов вокруг вас уменьшается."
+              "rus": "Мощно топните ногой - вшш удар сотрясёт врагов вокруг, ослабив их защиту."
             }
           },
           {
@@ -11722,19 +11722,19 @@
             "Desc": {
               "id": "14661876055431578949",
               "eng": "Hammer on enemies with bruising blows directed at their weakest points.",
-              "rus": "Сокрушить врагов мощными ударами, нацеленными в их уязвимые точки."
+              "rus": "Сокрушите врагов мощными ударами, нацеленными в их уязвимые точки."
             }
           },
           {
             "Name": {
               "id": "3036779235970647317",
               "eng": "Bar Exam",
-              "rus": "Экзамен на юриста"
+              "rus": "Адвокатский тест"
             },
             "Desc": {
               "id": "347593172771276055",
               "eng": "Test an enemy's mettle by pulling out some of your exercise equipment and smashing them with as much weight as you could manage to fit on the barbell.",
-              "rus": "Проверить решимость врагов - достать снаряжение для тренировок и ударить противника с максимальной силой, которую только можно вложить в гантелю."
+              "rus": "Испытайте врага на прочность, достав своё тренировочное снаряжение и обрушив на противника весь вес, которым вам удалось нагрузить вашу штангу."
             }
           }
         ]
@@ -11755,7 +11755,7 @@
             "Desc": {
               "id": "13586202771759170894",
               "eng": "Elbow drop into the fray like a gamma-infused gavel.",
-              "rus": "Ворваться в бой и нанети удар локтем, словно молотком судьи, насыщенным гамма-лучами."
+              "rus": "Ворвитесь в бой и нанети удар локтем, словно молотком судьи, насыщенным гамма-лучами."
             }
           },
           {
@@ -11767,7 +11767,7 @@
             "Desc": {
               "id": "8743537075757516106",
               "eng": "Strongly object to villainous attempts to exploit range disparity by turning your legal briefcase into a lethal projectile.",
-              "rus": "Решительно возразить против подлых попыток воспользоваться несправедливой дистанцией, превратив чемоданчик в смертельно опасный снаряд."
+              "rus": "Решительно возразите против подлых попыток воспользоваться несправедливой дистанцией, превратив ваш чемоданчик в смертельно опасный снаряд."
             }
           },
           {
@@ -11779,7 +11779,7 @@
             "Desc": {
               "id": "9139517164756600116",
               "eng": "Possession is nine-tenths of the law, and being in possession of a full compliment of Combo Points prepares you to win fights the way you win cases.",
-              "rus": "Владение составляет девять десятых закона, и обладание полным комплектом Очков Комбо подготавливает вас к победе в боях так же, как вы выигрываете дела."
+              "rus": "Закон всегда на вашей стороне: при максимальном количестве Комбо-Почков наносимые вами атаки становятся неотразимыми, как железные аргументы в суде."
             }
           },
           {
@@ -11803,7 +11803,7 @@
             "Desc": {
               "id": "17003512939826447674",
               "eng": "Demand that all enemies in an area stop infringing upon your right to beat them senseless by bogging them down in red tape.",
-              "rus": "Требуйте, чтобы все враги в области прекратили нарушать ваше право избивать их безжалостно, запутывая их в бюрократических проволочках."
+              "rus": "Потребуйте, чтобы все враги в области прекратили нарушать ваше право избивать их безжалостно, запутывая их в бюрократических проволочках."
             }
           },
           {
@@ -11815,7 +11815,7 @@
             "Desc": {
               "id": "1380221723030259006",
               "eng": "Confuse the proceedings by using your silver tongue to trick an enemy into fighting on your side.",
-              "rus": "Запутать врага хитроумными речами и заставить сражаться на своей стороне."
+              "rus": "Запутайте врага хитроумными речами и временно заставьте его сражаться на вашей стороне."
             }
           },
           {
@@ -11827,7 +11827,7 @@
             "Desc": {
               "id": "7966532712517534993",
               "eng": "Turn this trial around by calling a random Team-Up to stand beside you in battle.",
-              "rus": "Развернуть ход процесса на 180 градусов, вызывав выбранного случайным образом напарника, который будет сражаться на вашей стороне."
+              "rus": "Переломите ход процесса, вызывав случайного напарника, который будет сражаться на вашей стороне."
             }
           },
           {
@@ -11839,7 +11839,7 @@
             "Desc": {
               "id": "10828583817797633340",
               "eng": "Gracefully flip kick a guilty foe, knocking them into the air, then transition into an an explosive elbow drop that causes massive collateral damage.",
-              "rus": "Ловко ударить атакующего врага ногой в перевороте и добавить мощный удар локтем, нанося значительный сопутствующий урон."
+              "rus": "Ловко ударьте атакующего врага ногой в перевороте и добавьте мощный удар локтем, нанося значительный сопутствующий урон."
             }
           },
           {
@@ -11931,12 +11931,12 @@
             "Name": {
               "id": "8593542601380267289",
               "eng": "Skipping Stone",
-              "rus": "Пропускающий камень"
+              "rus": "Рикошетящий камень"
             },
             "Desc": {
               "id": "895688835826124098",
               "eng": "Fling a piece of terrain with your telekinesis, forcefully skipping it between groups of enemies.",
-              "rus": "Запустите кусок местности с помощью вашей телекинезы, силой перебрасывая его между группами врагов."
+              "rus": "Запустите в полет кусок местности с помощью вашего телекинеза, перебрасывая его между группами врагов."
             }
           },
           {
@@ -11948,7 +11948,7 @@
             "Desc": {
               "id": "13471876927077090617",
               "eng": "Surge forward, unleashing a torrent of telekinetic wrath on enemies in your path.",
-              "rus": "Рвануться вперед, обрушив на врагов на своем пути лавину телекинетической ярости."
+              "rus": "Рванитесь вперед, обрушив на врагов на своем пути лавину телекинетической ярости."
             }
           },
           {
@@ -11960,7 +11960,7 @@
             "Desc": {
               "id": "6146964448852837643",
               "eng": "Telekinetically lift and hurl a large object, decimating enemies struck.",
-              "rus": "Телекинезом поднять и бросить во врагов крупный предмет, нанеся им тяжкие увечья."
+              "rus": "Телекинезом поднимите и бросьте во врагов крупный предмет, нанеся им тяжкие увечья."
             }
           },
           {
@@ -11972,7 +11972,7 @@
             "Desc": {
               "id": "4738963968958924050",
               "eng": "Draw in enemies to a point in space using an overwhelming wave of telekinetic force.",
-              "rus": "Согнать врагов в одну точку пространства мощной телекинетической волной."
+              "rus": "Притяните окружающих врагов в одну точку, обрушив на них мощную телекинетическую волну."
             }
           },
           {
@@ -11984,19 +11984,19 @@
             "Desc": {
               "id": "10550177904393389318",
               "eng": "Telekinetically create a protective field, knocking back and slowing enemies and incoming projectiles while protecting allies who take cover inside.",
-              "rus": "Телепатически создаёт защитное поле, отталкивая и замедляя врагов иIncoming projectiles, защищая союзников, которые укрываются внутри."
+              "rus": "Телепатически создайте защитное поле, отталкивая и замедляя врагов и летящие в вас снаряды, защищая себя и союзников, которые укрываются внутри."
             }
           },
           {
             "Name": {
               "id": "8937215928668194066",
               "eng": "Psychic Maelstrom",
-              "rus": "Инферно Феникса"
+              "rus": "Ментальный вихрь"
             },
             "Desc": {
               "id": "9212529731894314299",
               "eng": "Project psionic energy to excite the molecules in a targeted area dealing damage to all enemies within.",
-              "rus": "Проецируйте псиническую энергию, чтобы возбудить молекулы в целевой области, нанося урон всем врагам в пределах."
+              "rus": "Спроецируйте псиническую энергию, чтобы возбудить молекулы в указанной зоне, нанося урон всем оказавшимся там врагам."
             }
           },
           {
@@ -12008,19 +12008,19 @@
             "Desc": {
               "id": "620353794039285060",
               "eng": "Project a burst of telekinetic energy that knocks back nearby enemies and create a telekinetic barrier that absorbs incoming attacks.",
-              "rus": "Проецируйте всплеск телекинетической энергии, который отбрасывает ближайших врагов, и создайте телекинетический барьер, который поглощаетIncoming атаки."
+              "rus": "Спроецируйте всплеск телекинетической энергии, который отбрасывает ближайших врагов, и создайте телекинетический барьер, который поглотит их атаки."
             }
           },
           {
             "Name": {
               "id": "11360403397298292045",
               "eng": "Telekinetic Slam",
-              "rus": "Телепатический удар"
+              "rus": "Телекинетический удар"
             },
             "Desc": {
               "id": "13799239149647234327",
               "eng": "Telekinetically lift entire groups of enemies to slam them back into the ground.",
-              "rus": "Телепатически поднимать целые группы врагов, чтобы ударить их обратно о землю."
+              "rus": "Телекинезом поднимайте целые группы врагов, чтобы сразу же обрушить их обратно о землю."
             }
           },
           {
@@ -12032,7 +12032,7 @@
             "Desc": {
               "id": "18215446831171372300",
               "eng": "You calmly levitate in the eye of a hurricane of debris. As you move, anything in your path quickly succumbs to the hail of stone.",
-              "rus": "Вы спокойно левитируете в центре урагана из обломков. По мере вашего движения всё, что попадает на ваш путь, быстро поддается градом камней."
+              "rus": "Вы спокойно парите в эпицентре пси-вихря, окружённая множеством летающих обломков и всё, что оказывается на вашем пути пронзает град камней."
             }
           },
           {
@@ -12044,7 +12044,7 @@
             "Desc": {
               "id": "16315679334687769875",
               "eng": "In a terrifying display of telekinetic ability, lift up large chunks of the surrounding terrain, then hurl them to the ground with crushing force.",
-              "rus": "В ужасающем проявлении телекинетических способностей поднимите большие куски окружающей местности и с сокрушительной силой бросьте их об землю."
+              "rus": "В невероятном проявлении телекинетических способностей вырвите целые пласты из окружающей местности и с сокрушительной силой швырните их о землю."
             }
           }
         ]
@@ -12065,7 +12065,7 @@
             "Desc": {
               "id": "7516296079817901369",
               "eng": "Telepathically induce a torpor in nearby enemies' minds, hindering their ability to fight.",
-              "rus": "Телепатически ввести врагов поблизости в ступор."
+              "rus": "Телепатически погрузите разумы ближайших врагов в оцепенение, ослабляя их волю к борьбе."
             }
           },
           {
@@ -12077,7 +12077,7 @@
             "Desc": {
               "id": "18104740742041634099",
               "eng": "Link yourself to an enemy and slowly drain away their life force with your powers over life and death.",
-              "rus": "Соединившись с врагом, вытяните из него жизненную силу, используя свои способности."
+              "rus": "Установите ментальную связь с врагом и медленно вытягивайте его жизненную силу, используя свою власть над жизнью и смертью."
             }
           },
           {
@@ -12089,31 +12089,31 @@
             "Desc": {
               "id": "2464924711585645879",
               "eng": "Infect enemies' minds with a psychic plague that multiplies and spreads to more victims once its host has been used up.",
-              "rus": "Заражайте умы врагов психическим чумой, которая умножается и распространяется на большее количество жертв, как только её носитель исчерпан."
+              "rus": "Заражайте умы врагов психической чумой, которая умножается и распространяется на большее количество жертв, как только её носитель погибает."
             }
           },
           {
             "Name": {
               "id": "3649510862586447168",
               "eng": "Psychic Hammer",
-              "rus": "Психо-молот"
+              "rus": "Пси-молот"
             },
             "Desc": {
               "id": "6628701385418605880",
               "eng": "Launch a powerful telepathic attack that slams through the oncoming waves of enemies.",
-              "rus": "Провести мощную телепатическую атаку, которая сметет ряды наступающих врагов."
+              "rus": "Проведите мощную телепатическую атаку, которая сметет ряды наступающих врагов."
             }
           },
           {
             "Name": {
               "id": "5943146436586702152",
               "eng": "Expel Phoenix Force",
-              "rus": "Изгнать Силу Феникса"
+              "rus": "Извергнуть Силу Феникса"
             },
             "Desc": {
               "id": "12328147588797760840",
               "eng": "Release the buildup of Phoenix Force energy inside you, channeling it into a shockwave of destructive psychic energy.",
-              "rus": "Освободите накопление энергии Феникса внутри себя, направляя её в ударную волну разрушительной психической энергии."
+              "rus": "Освободите накопленную энергию Феникса внутри себя, направляя её в ударную волну разрушительной психической энергии."
             }
           },
           {
@@ -12125,7 +12125,7 @@
             "Desc": {
               "id": "18142723719114982708",
               "eng": "Mentally project an image of yourself into the minds of your foes, causing them to fight something that isn't really there.",
-              "rus": "Создать ментальную проекцию себя в сознании врагов, заставив их сражаться с воображением."
+              "rus": "Создайте ментальную проекцию себя в сознании врагов, на некоторое время заставляя их атаковать пустоту."
             }
           },
           {
@@ -12137,7 +12137,7 @@
             "Desc": {
               "id": "16714186917517526326",
               "eng": "Twist your enemies minds to #emphasis#confuse#/emphasis# them, forcing them to fight your foes while under your control",
-              "rus": "Извивайте умы своих врагов, чтобы #emphasis#сбить#/emphasis# их с толку, заставляя сражаться с вашими противниками под вашим контролем"
+              "rus": "Спутайте мысли своих врагов, чтобы #emphasis#сбить#/emphasis# их с толку, заставляя сражаться с вашими врагами под вашим контролем"
             }
           },
           {
@@ -12149,7 +12149,7 @@
             "Desc": {
               "id": "13421127331520841025",
               "eng": "Gather #emphasis#Phoenix Force#/emphasis# from a devastating pyrokinetic explosion, temporarily boosting your damage, #emphasis#defense#/emphasis#, Health, and $primaryManaBehaviorName$ while enhancing all your powers.",
-              "rus": "Получить заряд #emphasis#Силы Феникса#/emphasis# от мощного пирокинетического взрыва, при этом временно увеличится наносимый вами урон, #emphasis#защита#/emphasis#, здоровье и запас $primarymanabehaviorname.locflagG$, а также повысится эффективность всех способностей."
+              "rus": "Получите заряд #emphasis#Силы Феникса#/emphasis# от мощного пирокинетического взрыва, при этом временно увеличится наносимый вами урон, #emphasis#защита#/emphasis#, здоровье и запас $primarymanabehaviorname.locflagG$, а также повысится эффективность всех способностей."
             }
           }
         ]
@@ -12177,7 +12177,7 @@
             "Name": {
               "id": "5303632454816564546",
               "eng": "Phoenix Reborn",
-              "rus": "Возражденный феникс"
+              "rus": "Возрожденный Феникс"
             },
             "Desc": {
               "id": "Invalid",
