@@ -2196,12 +2196,12 @@
   },
   "13665908461293929790": {
     "eng": "Adds the #emphasis#A.R.M.O.R. Damage Upgrade#/emphasis# enchantment to any Slot 1 or 5 gear of Epic or higher rarity, replacing any existing enchantments already on the item. This enchantment can only be used on item level 63 items and higher.\n\nLevel 60 enchantment gives you:\n#emphasis#+60 Damage Rating#/emphasis#",
-    "rus": "Добавляет заклинание #emphasis#Улучшение урона АРМОР#/emphasis# к любой ячейке снаряжения (от 1 до 5) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+60 к рейтингу урона/emphasis#",
+    "rus": "Добавляет заклинание #emphasis#Улучшение урона АРМОР#/emphasis# к любой ячейке снаряжения (от 1 до 5) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+60 к рейтингу урона#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Enchanting/EnchantmentRecipe030.prototype"
   },
   "13698421363780224360": {
     "eng": "#powermechanic#Grievous Wounds#/powermechanic#: $DamageRangeOverTime$#hidden# ($DamageRangeOverTime.precision1.divbylevel$ per level)#/hidden# twice per second for $duration$ (stacks up to 3 times with other #powermechanic#Grievous Wounds#/powermechanic# effects)",
-    "rus": "$damageTypeOverTime$ урон: $damageRangeOverTime$ ед. #hidden#($damageRangeOverTime.precision1.divByLevel$ ед. за каждый уровень)#/hidden# 2 раза в секунду на $duration$ (накапливается до $maxNumStacks$ раз)",
+    "rus": "#powermechanic#Смертельные раны#/powermechanic#: $DamageRangeOverTime$#hidden# ($DamageRangeOverTime.precision1.divbylevel$ за уровень)#/hidden# дважды в секунду в течение $duration$ (складывается до 3 раз с другими эффектами #powermechanic#Смертельных ран#/powermechanic#)",
     "path": "Localization/Translations/Powers/TooltipStrings/X23/GrievousWounds.prototype"
   },
   "13766506490913031439": {
@@ -2236,22 +2236,22 @@
   },
   "14029968147207619902": {
     "eng": "Visit the store to purchase a new hero to play.",
-    "rus": "Зайдите в магазин, чтобы купить нового героя.\n(Нажмите [$MarvelGFxGameUITogglePanel StorePanel$], чтобы перейти в магазин).",
+    "rus": "Зайдите в магазин, чтобы купить нового героя.",
     "path": "UI/LoadingScreenTips/GenericTips/GenericGameplayTips.prototype"
   },
   "14104780120956470595": {
     "eng": "Adds the #emphasis#A.R.M.O.R. Item Find Upgrade#/emphasis# enchantment to any Slot 2, 3, or 4 gear of Epic or higher rarity, replacing any existing enchantments already on the item. This enchantment can only be used on item level 63 items and higher.\n\nLevel 60 enchantment gives you:\n#emphasis#+10% RIF#/emphasis#",
-    "rus": "Добавляет заклинание #emphasis#Улучшение поиска предметов АРМОР#/emphasis# к любой ячейке снаряжения (2, 3 или 4) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+10% к шансу найти редкий предмет/emphasis#",
+    "rus": "Добавляет заклинание #emphasis#Улучшение поиска предметов АРМОР#/emphasis# к любой ячейке снаряжения (2, 3 или 4) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+10% к шансу найти редкий предмет#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Enchanting/EnchantmentRecipe029.prototype"
   },
   "14112737282386232707": {
     "eng": "Use the terminals in any player hub to enter instances.\n\n#mission#Bosses#/mission# are located through their respective terminals. #mission#Mister Hyde#/mission# and #mission#Park Patrons#/mission# are located through the #mission#Bronx Zoo#/mission# terminal. #mission#Henchmen#/mission# can be defeated in any terminal.",
-    "rus": "Используйте #mission#красные#/mission#, #mission#зеленые#/mission# или #mission#космические#/mission#терминалы в любом штабе, чтобы войти на карты. Космические терминалы открываются на 60 уровне.\n\n#mission#Боссов#/mission# можно найти, воспользовавшись соответствующими терминалами. К #mission#Мистеру Хайду#/mission# и #mission#посетителям парка#/mission# можно попасть через терминал в #mission#зоопарке в Бронксе#/mission#. #mission#Головорезов#/mission# можно победить в любом терминале.",
+    "rus": "Используйте терминалы в любом штабе, чтобы войти на карты.\n\n#mission#Боссов#/mission# можно найти, воспользовавшись соответствующими терминалами. К #mission#Мистеру Хайду#/mission# и #mission#посетителям парка#/mission# можно попасть через терминал в #mission#зоопарке в Бронксе#/mission#. #mission#Головорезов#/mission# можно победить в любом терминале.",
     "path": "Missions/Prototypes/SharedQuests/DailyMissionTerminal3Tuesday.prototype"
   },
   "14117020910878524720": {
     "eng": "Use the terminals in any player hub to enter instances.\n\n#mission#Bosses#/mission# are located through their respective terminals. #mission#A.I.M. Turrets & Wreckbots#/mission# can be found throughout A.I.M. Weapon Facility. #mission#Henchmen#/mission# can be defeated in any terminal.",
-    "rus": "Используйте #mission#красные#/mission#, #mission#зеленые#/mission# или #mission#космические#/mission# терминалы в любом штабе, чтобы войти на карты. Космические терминалы открываются на 60 уровне.\n\n#mission#Боссов#/mission# можно найти, воспользовавшись соответствующими терминалами. #mission#Турели и крушителей А.И.М.#/mission# можно найти на оружейной фабрике А.И.М. #mission#Головорезов#/mission# можно победить в любом терминале.",
+    "rus": "Используйте терминалы в любом штабе, чтобы войти на карты.\n\n#mission#Боссов#/mission# можно найти, воспользовавшись соответствующими терминалами. #mission#Турели и крушителей А.И.М.#/mission# можно найти на оружейной фабрике А.И.М. #mission#Головорезов#/mission# можно победить в любом терминале.",
     "path": "Missions/Prototypes/SharedQuests/DailyMissionTerminal6Friday.prototype"
   },
   "14161926623702746495": {
@@ -2271,7 +2271,7 @@
   },
   "14238366613264663832": {
     "eng": "",
-    "rus": "Задание выполнено: $missionname$",
+    "rus": "",
     "path": ""
   },
   "14251408930108015980": {
@@ -2281,7 +2281,7 @@
   },
   "14306104101676647796": {
     "eng": "Use this item for a reward for defeating an enemy wave in Infernal Limbo.\n#emphasis#This will spawn items for your current hero.#/emphasis#\nThis cannot be used in hubs.",
-    "rus": "Щелкните ПКМ, чтобы получить награду для текущего героя.\nВнутри вы найдете один из этих предметов:\n\n#emphasis#Уникальный предмет с бонусом испытания#/emphasis#\n#emphasis#Космический медальон#/emphasis#\n#emphasis#Космический предмет напарника#/emphasis#\n#emphasis#Демоническое кольцо кровавого камня#/emphasis#\n#emphasis#Артефакт из крови демона Хаоса#/emphasis#\n#emphasis#Демоническую суму#/emphasis#\n#emphasis#Редкий предмет: жетон абсолютного улучшения или ящик со случайным костюмом#/emphasis#",
+    "rus": "Используйте этот предмет для получения награды за победу над волной врагов в Инфернальном Лимбе.\n#emphasis#Предметы будут созданы для текущего героя.#/emphasis#\nНе может быть использовано в штабах.",
     "path": "Entity/Items/Consumables/Prototypes/LimboPhaseLootBox.prototype"
   },
   "14307483297268106595": {
@@ -2291,7 +2291,7 @@
   },
   "14325792119978394904": {
     "eng": "+$damagepctbonus.pct$% when you use a stolen #teambuff#Attrition#/teambuff# power",
-    "rus": "Рейтинг урона: +$damagerating$#hidden# ($damagerating.divbylevel$ за каждый уровень)#/hidden# в течение $duration$ (независимо от длительности способности), когда вы используете украденную способность #teambuff#истощения#/teambuff#",
+    "rus": "+$damagepctbonus.pct$% когда вы используете украденную способность #teambuff#истощения#/teambuff#",
     "path": "Localization/Translations/Powers/TooltipStrings/Rogue/StolenPowerRedSkullDoTBuff.prototype"
   },
   "14326065855473583422": {
@@ -2306,7 +2306,7 @@
   },
   "14360834582107784517": {
     "eng": "Adds the #emphasis#A.R.M.O.R. Attack Speed Upgrade#/emphasis# enchantment to any Slot 1 or 5 gear of Epic or higher rarity, replacing any existing enchantments already on the item. This enchantment can only be used on item level 63 items and higher.\n\nLevel 60 enchantment gives you:\n#emphasis#+2% Attack Speed#/emphasis#",
-    "rus": "Добавляет заклинание #emphasis#Улучшение скорости атаки АРМОР#/emphasis# к любой ячейке снаряжения (от 1 до 5) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+2% к скорости атаки/emphasis#",
+    "rus": "Добавляет заклинание #emphasis#Улучшение скорости атаки АРМОР#/emphasis# к любой ячейке снаряжения (от 1 до 5) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+2% к скорости атаки#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Enchanting/EnchantmentRecipe034.prototype"
   },
   "14466464655598421314": {
@@ -2326,7 +2326,7 @@
   },
   "14545175909942494567": {
     "eng": "Use this item to use the Blue Cupcake.\nGain 33% increased Experience for 1 Hour. Each additional boost that bestows this effect will increase its duration. ",
-    "rus": "Щелкните ПКМ, чтобы увеличить получаемый опыт на $usepower.condition0.experiencebonuspct1$% на $usepower.condition0.duration$.",
+    "rus": "Используйте этот предмет, чтобы съесть Голубой кекс.\nПолучите +33% к опыту на 1 час. Каждое дополнительное усиление с этим эффектом увеличивает его длительность.",
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/XPBoost/Items/Cupcake1.prototype"
   },
   "14552599413022000488": {
@@ -2341,7 +2341,7 @@
   },
   "14581423355089913137": {
     "eng": "Use the terminals in any player hub to enter #mission#Odin's Palace#/mission#.\n\n#mission#Injured Civilians#/mission# are rescued by clicking on them. #mission# Dark Elf Lieutenants#/mission# include #mission#Vidurr the Horror, Boltorn the Wicked, and Bolverker the Raider#/mission#. #mission# Kurse#/mission# appears at the end of the instance upon defeating his three lieutenants.",
-    "rus": "Используйте #mission#красные#/mission#, #mission#зеленые#/mission# или #mission#космические#/mission# терминалы в любом штабе, чтобы попасть во #mission#дворец Одина#/mission#. Космический терминал доступен на 60 уровне.\n\n#mission#Раненых гражданских#/mission# можно спасти, щелкнув на них. #mission#Лейтенанты темных эльфов#/mission# включают в себя #mission#Видурра Ужасного, Болторна Опасного и Болверкера Мародера#/mission#. #mission#Проклятье#/mission# появляется в конце карты, после победы над его лейтенантами.",
+    "rus": "Используйте терминалы в любом штабе, чтобы попасть во #mission#дворец Одина#/mission#.\n\n#mission#Раненых гражданских#/mission# можно спасти, щелкнув на них. #mission#Лейтенанты темных эльфов#/mission# включают в себя #mission#Видурра Ужасного, Болторна Опасного и Болверкера Мародера#/mission#. #mission#Проклятье#/mission# появляется в конце карты, после победы над его лейтенантами.",
     "path": "Missions/Prototypes/LegendaryQuests/LQTerminal/LegendaryTerminalKurse.prototype"
   },
   "14603484579164194101": {
@@ -2396,7 +2396,7 @@
   },
   "14897193834650797376": {
     "eng": "Adds the #emphasis#A.R.M.O.R. Area Damage Upgrade#/emphasis# enchantment to any Slot 1 or 5 gear of Epic or higher rarity, replacing any existing enchantments already on the item. This enchantment can only be used on item level 63 items and higher.\n\nLevel 60 enchantment gives you:\n#emphasis#+100 Area Damage Rating#/emphasis#",
-    "rus": "Добавляет заклинание #emphasis#Улучшение урона по площади АРМОР#/emphasis# к любой ячейке снаряжения (от 1 до 5) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+100 к рейтингу урона по площади/emphasis#",
+    "rus": "Добавляет заклинание #emphasis#Улучшение урона по площади АРМОР#/emphasis# к любой ячейке снаряжения (от 1 до 5) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+100 к рейтингу урона по площади#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Enchanting/EnchantmentRecipe031.prototype"
   },
   "14944566696913405287": {
@@ -2406,7 +2406,7 @@
   },
   "14976792991885362540": {
     "eng": "Use this item to activate the Mug of Grog.\n#emphasis#[24 hour cooldown]#/emphasis#\nWhen activated, gain a #purplecard#+2 Durability buff#/purplecard# and a #redcard#-1 Speed debuff#/redcard# for 1 hour.",
-    "rus": "ПКМ - съесть крендель.\nСъев, получаете #purplecard#+10 к урону и +100 ед. здоровья#/purplecard# на 1 час. Каждый новый съеденный крендель удлиняет срок действия.",
+    "rus": "Используйте этот предмет, чтобы активировать Кружку грога.\n#emphasis#[Перезарядка: 24 часа]#/emphasis#\nПри активации получите #purplecard#бафф +2 к Выносливости#/purplecard# и #redcard#дебафф -1 к Скорости#/redcard# на 1 час.",
     "path": "Entity/Items/Consumables/Prototypes/AchievementRewards/ItemRewards/MugOfGrogBoost.prototype"
   },
   "14994265391170127109": {
@@ -2436,7 +2436,7 @@
   },
   "15289109819397899539": {
     "eng": "You gain +$statDamageReductionFromDefense.pct.precision1$% Damage Reduction against a same-level enemy. Exact amount depends on damage type.\nPhysical Defense Rating: $statDefenseRatingPhysical.nofraction$\n(Grants +$statDamageReductionPhysicalFromDefense.pct.precision1$% Physical Damage Reduction)\nEnergy Defense Rating: $statDefenseRatingEnergy.nofraction$\n(Grants +$statDamageReductionEnergyFromDefense.pct.precision1$% Energy Damage Reduction)\nMental Defense Rating: $statDefenseRatingMental.nofraction$\n(Grants +$statDamageReductionMentalFromDefense.pct.precision1$% Mental Damage Reduction)",
-    "rus": "Противник вашего уровня наносит вам как минимум на $statdamagereduction.pct.nofraction$% меньше урона. Точное число зависит от типа урона.",
+    "rus": "Вы получаете +$statDamageReductionFromDefense.pct.precision1$% снижения урона от врага того же уровня. Точное значение зависит от типа урона.\nРейтинг физической защиты: $statDefenseRatingPhysical.nofraction$\n(Даёт +$statDamageReductionPhysicalFromDefense.pct.precision1$% снижения физического урона)\nРейтинг энергетической защиты: $statDefenseRatingEnergy.nofraction$\n(Даёт +$statDamageReductionEnergyFromDefense.pct.precision1$% снижения энергетического урона)\nРейтинг ментальной защиты: $statDefenseRatingMental.nofraction$\n(Даёт +$statDamageReductionMentalFromDefense.pct.precision1$% снижения ментального урона)",
     "path": "Globals/UIGlobals.defaults"
   },
   "15311542394991478086": {
@@ -2471,7 +2471,7 @@
   },
   "15418523291591181689": {
     "eng": "Use this item this item to increase your Experience Gain by 200%, Special Item Find by 200%, your Rare Item Find by 200%, and double your Eternity Splinter droprate. This potion also increase your chances of getting extra Odin Marks when completing Legendary Quests. In addition, this also increases your chance for Odin Marks to drop from any boss as well as X-Defense End Chests. Lasts for 3 hours.\n#emphasis#Increases chance to receive Odin's Gift, a large bounty of rewards, whenever you defeat a boss or complete X-Defense or Holo-Sim.\nEach additional potion that bestows this effect will extend its duration.",
-    "rus": "Щелкните ПКМ по этому предмету, чтобы увеличить набор опыта на 200%, шанс найти особый предмет на 200% и шанс найти редкий предмет на 200%.\nКаждое дополнительное зелье с таким эффектом увеличивает его продолжительность.",
+    "rus": "Используйте этот предмет, чтобы увеличить получаемый опыт на 200%, шанс нахождения особых предметов на 200%, шанс нахождения редких предметов на 200% и удвоить шанс выпадения Осколков Вечности. Это зелье также увеличивает ваши шансы получить дополнительные Знаки Одина при выполнении Легендарных заданий. Кроме того, оно повышает шанс выпадения Знаков Одина с любых боссов, а также из конечных сундуков Защиты Икс. Действует 3 часа.\n#emphasis#Увеличивает шанс получить Дар Одина - щедрую награду - при победе над боссом или завершении Защиты Икс или Голо-Симулятора.\nКаждое дополнительное зелье с этим эффектом продлевает его длительность.",
     "path": "Entity/Items/Consumables/Prototypes/GShop/ZZZDeprecated/DeprecatedConsumables/SeasonalLE/Items/WinterBoost.prototype"
   },
   "15432566941230499134": {
@@ -2561,12 +2561,12 @@
   },
   "16129372453885707628": {
     "eng": "Damage: +$DamageMultVsKeyword.pct$% against #powermechanic#Vulnerable#/powermechanic# enemies",
-    "rus": "Урон: +$DamageMultVsKeyword.pct$% против уязвимых врагов",
+    "rus": "Урон: +$DamageMultVsKeyword.pct$% против #powermechanic#уязвимых#/powermechanic# врагов",
     "path": "Localization/Translations/Powers/TooltipStrings/DamageMultVsKeywordVulnerable.prototype"
   },
   "16162115433364849986": {
     "eng": "Adds the #emphasis#A.R.M.O.R. Area Damage Upgrade#/emphasis# enchantment to any Slot 1 or 5 gear of Epic or higher rarity, replacing any existing enchantments already on the item. This enchantment can only be used on item level 63 items and higher.\n\nLevel 60 enchantment gives you:\n#emphasis#+100 Area Damage Rating#/emphasis#",
-    "rus": "Добавляет заклинание #emphasis#Улучшение урона по площади АРМОР#/emphasis# к любой ячейке снаряжения (от 1 до 5) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+100 к рейтингу урона по площади/emphasis#",
+    "rus": "Добавляет заклинание #emphasis#Улучшение урона по площади АРМОР#/emphasis# к любой ячейке снаряжения (от 1 до 5) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n\nУровень 60 этого заклинания дает:\n#emphasis#+100 к рейтингу урона по площади#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Enchanting/EnchantmentRecipe031.prototype"
   },
   "16200164625959814480": {
@@ -2666,7 +2666,7 @@
   },
   "16707579827543737619": {
     "eng": "+$usepower.condition0.EnduranceAddBonus.nofraction$ spirit and +$usepower.condition0.EnduranceCOTBase.mulby60.precision0$ spirit regeneration per minute.\nLasts for $usepower.condition0.duration$",
-    "rus": "Один из многих результатов попыток воссоздать сыворотку суперсолдата, продолжавшихся не один десяток лет. Ну и аромат тоже неплох.\n—Ник Фьюри",
+    "rus": "+$usepower.condition0.EnduranceAddBonus.nofraction$ к духу и +$usepower.condition0.EnduranceCOTBase.mulby60.precision0$ к восстановлению духа в минуту.\nДействует $usepower.condition0.duration$",
     "path": "Entity/Items/Consumables/Prototypes/CraftingConsumables/FlaskOfSpirit.prototype"
   },
   "16708584016774694244": {
@@ -2691,7 +2691,7 @@
   },
   "16855358231922017584": {
     "eng": "Use the terminals in any player hub to enter instances. \n\n#mission#Bosses#/mission# are located through their respective terminals. #mission#Destructible#/mission# props can be found throughout Castle Doom. #mission#Henchmen#/mission# can be defeated in any terminal.",
-    "rus": "Используйте #mission#красные#/mission#, #mission#зеленые#/mission# или #mission#космические#/mission#терминалы в любом штабе, чтобы войти на карты. Космические терминалы открываются на 60 уровне.\n\n#mission#Боссов#/mission# можно найти, воспользовавшись соответствующими терминалами. #mission#Мехов и турели ГИДРЫ#/mission# можно найти по всему острову ГИДРЫ. #mission#Головорезов#/mission# можно победить в любом терминале.",
+    "rus": "Используйте терминалы в любом штабе, чтобы войти на карты.\n\n#mission#Боссов#/mission# можно найти, воспользовавшись соответствующими терминалами. #mission#Мехов и турели ГИДРЫ#/mission# можно найти по всему острову ГИДРЫ. #mission#Головорезов#/mission# можно победить в любом терминале.",
     "path": "Missions/Prototypes/SharedQuests/DailyMissionTerminal7Saturday.prototype"
   },
   "16982864171538515219": {
@@ -2721,7 +2721,7 @@
   },
   "17108796568370152761": {
     "eng": "Craft Bow of the Einherjar, a Level 60 Slot 1 Unique Item that is usable by Any Hero\n\n#emphasis#Bow of the Einherjar#/emphasis#\n#emphasis#+Damage Rating#/emphasis#\n#emphasis#+Ranged Damage Rating#/emphasis#\n#emphasis#+Fighting#/emphasis#\n#emphasis#+Attack Speed#/emphasis#\n#emphasis#+Brutal Rating#/emphasis#\n#emphasis#+Brutal Damage Rating#/emphasis#\n#emphasis#Chance when you Brutally Strike to gain Critical Rating#/emphasis#\n#emphasis#Chance when you hit to fire off a wave of arrows#/emphasis#",
-    "rus": "Создает Лук Эйнхерий - уникальный предмет 60 уровня в ячейке 1, может использовать любой герой\n\n#emphasis#Лук Эйнхерий#/emphasis#\n#emphasis#+ к рейтингу урона#/emphasis#\n#emphasis#+ к рейтингу урона в дальнем бою#/emphasis#\n#emphasis#+ к боевым способностям#/emphasis#\n#emphasis#+ к скорости атаки#/emphasis#\n#emphasis#+ Рейтинг сокрушительного удара#/emphasis#\n#emphasis#+ Рейтинг сокрушительного урона#/emphasis#\n#emphasis#Шанс увеличить Рейтинг критического удара при нанесении сокруш. удара#/emphasis#\n#emphasis#Шанс выпустить облако стрел при попадании#/emphasis#\n#emphasis#+2 ко всем навыкам#/emphasis#",
+    "rus": "Создает Лук Эйнхерий - уникальный предмет 60 уровня в ячейке 1, может использовать любой герой\n\n#emphasis#Лук Эйнхерий#/emphasis#\n#emphasis#+ к рейтингу урона#/emphasis#\n#emphasis#+ к рейтингу урона в дальнем бою#/emphasis#\n#emphasis#+ к боевым способностям#/emphasis#\n#emphasis#+ к скорости атаки#/emphasis#\n#emphasis#+ Рейтинг сокрушительного удара#/emphasis#\n#emphasis#+ Рейтинг сокрушительного урона#/emphasis#\n#emphasis#Шанс увеличить Рейтинг критического удара при нанесении сокруш. удара#/emphasis#\n#emphasis#Шанс выпустить облако стрел при попадании#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/Unique307Recipe.prototype"
   },
   "17128446288558556467": {
@@ -2731,7 +2731,7 @@
   },
   "17275792644968613185": {
     "eng": "",
-    "rus": "Задание не выполнено: $missionname$",
+    "rus": "",
     "path": ""
   },
   "17279409308011660550": {
@@ -2781,7 +2781,7 @@
   },
   "17646834985624012087": {
     "eng": "When you hit with a Mental Power, regenerate $param1.power.healing$ Health",
-    "rus": "После удачного применения физической способности вы восстанавливаете $param1.power.healing$ ед. здоровья. Если у вас не максимум #blue#очков комбо#/blue#, восстанавливается вдвое больше здоровья. Эффект срабатывает дважды в секунду.",
+    "rus": "При попадании ментальной атакой восстанавливается $param1.power.healing$ здоровья",
     "path": "Entity/Items/Artifacts/Prototypes/SpecialArtifacts/CosmicArtifacts/Art279Cosmic.prototype"
   },
   "17649626405147772239": {
@@ -2801,22 +2801,22 @@
   },
   "17749642681418908923": {
     "eng": "#Difficulty3#Cosmic Difficulty#/Difficulty3#\nEnemy Health and Damage increased\nBonus XP/Credit Find: +240%",
-    "rus": "#bannerstandard#Геройская сложность#/bannerstandard#\nСила врагов и качество трофеев #highlight#увеличены только на сюжетных картах#/highlight#.",
+    "rus": "#Difficulty3#Космическая сложность#/Difficulty3#\nЗдоровье и урон врагов увеличены\nБонус к опыту/кредитам: +240%",
     "path": "UI/LocalizedInfo/MiniMapPanel/DifficultyModeIcon/Heroic.prototype"
   },
   "17834410866117772565": {
     "eng": "Hurl razor-sharp crescents into the soft points of enemies with pinpoint precision.",
-    "rus": "Метать бритвенно-острые полумесяцы в уязвимые точки врагов с идеальной меткостью, оставляя пораженных противников #emphasis#истекать кровью#/emphasis#.",
+    "rus": "Метает бритвенно-острые полумесяцы в уязвимые точки врагов с идеальной меткостью.",
     "path": "Powers/Player/MoonKnight/BasicCrescentDart.prototype"
   },
   "17878008495076672830": {
     "eng": "Hood's #mission#signature#/mission# is located in a hidden clearing within Port Elizabeth, New Jersey Docks. \n\nUse the #mission#Shipping Yard waypoint#/mission# (Chapter 2) to travel there.",
-    "rus": "#mission#Сигнатура#/mission# Капюшона расположена в скрытой части доков Порта Элизабет, Нью-Джерси. \n\nИспользуйте #mission#точку перемещения Грузовой порт/mission# (Глава 2), чтобы добраться туда.",
+    "rus": "#mission#Сигнатура#/mission# Капюшона расположена в скрытой части доков Порта Элизабет, Нью-Джерси. \n\nИспользуйте #mission#точку перемещения Грузовой порт#/mission# (Глава 2), чтобы добраться туда.",
     "path": "Missions/Prototypes/Story/CH02BrooklynDocks/CH02M1PursuingtheHood.prototype"
   },
   "17924524343809803586": {
     "eng": "Gains +$DamageMultForPower.pct$% Damage and +$EnduranceCostChangePctKeywrd.pct$% $primaryManaBehaviorName$ cost after channeling for 1s",
-    "rus": "Урон повышается на +$DamageMultForPower.pct$%, а расход $primarymanabehaviorname.locflagG$ на +$EnduranceCostChangePctKeywrd.pct$% после применения магии в течение 1 с (эффект суммируется до 2 раз)\nЭффект длится $duration$ после окончания действия магии (независимо от длительности способности).",
+    "rus": "Получает +$DamageMultForPower.pct$% к урону и +$EnduranceCostChangePctKeywrd.pct$% к затратам $primaryManaBehaviorName$ после применения в течение 1 сек",
     "path": "Localization/Translations/Powers/TooltipStrings/SilverSurfer/ChanneledBeamDamageMultForPowerCostChannel1s.prototype"
   },
   "17965260682679485759": {
@@ -2841,7 +2841,7 @@
   },
   "18114791394958771465": {
     "eng": "#red#Feat of Strength:#/red# $procchancestring$ when you hit to gain +$param1.power.condition0.statallmodifier$ All Attributes, +$param1.power.condition0.damagepctbonusvsbosses.pct$% Damage vs. the Head of the Household (bosses) and knocking your target down for $param1.power.condition0.onpowerstartpower.condition0.duration$, dealing $param1.power.condition0.onpowerstartpower.damage.nofraction$ Physical Damage.  ",
-    "rus": "При успешном применении $param2.keyword.locflagP2G$ вы получаете +$param1.power.condition0.superCritRatingBonusAdd.noFraction$ к рейтингу сокрушающего удара, а стоимость способностей дальнего боя снижается на $param1.power.condition0.endurancecostchangepctkeywrd.pct$% на $param1.power.condition0.duration$",
+    "rus": "#red#Подвиг силы:#/red# $procchancestring$ при попадании получить +$param1.power.condition0.statallmodifier$ ко всем атрибутам, +$param1.power.condition0.damagepctbonusvsbosses.pct$% к урону по Главе Семьи (боссам) и сбить цель с ног на $param1.power.condition0.onpowerstartpower.condition0.duration$, нанеся $param1.power.condition0.onpowerstartpower.damage.nofraction$ физического урона.",
     "path": "Entity/Items/Artifacts/Prototypes/Tier1Artifacts/Art268.prototype"
   },
   "18213829771688871181": {
@@ -2851,12 +2851,12 @@
   },
   "18237298954755310860": {
     "eng": "Craft Lord Brimstone's Hide, a Level 60 Slot 2 Unique Item that is usable by Any Hero\n\n#emphasis#Lord Brimstone's Hide#/emphasis#\n#emphasis#+Defense Rating#/emphasis#\n#emphasis#+Melee Damage#/emphasis#\n#emphasis#+Health#/emphasis#\n#emphasis#+Tenacity#/emphasis#\n#emphasis#+Health Regeneration#/emphasis#\n#emphasis#When you drop below 30% Health, gain Durability#/emphasis#\n#emphasis#When you are hit by a Damage Over Time Power, gain Defense Rating and Movement Speed#/emphasis#",
-    "rus": "Создает шкуру Лорда Серы - уникальный предмет 60 уровня в ячейке 2, может использовать любой герой\n\n#emphasis#Шкура Лорда Серы#/emphasis#\n#emphasis#+ к рейтингу защиты#/emphasis#\n#emphasis#+ к урону в ближнем бою#/emphasis#\n#emphasis#+ к здоровью#/emphasis#\n#emphasis#+ к воле#/emphasis#\n#emphasis#+ к восстановлению здоровья#/emphasis#\n#emphasis#Когда уровень здоровья падает ниже 30%, вы получите \"Выносливость\"#/emphasis#\n#emphasis#Когда вы получаете длительный урон, повышается рейтинг защиты и скорости движения#/emphasis#\n#emphasis#+2 ко всем навыкам#/emphasis#",
+    "rus": "Создает шкуру Лорда Серы - уникальный предмет 60 уровня в ячейке 2, может использовать любой герой\n\n#emphasis#Шкура Лорда Серы#/emphasis#\n#emphasis#+ к рейтингу защиты#/emphasis#\n#emphasis#+ к урону в ближнем бою#/emphasis#\n#emphasis#+ к здоровью#/emphasis#\n#emphasis#+ к воле#/emphasis#\n#emphasis#+ к восстановлению здоровья#/emphasis#\n#emphasis#Когда уровень здоровья падает ниже 30%, вы получите \"Выносливость\"#/emphasis#\n#emphasis#Когда вы получаете длительный урон, повышается рейтинг защиты и скорости движения#/emphasis#",
     "path": "Entity/Items/Crafting/Recipes/Tab4Misc/Unique301Recipe.prototype"
   },
   "18241038522718553415": {
     "eng": "+$onpowerstartpower.condition0.damagePctVulnerabilityVsPower.pct$% damage from #emphasis#$powerreference0.powername$#/emphasis# and #emphasis#$powerreference1.powername$#/emphasis# for $onpowerstartpower.condition0.duration$",
-    "rus": "Уязвимость: враг получает +$damagePctVulnerabilityvspowerkwd.pct$% к урону от  #Emphasis#муравьиных#/Emphasis# способностей на $duration$, если вы сначала попали в него любой не-#emphasis#муравьиной#/emphasis# способностью",
+    "rus": "+$onpowerstartpower.condition0.damagePctVulnerabilityVsPower.pct$% урона от #emphasis#$powerreference0.powername$#/emphasis# и #emphasis#$powerreference1.powername$#/emphasis# на $onpowerstartpower.condition0.duration$",
     "path": "Localization/Translations/Powers/TooltipStrings/InvisibleWomanVulnerabilityForcePillar.prototype"
   },
   "18257965418315384119": {
@@ -2866,7 +2866,7 @@
   },
   "18285061830107202861": {
     "eng": "#waypointheader#Chapter 3#/waypointheader#    #waypointlabel#LOCATION (Public): #/waypointlabel# #waypointlevels#Bamboo Forest#/waypointlevels##waypointlabel#   LEVEL RANGE: #/waypointlabel##waypointlevels#$MinLevel$-$MaxLevel$#/waypointlevels#\n#waypointtext#Just beyond Bucaneer Beach lies the Bamboo Forest, where The Hand ninja clan and the deadly Serpent Warriors are working together.#/waypointtext#\n#waypointlabel#Super Villain Showdown: #/waypointlabel##waypointtext#Watermill (Gorgon)#waypointtext# ",
-    "rus": "#waypointheader#Бамбуковая роща#/waypointheader# #waypointlabel#МЕСТОНАХОЖДЕНИЕ:#/waypointlabel# #waypointlevels#Мадрипур#/waypointlevels##waypointlabel# ДИАПАЗОН УРОВНЕЙ: #/waypointlabel##waypointlevels#$MinLevel$-$MaxLevel$#/waypointlevels#\n#waypointtext#Сразу за Пиратским пляжем начинается Бамбуковая роща, где ниндзя клана Руки и таинственные змеелюди совместно работают над каким-то общим проектом.#/waypointtext#",
+    "rus": "#waypointheader#Chapter 3#/waypointheader# #waypointlabel#МЕСТОНАХОЖДЕНИЕ:#/waypointlabel# #waypointlevels#Бамбуковая роща#/waypointlevels##waypointlabel# ДИАПАЗОН УРОВНЕЙ: #/waypointlabel##waypointlevels#$MinLevel$-$MaxLevel$#/waypointlevels#\n#waypointtext#Сразу за Пиратским пляжем начинается Бамбуковая роща, где ниндзя клана Руки и таинственные змеелюди совместно работают над каким-то общим проектом.#/waypointtext#",
     "path": "Waypoints/CH03Madripoor/BambooForest.prototype"
   },
   "18288134664403748096": {
@@ -2876,12 +2876,12 @@
   },
   "18330556284085208379": {
     "eng": "$damagetype$ Damage: $damage$ #hidden#($damagerange.precision1.divbylevel$ per level)#/hidden#per #powermechanic#Burning#/powermechanic# enemy hit",
-    "rus": "$damagetype.capitalize$ урон: $damage$ ед. #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden# при попадании в пылающую цель",
+    "rus": "$damagetype.capitalize$ урон: $damage$ ед. #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden# при попадании в #powermechanic#пылающую#/powermechanic# цель",
     "path": "Localization/Translations/Powers/TooltipStrings/HumanTorch/ChargeUpBlowup.prototype"
   },
   "18365006444408866118": {
     "eng": "Restore 100% of maximum $secondaryresourceoverride.manabehaviorname$",
-    "rus": "#emphasis#Восстановление 100% максимального уровня силы Феникса#/emphasis#",
+    "rus": "Восстановление 100% максимального уровня силы Феникса",
     "path": "Localization/Translations/Powers/TooltipStrings/JeanGrey/UltSecondaryRes.prototype"
   },
   "18378927816389821761": {
