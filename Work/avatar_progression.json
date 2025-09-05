@@ -12758,7 +12758,7 @@
     "Desc": {
       "id": "5259736012149097790",
       "eng": "Squirrel Girl has strong claws and fierce agility, but frankly, no one is entirely sure how she manages to defeat the enemies she faces.",
-      "rus": "У Девочки-Белочки - мощные когти, она невероятно подвижна, но, честно говоря, никто не знает, как ей удается справляться с такими врагами."
+      "rus": "У Девочки-Белочки - мощные когти, она невероятно подвижна, но, честно говоря, никто не по-настоящему не понимает, как ей удается справляться с такими врагами."
     },
     "Bio": {
       "id": "6400340920712693108",
@@ -12777,7 +12777,7 @@
             "Name": {
               "id": "17609500432649159994",
               "eng": "Claw, Claw, Kick",
-              "rus": "Коготки и хвост"
+              "rus": "Когти, еще когти и хвост"
             },
             "Desc": {
               "id": "9328085887121163577",
@@ -12794,7 +12794,7 @@
             "Desc": {
               "id": "15379455826618942784",
               "eng": "Roll forward, knocking enemies down with your over-sized tail and gaining a burst of momentum.",
-              "rus": "Перекатиться вперед, сбивая врагов с ног своим огромным хвостом и набирая в процессе инерцию."
+              "rus": "Перекатитесь вперед, сбивая врагов с ног своим огромным хвостом и набирая в процессе инерцию."
             }
           },
           {
@@ -12806,7 +12806,7 @@
             "Desc": {
               "id": "4545000102069077355",
               "eng": "Twirl your tail and claws, #emphasis#knocking down#/emphasis# and causing #emphasis#bleeding#/emphasis# wounds on nearby enemies.",
-              "rus": "Взмахнуть когтями и хвостом, #emphasis#сбивая с ног#/emphasis# врагов поблизости и заставляя их #emphasis#истекать кровью#/emphasis#."
+              "rus": "Выполните взмах когтями и хвостом, #emphasis#сбивая с ног#/emphasis# врагов поблизости и заставляя их #emphasis#истекать кровью#/emphasis#."
             }
           },
           {
@@ -12818,7 +12818,7 @@
             "Desc": {
               "id": "1952904815305032961",
               "eng": "Kick an enemy in the jewels, #emphasis#knocking them down#/emphasis#.",
-              "rus": "Ударить противника ногой ниже пояса, #emphasis#сбив его с ног#/emphasis#, затем провести удар ногой с разворота."
+              "rus": "Ударьте противника ногой ниже пояса, #emphasis#сбив его с ног#/emphasis#, затем проведите удар ногой с разворота."
             }
           },
           {
@@ -12837,12 +12837,12 @@
             "Name": {
               "id": "497041206978413830",
               "eng": "Dive Bomb",
-              "rus": "Пикировщик"
+              "rus": "Пикирующая бомба"
             },
             "Desc": {
               "id": "7133495716488742255",
               "eng": "Leap high into the air and dive back down, dealing damage and #emphasis#slowing#/emphasis# nearby enemies.",
-              "rus": "Прыгнуть высоко в воздух и камнем упасть обратно, нанеся врагам поблизости урон и #emphasis#замедлив#/emphasis# их."
+              "rus": "Подпрыгните высоко в воздух и камнем упадите вниз, нанеся врагам поблизости урон и #emphasis#замедлив#/emphasis# их."
             }
           },
           {
@@ -12854,7 +12854,7 @@
             "Desc": {
               "id": "7623810200798496028",
               "eng": "Go for the eyes as you scratch and claw an enemy's face with a flurry of claw attacks.",
-              "rus": "Целитесь в глаза, когда царапаете и рвете лицо врага серией атак когтями."
+              "rus": "Цельтесь в глаза, когда царапаете и рвете лицо врага серией быстрых атак когтями."
             }
           },
           {
@@ -12866,7 +12866,7 @@
             "Desc": {
               "id": "10374540817476093208",
               "eng": "Challenge enemies around you, leaving them discouraged and confused amongst themselves against your squirrel might!",
-              "rus": "Бросайте вызов врагам вокруг вас, оставляя их обескураженными и сбитыми с толку среди себя перед вашей беличьей мощью!"
+              "rus": "Бросьте вызов врагам вокруг вас, оставляя их обескураженными и сбитыми с толку перед вашей беличьей мощью!"
             }
           }
         ]
@@ -12882,12 +12882,12 @@
             "Name": {
               "id": "13088380735981290770",
               "eng": "Dire Squirrel",
-              "rus": "Дикий Белка"
+              "rus": "Дикая Белка"
             },
             "Desc": {
               "id": "11510904832359728440",
               "eng": "Summon a loyal assault squirrel to bravely charge into the fray, bounding between enemies.",
-              "rus": "Призвать верную штурмовую белку, которая храбро бросается в бой, прыгая между врагами."
+              "rus": "Призовите верную штурмовую белку, которая храбро бросается в бой, прыгая между врагами."
             }
           },
           {
@@ -12899,7 +12899,7 @@
             "Desc": {
               "id": "12355621223268287801",
               "eng": "Direct all of your squirrels to attack a specific enemy with increased ferocity.",
-              "rus": "Приказать всем вашим белкам атаковать конкретного врага с особой жестокостью."
+              "rus": "Прикажите всем вашим белкам атаковать конкретного врага с особой жестокостью."
             }
           },
           {
@@ -12911,7 +12911,7 @@
             "Desc": {
               "id": "10542789929288795403",
               "eng": "Summon an unstoppable torrent of squirrels that tear into your enemies, causing #emphasis#bleeding#/emphasis# wounds with their sharp teeth and claws.",
-              "rus": "Призвать нескончаемую череду белок, которые изорвут врагов на кусочки, нанося своими острыми зубами и когтями #emphasis#кровоточащие#/emphasis# раны."
+              "rus": "Призовите нескончаемую орду белок, которые изорвут врагов на кусочки, нанося своими острыми зубами и когтями #emphasis#кровоточащие#/emphasis# раны."
             }
           },
           {
@@ -12923,7 +12923,7 @@
             "Desc": {
               "id": "4629778521591973178",
               "eng": "Hold down the hotkey to continuously pelt your enemies with an accelerating barrage of acorns.",
-              "rus": "Удерживать горячую клавишу, чтобы непрерывно обстреливать врагов градом желудей."
+              "rus": "Удерживайте горячую клавишу, чтобы непрерывно обстреливать врагов градом желудей."
             }
           },
           {
@@ -12935,7 +12935,7 @@
             "Desc": {
               "id": "2732144365365298440",
               "eng": "Entice one gamma-infused super-squirrel to attack your enemies for each Charge used.",
-              "rus": "Привлеките одного гамма-заряженного супербелку, чтобы она атаковала ваших врагов зарядами."
+              "rus": "Призовите одну гамма-заряженную супербелку, чтобы она атаковала ваших врагов зарядами."
             }
           },
           {
@@ -12954,7 +12954,7 @@
             "Name": {
               "id": "4013632597826864386",
               "eng": "Acorn Artillery",
-              "rus": "Обстрел желудями"
+              "rus": "Желудевая артиллерия"
             },
             "Desc": {
               "id": "17781627895643178292",
@@ -13011,7 +13011,7 @@
             "Name": {
               "id": "13620756449372407111",
               "eng": "Squirrel Friends",
-              "rus": "Белки-друзья"
+              "rus": "Мои друзья-белки"
             },
             "Desc": {
               "id": "Invalid",
@@ -13023,7 +13023,7 @@
             "Name": {
               "id": "14951594126647166275",
               "eng": "Squirrel Cunning",
-              "rus": "Ловкость Белки"
+              "rus": "Беличья хитрость"
             },
             "Desc": {
               "id": "Invalid",
@@ -13049,7 +13049,7 @@
     "Bio": {
       "id": "9899236139936777478",
       "eng": "#emphasis#Real Name:#/emphasis# Angela\n#emphasis#Identity:#/emphasis# Public Identity\n\nWhen the Angels of the Tenth Realm, Heven, waged war on Asgard, Odin's daughter and heir to Asgard's throne was kidnapped by the Queen of Angels. But Odin would not be extorted by the Angels, and his daughter, Aldrif, was seemingly slain. Odin retaliated by severing Heven from Yggdrasil and closed it off from the other Nine Realms. While sealed away, Aldrif was discovered to have survived and was then raised—hidden from her true heritage—as Angela, Huntress of Heven.\n\nAs all secrets eventually come to light, Angela uncovered the truth of her upbringing. Now, shunned from Heven and branded a traitor to Asgard, Angela roams across the realms to find her place within it—continuing her hunt wherever it takes her.\n\n#emphasis#Created By:#/emphasis# Neil Gaiman, Todd McFarlane\n#emphasis#First Appearance:#/emphasis# Age of Ultron #10 (August 2013)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Ангела\n#emphasis#Личность:#/emphasis# Открытая личность\n\nКогда Ангелы Десятого Царства, Хевен, развязали войну с Асгардом, дочь Одина и наследница трона Асгарда была похищена Королевой Ангелов. Но Один не поддался шантажу Ангелов, и его дочь, Альдриф, казалось, была убита. Один ответил, отрезав Хевен от Иггдрасиля и закрыв его от других Девяти Царств. Пока она была запечатана, выяснилось, что Альдриф выжила и была воспитана — скрытая от своего истинного наследия — как Ангела, Охотница Хевен.\n\nКак и все секреты, в конце концов, становятся явными, Ангела раскрыла правду о своем воспитании. Теперь, отвергнутая Хевеном и объявленная предательницей Асгарда, Ангела скитается по царствам в поисках своего места в нем — продолжая свою охоту, куда бы она ни вела.\n\n#emphasis#Создано:#/emphasis# Нил Гейман, Тодд Макафарлейн\n#emphasis#Первое появление:#/emphasis# Эра Альтрона #10 (Август 2013)"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Ангела\n#emphasis#Личность:#/emphasis# Открытая личность\n\nКогда Ангелы Десятого Царства, Небес, развязали войну с Асгардом, дочь Одина и наследница трона Асгарда была похищена Королевой Ангелов. Но Один не поддался шантажу Ангелов, и его дочь, Алдриф, казалось, была убита. Один ответил, отрезав Небеса от Иггдрасиля и закрыв его от других Девяти Царств. Позже, когда царство Ангелов было распечатано, выяснилось, что Алдриф выжила и выросла — скрытая от своего истинного наследия — как Анжела, Небесная охотница.\n\nВсе секреты, в конце концов, становятся явными и Анжела раскрыла правду о своем происхождении. Теперь, отвергнутая Небесами и объявленная предательницей Асгарда, Анжела скитается по царствам в поисках своего места — продолжая свою охоту, куда бы она её ни привела.\n\n#emphasis#Создано:#/emphasis# Нил Гейман, Тодд Макафарлейн\n#emphasis#Первое появление:#/emphasis# Эра Альтрона #10 (Август 2013)"
     },
     "PowerTables": [
       {
@@ -13068,7 +13068,7 @@
             "Desc": {
               "id": "8253909369488803138",
               "eng": "Slash through oncoming foes with your golden sweeps of the Blades of Ichor bound together at their hilts.",
-              "rus": "Разрубите наступающих врагов своими золотыми взмахами Клинков Икора, соединенными у рукояток."
+              "rus": "Рассекайте надвигающихся врагов взмахами своих золотых Клинков Ихора, скреплённых у рукоятей."
             }
           },
           {
@@ -13080,7 +13080,7 @@
             "Desc": {
               "id": "8450181940275840281",
               "eng": "Unleash a flurry of blows with your sword, Xiphos, shredding enemies in front of you.",
-              "rus": "Выпустите шквал ударов своим мечом, Ксипос, разрывая врагов перед собой."
+              "rus": "Нанесите настоящий шквал ударов своим мечом, Ксипосом, рассекая врагов перед собой."
             }
           },
           {
@@ -13092,19 +13092,19 @@
             "Desc": {
               "id": "6664745055921112388",
               "eng": "Spin your Blades of Ichor around you in a circle of crimson, punishing enemies who have already been bloodied by your attacks.",
-              "rus": "Вращайте свои Лезвия Икоры вокруг себя в круге алого, наказывая врагов, которые уже были окровавлены вашими атаками."
+              "rus": "Создайте багровый вихрь, вращая лезвиями Икора, и покарайте всех противников, которые ранее уже были поражённых вашими атаками."
             }
           },
           {
             "Name": {
               "id": "2888866446461633865",
               "eng": "Know My Name and Weep",
-              "rus": "Знайте мое имя и плачьте"
+              "rus": "Знайте Мое Имя и Плачьте"
             },
             "Desc": {
               "id": "11393963318201746708",
               "eng": "Inflict critical wounds on an enemy with a bold thrust of Xiphos.",
-              "rus": "Нанесите критические ранения врагу смелым ударом ксипоса."
+              "rus": "Нанесите критические ранения врагу смелым ударом Ксипоса."
             }
           },
           {
@@ -13116,7 +13116,7 @@
             "Desc": {
               "id": "7102373674728162620",
               "eng": "Dispatch your enemies with Ichor's brutal edge.",
-              "rus": "Уничтожайте своих врагов с помощью жестокого лезвия Икора."
+              "rus": "Уничтожайте своих врагов используя безжалостное лезвие Икора."
             }
           },
           {
@@ -13128,7 +13128,7 @@
             "Desc": {
               "id": "17137872028032959758",
               "eng": "Cut down enemies before you with sweeping, gleaming arcs of your sword and blades.",
-              "rus": "Сокрушайте врагов перед собой широкими, сверкающими дугами вашего меча и клинков."
+              "rus": "Сокрушайте врагов перед собой широкими, сверкающими взмахами вашего меча и клинков."
             }
           },
           {
@@ -13140,19 +13140,19 @@
             "Desc": {
               "id": "11336850784486819146",
               "eng": "Incapacitate your enemies as you storm headstrong into the fray, rushing from target to target—faster than they can blink— in one swift motion.",
-              "rus": "Невозможность действовать для ваших врагов, когда вы смело врываетесь в бой, стремительно перемещаясь от цели к цели — быстрее, чем они успевают моргнуть — одним плавным движением."
+              "rus": "С яростью ринитесь в бой, уничтожив всех своих врагов будто бы одним слитным стремительным движением, перемещаясь между целями быстрее взгляда."
             }
           },
           {
             "Name": {
               "id": "7328692196100080965",
               "eng": "Nothing For Nothing",
-              "rus": "Ничего за ничего"
+              "rus": "Всё Имеет Цену"
             },
             "Desc": {
               "id": "14505633288459388227",
               "eng": "Fly into a frenzy of gleaming slashes at blinding speed, building to a powerful crescendo on the final strike.",
-              "rus": "Влетите в безумие сверкающих ударов с ослепительной скоростью, достигая мощного кульминационного удара в финальном ударе."
+              "rus": "Влетите высоко вверх в безумном вихре сверкающих ударов с ослепительной скоростью, а затем нанесите последний мощный удара в финале."
             }
           }
         ]
@@ -13173,7 +13173,7 @@
             "Desc": {
               "id": "16317499825292051727",
               "eng": "Your ribbons reach out to trip up nearby enemies, making them #emphasis#vulnerable#/emphasis#.",
-              "rus": "Ваши ленты тянутся, чтобы споткнуть ближайших врагов, делая их #emphasis#уязвимыми#/emphasis#."
+              "rus": "Ваши ленты тянутся, чтобы опутать ближайших врагов, делая их #emphasis#уязвимыми#/emphasis#."
             }
           },
           {
@@ -13185,7 +13185,7 @@
             "Desc": {
               "id": "8659171187715933456",
               "eng": "Dash through enemies with sword brandished, your ribbons punctuating with a deadly flourish.",
-              "rus": "Скользите сквозь врагов с обнаженным мечом, ваши ленты подчеркивают это смертоносным жестом."
+              "rus": "Пронеситесь сквозь врагов с обнажённым мечом, ваши ленты также разят противников со смертоносным изяществом."
             }
           },
           {
@@ -13197,7 +13197,7 @@
             "Desc": {
               "id": "8146679171572827459",
               "eng": "Constrict enemies before you with living ribbons, binding them where they stand.",
-              "rus": "Сжимайте врагов перед собой живыми лентами, связывая их на месте."
+              "rus": "Опутайте противников своими живыми лентами, лишая их возможности двигаться."
             }
           },
           {
@@ -13209,19 +13209,19 @@
             "Desc": {
               "id": "2484271327353374016",
               "eng": "Your ribbons flow into a hypnotic dance, confusing and angering enemies around you.",
-              "rus": "Ваши ленты текут в гипнотическом танце, сбивая с толку и сердя врагов вокруг вас."
+              "rus": "Ваши ленты движутся в гипнотическом танце, сбивая с толку и провоцируя врагов вокруг вас."
             }
           },
           {
             "Name": {
               "id": "11082505909230044426",
               "eng": "Angelic Smite",
-              "rus": "Ангельское поражение"
+              "rus": "Ангельская кара"
             },
             "Desc": {
               "id": "16495651091580912899",
               "eng": "Take flight and dive into the middle of a group of enemies, Xiphos at the ready.",
-              "rus": "Взлетите и погружайтесь в самую середину группы врагов, ксипос наготове."
+              "rus": "Взмойте в небо, а затем камнем обрушьтесь вниз на группу врагов с Ксипосом наготове."
             }
           },
           {
@@ -13233,31 +13233,31 @@
             "Desc": {
               "id": "1635703403052008774",
               "eng": "Hold down the hotkey to set your ribbons to pummel enemies directly in front of you. ",
-              "rus": "Удерживайте горячую клавишу, чтобы установить ваши ленты для атаки врагов прямо перед вами."
+              "rus": "Удерживайте горячую клавишу, чтобы ваши ленты атакаковали врагов находящихся перед вами."
             }
           },
           {
             "Name": {
               "id": "17173303326442128705",
               "eng": "Stunning Ichors",
-              "rus": "Ошеломляющие Икоря"
+              "rus": "Ошеломляющие Икоры"
             },
             "Desc": {
               "id": "13881779487597397311",
               "eng": "Fling your Blades of Ichor, damaging and #emphasis#stunning#/emphasis# all enemies in their path.",
-              "rus": "Бросьте свои Лезвия Икора, нанося урон и #emphasis#оглушая#/emphasis# всех врагов на своем пути."
+              "rus": "Метните свои Лезвия Икора, которые нанесут урон и #emphasis#оглушат#/emphasis# всех врагов на своем пути."
             }
           },
           {
             "Name": {
               "id": "9680593081623053588",
               "eng": "Hel and Back",
-              "rus": "Хел и Назад"
+              "rus": "В Хель и Назад"
             },
             "Desc": {
               "id": "4054654814091347268",
               "eng": "Unleash the full potential of your weaponry, training, and heritage in a glorious display of golden power.",
-              "rus": "Развивайте полный потенциал вашего оружия, тренировок и наследия в великолепном проявлении золотой силы."
+              "rus": "Раскройте весь потенциал вашего оружия, тренировок и наследия в великолепном проявлении золотой силы."
             }
           }
         ]
