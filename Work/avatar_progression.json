@@ -13323,7 +13323,7 @@
     "Bio": {
       "id": "10884421940285605177",
       "eng": "#emphasis#Real Name:#/emphasis# Daniel \"Danny\" Rand\n#emphasis#Identity:#/emphasis# Secret\n\nRaised in the mystical city of K'un-L'un, Danny Rand sought vengeance on the man he blamed for the death of his parents. Driven by vengeance, Danny was tutored by Lei Kung the Thunderer in the ways of martial arts. Excelling at his training, Danny was given the opportunity to take the sacred mantle of \"Iron Fist\" by fighting the dragon Shou-Lao the Undying and plunging his hands into its molten heart, rendering his hands \"like unto iron.\" Upon finding the man responsible for his parents' death, Danny chose to forgive him and would instead use his skills to help people, eventually putting him on the path to form Heroes for Hire with his new and like-minded friend, Luke Cage.\n#emphasis#Created By:#/emphasis# Roy Thomas, Gill Kane, & Bill Everett\n#emphasis#First Appearance:#/emphasis# Marvel Premiere #15 (May 1974)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Дэниел \"Дэнни\" Рэнд\n#emphasis#Личность:#/emphasis# Тайная\n\nВыросший в мистическом городе К'un-L'un, Дэнни Рэнд искал мести человеку, которого он винит в смерти своих родителей. Вдохновленный местью, Дэнни обучался у Лей Кунга Громовержца искусствам боя. Превосходя в своем обучении, Дэнни получил возможность принять священное звание \"Железный Кулак\", сразившись с драконом Шоу-Лао Бессмертным и погрузив свои руки в его расплавленное сердце, сделав свои руки \"как железо\". Найдя человека, ответственного за смерть своих родителей, Дэнни решил простить его и вместо этого использовать свои навыки, чтобы помогать людям, в конечном итоге став на путь создания \"Героев на заказ\" со своим новым другом, Люком Кейджем, который разделял его взгляды.\n#emphasis#Создано:#/emphasis# Рой Томас, Гилл Кейн и Билл Эверетт\n#emphasis#Первое появление:#/emphasis# Marvel Premiere #15 (май 1974)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Дэниел \"Дэнни\" Рэнд\n#emphasis#Личность:#/emphasis# Тайная\n\nВыросший в мистическом городе Кунь-Лунь, Дэнни Рэнд искал мести человеку, которого он винит в смерти своих родителей. Вдохновленный местью, Дэнни обучался у Лей Кунга Громовержца искусствам боя. Совершествуясь в своем обучении, Дэнни получил возможность принять священное звание \"Железный Кулак\", сразившись с драконом Шоу-Лао Бессмертным и погрузив свои руки в его расплавленное сердце, сделав свои руки \"как железо\". Найдя человека, ответственного за смерть своих родителей, Дэнни решил простить его и вместо этого использовать свои навыки, чтобы помогать людям, в конечном итоге став на путь создания \"Героев на заказ\" со своим новым другом, Люком Кейджем, который разделял его взгляды.\n#emphasis#Создано:#/emphasis# Рой Томас, Гилл Кейн и Билл Эверетт\n#emphasis#Первое появление:#/emphasis# Marvel Premiere #15 (май 1974)\n"
     },
     "PowerTables": [
       {
@@ -13342,7 +13342,7 @@
             "Desc": {
               "id": "5539789814246671679",
               "eng": "Strike your enemies with expertly placed punches and kicks.",
-              "rus": "Ударьте своих врагов мастерски поставленными ударами и пинками."
+              "rus": "Избивайте своих врагов мастерски поставленными ударами рук и ног."
             }
           },
           {
@@ -13354,14 +13354,14 @@
             "Desc": {
               "id": "7068225867231659329",
               "eng": "Move with the speed of the ancient ninja and dash to a position.",
-              "rus": "Двигайтесь со скоростью древнего ниндзя и стремительно переместитесь на позицию."
+              "rus": "Двигайтесь со скоростью древнего ниндзя и стремительно переместитесь в иную позицию."
             }
           },
           {
             "Name": {
               "id": "11564740056981243191",
               "eng": "Good Fortune Thunder Kick",
-              "rus": "Удачное громовое ударение"
+              "rus": "Удачный громовой удар"
             },
             "Desc": {
               "id": "990453367843128587",
@@ -13373,12 +13373,12 @@
             "Name": {
               "id": "2255880900876895550",
               "eng": "Seven Armies Sundered",
-              "rus": "Семь армий разрушены"
+              "rus": "Разгром Семи Армий"
             },
             "Desc": {
               "id": "3582709419458757948",
               "eng": "Fly into a dizzying blur of attacks, dropping enemies before they can even finish a sentence.",
-              "rus": "Влетите в головокружительный вихрь атак, сбивая врагов, прежде чем они успеют закончить предложение."
+              "rus": "Вращайтесь в головокружительном вихре атак, мгновенное повергая врагов, не дав и слова сказать."
             }
           },
           {
@@ -13402,7 +13402,7 @@
             "Desc": {
               "id": "12290612220325463361",
               "eng": "Deliver fury with a series of blows, all based on your current stance.",
-              "rus": "Наносите ярость серией ударов, основанных на вашей текущей стойке."
+              "rus": "Нанесите яростную серию ударов, основанных на вашей текущей стойке."
             }
           },
           {
@@ -13414,7 +13414,7 @@
             "Desc": {
               "id": "5745571614471423288",
               "eng": "As the Immortal Weapon of K'un-Lun, your mastery over the mystical power of Chi allows you to take a beating no mortal man could, as well as channel your Chi to heal your own wounds.",
-              "rus": "Будучи Бессмертным Оружием Кунь-Лунь, ваше мастерство в мистической силе Ци позволяет вам выдерживать удары, которые не под силу ни одному смертному, а также направлять свою Ци, чтобы исцелять собственные раны."
+              "rus": "Будучи Бессмертным Оружием Кунь-Лунь, ваше мастерство в мистической силе Ци позволяет вам пережить удары, которые не под силу выдержать ни одному смертному, а также направлять свою Ци, чтобы исцелять собственные раны."
             }
           },
           {
@@ -13426,7 +13426,7 @@
             "Desc": {
               "id": "17833506573695518021",
               "eng": "Use the power of the Iron Fist to put down a single foe with a punch that could level mountains, causing Chi to radiate out and deal damage to other enemies in front of you. This punch is modified based on your currently active stance.",
-              "rus": "Используйте силу Железного кулака, чтобы одолеть одного противника ударом, который может разрушить горы, вызывая излучение Чи, наносящее урон другим врагам перед вами. Этот удар модифицируется в зависимости от вашей текущей активной стойки."
+              "rus": "Используйте силу Железного кулака, чтобы одолеть одного противника ударом, который может разрушить горы, вызывая излучение Чи, наносящее урон другим врагам перед вами. Этот удар меняется в зависимости от вашей текущей активной стойки."
             }
           }
         ]
@@ -13447,19 +13447,19 @@
             "Desc": {
               "id": "5193944775395116349",
               "eng": "Enter the ancient stance of the Crane, slicing enemies in front of you as you change to a restorative form.",
-              "rus": "Примите древнюю стойку Журавля, разрезая врагов перед собой, пока вы переходите в восстановительную форму."
+              "rus": "Примите древнюю стойку Журавля, буквально разрезая врагов перед собой, пока вы переходите в восстанавливающую форму."
             }
           },
           {
             "Name": {
               "id": "10622046150506579208",
               "eng": "Chi Burst",
-              "rus": "Взрыв ци"
+              "rus": "Взрыв Ци"
             },
             "Desc": {
               "id": "15675762807172302151",
               "eng": "Harness and release a quick burst of Chi that damages enemies around you.",
-              "rus": "Используйте и выпустите быстрый всплеск Ци, который наносит урон врагам вокруг вас."
+              "rus": "Сконцентрируйте энергию и совершите быстрый выплеск Ци, который наносит урон врагам вокруг вас."
             }
           },
           {
@@ -13483,7 +13483,7 @@
             "Desc": {
               "id": "10220086766997079360",
               "eng": "Enter the stance of the ferocious Tiger, rending your foes with mighty scratches.",
-              "rus": "Примите стойку свирепого Тигра, разрывая своих врагов мощными царапинами."
+              "rus": "Примите стойку свирепого Тигра, разрывая своих врагов словно могучими ударами когтей."
             }
           },
           {
@@ -13507,7 +13507,7 @@
             "Desc": {
               "id": "11755277119909135678",
               "eng": "Enter the fighting stance of the Serpent, striking the enemies in front of you with the force of a lunging viper.",
-              "rus": "Примите боевую стойку Змеи, нанося удары врагам перед вами с силой бросающегося гремучего змея."
+              "rus": "Примите боевую стойку Змеи, нанося удары врагам перед вами с силой бросающегося в атаку гремучего змея."
             }
           },
           {
@@ -13519,19 +13519,19 @@
             "Desc": {
               "id": "4995456860428240194",
               "eng": "Focus your energy within you and let loose a large blast of Chi, damaging your foes.",
-              "rus": "Сосредоточьте свою энергию внутри себя и выпустите мощный взрыв Ци, нанося урон своим врагам."
+              "rus": "Сосредоточьте вашу энергию внутри себя и выпустите мощный взрыв Ци, нанося урон своим врагам."
             }
           },
           {
             "Name": {
               "id": "14360878656996377865",
               "eng": "Chi Blast",
-              "rus": "Заряд ци"
+              "rus": "Заряд Ци"
             },
             "Desc": {
               "id": "1245707822681490761",
               "eng": "Project your Chi in front of you in the form of a mystical blast.",
-              "rus": "Проецируйте свой Чи перед собой в форме мистического взрыва."
+              "rus": "Проецируйте свою Ци перед собой в форме мистического взрыва."
             }
           }
         ]
@@ -13559,7 +13559,7 @@
             "Name": {
               "id": "13995304630098986302",
               "eng": "Immortal Weapon",
-              "rus": "Безсмертное Оружие"
+              "rus": "Бессмертное Оружие"
             },
             "Desc": {
               "id": "Invalid",
@@ -13571,7 +13571,7 @@
             "Name": {
               "id": "15789447537770628416",
               "eng": "Chi",
-              "rus": "Чи"
+              "rus": "Ци"
             },
             "Desc": {
               "id": "Invalid",
@@ -13588,7 +13588,7 @@
             "Desc": {
               "id": "6808095477763212559",
               "eng": "Bring forth the spirit of Shou-Lao himself, laying waste to all enemies around you.",
-              "rus": "Призовите духа Шоу-Лао, уничтожая всех врагов вокруг вас."
+              "rus": "Призовите дух самого Шоу-Лао, который уничтожит всех врагов вокруг вас."
             }
           }
         ]
@@ -13628,7 +13628,7 @@
             "Desc": {
               "id": "2773347021727204620",
               "eng": "Rend enemies around you with your claws, slicing open vicious wounds.",
-              "rus": "Разрывай врагов вокруг когтями, нанося им глубокие раны."
+              "rus": "Разорвите врагов вокруг своими когтями, нанося им глубокие раны."
             }
           },
           {
@@ -13640,7 +13640,7 @@
             "Desc": {
               "id": "13143625057760118025",
               "eng": "Swiftly slash enemies in front of you with your razor-sharp claws, pushing for an opening through which to sink a sudden, killing blow.",
-              "rus": "Полоснуть острыми когтями по врагам, выискивая возможность нанести внезапный смертоносный удар."
+              "rus": "Быстро рассекайте врагов перед собой своими острыми как бритва когтями, выискивая момент для нанесения внезапного финального удара."
             }
           },
           {
@@ -13652,7 +13652,7 @@
             "Desc": {
               "id": "6828836888563484012",
               "eng": "Lunge into combat with claws outstretched, #emphasis#knocking down#/emphasis# all enemies in your path and use the momentum to move quickly afterwards.",
-              "rus": "Рвануться в бой, выпустив когти, #emphasis#сбивая с ног#/emphasis# всех врагов на своем пути и используя инерцию для того, чтобы увеличить скорость движения после атаки."
+              "rus": "Рваните прямо в бой, выпустив когти, #emphasis#сбивая с ног#/emphasis# всех врагов на своем пути и используя инерцию для того, чтобы увеличить скорость движения после атаки."
             }
           },
           {
@@ -13664,7 +13664,7 @@
             "Desc": {
               "id": "8903820285901538576",
               "eng": "Ram your claws deep into the gaping wounds of enemies, tearing them to shreds.",
-              "rus": "Вонзи когти в раны врагов и разорвите их на части."
+              "rus": "Вонзите когти в ещё не завжившие раны своих врагов и разорвите их на части."
             }
           },
           {
@@ -13676,7 +13676,7 @@
             "Desc": {
               "id": "2844325638376326413",
               "eng": "Roar forward, claws slashing wildly to tear to shreds anything that gets in your way.",
-              "rus": "Ревите вперед, когти разрывают все на своем пути."
+              "rus": "Взревев риньтесь вперёд, дико размахивая когтями, дабы разорвать в клочья всё, что встанет пути."
             }
           },
           {
@@ -13688,19 +13688,19 @@
             "Desc": {
               "id": "17120125214577067280",
               "eng": "Leap to a location, slicing enemies around you with your claws when you land, opening up #emphasis#grievous wounds#/emphasis# on those foes.",
-              "rus": "Прыгнуть в указанную точку и изрубить противников в области приземления когтями, нанося #emphasis#жуткие раны#/emphasis#."
+              "rus": "Прыгните в указанную точку и изрубить противников в области приземления когтями, нанося #emphasis#жуткие раны#/emphasis#."
             }
           },
           {
             "Name": {
               "id": "7899521017906005301",
               "eng": "Impale",
-              "rus": "Протыкание"
+              "rus": "Пронзание"
             },
             "Desc": {
               "id": "4852228398406632759",
               "eng": "Impale an enemy on your claws, running them through them with all your fury.",
-              "rus": "Проткнуть врага когтями насквозь со всей силы."
+              "rus": "Насади врага на свои когти, пронзая его насквозь со всей своей силой и яростью."
             }
           },
           {
@@ -13712,7 +13712,7 @@
             "Desc": {
               "id": "8084751322382533998",
               "eng": "Repeatedly slash your claws through an enemy, goring them with each cleaving swipe. Then leap into the air using all your strength,  #emphasis#knocking up#/emphasis# and skewering your foe on your adamantium claws.",
-              "rus": "Несколько раз атаковать врага когтями, нанося ему тяжелые раны при каждом ударе. Затем взвиться в воздух и атаковать изо всех сил, #emphasis#сбив с ног#/emphasis# врага и насадив его на адамантиевые когти."
+              "rus": "Несколько раз атакуйте врага когтями, нанося ему тяжелые раны при каждом ударе. Затем взвейтесь в воздух и атакуйте изо всех сил, #emphasis#сбив с ног#/emphasis# врага и насадив его на адамантиевые когти."
             }
           }
         ]
@@ -13728,12 +13728,12 @@
             "Name": {
               "id": "18244829488477832507",
               "eng": "Frenzy",
-              "rus": "Френзи"
+              "rus": "Ярость"
             },
             "Desc": {
               "id": "16283290823157941573",
               "eng": "Slash enemies in front of you with your razor-sharp, adamantium claws with ever increasing rapidity and savagery.",
-              "rus": "Режьте врагов перед собой своими острыми, адамантиевыми когтями с постоянно возрастающей быстротой и свирепостью."
+              "rus": "Режьте врагов перед собой на части своими острыми, адамантиевыми когтями с постоянно возрастающей быстротой и свирепостью."
             }
           },
           {
@@ -13745,7 +13745,7 @@
             "Desc": {
               "id": "3480417811160433977",
               "eng": "Deliver a series of brutal claw strikes, cutting any foe to ribbons.",
-              "rus": "Провести серию сокрушимых ударов когтями, разрывая противника в клочья."
+              "rus": "Проведите серию сокрушимых ударов когтями, разрывая противника в клочья."
             }
           },
           {
@@ -13757,7 +13757,7 @@
             "Desc": {
               "id": "16182850895454602504",
               "eng": "Explode into a savage frenzy, ruthlessly eviscerating anything in your path. You get visceral satisfaction from defeating enemies, healing more quickly with each bloody victory.",
-              "rus": "В боевом безумии безжалостно растерзать все, что попадется на пути. Каждая победа будет утолять вашу жажду крови, позволяя быстрее восстанавливать здоровье."
+              "rus": "В боевом безумии безжалостно растерзайте все, что попадется на пути. Каждая смерть врага будет утолять вашу жажду крови, позволяя быстрее восстанавливать здоровье."
             }
           },
           {
@@ -13769,7 +13769,7 @@
             "Desc": {
               "id": "17071700098377778537",
               "eng": "Unleash a ferocious roar, #emphasis#terrifying#/emphasis# nearby enemies and let the #emphasis#fury#/emphasis# boil inside of you.",
-              "rus": "Испустить яростный рык, #emphasis#пугая#/emphasis# врагов поблизости и чувствуя кипение #emphasis#ярости#/emphasis# в своей груди."
+              "rus": "Испустите яростный рык, #emphasis#пугая#/emphasis# врагов поблизости и ощущая вскипевшую #emphasis#ярости#/emphasis# в своей груди."
             }
           },
           {
@@ -13781,7 +13781,7 @@
             "Desc": {
               "id": "13293221285587256631",
               "eng": "Tear forward, claws slashing wildly in front of you to tear to shreds anything that gets in your way.",
-              "rus": "Рвануться вперед, бешено размахивая когтями перед собой и разрывая в клочья все, что попадется на вашем пути."
+              "rus": "Рваните вперед, бешено размахивая когтями перед собой и разрывая на куски все, что окажется на вашем пути."
             }
           },
           {
@@ -13800,12 +13800,12 @@
             "Name": {
               "id": "17971282278312183054",
               "eng": "Run Through",
-              "rus": "Пронзить"
+              "rus": "Пробиться насквозь"
             },
             "Desc": {
               "id": "12658697871145043267",
               "eng": "Lunge to a target, slicing your razor-sharp adamantium claw straight through them.",
-              "rus": "Рваните к цели, пронзая их своим острым как бритва адамантиевым когтем."
+              "rus": "Рывком приблизься к цели, рассекая её своим острым как бритва адамантиевым когтем."
             }
           },
           {
@@ -13816,8 +13816,8 @@
             },
             "Desc": {
               "id": "14902751367648314631",
-              "eng": "Fly into an unmatched display of violent rage, like nothing seen before. ",
-              "rus": "Впасть в невиданную ярость, обрушиваясь на врагов."
+              "eng": "Fly into an unmatched display of violent rage, like nothing seen before.",
+              "rus": "Впади в беспрецедентное по силе состояние буйной ярости, не имеющей аналогов."
             }
           }
         ]
@@ -13833,7 +13833,7 @@
             "Name": {
               "id": "14274723769119802642",
               "eng": "Berserker's Warpath",
-              "rus": "Военный путь Берсеркера"
+              "rus": "Путь воина-берсерка"
             },
             "Desc": {
               "id": "Invalid",
@@ -13845,7 +13845,7 @@
             "Name": {
               "id": "13021549906747917635",
               "eng": "Fury",
-              "rus": "Фьюри"
+              "rus": "Ярость"
             },
             "Desc": {
               "id": "Invalid",
