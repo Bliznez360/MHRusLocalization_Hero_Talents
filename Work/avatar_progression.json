@@ -13902,7 +13902,7 @@
             "Desc": {
               "id": "10925780078811940198",
               "eng": "Emulating Black Knight's masterful swordplay, your weapon seems to have a mind of its own as it flashes through your enemies.",
-              "rus": "Подобно мастерскому владению мечом Черного Рыцаря, ваше оружие как будто разит врагов без вашего участия."
+              "rus": "Подобно мастерскому владению мечом Черного Рыцаря, ваше оружие будто разит врагов без вашего участия."
             }
           },
           {
@@ -13914,19 +13914,19 @@
             "Desc": {
               "id": "2627332315694892339",
               "eng": "Lunge forward, #emphasis#knocking down#/emphasis# enemies in your path by ramming your shield into them.",
-              "rus": "Рвануться вперед, #emphasis#сбивая с ног#/emphasis# противников на своем пути щитом."
+              "rus": "Рваните вперед, #emphasis#сбивая с ног#/emphasis# всех оказавшихся на пути противников своим щитом."
             }
           },
           {
             "Name": {
               "id": "10225494680636097901",
               "eng": "Rebounding Shield",
-              "rus": "Щит-рикошет"
+              "rus": "Рикошетящий щит"
             },
             "Desc": {
               "id": "761240738659239230",
               "eng": "Hurl your shield, sending it ricocheting between your enemies, lacerating their faces.",
-              "rus": "Метнуть щит, заставив его отлетать рикошетом от одного врага к другому, рубя противников.\r"
+              "rus": "Метните щит, заставив его отлетать рикошетом от врага к врагу, разбивая лица противникам.\r"
             }
           },
           {
@@ -13938,7 +13938,7 @@
             "Desc": {
               "id": "8674566364953183589",
               "eng": "Toss out a rope to wrap up enemies and then drag them in close to finish 'em off.",
-              "rus": "Бросить лассо, схватить им врага, подтянуть к себе поближе и прикончить."
+              "rus": "Метните лассо, захватив им врага, и подтяните к себе поближе, чтобы прикончить."
             }
           },
           {
@@ -13950,7 +13950,7 @@
             "Desc": {
               "id": "8045905451962795330",
               "eng": "Spin wired clubs around you just like nunchucks, brutally thrashing them toward your enemies.",
-              "rus": "Порубить любого врага в куски ловкими взмахами меча и щита."
+              "rus": "Раскрутите соединенные между собой дубинки, словно нунчаки, яростно обрушивая их на врагов."
             }
           },
           {
@@ -13962,7 +13962,7 @@
             "Desc": {
               "id": "17099264777576514923",
               "eng": "Cleave your foes in twain, employing Black Knight's swordplay techniques to flawless effect.",
-              "rus": "Рубить врагов пополам, безупречно воспроизводя фехтовальные приемы Черного Рыцаря."
+              "rus": "Разрубите врагов пополам, безупречно воспроизводя фехтовальные приемы Черного Рыцаря."
             }
           },
           {
@@ -13974,7 +13974,7 @@
             "Desc": {
               "id": "11753948325807129967",
               "eng": "Swing a billy club in wide arcs, #emphasis#slowing#/emphasis# and pummeling surrounding enemies.",
-              "rus": "Размахивать дубинкой по широкой дуге, #emphasis#замедляя#/emphasis# и сокрушая врагов вокруг."
+              "rus": "Размахнитесь дубинкой по широкой дуге, #emphasis#замедляя#/emphasis# и круша врагов вокруг."
             }
           },
           {
@@ -13986,7 +13986,7 @@
             "Desc": {
               "id": "14577160320943654250",
               "eng": "Crush enemies under a brutal over-head strike from your shield.",
-              "rus": "Раздавить врага, с размаха обрушив на него свой щит."
+              "rus": "Раздавите врага, с размаха обрушив ему на голову свой щит."
             }
           },
           {
@@ -14010,7 +14010,7 @@
             "Desc": {
               "id": "11428950353784603975",
               "eng": "Combine the signature attacks from many heroes, weaving them together into an unstoppable combo.",
-              "rus": "Комбинируй фирменные атаки многих героев, сплетая их вместе в неудержимое комбо."
+              "rus": "Комбинируйте фирменные атаки многих героев, сплетая их вместе в неудержимое комбо."
             }
           }
         ]
@@ -14031,7 +14031,7 @@
             "Desc": {
               "id": "8762450020064167223",
               "eng": "Plug your enemies at range with shots from your pistol. Simple, but effective.",
-              "rus": "Обстреливать врагов с расстояния из пистолета. Просто, но эффективно."
+              "rus": "Обстреляйте врагов с расстояния из своего пистолета. Просто, но эффективно."
             }
           },
           {
@@ -14043,7 +14043,7 @@
             "Desc": {
               "id": "11291123856747463937",
               "eng": "Let loose a quick succession of arrows to neutralize your foes, occasionally slipping in additional arrows while firing.",
-              "rus": "Выпускайте быстрый поток стрел, чтобы нейтрализовать врагов, совершая дополнительные выстрелы время от времени"
+              "rus": "Выпустите быстрый залп стрел, чтобы нейтрализовать врагов, совершая дополнительные выстрелы время от времени."
             }
           },
           {
@@ -14055,7 +14055,7 @@
             "Desc": {
               "id": "2577772301463061764",
               "eng": "Loose a dense spread of arrows into entire groups of enemies.",
-              "rus": "Выпускать тучи стрел по целым группам врагов."
+              "rus": "Выпустите настоящие тучи стрел по целым группам врагов."
             }
           },
           {
@@ -14067,7 +14067,7 @@
             "Desc": {
               "id": "6341036858331104576",
               "eng": "Fire a 10,000 volt charge of electricity that arcs between targets and is strong enough to bring enemies to their knees.",
-              "rus": "Выстрелить электрическим зарядом в 10 тысяч вольт, который ударит в нескольких врагов и повергнет их на колени."
+              "rus": "Выстрелите электрическим зарядом в 10 тысяч вольт, который ударит сразу нескольких врагов и повергнет их на колени."
             }
           },
           {
@@ -14079,7 +14079,7 @@
             "Desc": {
               "id": "18370808185073960307",
               "eng": "Web-swing out with a sensational kick, #emphasis#stunning#/emphasis# all enemies in your path.",
-              "rus": "Невероятным ударом ноги оттолкнуться и качнуться на паутине, #emphasis#оглушив#/emphasis# всех врагов на своем пути."
+              "rus": "Невероятным прыжком оттолкнитесь и раскачайтесь на воссозданной паутине, #emphasis#оглушив#/emphasis# всех врагов на своем пути."
             }
           },
           {
@@ -14091,7 +14091,7 @@
             "Desc": {
               "id": "1236300233619277062",
               "eng": "Shoot an arrow that bursts into a cloud of lethal fumes.",
-              "rus": "Выпустить стрелу, которая превращается в облако ядовитых испарений."
+              "rus": "Выпустите стрелу, которая создаст облако ядовитых испарений."
             }
           },
           {
@@ -14103,7 +14103,7 @@
             "Desc": {
               "id": "14989123258880230769",
               "eng": "Coat an area with sticky webbing that briefly immobilizes foes in addition to #emphasis#slowing#/emphasis# them down and making them #emphasis#vulnerable#/emphasis# to damage.",
-              "rus": "Заполнить зону липкой паутиной, на короткое время обездвиживая врагов, а также #emphasis#замедляя#/emphasis# их и делая #emphasis#уязвимыми#/emphasis# для ваших ударов."
+              "rus": "Заполните зону липкой паутиной, на короткое время обездвиживая врагов, а также #emphasis#замедляя#/emphasis# их и делая #emphasis#уязвимыми#/emphasis# для ваших ударов."
             }
           },
           {
@@ -14127,7 +14127,7 @@
             "Desc": {
               "id": "3904870621430809973",
               "eng": "Coat enemies with a thick layer of artificial constrictive webbing that solidifies almost immediately, #emphasis#stunning#/emphasis# and damaging enemies.",
-              "rus": "Окутать врагов толстым слоем искусственной паутины, которая затвердевает почти немедленно, #emphasis#оглушая#/emphasis# врагов и нанося им урон."
+              "rus": "Опутайте врагов толстым слоем искусственной паутины, которая затвердевает почти немедленно, #emphasis#оглушая#/emphasis# противников и нанося им урон."
             }
           },
           {
@@ -14139,7 +14139,7 @@
             "Desc": {
               "id": "12969971214983497017",
               "eng": "Leap away from combat and fire a thick wad of webbing back at any pursuers, damaging and #emphasis#immobilizing#/emphasis# them.",
-              "rus": "Выпрыгнуть из боя и выстрелить в преследователей большим зарядом паутины, нанеся им урон и #emphasis#обездвижив#/emphasis# их."
+              "rus": "Отпрыгните немедленном выходят из боя и выстрелите в преследователей зарядом паутины, нанеся им урон и #emphasis#обездвижив#/emphasis# их."
             }
           }
         ]
@@ -14188,7 +14188,7 @@
     "Desc": {
       "id": "18166083333217649925",
       "eng": "Wanda Maximoff's unstable hex-based abilities make her one of the most powerful mutants in existence, capable of altering the very fabric of reality itself.",
-      "rus": "Нестабильные магические способности Ванда Максимофф делают ее одной из самых могущественных мутантов, ведь она способна изменять саму ткань реальности."
+      "rus": "Нестабильные магические способности Ванды Максимофф делают ее одной из самых могущественных мутантов, ведь она способна изменять саму ткань реальности."
     },
     "Bio": {
       "id": "2590660493422036336",
@@ -14207,12 +14207,12 @@
             "Name": {
               "id": "15422670481816356103",
               "eng": "Hex Bolt",
-              "rus": "Магическая молния"
+              "rus": "Заклятый заряд"
             },
             "Desc": {
               "id": "6101773481562866948",
-              "eng": "Conjure a blasting hex that's easy to fire and even easier to fire quickly.  ",
-              "rus": "Поразить врага простым и быстрым проклятием."
+              "eng": "Conjure a blasting hex that's easy to fire and even easier to fire quickly.",
+              "rus": "Атакуйте простым, но быстрым магическим зарядом, который легко создать и еще проще отправить во врага."
             }
           },
           {
@@ -14223,27 +14223,27 @@
             },
             "Desc": {
               "id": "18330256448134645063",
-              "eng": "Burst open a portal to the Chaos Dimension and unleash its dangerous energies on anything within the doorway. ",
-              "rus": "Вскрыть портал в Измерение Хаоса и выпустить его опасные энергии на всё, что находится в дверном проёме."
+              "eng": "Burst open a portal to the Chaos Dimension and unleash its dangerous energies on anything within the doorway.",
+              "rus": "Откройте портал в Измерение Хаоса и выпустите его опасные энергии на всё, что будет находиться рядом с этой дверью."
             }
           },
           {
             "Name": {
               "id": "12362700274271782211",
               "eng": "Chaotic Hex",
-              "rus": "Заклинание хаоса"
+              "rus": "Заряд хаоса"
             },
             "Desc": {
               "id": "13856983133855089976",
               "eng": "Let loose a hex of chaos energy that always finds a target and has a chance of firing multiple bolts at once.",
-              "rus": "Поразить врага самонаводящимся проклятием хаоса, которое может оказаться многозарядным."
+              "rus": "Атакуйте проклятым зарядом энергии хаоса, который всегда находит цель и может выпустить несколько снарядов одновременно."
             }
           },
           {
             "Name": {
               "id": "7888684278486992130",
               "eng": "Bouncing Hex",
-              "rus": "Заклинание рикошета"
+              "rus": "Рикошетящий заряд"
             },
             "Desc": {
               "id": "12261307340569052420",
@@ -14255,12 +14255,12 @@
             "Name": {
               "id": "14769681761706312955",
               "eng": "Beasts from Beyond",
-              "rus": "Чудовище извне"
+              "rus": "Чудовища извне"
             },
             "Desc": {
               "id": "1671672731884913928",
               "eng": "Tear open the fabric of reality and unleash ghostly creatures of your own design upon all those within its effect. ",
-              "rus": "Вы разрываете ткань мироздания и напускаете призрачных существ на тех, кто находится в зоне поражения."
+              "rus": "Вы разрываете ткань мироздания и напускаете призрачных существ на всех тех, кто находится в зоне поражения."
             }
           },
           {
@@ -14284,7 +14284,7 @@
             "Desc": {
               "id": "3502897180360508727",
               "eng": "Call forth a surge of reality-warping magic that pushes enemies away, damaging and #emphasis#slowing#/emphasis# them while protecting you from harm.",
-              "rus": "Призвать волну искажающей реальность магии, которая отбросит врагов, нанося урон и #emphasis#замедляя#/emphasis# их, одновременно защищая вас от повреждений."
+              "rus": "Призовите волну искажающей реальность магии, которая отбросит врагов, нанося урон и #emphasis#замедляя#/emphasis# их, одновременно защищая вас от урона."
             }
           },
           {
@@ -14296,7 +14296,7 @@
             "Desc": {
               "id": "16409010580393493815",
               "eng": "Overflowing with power, you unleash a shockwave of reality-shattering chaos energy that atomizes enemies and #emphasis#stuns#/emphasis#  bosses. ",
-              "rus": "Вы создаете волну из сокрушающей реальность энергии хаоса, которая разносит врагов на атомы и #emphasis#оглушает#/emphasis# боссов."
+              "rus": "Вы создаете волну из сокрушающей реальность энергии хаоса, которая буквально стирает врагов на атомном уровне и #emphasis#оглушает#/emphasis# боссов."
             }
           }
         ]
@@ -14317,7 +14317,7 @@
             "Desc": {
               "id": "13714821112218977587",
               "eng": "Warp to your desired location, creating waves of mental energy that damage enemies in the area as you collapse space around yourself.",
-              "rus": "Переместиться в нужную точку, создав волны ментальной энергии, наносящие урон врагам при схлопывании пространства."
+              "rus": "Переместитесь в нужную точку, создав волны ментальной энергии, наносящие урон врагам при схлопывании пространства вокруг вас."
             }
           },
           {
@@ -14329,7 +14329,7 @@
             "Desc": {
               "id": "7849302344720319791",
               "eng": "Collapse a localised pocket of reality that violently sucks everything nearby together. ",
-              "rus": "Схлопнуть складку реальности, которая жадно втянет в себя все окружающее."
+              "rus": "Схлопните складку реальности, которая жадно втянет в себя всех окружающих противников."
             }
           },
           {
@@ -14341,7 +14341,7 @@
             "Desc": {
               "id": "616781132854265142",
               "eng": "Turn the tables and regain your Health with this spell that leeches off of the life-force of your enemies.",
-              "rus": "Вытянуть из врагов жизненную силу и восполнить за ее счет свое здоровье."
+              "rus": "Это заклятие позволяет переломить ход боя, восстанавливая ваше здоровье за счёт вытянутой из противников жизненной силы."
             }
           },
           {
@@ -14353,7 +14353,7 @@
             "Desc": {
               "id": "7274122343031899408",
               "eng": "Project a sphere of chaos magic that #emphasis#slows#/emphasis# enemies and warps their projectiles' path while also raising your own defense. ",
-              "rus": "Выпустить сферу магии хаоса, которая #emphasis#замедляет#/emphasis# врагов и сбивает с курса снаряды, одновременно укрепляя ваш дух и уровень защиты."
+              "rus": "Выпустите сферу магии хаоса, которая #emphasis#замедляет#/emphasis# врагов и сбивает с курса снаряды, одновременно восстанавливая ваши силы и повышая уровень защиты."
             }
           },
           {
@@ -14365,7 +14365,7 @@
             "Desc": {
               "id": "8188675563586323716",
               "eng": "Wrap your enemies' minds in a vice of chaos magic, doling out damage every time they attack.",
-              "rus": "Вы окутываете сознание врагов магией хаоса, нанося им урон каждый раз, когда они атакуют."
+              "rus": "Вы окутываете сознание врагов магией хаоса, нанося им урон каждый раз, когда они вас атакуют."
             }
           },
           {
@@ -14377,7 +14377,7 @@
             "Desc": {
               "id": "7217160188940977422",
               "eng": "Strike a single target with this hex that becomes more effective with every #emphasis#Disruption#/emphasis# power used on the target beforehand.",
-              "rus": "Заклинание поражает одного противника. Оно становится более эффективным с каждым применением #emphasis#Разрушения#/emphasis#."
+              "rus": "Заклинание поражающее одного противника. Оно становится более эффективным с каждым применением #emphasis#Разрушения#/emphasis#."
             }
           },
           {
@@ -14388,8 +14388,8 @@
             },
             "Desc": {
               "id": "8816906919666124034",
-              "eng": "Prey on the weakest among your enemies and cast a spell that compounds damage to those already afflicted with negative effects. ",
-              "rus": "Поразить самых слабых врагов заклинанием, которое наносит урон страдающим от негативных эффектов."
+              "eng": "Prey on the weakest among your enemies and cast a spell that compounds damage to those already afflicted with negative effects.",
+              "rus": "Поразите самых слабых врагов заклинанием, которое наносит урон уже страдающим от наложенных на них негативных эффектов противникам."
             }
           },
           {
@@ -14401,19 +14401,19 @@
             "Desc": {
               "id": "3516387092752434431",
               "eng": "Cast a spell on your enemies that causes them to mistake friend from foe and battle each other instead of you.",
-              "rus": "Проклясть врагов магией хаоса, чтобы они сражались друг с другом, а не с вами."
+              "rus": "Наложите на врагов заклятие, которое заставляет их путать друга с недругом и сражаться между собой, а не с вами."
             }
           },
           {
             "Name": {
               "id": "9843104237389939978",
               "eng": "No More...",
-              "rus": "Довольно..."
+              "rus": "Больше никаких..."
             },
             "Desc": {
               "id": "14793951668477691189",
-              "eng": "Summon all of your rage and power for a violent display of both, render yourself invincible while you conjure a violent storm of chaos magic that engulfs and damages all nearby enemies, concluding in one massive final shockwave. ",
-              "rus": "Призвав на помощь всю ярость и силу, создать мощную бурю из магии хаоса, обрести неуязвимость и нанести урон всем врагам, оказавшимся в зоне поражения."
+              "eng": "Summon all of your rage and power for a violent display of both, render yourself invincible while you conjure a violent storm of chaos magic that engulfs and damages all nearby enemies, concluding in one massive final shockwave.",
+              "rus": "Призовите все свои гнев и мощь для наглядной демонстрации обеих: в этот момент вы будете неуязвимы и призовёте свирепый шторм магии хаоса, который поглотит и нанесёт урон всем окрущающим врагам, завершив это сильнейшей финальной ударной волной."
             }
           }
         ]
@@ -14429,7 +14429,7 @@
             "Name": {
               "id": "15757283382390424897",
               "eng": "Chaos Magic",
-              "rus": "Хаосная магия"
+              "rus": "Магия хаоса"
             },
             "Desc": {
               "id": "Invalid",
