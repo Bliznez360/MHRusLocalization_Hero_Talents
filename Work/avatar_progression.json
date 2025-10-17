@@ -14474,7 +14474,7 @@
     "Desc": {
       "id": "17103409945008932210",
       "eng": "Melee Tank\nThing battles enemies with his rocky fists while relying on his armored hide to survive the fight.",
-      "rus": "Мощный, как танк,\nСущество бьет врагов своими каменными кулаками, а бронированная шкура позволяет ему выжить в любом бою."
+      "rus": "Мощный, как танк,\nСущество бьет врагов своими каменными кулаками, а бронированная шкура позволяет ему выживать в любом бою."
     },
     "Bio": {
       "id": "6421920167836452201",
@@ -14493,24 +14493,24 @@
             "Name": {
               "id": "12581534553117230387",
               "eng": "Downtown Discus",
-              "rus": "Городской теннис"
+              "rus": "Городской дискобол"
             },
             "Desc": {
               "id": "38636353885373705",
               "eng": "Introduce enemies to cutting-edge big city tourism by bouncing a few souvenirs between them like oversized pinball bumpers.",
-              "rus": "Показать врагам экстремальный спорт, швыряя в них всякие сувениры, словно они - теннисные ракетки."
+              "rus": "Вы знакомите врагов с туризмом в большом мегаполисе, швыряя сувениры, отскакивающие от них как шары в пинтболе."
             }
           },
           {
             "Name": {
               "id": "10387949134125532417",
               "eng": "Hammer Time, Stretch!",
-              "rus": "Поколотим их, Стретч!"
+              "rus": "Поколотим их, Резинка!"
             },
             "Desc": {
               "id": "11453220823063201035",
               "eng": "Call in your old pal Reed Richards, who takes the form of a huge mallet that you wield while spinning through enemy ranks.",
-              "rus": "Вы призываете старого приятеля Рида Ричардса, который принимает форму огромного молота, которым вы прорежаете ряды врагов."
+              "rus": "Вы призываете старого приятеля Рида Ричардса, принимающего форму огромного молота, которым вы прорежаете ряды врагов."
             }
           },
           {
@@ -14522,7 +14522,7 @@
             "Desc": {
               "id": "10855157961507669250",
               "eng": "Get a helping hand from your teammate the Invisible Woman, who wraps you in a defensive force field from within which you roll through any opposition.",
-              "rus": "Невидимая Леди окутывает вас защитным полем, внутри которого вы носитесь, расшвыривая врагов."
+              "rus": "Вы призываете на помощь Женщину-невидимку, которая окружает вас шипастой силовой сферой, внутри которой вы бежите, сметая всех на своём пути."
             }
           },
           {
@@ -14541,12 +14541,12 @@
             "Name": {
               "id": "8906600053149992195",
               "eng": "Quit It, Hothead!",
-              "rus": "Хватит, отчаянная голова!"
+              "rus": "Хватит, горячая голова!"
             },
             "Desc": {
               "id": "11008702750286152968",
               "eng": "Catch an \"assist\" fireball from your teammate the Human Torch, whose heat you can thankfully withstand better than any enemies who happen to be nearby.",
-              "rus": "Принять удар \"дружественного\" огненного шара от Человека-Факела, жар которого вам не причинит особого вреда, а врагам придется несладко."
+              "rus": "Вы принимаете на себя удар \"дружественного\" огненного шара от Человека-Факела, который не причинит вам особого вреда, а вот вашим врагам придется несладко."
             }
           },
           {
@@ -14558,7 +14558,7 @@
             "Desc": {
               "id": "14142690126461207804",
               "eng": "Give enemies a taste of the Big Apple culinary craze by bombarding them with artisanal food carts.",
-              "rus": "Дать врагам ощутить вкус поражения, забросав их тележками с едой."
+              "rus": "Вы знакомите врагов с гастрономическим безумием Большого Яблока, обрушив на них шквал тележек с фермерской едой."
             }
           },
           {
@@ -14577,24 +14577,24 @@
             "Name": {
               "id": "2123999390205216000",
               "eng": "Bronx Beatdown",
-              "rus": "Избиение в Бронксе"
+              "rus": "Разборка в Бронксе"
             },
             "Desc": {
               "id": "3715433095774995714",
               "eng": "Smack enemies upside the head with a random keepsake straight from the boroughs.",
-              "rus": "Врежь врагам случайным хламом из квартальной лавки."
+              "rus": "От души врежьте врагу по башке случайным сувениром прямиком из городских кварталов."
             }
           },
           {
             "Name": {
               "id": "6155489443534669061",
               "eng": "Guess What Time It Is?",
-              "rus": "Угадай, чей час настал?"
+              "rus": "Угадайте, час чего настал?"
             },
             "Desc": {
               "id": "14059765951640241415",
               "eng": "When you plant your fist squarely in your palm and yell that familiar battle cry, these yobbos are going to find out exactly what time it is.",
-              "rus": "Когда вы хлопаете кулаком по ладони и издаете знакомый боевой клич, эти уроды сразу понимают, какое настало время."
+              "rus": "Когда вы хлопаете кулаком по ладони и издаете знакомый боевой клич, эти уроды сразу понимают, что за время настало."
             }
           }
         ]
@@ -14603,7 +14603,7 @@
         "Name": {
           "id": "4696709118680106299",
           "eng": "The Brawler",
-          "rus": "Боец"
+          "rus": "Громила"
         },
         "Powers": [
           {
@@ -14615,7 +14615,7 @@
             "Desc": {
               "id": "17867461975246505278",
               "eng": "Greet suckers with an invigorating application of fist to face with solid chances of being a critical hit.",
-              "rus": "Потрясающее применение контакта кулака с лицом с неплохими шансами на Критический удар."
+              "rus": "Вы отлично умете создавать плотный контакт кулака с лицом противника с неплохими шансами на критический удар."
             }
           },
           {
@@ -14627,7 +14627,7 @@
             "Desc": {
               "id": "11575336102082381119",
               "eng": "Slam the ground with your rocky fists, setting enemies up for further damage with the shockwave.",
-              "rus": "Вы бьете кулаками по земле, нанося врагам дополнительный урон ударной волной."
+              "rus": "Вы бьете кулаками по земле, нанося врагам дополнительный урон возникающей ударной волной."
             }
           },
           {
@@ -14639,7 +14639,7 @@
             "Desc": {
               "id": "17488345684415022346",
               "eng": "Charge forward, knocking down enemies with the force of your impact.",
-              "rus": "Вперед, сокрушите врагов мощью своего натиска."
+              "rus": "Вы несётесь вперед, сокрушая врагов на пути мощью своего натиска."
             }
           },
           {
@@ -14651,19 +14651,19 @@
             "Desc": {
               "id": "18007808484075898118",
               "eng": "Take a flying leap into the fray, knocking down enemies near your landing site.",
-              "rus": "Прыгнуть в гущу боя, сбив с ног врагов близ места приземления."
+              "rus": "Прыгните в саму гущу боя, сбив с ног врагов вокруг места вашего приземления."
             }
           },
           {
             "Name": {
               "id": "10409943227863926026",
               "eng": "Brickyard Headbutt",
-              "rus": "Мощный удар головой"
+              "rus": "Работа головой"
             },
             "Desc": {
               "id": "13727434215641974028",
               "eng": "Smash your rocky forehead into an enemy in front of you, causing internal #emphasis#bleeding#/emphasis# injuries to the cranium.",
-              "rus": "Изо всех сил ударить противника перед собой головой, нанося ему #emphasis#кровоточащие#/emphasis# повреждения."
+              "rus": "Изо всех сил ударьте противника перед собой головой, разбивая ему лицо и нанося #emphasis#кровоточащие#/emphasis# ссадины."
             }
           },
           {
@@ -14687,26 +14687,26 @@
             "Desc": {
               "id": "13468243264434275604",
               "eng": "Caving in enemy skulls with your fists always makes you feel better after a long day of being a pumice punching bag for the team.",
-              "rus": "Если ты целый день работаешь боксерской грушей, так приятно после рабочего дня проломить пару черепов."
+              "rus": "Ничто так не снимает стресс после долгого дня в роли боксерской груши, как возможность самому проломить пару черепов."
             }
           },
           {
             "Name": {
               "id": "2072290260362462527",
               "eng": "Crackin' Wise",
-              "rus": "Умник"
+              "rus": "Колкие намёки"
             },
             "Desc": {
               "id": "12336241106701583621",
               "eng": "There's nothing like a few choice cracks at the expense of your foes to take the edge off and get them riled up enough to fight sloppily.",
-              "rus": "Что может быть лучше, чем пошутить над врагами, чтобы снять напряжение и заставить врагов забыть об осторожности."
+              "rus": "Что может быть лучше, чем как следует подколоть врагов, чтобы снять напряжение и заставить противников забыть о всякой осторожности."
             }
           },
           {
             "Name": {
               "id": "3312100040047461733",
               "eng": "Pulverizing Fury",
-              "rus": "Бешеная ярость"
+              "rus": "Сокрушительная ярость"
             },
             "Desc": {
               "id": "14430440243737658688",
@@ -14739,7 +14739,7 @@
             "Name": {
               "id": "1862067837542139138",
               "eng": "Clobberin' Time",
-              "rus": "Время крушить"
+              "rus": "Время бить морду"
             },
             "Desc": {
               "id": "Invalid",
