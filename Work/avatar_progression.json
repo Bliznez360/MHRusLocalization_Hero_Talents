@@ -15034,12 +15034,12 @@
     "Desc": {
       "id": "7793885670266766706",
       "eng": "Loki uses illusions and sorcery to trick and overwhelm his enemies.",
-      "rus": "Локи побеждает врагов с помощью хитрости и колдовства."
+      "rus": "Локи использует иллюзии и колдовство с помощью которых побеждает своих врагов."
     },
     "Bio": {
       "id": "7914502770137564523",
       "eng": "#emphasis#Real Name:#/emphasis# Loki Laufeyson\n#emphasis#Identity:#/emphasis#  Public\n\nLoki is the Norse god of mischief and evil and the adopted son of Odin All-Father, the ruler of Asgard. He is crafty, clever, and resourceful, using sorcery to achieve his intricate goals.\n\nLoki resents the glory and acclaim given to his adoptive brother, Thor, and he strives to place himself on the throne of Asgard. However, on the rare occasions when his goals overlap with Thor or other heroes, Loki has been known to ally himself with those he would otherwise detest.\n\n#emphasis#Created By:#/emphasis# Don Rico, Stan Lee, Larry Lieber, and Jack Kirby\n#emphasis#First Appearance:#/emphasis# Journey into Mystery #85 (October 1962)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Локи Лауфейсон\n#emphasis#Личность:#/emphasis#  Публичная\n\nЛоки — норвежский бог озорства и зла, усыновленный сын Одина Всевышнего, правителя Асгарда. Он хитрый, умный и находчивый, использующий магию для достижения своих замысловатых целей.\n\nЛоки недоволен славой и признанием, которые получает его приемный брат Тор, и стремится занять трон Асгарда. Однако в редкие моменты, когда его цели пересекаются с Тором или другими героями, Локи известен тем, что объединяется с теми, кого он в противном случае ненавидел бы.\n\n#emphasis#Создан:#/emphasis# Дон Рико, Стан Ли, Ларри Либер и Джек Кирби\n#emphasis#Первое появление:#/emphasis# Путешествие в Тайну #85 (октябрь 1962)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Локи Лауфейсон\n#emphasis#Личность:#/emphasis#  Публичная\n\nЛоки — норвежский бог коварства и зла, усыновленный сын Одина Всевышнего, правителя Асгарда. Он хитрый, умный и находчивый, использующий магию для достижения своих замысловатых целей.\n\nЛоки недоволен славой и признанием, которые получает его приемный брат Тор, и стремится занять трон Асгарда. Однако в редкие моменты, когда его цели пересекаются с Тором или другими героями, Локи известен тем, что объединяется с теми, кого он в противном случае ненавидел бы.\n\n#emphasis#Создан:#/emphasis# Дон Рико, Стан Ли, Ларри Либер и Джек Кирби\n#emphasis#Первое появление:#/emphasis# Путешествие в Тайну #85 (октябрь 1962)\n"
     },
     "PowerTables": [
       {
@@ -15058,7 +15058,7 @@
             "Desc": {
               "id": "5469282733470123332",
               "eng": "Strike enemies with swipes of your staff, creating an illusion to distract the enemy.\nCreating an illusion in this manner can only be performed once every second.",
-              "rus": "Бить врагов взмахами посоха, одновременно создавая иллюзию для отвлечения внимания.\nСоздание подобных иллюзий возможно лишь раз в секунду."
+              "rus": "Ноносите удары по врагу взмахами посоха, одновременно создавая иллюзию для отвлечения внимания.\nСоздание подобных иллюзий возможно лишь раз в секунду."
             }
           },
           {
@@ -15070,7 +15070,7 @@
             "Desc": {
               "id": "7580174359618585922",
               "eng": "Conjure a portal to Hel, unleashing the tormented souls of the dead to seek out and afflict your enemies. ",
-              "rus": "Создайте портал в Ад, выпуская терзаемые души мертвых, чтобы они искали и мучили ваших врагов."
+              "rus": "Создайте портал в Ад, выпуская терзаемые души мертвых, которые будут набрасываться на ваших врагов и заставят их страдать."
             }
           },
           {
@@ -15094,7 +15094,7 @@
             "Desc": {
               "id": "1684913046618506512",
               "eng": "Slice enemies with your legendary sword. Many of your spells imbue Gram's strikes with special properties.",
-              "rus": "Режьте врагов своим легендарным мечом. Многие из ваших заклинаний наделяют удары Грэма особыми свойствами."
+              "rus": "Вы рубите врагов своим легендарным мечом. Многие из ваших заклинаний наделяют удары Грэма особыми свойствами."
             }
           },
           {
@@ -15118,7 +15118,7 @@
             "Desc": {
               "id": "6761819790773323065",
               "eng": "The power of the Aesir erupts from you, regenerating your wounds while #emphasis#stunning#/emphasis# foes with your illuminating brilliance. ",
-              "rus": "Сила Асгардцев излучается из вас, регенерируя ваши раны, в то время как #emphasis#ошеломляет#/emphasis# врагов вашим ослепительным блеском."
+              "rus": "Сила Асгардцев изливается из вас, заживляя ваши раны, и в тоже время #emphasis#ошеломляя#/emphasis# врагов своим ослепительным блеском."
             }
           },
           {
@@ -15142,7 +15142,7 @@
             "Desc": {
               "id": "11729547628634834185",
               "eng": "Focus your godlike powers, strengthening the attacks and fortitude of you and your allies. Your #emphasis#chilling#/emphasis# presence as a god among men brings enemies to a crawl while they wither away.",
-              "rus": "Сфокусировать вашу божественную мощь, придав невиданную силу атакам и стойкости. Враги будут трепетать, замедляясь от #emphasis#охлаждения#/emphasis# до черепашьей скорости."
+              "rus": "Сфокусируйте вашу божественную мощь, придав невиданную силу атакам и увеличив вашу стойкость. Враги будут трепетать, замедляясь от #emphasis#охлаждения#/emphasis# до черепашьей скорости."
             }
           }
         ]
@@ -15163,7 +15163,7 @@
             "Desc": {
               "id": "1446425207871505685",
               "eng": "Distort space itself as you teleport a short distance away, hidden from view.  Teleporting will break you free from crowd control effects, and you are immune to them while stealthed.",
-              "rus": "Исказить само пространство, став невидимым, телепортировавшись на близкое расстояние и оставив вместо себя иллюзию. Телепортация прерывает действие эффектов контроля толпы и дает временную устойчивость к ним.\nСоздание подобных иллюзий возможно лишь раз в 2 секунды."
+              "rus": "Исказите само пространство, став невидимым, телепортировавшись на некоторое расстояние и оставив вместо себя иллюзию. Телепортация прерывает действие эффектов контроля и дает временную устойчивость к ним.\nСоздание подобных иллюзий возможно лишь раз в 2 секунды."
             }
           },
           {
@@ -15175,7 +15175,7 @@
             "Desc": {
               "id": "10102015873995769099",
               "eng": "Propel a bolt of energy from your staff that pierces everything in its path.",
-              "rus": "Выпусти из посоха энергетический заряд, пробивающий всё на своём пути."
+              "rus": "Выпустите из посоха энергетический заряд, пробивающий всё на своём пути."
             }
           },
           {
@@ -15187,7 +15187,7 @@
             "Desc": {
               "id": "13467259059843499320",
               "eng": "Twist your enemy's mind against them, forcing them to fight your foes as they struggle against your control.",
-              "rus": "Обратить сознание противников против них, заставив их сражаться с вашими врагами."
+              "rus": "Обратите кого-либо из противников против своих, заставив их сражаться друг с другом благодаря вашему контролю разума."
             }
           },
           {
@@ -15199,7 +15199,7 @@
             "Desc": {
               "id": "2513794838048408889",
               "eng": "Crush your enemies with a powerful magic surge which is amplified when cast upon enemies suffering negative effects.",
-              "rus": "Повергнуть врагов в прах мощным выбросом магии, который усиливается, если применен к противникам, страдающим от негативных эффектов."
+              "rus": "Повергните врагов в прах мощным выбросом магии, который усиливается, если применен к противникам, страдающим от негативных эффектов."
             }
           },
           {
@@ -15211,7 +15211,7 @@
             "Desc": {
               "id": "4968396693796160781",
               "eng": "Fire a powerful blast from your staff that ricochets from enemy to enemy.",
-              "rus": "Выстрелить из своего жезла мощным зарядом, который отскакивает от противника к противнику, ослабляя их параметры атаки."
+              "rus": "Выстрелите из своего посоха мощным зарядом, который отскакивает от противника к противнику, ослабляя их атаки."
             }
           },
           {
@@ -15223,7 +15223,7 @@
             "Desc": {
               "id": "16660855578402751753",
               "eng": "Create images of yourself, causing them and all other active illusions to dash forward to the target location, striking all enemies in their path.",
-              "rus": "Создать своего двойника. Он и все остальные активные иллюзии побегут к цели, сокрушая всех врагов на своем пути."
+              "rus": "Создайте своего двойника. Он и все остальные активные в это время иллюзии побежит к цели, нападая на всех врагов что окажутся на пути."
             }
           },
           {
@@ -15235,7 +15235,7 @@
             "Desc": {
               "id": "16399403911083853117",
               "eng": "#emphasis#Immobilize#/emphasis# enemies in an area with arcane chains, damaging them over time.",
-              "rus": "#emphasis#Парализовать#/emphasis# противников мистическими цепями, наносящими длительный урон."
+              "rus": "#emphasis#Парализуйте#/emphasis# противников мистическими цепями, наносящими длительный урон."
             }
           },
           {
@@ -15259,7 +15259,7 @@
             "Desc": {
               "id": "13905575307166811408",
               "eng": "Align the mystical Norn Stones to channel your will to dominate, and wither all enemies with a tremendous surge of energy.",
-              "rus": "Выравните мистические Норнские камни, чтобы направить свою волю к доминированию и истощить всех врагов мощным всплеском энергии."
+              "rus": "Объедени мистические Камни Норн, чтобы направить свою волю к доминированию и испепелить всех врагов мощным выбросом энергии."
             }
           }
         ]
@@ -15287,7 +15287,7 @@
             "Name": {
               "id": "5393342106739934525",
               "eng": "Lord of Lies",
-              "rus": "Лорд Лжи"
+              "rus": "Бог обмана"
             },
             "Desc": {
               "id": "Invalid",
@@ -15325,7 +15325,7 @@
     "Bio": {
       "id": "10751514671290975590",
       "eng": "#emphasis#Real Name:#/emphasis#  James Buchanan \"Bucky\" Barnes\n#emphasis#Identity:#/emphasis# Secret\n\nOriginally the teenage sidekick of Captain America, Bucky Barnes was thrust into a life of torture and black ops work after being caught in an explosion caused by Baron Zemo. Post-explosion, Bucky was captured by a secret organization in Russia that used cryogenic freezing and advanced mind-wiping techniques to use him as an assassin whenever he was needed for decades. It was not until battling Captain America face to face (and with the assistance of the Cosmic Cube) that Bucky was able to fight his forced programming and reclaim his position as a hero. He now works with S.H.I.E.L.D. alongside Black Widow, and has even acted as Captain America for a time.\n\n#emphasis#Created By:#/emphasis# Joe Simon and Jack Kirby\n#emphasis#First Appearances:#/emphasis# Captain America Comics #1 (Mar 1941) [as Bucky], Captain America Volume 5 #1 (Jan 2005) [as Winter Soldier]",
-      "rus": "#emphasis#Настоящее имя:#/emphasis#  Джеймс Бьюкенен \"Баки\" Барнс\n#emphasis#Личность:#/emphasis# Секретная\n\nИзначально подростковый помощник Капитана Америки, Баки Барнс был втянут в жизнь пыток и черных операций после того, как попал в взрыв, вызванный Бароном Земо. После взрыва Баки был захвачен секретной организацией в России, которая использовала криогенное замораживание и продвинутые методы стирания памяти, чтобы использовать его в качестве убийцы, когда это было необходимо, на протяжении десятилетий. Лишь сражаясь с Капитаном Америкой лицом к лицу (и с помощью Космического Куба) Баки смог противостоять своей принудительной программе и вернуть себе статус героя. Теперь он работает с ЩИТОМ вместе с Черной Вдовой и даже некоторое время исполнял обязанности Капитана Америки.\n\n#emphasis#Создано:#/emphasis# Джо Симон и Джек Кирби\n#emphasis#Первое появление:#/emphasis# Комиксы Капитана Америки #1 (март 1941) [как Баки], Капитан Америка Том 5 #1 (январь 2005) [как Зимний Солдат]"
+      "rus": "#emphasis#Настоящее имя:#/emphasis#  Джеймс Бьюкенен \"Баки\" Барнс\n#emphasis#Личность:#/emphasis# Секретная\n\nИзначально будучи другом и напарником Капитана Америка, Баки Барнс был обречён на жизнь, полную пыток и секретных операций, после того как пропал после взрыва, устроенного Бароном Земо. После этого Баки был захвачен секретной организацией в России, которая использовала криогенную заморозку и передовые техники стирания памяти, чтобы на протяжении десятилетий использовать его в качестве наёмного убийцы. Только в схватке лицом к лицу с Капитаном Америкой (и с помощью Космического Куба) Баки сумел преодолеть вживлённую программу и вернуть себе статус героя. Теперь он работает на Щ.И.Т. вместе с Чёрной Вдовой и даже на время принимал мантию Капитана Америки.\n\n#emphasis#Создано:#/emphasis# Джо Симон и Джек Кирби\n#emphasis#Первое появление:#/emphasis# Комиксы Капитана Америки #1 (март 1941) [как Баки], Капитан Америка Том 5 #1 (январь 2005) [как Зимний Солдат]"
     },
     "PowerTables": [
       {
@@ -15339,12 +15339,12 @@
             "Name": {
               "id": "4817094895854224648",
               "eng": "Pistol Takedown",
-              "rus": "Победа с пистолетом"
+              "rus": "Выстрел навылет"
             },
             "Desc": {
               "id": "15705104322922546489",
               "eng": "Unload your 9mm pistol into a target in preparation for your next maneuver.",
-              "rus": "Выпустить пули из пистолета, готовясь к следующему действию."
+              "rus": "Выпустите пули из своего 9-мм пистолета, готовясь к следующему действию."
             }
           },
           {
@@ -15356,7 +15356,7 @@
             "Desc": {
               "id": "2719912955696055609",
               "eng": "Hold down the hotkey to draw your rapid-fire sidearm and lay down a deadly hail of bullets.",
-              "rus": "Удерживать горячую клавишу, чтобы достать скорострельное оружие и обрушить на врага град пуль."
+              "rus": "Удерживайте горячую клавишу, чтобы достать скорострельное оружие и обрушить на врага град пуль."
             }
           },
           {
@@ -15368,7 +15368,7 @@
             "Desc": {
               "id": "8453269106984027458",
               "eng": "Hose down an enemy with a concentrated volley of bullets from your Skorpion submachine gun.",
-              "rus": "Поливать врага из пистолета-пулемета \"Скорпион\"."
+              "rus": "Прошейте противников концентрированным градом пуль из вашего пистолета-пулемёта \"Скорпион\"."
             }
           },
           {
@@ -15380,7 +15380,7 @@
             "Desc": {
               "id": "7772517095508411710",
               "eng": "Coolly fire consecutive bursts from your assault rifle to take down any target.",
-              "rus": "Дать несколько очередей из штурмовой винтовки, уничтожая врагов."
+              "rus": "Дайте несколько очередей из штурмовой винтовки, уничтожая выбранную цель."
             }
           },
           {
@@ -15392,7 +15392,7 @@
             "Desc": {
               "id": "5913833761460847876",
               "eng": "Fire a shot from your monstrous .50 caliber sniper rifle to take down any target, at any range.",
-              "rus": "Стрелять из снайперской винтовки.50 калибра, уничтожая любую цель с любого расстояния."
+              "rus": "Выстрелите из снайперской винтовки.50 калибра, уничтожив свою цель с любого расстояния."
             }
           },
           {
@@ -15404,19 +15404,19 @@
             "Desc": {
               "id": "3592116587544380732",
               "eng": "Fire a grenade from your assault rifle to dispatch clusters of enemy targets.",
-              "rus": "Вы стреляете из подствольного гранатомета своего автомата, чтобы уничтожить группу врагов."
+              "rus": "Вы стреляете из подствольного гранатомета винтовки, чтобы уничтожить группу врагов."
             }
           },
           {
             "Name": {
               "id": "10334996705747141959",
               "eng": "Explosive Sabotage",
-              "rus": "Подрыв"
+              "rus": "Взрывной саботаж"
             },
             "Desc": {
               "id": "12985641343037867326",
               "eng": "Silently roll a spherical grenade towards your target, delivering a destructive payload that leaves enemies #emphasis#weakened#/emphasis#.",
-              "rus": "Вы бесшумно катите сферическую гранату к цели. Она взрывается, делая врагов #emphasis#слабыми#/emphasis#."
+              "rus": "Вы бесшумно закатываете сферическую гранату прямо к своей цели. Взорвавшись она #emphasis#ослабляет#/emphasis# врагов попавших в радиус действия."
             }
           },
           {
@@ -15428,7 +15428,7 @@
             "Desc": {
               "id": "4414498010353501508",
               "eng": "Designed to disable armored vehicles, use your modified mine launcher to just as easily dispatch swaths of enemies with a single shot.",
-              "rus": "Этот модифицированный миномет предназначен для борьбы с бронетехникой, однако с его помощью можно также легко уничтожать быстро большие группы врагов."
+              "rus": "Созданная для выведения из строя бронетехники, эта модифицированная миномётная установка позволяет так же легко уничтожать целые группы врагов одним выстрелом."
             }
           }
         ]
@@ -15449,7 +15449,7 @@
             "Desc": {
               "id": "2325949624414373185",
               "eng": "Present your metallic arm as you charge forward, #emphasis#knocking down#/emphasis# enemies in your path.",
-              "rus": "Броситься вперед, выставив локоть бионической руки и #emphasis#сбивая с ног#/emphasis# врагов, которые оказались на пути."
+              "rus": "Бросьтесь вперед, выставив локоть бионической руки и #emphasis#сбивая с ног#/emphasis# врагов, которые оказались на пути."
             }
           },
           {
@@ -15461,7 +15461,7 @@
             "Desc": {
               "id": "9489386106877052172",
               "eng": "Deftly hurl your combat knife deep into the soft tissue of your target.",
-              "rus": "Ловко бросить нож во врага так, чтобы лезвие вонзилось глубоко в тело."
+              "rus": "Ловко метните нож во врага так, чтобы лезвие вонзилось глубоко в тело."
             }
           },
           {
@@ -15485,7 +15485,7 @@
             "Desc": {
               "id": "6016606530650440968",
               "eng": "Use your combat knife to finish off a target with brutal efficiency.",
-              "rus": "Эффективно и безжалостно добить жертву ножом."
+              "rus": "Эффективно и безжалостно добейте свою цель боевым ножом."
             }
           },
           {
@@ -15497,19 +15497,19 @@
             "Desc": {
               "id": "16846429505967752460",
               "eng": "Slam your bionic fist into the ground, damaging enemies from the ensuing shockwave.",
-              "rus": "Впечатайте в землю ваш бионический кулак, и ударная волна поразит ваших врагов."
+              "rus": "Впечатайте в землю ваш бионический кулак, и ударная волна поразит ближайших врагов."
             }
           },
           {
             "Name": {
               "id": "5831573794745156884",
               "eng": "EMP Surge",
-              "rus": "Прилив ЭМ-импулься"
+              "rus": "ЭМИ-импульс"
             },
             "Desc": {
               "id": "9087069970442290454",
               "eng": "Deploy a feature of your new Starktech bionic arm, a devastating directed electromagnetic pulse.",
-              "rus": "Ваша новая бионическая рука от \"СтаркТех\" обладает новой функцией: она может стрелять мощным направленным электромагнитным импульсом."
+              "rus": "Ваша новая бионическая рука от \"СтаркТех\" обладает уникальной функцией: она может создавать мощный направленный электромагнитный импульс."
             }
           },
           {
@@ -15533,7 +15533,7 @@
             "Desc": {
               "id": "16395999762899731726",
               "eng": "Vanish into a cloud of smoke, invisibly pummeling disoriented enemies caught inside. Your allies can more easily dodge attacks while in the smoke as well.",
-              "rus": "Скрыться в облаке дыма, и оттуда наносить сокрушительные удары дезориентированным врагам. Пока в дыму находятся союзники, им легче уклоняться от атак."
+              "rus": "Скройтесь в облаке дыма, и оттуда нанесите сокрушительные удары дезориентированным врагам. Пока в дыму находятся союзники, им легче уклоняться от атак."
             }
           },
           {
@@ -15545,7 +15545,7 @@
             "Desc": {
               "id": "16614955112709948784",
               "eng": "Call in and board an air asset to lay waste to the battlefield from above.",
-              "rus": "Вызвать авиацию, которая уничтожит врагов с воздуха."
+              "rus": "Вызовите воздушную поддержку и поднимитесь на борт, чтобы опустошить поле боя с высоты."
             }
           }
         ]
@@ -15561,7 +15561,7 @@
             "Name": {
               "id": "4778846683138753856",
               "eng": "Stalker",
-              "rus": "Сталкер"
+              "rus": "Охотник"
             },
             "Desc": {
               "id": "Invalid",
