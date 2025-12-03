@@ -21,7 +21,7 @@
   },
   "5": {
     "en_us": "Vicious Cycle",
-    "ru_ru": "Зловещий цикл"
+    "ru_ru": "Порочный круг"
   },
   "6": {
     "en_us": "Reward: Protector's Commendation",
@@ -29,7 +29,7 @@
   },
   "7": {
     "en_us": "Own all of Thor's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Иметь все #purplecard#уникальные предметы#/purplecard# Тора."
+    "ru_ru": "Получите все #purplecard#уникальные предметы#/purplecard# Тора."
   },
   "8": {
     "en_us": "In a #purplecard#solo#/purplecard# run, defeat #purplecard#Doctor Octopus#/purplecard# on #purplecard#Normal Difficulty#/purplecard# or higher.",
@@ -45,7 +45,7 @@
   },
   "11": {
     "en_us": "Medical Malpractice",
-    "ru_ru": "Медицинская халатность"
+    "ru_ru": "Врачебная ошибка"
   },
   "12": {
     "en_us": "Norn Stones",
@@ -53,7 +53,7 @@
   },
   "13": {
     "en_us": "Buri's Estate",
-    "ru_ru": "Имение Бури"
+    "ru_ru": "Поместье Бури"
   },
   "14": {
     "en_us": "Carnage",
@@ -77,7 +77,7 @@
   },
   "19": {
     "en_us": "WARMACHINEROX",
-    "ru_ru": "ВООИТЕЛЬРОКС"
+    "ru_ru": "Воитель ЖЖОТ"
   },
   "20": {
     "en_us": "Reward: Coffer of Achievement",
@@ -93,11 +93,11 @@
   },
   "23": {
     "en_us": "Reward: Pelt of the Sacred White Gorilla",
-    "ru_ru": "Награда: Шкура Святой Белой Гориллы"
+    "ru_ru": "Награда: Шкура священной Белой гориллы"
   },
   "24": {
     "en_us": "Bah Humbug",
-    "ru_ru": "Фу, как противно"
+    "ru_ru": "Тьфу, гадость!"
   },
   "25": {
     "en_us": "Be on a four-hero team with all four available members of the #purplecard#Illuminati#/purplecard# uniquely represented.",
@@ -129,7 +129,7 @@
   },
   "32": {
     "en_us": "Mort's Spring Shoes",
-    "ru_ru": "Весенние туфли Морта"
+    "ru_ru": "Пружинные ботинки Морта"
   },
   "33": {
     "en_us": "Secret A.I.M. Lab",
@@ -149,7 +149,7 @@
   },
   "37": {
     "en_us": "As Green Goblin, defeat #purplecard#Green Goblin#/purplecard# in #purplecard#Story Mode#/purplecard#.",
-    "ru_ru": "В роли Зеленого Гоблина победите #purplecard#Зеленого Гоблина#/purplecard# в #purplecard#режиме истории#/purplecard#."
+    "ru_ru": "Играя за Зеленого Гоблина, победите #purplecard#Зеленого Гоблина#/purplecard# в #purplecard#режиме истории#/purplecard#."
   },
   "38": {
     "en_us": "Blade",
@@ -181,11 +181,11 @@
   },
   "45": {
     "en_us": "Diamond-Tipped Stilettos",
-    "ru_ru": "Туфли с бриллиантовыми шпильками"
+    "ru_ru": "Туфли на алмазных шпильках"
   },
   "46": {
     "en_us": "Lady Deathstrike",
-    "ru_ru": "Леди Десстрайк"
+    "ru_ru": "Леди Смертельный Удар"
   },
   "47": {
     "en_us": "Legend of Midtown",
@@ -201,7 +201,7 @@
   },
   "50": {
     "en_us": "Story Mode",
-    "ru_ru": "Режим истории"
+    "ru_ru": "Кампания"
   },
   "51": {
     "en_us": "Mister Fantastic",
@@ -216,7 +216,7 @@
     "ru_ru": "Адская Кухня"
   },
   "54": {
-    "en_us": "Terminal",
+    "en_us": "Operations",
     "ru_ru": "Терминал"
   },
   "55": {
@@ -241,31 +241,29 @@
   },
   "60": {
     "en_us": "Thanosbustin' Makes Me Feel Good",
-    "ru_ru": "Разрушение Таноса радует меня"
+    "ru_ru": "\"Танособой\" меня радует"
   },
   "61": {
     "en_us": "Reward: 3 Coffers of Achievement",
-    "ru_ru": "Награда: 3 сундука достижений"
+    "ru_ru": "Награда: 3 призовых сундука"
   },
   "62": {
-    "en_us": "As Ghost Rider, defeat 1,000 #purplecard#demons#/purplecard# with the #purplecard#Hellfire Shotgun Unique#/purplecard# equipped, just as you did in human form.",
-    "ru_ru": "В роли Призрачного Гонщика победите 1,000 #purplecard#демонов#/purplecard# с экипированным #purplecard#уникальным дробовиком Адского Огня#/purplecard#, как вы делали в человеческой форме."
   },
   "63": {
     "en_us": "Level 20 Achieved!",
-    "ru_ru": "Достигнут 20 уровень!"
+    "ru_ru": "Уровень 20!"
   },
   "64": {
     "en_us": "My Oldest Enemy",
-    "ru_ru": "Мой старейший враг"
+    "ru_ru": "Мой старый враг"
   },
   "65": {
     "en_us": "As Cable, defeat #purplecard#Lizard#/purplecard# in the #purplecard#Bronx Zoo#/purplecard# 10 times by any means necessary.",
-    "ru_ru": "В роли Кейбла победите #purplecard#Ящера#/purplecard# в #purplecard#Бронксском зоопарке#/purplecard# 10 раз любыми способами."
+    "ru_ru": "Играя за Кейбла, победить #purplecard#Ящера#/purplecard# в #purplecard#зоопарке в Бронксе#/purplecard# 10 раз любыми средствами."
   },
   "66": {
     "en_us": "As Squirrel Girl, defeat #purplecard#Doctor Doom#/purplecard# 3 times.",
-    "ru_ru": "В роли Девушки-Белки победите #purplecard#Доктора Дума#/purplecard# 3 раза."
+    "ru_ru": "Играя за Девушку-белку, победить #purplecard#Доктора Дума#/purplecard# 3 раза."
   },
   "67": {
     "en_us": "Juggernaut",
@@ -277,11 +275,11 @@
   },
   "69": {
     "en_us": "Blob",
-    "ru_ru": "Комок"
+    "ru_ru": "Пузырь"
   },
   "70": {
     "en_us": "Octobad",
-    "ru_ru": "Плохой Октябрь"
+    "ru_ru": "Доктор Осьмизло"
   },
   "71": {
     "en_us": "Fire Guardian",
@@ -305,39 +303,39 @@
   },
   "76": {
     "en_us": "Cosmic Holo-Sim",
-    "ru_ru": "Космическая голографическая симуляция"
+    "ru_ru": "Космический Голо-симулятор"
   },
   "77": {
     "en_us": "Crazy Amount of Drives",
-    "ru_ru": "Безумное количество накопителей"
+    "ru_ru": "Безумное число дисков"
   },
   "78": {
     "en_us": "Armorer",
-    "ru_ru": "Кузнец"
+    "ru_ru": "Оружейник"
   },
   "79": {
     "en_us": "Go Ahead, Make My Day",
-    "ru_ru": "Давай, сделай мой день"
+    "ru_ru": "Давай, порадуй меня"
   },
   "80": {
     "en_us": "All New X-Men Bodysuit",
-    "ru_ru": "Костюм всех новых Людей Икс"
+    "ru_ru": "Костюм \"Новые Люди Икс\""
   },
   "81": {
     "en_us": "Own all of Daredevil's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Иметь все #purplecard#уникальные предметы#/purplecard# Сорвиголовы."
+    "ru_ru": "Получите все #purplecard#уникальные предметы#/purplecard# Сорвиголовы."
   },
   "82": {
     "en_us": "Defeat 2,005 #purplecard#Mutates#/purplecard# as Scarlet Witch.",
-    "ru_ru": "В роли Алая Ведьма победите 2,005 #purplecard#мутации#/purplecard#."
+    "ru_ru": "Играя за Алую Ведьму, победить 2 005 #purplecard#мутантов#/purplecard#."
   },
   "83": {
     "en_us": "Guardian Angel",
-    "ru_ru": "Ангел-Хранитель"
+    "ru_ru": "Ангел-хранитель"
   },
   "84": {
     "en_us": "Defeat #purplecard#2,500 holographic supervillains#/purplecard# in the #purplecard#S.H.I.E.L.D. Holo-Sim#/purplecard#.",
-    "ru_ru": "Победите #purplecard#2,500 голографических суперзлодеев#/purplecard# в #purplecard#голографической симуляции Щ.И.Т.#/purplecard#."
+    "ru_ru": "Победить #purplecard#2 500 голографических суперзлодеев#/purplecard# в #purplecard#\"Голо-симуляторе ЩИТа\"#/purplecard#."
   },
   "85": {
     "en_us": "Fire",
@@ -345,7 +343,7 @@
   },
   "86": {
     "en_us": "Nothing's Shocking",
-    "ru_ru": "Ничто не шокирует"
+    "ru_ru": "Ничего шокирующего"
   },
   "87": {
     "en_us": "Mandarin Medallion",
@@ -385,7 +383,7 @@
   },
   "96": {
     "en_us": "The Warlock's Eye (80)",
-    "ru_ru": "Глаз Волшебника (80)"
+    "ru_ru": "Глаз Уорлока (80)"
   },
   "97": {
     "en_us": "Pot of Gold of Cassidy Keep",
@@ -393,19 +391,19 @@
   },
   "98": {
     "en_us": "As Venom, defeat 333 #purplecard#Symbiote Victims#/purplecard# in #purplecard#Industry City Patrol#/purplecard# using your #purplecard#Symbiotic Spikes#/purplecard# as the finishing blow.",
-    "ru_ru": "В роли Венома победите 333 #purplecard#жертвы симбиота#/purplecard# в #purplecard#Патруле Промышленного района#/purplecard#, используя #purplecard#Симбиотические шипы#/purplecard# для завершающего удара."
+    "ru_ru": "Играя за Венома, победить 333 #purplecard#жертвы симбионтов#/purplecard# в #purplecard#\"Патруле в Промышленном районе\"#/purplecard# с помощью #purplecard#\"Шипов симбионта\"#/purplecard# в качестве добивающего удара."
   },
   "99": {
     "en_us": "As Loki, defeat #purplecard#Doctor Doom#/purplecard# in #purplecard#Story Mode#/purplecard# within #purplecard#180 seconds#/purplecard# of entering his #purplecard#Throne Room#/purplecard#. You must be solo for the entire fight.",
-    "ru_ru": "В роли Локи победите #purplecard#Доктора Дума#/purplecard# в #purplecard#режиме истории#/purplecard# за #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный зал#/purplecard#. Вся битва должна проходить в соло."
+    "ru_ru": "Играя за Локи, победить #purplecard#Доктора Дума#/purplecard# в #purplecard#сюжетном режиме#/purplecard# за #purplecard#180 секунд#/purplecard# после входа в его #purplecard#тронный зал#/purplecard#. Вы должны присутствовать в течение всего боя."
   },
   "100": {
     "en_us": "Own all of Iron Man's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Иметь все #purplecard#уникальные предметы#/purplecard# Железного Человека."
+    "ru_ru": "Получите все #purplecard#уникальные предметы#/purplecard# Железного Человека."
   },
   "101": {
     "en_us": "Reaver Knockabouts",
-    "ru_ru": "Расхитители в беспорядке"
+    "ru_ru": "Побоище Расхитителей"
   },
   "102": {
     "en_us": "The Tendrils of Limbo",
@@ -413,11 +411,11 @@
   },
   "103": {
     "en_us": "Complete #purplecard#Wave 40#/purplecard# in #purplecard#X-Defense#/purplecard#.",
-    "ru_ru": "Пройдите #purplecard#Волну 40#/purplecard# в #purplecard#X-Обороне#/purplecard#."
+    "ru_ru": "Пройдите #purplecard#Волну 40#/purplecard# в #purplecard#Защите Икс#/purplecard#."
   },
   "104": {
     "en_us": "Cinder",
-    "ru_ru": "Пепел"
+    "ru_ru": "Зола"
   },
   "105": {
     "en_us": "Industry City Patrol",
@@ -425,7 +423,7 @@
   },
   "106": {
     "en_us": "Lady Deathstrike Medallion",
-    "ru_ru": "Медальон Леди Десстрайк"
+    "ru_ru": "Медальон Леди Смертельный Удар"
   },
   "107": {
     "en_us": "Hawkeye",
@@ -449,7 +447,7 @@
   },
   "112": {
     "en_us": "Holo-Sim",
-    "ru_ru": "Голографическая симуляция"
+    "ru_ru": "Голо-симулятор"
   },
   "113": {
     "en_us": "Juggernaut vs Doctor Doom",
@@ -457,15 +455,15 @@
   },
   "114": {
     "en_us": "Like A Rolling Stone",
-    "ru_ru": "Как катящийся камень"
+    "ru_ru": "Как Перекати-Поле"
   },
   "115": {
     "en_us": "As Black Panther, defeat #purplecard#Doctor Doom#/purplecard# in #purplecard#Story Mode#/purplecard# within #purplecard#180 seconds#/purplecard# of entering his #purplecard#Throne Room#/purplecard#. You must be solo for the entire fight.",
-    "ru_ru": "В роли Черной Пантеры победите #purplecard#Доктора Дума#/purplecard# в #purplecard#режиме истории#/purplecard# за #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный зал#/purplecard#. Вся битва должна проходить в соло."
+    "ru_ru": "Играя за Черную Пантеру, победить #purplecard#Доктора Дума#/purplecard# в #purplecard#сюжетном режиме#/purplecard# за #purplecard#180 секунд#/purplecard# после входа в его #purplecard#тронный зал#/purplecard#. Вы должны присутствовать в течение всего боя."
   },
   "116": {
     "en_us": "Distinguished Service",
-    "ru_ru": "За выдающуюся службу"
+    "ru_ru": "Особые заслуги"
   },
   "117": {
     "en_us": "Battle Axe",
@@ -477,7 +475,7 @@
   },
   "119": {
     "en_us": "End the Incineration",
-    "ru_ru": "Положить конец сожжению"
+    "ru_ru": "Конец поджогам"
   },
   "120": {
     "en_us": "Hightown Handled",
@@ -497,7 +495,7 @@
   },
   "124": {
     "en_us": "As War Machine, use your #purplecard#Sidekick#/purplecard# Ultimate Power 20 times.",
-    "ru_ru": "В роли Воителя используйте свою #purplecard#Коронную способность Напарника#/purplecard# 20 раз."
+    "ru_ru": "Играя за Воителя, 20 раз использовать ультимативную способность #purplecard#Напарник#/purplecard#."
   },
   "125": {
     "en_us": "Events",
@@ -505,7 +503,7 @@
   },
   "126": {
     "en_us": "Interact with #purplecard#Forge#/purplecard# and get his bionic leg. Trust me, it's important.",
-    "ru_ru": "Взаимодействуйте с #purplecard#Кузнецом#/purplecard# и получите его бионическую ногу. Поверьте, это важно."
+    "ru_ru": "Взаимодействуйте с #purplecard#Кузнецом#/purplecard# и получите его бионическую ногу. Верь мне, это важно."
   },
   "127": {
     "en_us": "Norway/Asgard",
@@ -513,7 +511,7 @@
   },
   "128": {
     "en_us": "Whoever Holds This Hammer",
-    "ru_ru": "Кто держит этот молот"
+    "ru_ru": "Кто поднимет этот Молот"
   },
   "129": {
     "en_us": "Let's Do This, Slim",
@@ -521,15 +519,15 @@
   },
   "130": {
     "en_us": "Own all of Invisible Woman's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Иметь все #purplecard#уникальные предметы#/purplecard# Невидимой Леди."
+    "ru_ru": "Получите все #purplecard#уникальные предметы#/purplecard# Невидимой Леди."
   },
   "131": {
     "en_us": "Alien Justice",
-    "ru_ru": "Чужая справедливость"
+    "ru_ru": "Инопланетное правосудие"
   },
   "132": {
     "en_us": "Helm of the Skyfather",
-    "ru_ru": "Шлем Отца Небес"
+    "ru_ru": "Шлем Небесного отца"
   },
   "133": {
     "en_us": "In a #purplecard#solo#/purplecard# run, defeat #purplecard#Kingpin#/purplecard# on #purplecard#Normal Difficulty#/purplecard# or higher.",
@@ -569,11 +567,11 @@
   },
   "142": {
     "en_us": "As War Machine, defeat #purplecard#Doctor Doom#/purplecard# in #purplecard#Story Mode#/purplecard# within #purplecard#180 seconds#/purplecard# of entering his #purplecard#Throne Room#/purplecard#. You must be solo for the entire fight.",
-    "ru_ru": "В роли Воителя победите #purplecard#Доктора Дума#/purplecard# в #purplecard#режиме истории#/purplecard# за #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный зал#/purplecard#. Вся битва должна проходить в соло."
+    "ru_ru": "Играя за Воителя, победить #purplecard#Доктора Дума#/purplecard# в #purplecard#сюжетном режиме#/purplecard# за #purplecard#180 секунд#/purplecard# после входа в его #purplecard#тронный зал#/purplecard#. Вы должны присутствовать в течение всего боя."
   },
   "143": {
     "en_us": "Fear the Beard",
-    "ru_ru": "Бойтесь бороды"
+    "ru_ru": "Бойся Бороды"
   },
   "144": {
     "en_us": "Punisher vs. Doctor Doom",
@@ -581,7 +579,7 @@
   },
   "145": {
     "en_us": "Reward: Random Costume Box",
-    "ru_ru": "Награда: Случайный короб костюмов"
+    "ru_ru": "Награда: Ящик со случайным костюмом"
   },
   "146": {
     "en_us": "Reward: The Dust of Death",
@@ -589,7 +587,7 @@
   },
   "147": {
     "en_us": "Significant Roster",
-    "ru_ru": "Значительный состав"
+    "ru_ru": "Значимый список"
   },
   "148": {
     "en_us": "Be on a team with both #purplecard#Storm#/purplecard# and #purplecard#Black Panther#/purplecard#.",
@@ -597,7 +595,7 @@
   },
   "149": {
     "en_us": "Can't Cage Me",
-    "ru_ru": "Не поймай меня"
+    "ru_ru": "В клетку меня не запрешь"
   },
   "150": {
     "en_us": "Fuzzy Blue Elf",
@@ -605,7 +603,7 @@
   },
   "151": {
     "en_us": "Not My Employees",
-    "ru_ru": "Не мои сотрудники"
+    "ru_ru": "Только не мои работники"
   },
   "152": {
     "en_us": "Defeat #purplecard#Juggernaut#/purplecard# and open all of his possible #purplecard#Bounty Chests#/purplecard#.",
@@ -621,15 +619,15 @@
   },
   "155": {
     "en_us": "Destabilized",
-    "ru_ru": "Дестабилизирован"
+    "ru_ru": "Дестабилизация"
   },
   "156": {
     "en_us": "Melanie's Magical Soccer Boots",
-    "ru_ru": "Волшебные футбольные бутсы Мелани"
+    "ru_ru": "Магические бутсы Мелани"
   },
   "157": {
     "en_us": "Ranksacked Office",
-    "ru_ru": "Разграбленный офис"
+    "ru_ru": "Захваченный офис"
   },
   "158": {
     "en_us": "Defeat Green Goblin in the Prologue.",
@@ -641,11 +639,11 @@
   },
   "160": {
     "en_us": "As Scarlet Witch, defeat #purplecard#Ultron#/purplecard# 5 times with #purplecard#Quicksilver#/purplecard# summoned as a Team-Up.",
-    "ru_ru": "В роли Алой Ведьмы победите #purplecard#Ультрона#/purplecard# 5 раз с #purplecard#Квинсильвером#/purplecard# призванным как Напарник."
+    "ru_ru": "Играя за Алую Ведьму, 5 раз победить #purplecard#Альтрона#/purplecard# вместе с напарником #purplecard#Ртутью#/purplecard#."
   },
   "161": {
     "en_us": "As Doctor Doom, defeat #purplecard#Doctor Doom#/purplecard# in #purplecard#Story Mode#/purplecard# within #purplecard#180 seconds#/purplecard# of entering his #purplecard#Throne Room#/purplecard#. You must be solo for the entire fight.",
-    "ru_ru": "В роли Доктора Дума победите #purplecard#Доктора Дума#/purplecard# в #purplecard#режиме истории#/purplecard# за #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный зал#/purplecard#. Вся битва должна проходить в соло."
+    "ru_ru": "Играя за Доктора Дума, победить #purplecard#Доктора Дума#/purplecard# в #purplecard#сюжетном режиме#/purplecard# за #purplecard#180 секунд#/purplecard# после входа в его #purplecard#тронный зал#/purplecard#. Вы должны присутствовать в течение всего боя."
   },
   "162": {
     "en_us": "Vision vs Doctor Doom",
@@ -657,11 +655,11 @@
   },
   "164": {
     "en_us": "Time Traveler's Uniform",
-    "ru_ru": "Костюм путешественника во времени"
+    "ru_ru": "Мундир странника во времени"
   },
   "165": {
     "en_us": "As Colossus, defeat #purplecard#Doctor Doom#/purplecard# in #purplecard#Story Mode#/purplecard# within #purplecard#180 seconds#/purplecard# of entering his #purplecard#Throne Room#/purplecard#. You must be solo for the entire fight.",
-    "ru_ru": "В роли Колосса победите #purplecard#Доктора Дума#/purplecard# в #purplecard#режиме истории#/purplecard# за #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный зал#/purplecard#. Вся битва должна проходить в соло."
+    "ru_ru": "Играя за Колосса, победить #purplecard#Доктора Дума#/purplecard# в #purplecard#сюжетном режиме#/purplecard# за #purplecard#180 секунд#/purplecard# после входа в его #purplecard#тронный зал#/purplecard#. Вы должны присутствовать в течение всего боя."
   },
   "166": {
     "en_us": "Dark X-Men Jacket",
@@ -681,15 +679,15 @@
   },
   "170": {
     "en_us": "X-Defense",
-    "ru_ru": "X-Оборона"
+    "ru_ru": "Защита Икс"
   },
   "171": {
     "en_us": "Hellfire Ammunition",
-    "ru_ru": "Боеприпасы Адского Огня"
+    "ru_ru": "Боеприпасы Адского Пламени"
   },
   "172": {
     "en_us": "Avengers Tower Visitor Pass",
-    "ru_ru": "Пропуск посетителя Башни Мстителей"
+    "ru_ru": "Пропуск в Башню Мстителей"
   },
   "173": {
     "en_us": "Mighty Avenger",
@@ -709,7 +707,7 @@
   },
   "177": {
     "en_us": "As Vision, use his #purplecard#Terminal Velocity#/purplecard# Ultimate Power 20 times.",
-    "ru_ru": "В роли Вижна используйте его #purplecard#Коронную способность Скорость Терминала#/purplecard# 20 раз."
+    "ru_ru": "Играя за Вижна, 20 раз использовать ультимативную способность #purplecard#Предельная скорость#/purplecard#."
   },
   "178": {
     "en_us": "Accomplished Rocket Raccoon",
@@ -725,7 +723,7 @@
   },
   "181": {
     "en_us": "As Captain America, use the #purplecard#Avengers Assemble!#/purplecard# Ultimate Power 20 times to bring together Earth's Mightiest Heroes.",
-    "ru_ru": "В роли Капитана Америки используйте #purplecard#Коронную способность «Сбор Мстителей»#/purplecard# 20 раз, чтобы собрать Могучих Героев Земли."
+    "ru_ru": "Играя за Капитана Америку, 20 раз применить ультимативную способность #purplecard#Мстители, общий сбор!#/purplecard#, чтобы объединить самых могучих героев Земли."
   },
   "182": {
     "en_us": "Black Cat's Grappling Hook",
@@ -733,7 +731,7 @@
   },
   "183": {
     "en_us": "The Dark World",
-    "ru_ru": "Темный мир"
+    "ru_ru": "Мир тьмы"
   },
   "184": {
     "en_us": "X-Cutioner's Song",
@@ -741,7 +739,7 @@
   },
   "185": {
     "en_us": "Taskmaster",
-    "ru_ru": "Мастер Задач"
+    "ru_ru": "Таскмастер"
   },
   "186": {
     "en_us": "Reach influence #purplecard#level 5#/purplecard# with the #purplecard#Iron Man Liason#/purplecard#.",
@@ -757,7 +755,7 @@
   },
   "189": {
     "en_us": "Secret Avenger",
-    "ru_ru": "Секретный Мститель"
+    "ru_ru": "Тайный Мститель"
   },
   "190": {
     "en_us": "Hammerhead Gang",
@@ -769,15 +767,15 @@
   },
   "192": {
     "en_us": "X-23 vs Doctor Doom",
-    "ru_ru": "X-23 против Доктора Дума"
+    "ru_ru": "Икс-23 против Доктора Дума"
   },
   "193": {
     "en_us": "\"I'm Not Daredevil\" Sweater",
-    "ru_ru": "Свитер «Я не Сорвиголова»"
+    "ru_ru": "Свитер \"Я не Сорвиголова\""
   },
   "194": {
     "en_us": "Right in the Joules!",
-    "ru_ru": "Прямо в джоули!"
+    "ru_ru": "Прямо по джоулям!"
   },
   "195": {
     "en_us": "Captain America Vs. Red Skull",
@@ -785,7 +783,7 @@
   },
   "196": {
     "en_us": "Defeat #purplecard#10,000 holographic supervillains#/purplecard# in the #purplecard#S.H.I.E.L.D. Holo-Sim#/purplecard#.",
-    "ru_ru": "Победите #purplecard#10,000 голографических суперзлодеев#/purplecard# в #purplecard#голографической симуляции Щ.И.Т.#/purplecard#."
+    "ru_ru": "Победить #purplecard#10 000 голографических суперзлодеев#/purplecard# в #purplecard#\"Голо-симуляторе ЩИТа\"#/purplecard#."
   },
   "197": {
     "en_us": "Surtur",
@@ -841,7 +839,7 @@
   },
   "210": {
     "en_us": "Defeat #purplecard#Lord Brimstone#/purplecard# and #purplecard#Lady Hellfire#/purplecard# within #purplecard#15 seconds#/purplecard# of each other in the #purplecard#Muspelheim Raid#/purplecard#.",
-    "ru_ru": "Победите #purplecard#Лорда Бримстоуна#/purplecard# и #purplecard#Леди Хеллфаер#/purplecard# за #purplecard#15 секунд#/purplecard# друг от друга в рейде #purplecard#Муспельхейм#/purplecard#."
+    "ru_ru": "Победить #purplecard#Лорда Серу#/purplecard# и #purplecard#Леди Адское Пламя#/purplecard# #purplecard#с интервалом не более 15 секунд#/purplecard# в ходе #purplecard#рейда на Муспельхейм#/purplecard#."
   },
   "211": {
     "en_us": "Crimefighter",
@@ -877,11 +875,11 @@
   },
   "219": {
     "en_us": "Fire Giant's Sword",
-    "ru_ru": "Меч Огненного Великана"
+    "ru_ru": "Меч огненного гиганта"
   },
   "220": {
     "en_us": "S.H.I.E.LD. Science Station",
-    "ru_ru": "Научная станция Щ.И.Т."
+    "ru_ru": "Научная станция ЩИТа"
   },
   "221": {
     "en_us": "Ready, A.I.M., Fire!",
@@ -889,11 +887,11 @@
   },
   "222": {
     "en_us": "As Juggernaut, reach #purplecard#level 60#/purplecard#.",
-    "ru_ru": "В роли Джаггернаута достигните #purplecard#уровня 60#/purplecard#."
+    "ru_ru": "Играя за Джаггернаута, достигнуть #purplecard#уровня 60#/purplecard#."
   },
   "223": {
     "en_us": "As Black Widow, defeat #purplecard#Grim Reaper#/purplecard# 10 times in any zone. Maybe that will keep him and his obsession with death down for good.",
-    "ru_ru": "В роли Черной Вдовы победите #purplecard#Жнеца#/purplecard# 10 раз в любой зоне. Возможно, это окончательно остановит его и его одержимость смертью."
+    "ru_ru": "Играя за Черную Вдову, 10 раз победить #purplecard#Мрачного Жнеца#/purplecard# в любой зоне. Может, это сдержит его и его увлечение смертью."
   },
   "224": {
     "en_us": "Resonator",
@@ -909,11 +907,11 @@
   },
   "227": {
     "en_us": "Secret Cow Level",
-    "ru_ru": "Секретный уровень с коровой"
+    "ru_ru": "Секретный коровий уровень"
   },
   "228": {
     "en_us": "Metal Gear",
-    "ru_ru": "Металлическая Механика"
+    "ru_ru": "Метал Гир"
   },
   "229": {
     "en_us": "The Kid with the Glowing Fist",
@@ -925,7 +923,7 @@
   },
   "231": {
     "en_us": "Own all of Angela's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Иметь все #purplecard#уникальные предметы#/purplecard# Ангелы."
+    "ru_ru": "Получите все #purplecard#уникальные предметы#/purplecard# Анджелы."
   },
   "232": {
     "en_us": "Power Cost Reduced",
@@ -933,11 +931,11 @@
   },
   "233": {
     "en_us": "Find the brewmaster's hideout in #purplecard#Latveria#/purplecard# (not to be confused with Narnia).",
-    "ru_ru": "Найдите укрытие пивовара в #purplecard#Латверии#/purplecard# (не путать с Нарнией)."
+    "ru_ru": "Найти тайник пивовара в #purplecard#Латверии#/purplecard# (не путать с Нарнией)."
   },
   "234": {
     "en_us": "As Thor, show your enemies why you are truly a God of Thunder by defeating 1,962 enemies using #purplecard#Energy powers#/purplecard# as the finishing blow.",
-    "ru_ru": "В роли Тора покажите врагам, что вы настоящий Бог Грома, победив 1,962 врагов, используя #purplecard#энергетические способности#/purplecard# в качестве завершающего удара."
+    "ru_ru": "Играя за Тора, показать противнику, что вы действительно бог грома, уничтожив 1 962 врага с помощью #purplecard#энергетических способностей#/purplecard# в качестве добивающего удара."
   },
   "235": {
     "en_us": "Nightcrawler",
@@ -945,11 +943,11 @@
   },
   "236": {
     "en_us": "Malice's Cape",
-    "ru_ru": "Плащ Мэлис"
+    "ru_ru": "Накидка Злобы"
   },
   "237": {
     "en_us": "Own all of Nova's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Иметь все #purplecard#уникальные предметы#/purplecard# Новы."
+    "ru_ru": "Получите все #purplecard#уникальные предметы#/purplecard# Новы."
   },
   "238": {
     "en_us": "As Thor, summon the Throg pet and defeat 500 Frost Giants.",
@@ -969,7 +967,7 @@
   },
   "242": {
     "en_us": "Burnt Out",
-    "ru_ru": "Выжатый"
+    "ru_ru": "Выгорание"
   },
   "243": {
     "en_us": "Accomplished Daredevil",
