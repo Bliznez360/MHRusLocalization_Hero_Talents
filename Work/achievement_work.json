@@ -65,7 +65,7 @@
   },
   "16": {
     "en_us": "Reward: 2 Coffers of Achievement",
-    "ru_ru": "Награда: 2 сундука достижений"
+    "ru_ru": "Награда: 2 Ларца за достижение"
   },
   "17": {
     "en_us": "Defeat #purplecard#Black Cat#/purplecard# 500 times in #purplecard#Midtown#/purplecard#.",
@@ -81,7 +81,7 @@
   },
   "20": {
     "en_us": "Reward: Coffer of Achievement",
-    "ru_ru": "Награда: Сундук достижений"
+    "ru_ru": "Награда: Ларец за достижение"
   },
   "21": {
     "en_us": "Captain Marvel vs. Doctor Doom",
@@ -165,7 +165,7 @@
   },
   "41": {
     "en_us": "Reward: 7 Coffers of Achievement",
-    "ru_ru": "Награда: 7 сундуков достижений"
+    "ru_ru": "Награда: 7 Ларцов за достижение"
   },
   "42": {
     "en_us": "Punisher",
@@ -245,7 +245,7 @@
   },
   "61": {
     "en_us": "Reward: 3 Coffers of Achievement",
-    "ru_ru": "Награда: 3 призовых сундука"
+    "ru_ru": "Награда: 3 Ларца за достижение"
   },
   "62": {
   },
@@ -471,7 +471,7 @@
   },
   "118": {
     "en_us": "Savage Axe of Ares",
-    "ru_ru": "Дикий топор Ареса"
+    "ru_ru": "Свирепая секира Ареса"
   },
   "119": {
     "en_us": "End the Incineration",
@@ -815,7 +815,7 @@
   },
   "204": {
     "en_us": "Savage Axe of Ares (80)",
-    "ru_ru": "Дикий топор Ареса (80)"
+    "ru_ru": "Свирепая секира Ареса (80)"
   },
   "205": {
     "en_us": "Twilight",
@@ -1435,7 +1435,7 @@
   },
   "359": {
     "en_us": "Target Acquired: Madame Hydra",
-    "ru_ru": "Цель получена: Мадам Гидра"
+    "ru_ru": "Цель захвачена: Мадам Гидра"
   },
   "360": {
     "en_us": "Groot Samaritan",
@@ -1663,7 +1663,7 @@
   },
   "416": {
     "en_us": "Reward: 8 Coffers of Achievement",
-    "ru_ru": "Награда: 8 Сундуков с достижениями"
+    "ru_ru": "Награда: 8 Ларцов за достижение"
   },
   "417": {
     "en_us": "Bonebreaker",
@@ -1691,7 +1691,7 @@
   },
   "423": {
     "en_us": "Title Unlocked: Master of Muspelheim",
-    "ru_ru": "Титул разблокирован: Мастер Муспельхейма"
+    "ru_ru": "Титул разблокирован: Владыка Муспельхейма"
   },
   "424": {
     "en_us": "Pyro Medallion",
@@ -1859,7 +1859,7 @@
   },
   "465": {
     "en_us": "Reward: 5 Coffers of Achievement",
-    "ru_ru": "Награда: 5 Сундуков с достижениями"
+    "ru_ru": "Награда: 5 Ларцов за достижение"
   },
   "466": {
     "en_us": "Defeat #purplecard#Kraven#/purplecard# 80 times in the #purplecard#Bronx Zoo One-Shot#/purplecard#.",
@@ -1875,15 +1875,15 @@
   },
   "469": {
     "en_us": "Luke's Badass Boots",
-    "ru_ru": "Крутые ботинки Люка"
+    "ru_ru": "Зашибательские сапоги Люка"
   },
   "470": {
     "en_us": "As Nightcrawler, defeat 777 foes using his #purplecard#Swashbuckler Slash#/purplecard# or #purplecard#Bleed#/purplecard# from any sword attack as the finishing blow. Avast ye, matey.",
-    "ru_ru": "Играя за Ночного Змея, победите 777 врагов, используя его #purplecard#удар фехтовальщика#/purplecard# или #purplecard#Кровотечение#/purplecard# с любого удара мечом как завершающий. Аванс, товарищ!"
+    "ru_ru": "Играя за Ночного Змея, победить 777 врагов, используя #purplecard#Удар дуэлянта#/purplecard# или #purplecard#кровотечение#/purplecard#, вызванное любым ударом меча, в качестве добивающего удара. Полундра, приятель!"
   },
   "471": {
     "en_us": "You Ain't Got Nuthin' on Yancy Street!",
-    "ru_ru": "На улице Янси тебе ничего не светит!"
+    "ru_ru": "На Янси-стрит тебе ничего не светит!"
   },
   "472": {
     "en_us": "Defeat #purplecard#Mister Sinister#/purplecard# and open all of his possible #purplecard#Bounty Chests#/purplecard#.",
@@ -1895,7 +1895,7 @@
   },
   "474": {
     "en_us": "Target Acquired: Taskmaster",
-    "ru_ru": "Цель захвачена: Мастер Задач"
+    "ru_ru": "Цель захвачена: Таскмастер"
   },
   "475": {
     "en_us": "Cerebro Remote Interface",
@@ -1903,7 +1903,7 @@
   },
   "476": {
     "en_us": "Explore Fort Stryker",
-    "ru_ru": "Исследуйте Форт Страйкер"
+    "ru_ru": "Исследуйте форт Страйкера"
   },
   "477": {
     "en_us": "Press Plunderage",
@@ -1919,7 +1919,7 @@
   },
   "480": {
     "en_us": "Own all of Green Goblin's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Владейте всеми #purplecard#уникальными предметами#/purplecard# Зеленого Гоблина."
+    "ru_ru": "Получите все #purplecard#уникальные предметы#/purplecard# Зеленого Гоблина."
   },
   "481": {
     "en_us": "Uncommon",
@@ -1939,11 +1939,11 @@
   },
   "485": {
     "en_us": "Reward: Maximum Industry City Badge",
-    "ru_ru": "Награда: Значок максимума Промышленного района"
+    "ru_ru": "Награда: Максимальный значок патруля Промышленного района"
   },
   "486": {
     "en_us": "Reward: Nisanti Boots",
-    "ru_ru": "Награда: Боты Нисанти"
+    "ru_ru": "Награда: Сапоги Нисанти"
   },
   "487": {
     "en_us": "Omega-Level",
@@ -1971,7 +1971,7 @@
   },
   "493": {
     "en_us": "God of Thunder's Vigorous Belt",
-    "ru_ru": "Энергичный пояс Бога Грома"
+    "ru_ru": "Могучий пояс Бога Грома"
   },
   "494": {
     "en_us": "Explore Hell's Kitchen",
@@ -1979,7 +1979,7 @@
   },
   "495": {
     "en_us": "Own all of Carnage's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Владейте всеми #purplecard#уникальными предметами#/purplecard# Карнажа."
+    "ru_ru": "Получите все #purplecard#уникальные предметы#/purplecard# Карнажа."
   },
   "496": {
     "en_us": "Reward: Specific Challenge Bonus Token",
@@ -1995,7 +1995,7 @@
   },
   "499": {
     "en_us": "Shadowcat",
-    "ru_ru": "Тенекошка"
+    "ru_ru": "Призрачная Кошка"
   },
   "500": {
     "en_us": "Scarlet Witch",
@@ -2011,7 +2011,7 @@
   },
   "503": {
     "en_us": "Boondockers",
-    "ru_ru": "Бундокеры"
+    "ru_ru": "Берцы"
   },
   "504": {
     "en_us": "Lizard",
@@ -2063,7 +2063,7 @@
   },
   "516": {
     "en_us": "As Star-Lord, defeat 1,976 enemies using #purplecard#Starship powers#/purplecard# as the finishing blow.",
-    "ru_ru": "Играя за Стража Галактики, победите 1,976 врагов, используя #purplecard#способности звездного корабля#/purplecard# как завершающий удар."
+    "ru_ru": "Играя за Звездного Лорда, победить 1 976 врагов, используя #purplecard#звездолетные способности#/purplecard# для добивающего удара."
   },
   "517": {
     "en_us": "Kraven",
@@ -2103,7 +2103,7 @@
   },
   "526": {
     "en_us": "Own all of Iron Fist's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Владейте всеми #purplecard#уникальными предметами#/purplecard# Железного Кулака."
+    "ru_ru": "Получите все #purplecard#уникальные предметы#/purplecard# Железного Человека."
   },
   "527": {
     "en_us": "Defeat the following supervillains in the final area of the #purplecard#A.I.M. Weapon Facility Danger Room#/purplecard# scenario.",
@@ -2111,23 +2111,23 @@
   },
   "528": {
     "en_us": "Herald vs. Hunter",
-    "ru_ru": "Глашатай против Охотника"
+    "ru_ru": "Вестник против Охотника"
   },
   "529": {
     "en_us": "As Emma Frost, defeat 1,500 enemies in #purplecard#X-Defense#/purplecard# using your #purplecard#psychic abilities#/purplecard# as the finishing blow.",
-    "ru_ru": "Играя за Эмму Фрост, победите 1,500 врагов в #purplecard#X-Защите#/purplecard#, используя свои #purplecard#психические способности#/purplecard# как завершающий удар."
+    "ru_ru": "Играя за Эмму Фрост, победить 1 500 врагов в #purplecard#Защите Икс#/purplecard#, используя #purplecard#психические способности#/purplecard# в качестве добивающего удара."
   },
   "530": {
     "en_us": "As Venom, defeat 1,986 enemies in #purplecard#Midtown Patrol#/purplecard# using your #purplecard#Hungry Maw#/purplecard# as the finishing blow.",
-    "ru_ru": "Играя за Венома, победите 1,986 врагов в #purplecard#патруле Мидтауна#/purplecard#, используя #purplecard#Голодный Зев#/purplecard# как завершающий удар."
+    "ru_ru": "Играя за Венома, победить 1 986 врагов в #purplecard#Патруле в Мидтауне#/purplecard#, используя #purplecard#Голодную пасть#/purplecard# в качестве добивающего удара."
   },
   "531": {
     "en_us": "Sword Gun",
-    "ru_ru": "Меч-Пистолет"
+    "ru_ru": "Мечествол"
   },
   "532": {
     "en_us": "An Edda of Ice and Fire I",
-    "ru_ru": "Эдда Льда и Огня I"
+    "ru_ru": "Эдда Льда и Пламени I"
   },
   "533": {
     "en_us": "Unforgettable Valor",
@@ -2159,11 +2159,11 @@
   },
   "540": {
     "en_us": "Helmet of the Ant-Man",
-    "ru_ru": "Шлем Человека-муравья"
+    "ru_ru": "Шлем Человека-Муравья"
   },
   "541": {
     "en_us": "Locate the best place for bubble tea in #purplecard#Lowtown#/purplecard#.",
-    "ru_ru": "Найдите лучшее место для пузырькового чая в #purplecard#Лоутауне#/purplecard#."
+    "ru_ru": "Найти лучшую чайную в #purplecard#Лоутауне#/purplecard#."
   },
   "542": {
     "en_us": "Lower Asgard",
@@ -2179,11 +2179,11 @@
   },
   "545": {
     "en_us": "As the Silver Surfer, defeat 1,966 foes using #purplecard#Event Horizon#/purplecard# as the finishing blow.",
-    "ru_ru": "Играя за Серебряного Серфера, победите 1,966 врагов, используя #purplecard#Горизонт событий#/purplecard# как завершающий удар."
+    "ru_ru": "Играя за Серебряного Серфера, победить 1 966 врагов, используя #purplecard#\"Горизонт событий\"#/purplecard# в качестве добивающего удара."
   },
   "546": {
     "en_us": "Big Time Spider-Clone (Red)",
-    "ru_ru": "Клон Паука времени (красный)"
+    "ru_ru": "Минута славы Клон-Паука (красный)"
   },
   "547": {
     "en_us": "Collect 5 Red Envelops during the Lunar New Year event.",
@@ -2199,7 +2199,7 @@
   },
   "550": {
     "en_us": "Complete all #purplecard#events#/purplecard# in #purplecard#Chapter 8#/purplecard#.",
-    "ru_ru": "Выполните все #purplecard#события#/purplecard# в #purplecard#Главе 8#/purplecard#."
+    "ru_ru": "Завершите все #purplecard#события#/purplecard# в #purplecard#Главе 8#/purplecard#."
   },
   "551": {
     "en_us": "Stalking Justice",
@@ -2211,11 +2211,11 @@
   },
   "553": {
     "en_us": "Purchase the following #purplecard#artifacts#/purplecard# from Jocasta.",
-    "ru_ru": "Приобретите следующие #purplecard#артефакты#/purplecard# у Йокасты."
+    "ru_ru": "Приобретите следующие #purplecard#артефакты#/purplecard# у Джокасты."
   },
   "554": {
     "en_us": "As Vision, reach #purplecard#level 60#/purplecard#.",
-    "ru_ru": "Играя за Вижена, достигните #purplecard#уровня 60#/purplecard#."
+    "ru_ru": "Играя за Вижна, достигните #purplecard#уровня 60#/purplecard#."
   },
   "555": {
     "en_us": "Nightclub District",
