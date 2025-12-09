@@ -33,7 +33,7 @@
   },
   "8": {
     "en_us": "In a #purplecard#solo#/purplecard# run, defeat #purplecard#Doctor Octopus#/purplecard# on #purplecard#Normal Difficulty#/purplecard# or higher.",
-    "ru_ru": "В #purplecard#соло#/purplecard# забеге победите #purplecard#Доктора Осьминога#/purplecard# на #purplecard#обычной сложности#/purplecard# или выше."
+    "ru_ru": "В #purplecard#одиночку#/purplecard# победите #purplecard#Доктора Осьминога#/purplecard# на #purplecard#обычной сложности#/purplecard# или выше."
   },
   "9": {
     "en_us": "Latverian Regalia",
@@ -531,7 +531,7 @@
   },
   "133": {
     "en_us": "In a #purplecard#solo#/purplecard# run, defeat #purplecard#Kingpin#/purplecard# on #purplecard#Normal Difficulty#/purplecard# or higher.",
-    "ru_ru": "В #purplecard#соло#/purplecard# забеге победите #purplecard#Кингпина#/purplecard# на #purplecard#обычной сложности#/purplecard# или выше."
+    "ru_ru": "В #purplecard#одиночку#/purplecard# победите #purplecard#Кингпина#/purplecard# на #purplecard#обычной сложности#/purplecard# или выше."
   },
   "134": {
     "en_us": "Hellfang of Zarathos",
@@ -955,7 +955,7 @@
   },
   "239": {
     "en_us": "In a #purplecard#solo#/purplecard# run, defeat #purplecard#Juggernaut#/purplecard# on #purplecard#Normal Difficulty#/purplecard# or higher.",
-    "ru_ru": "В #purplecard#соло#/purplecard# забеге победите #purplecard#Джаггернаута#/purplecard# на #purplecard#обычной сложности#/purplecard# или выше."
+    "ru_ru": "В #purplecard#одиночку#/purplecard# победите #purplecard#Джаггернаута#/purplecard# на #purplecard#обычной сложности#/purplecard# или выше."
   },
   "240": {
     "en_us": "Graviton Generator",
@@ -1395,7 +1395,7 @@
   },
   "349": {
     "en_us": "In a #purplecard#solo#/purplecard# run, defeat #purplecard#Mister Sinister#/purplecard# on #purplecard#Normal Difficulty#/purplecard# or higher.",
-    "ru_ru": "В #purplecard#соло#/purplecard# пробеге победите #purplecard#Мистера Зловещего#/purplecard# на #purplecard#нормальной сложности#/purplecard# или выше."
+    "ru_ru": "В #purplecard#одиночку#/purplecard# победите #purplecard#Мистера Зловещего#/purplecard# на #purplecard#нормальной сложности#/purplecard# или выше."
   },
   "350": {
     "en_us": "Plandanium Graft",
@@ -1811,7 +1811,7 @@
   },
   "453": {
     "en_us": "In a #purplecard#solo#/purplecard# run, defeat #purplecard#Mandarin#/purplecard# on #purplecard#Normal Difficulty#/purplecard# or higher.",
-    "ru_ru": "В #purplecard#соло#/purplecard# проходе победите #purplecard#Мандарина#/purplecard# на #purplecard#Нормальной сложности#/purplecard# или выше."
+    "ru_ru": "В #purplecard#одиночку#/purplecard# победите #purplecard#Мандарина#/purplecard# на #purplecard#Нормальной сложности#/purplecard# или выше."
   },
   "454": {
     "en_us": "Netharanium Jewel",
@@ -2227,7 +2227,7 @@
   },
   "557": {
     "en_us": "Visibly Improved",
-    "ru_ru": "Заметно улучшено"
+    "ru_ru": "Видимое улучшение"
   },
   "558": {
     "en_us": "As Thor, reach #purplecard#level 60#/purplecard#.",
@@ -2235,7 +2235,7 @@
   },
   "559": {
     "en_us": "In a #purplecard#solo#/purplecard# run, defeat #purplecard#Kurse#/purplecard# on #purplecard#Normal Difficulty#/purplecard# or higher.",
-    "ru_ru": "В #purplecard#соло#/purplecard# проходе победите #purplecard#Скалохода#/purplecard# на #purplecard#Нормальной сложности#/purplecard# или выше."
+    "ru_ru": "В #purplecard#одиночку#/purplecard# победите #purplecard#Проклятье#/purplecard# на #purplecard#Нормальной сложности#/purplecard# или выше."
   },
   "560": {
     "en_us": "Talisman of K'un Lun",
@@ -2243,11 +2243,11 @@
   },
   "561": {
     "en_us": "Ryolnir's Beard",
-    "ru_ru": "Борода Рйолнира"
+    "ru_ru": "Борода Рйольнира"
   },
   "562": {
     "en_us": "Electro Overcharged",
-    "ru_ru": "Электро Перегружен"
+    "ru_ru": "Перезаряженный Электро"
   },
   "563": {
     "en_us": "Guardian Devil",
@@ -2259,7 +2259,7 @@
   },
   "565": {
     "en_us": "In a #purplecard#solo#/purplecard# run, defeat #purplecard#Ultron#/purplecard# on #purplecard#Normal Difficulty#/purplecard# or higher.",
-    "ru_ru": "В #purplecard#соло#/purplecard# проходе победите #purplecard#Ультрона#/purplecard# на #purplecard#Нормальной сложности#/purplecard# или выше."
+    "ru_ru": "В #purplecard#одиночку#/purplecard# победите #purplecard#Ультрона#/purplecard# на #purplecard#Нормальной сложности#/purplecard# или выше."
   },
   "566": {
     "en_us": "Impostors Detected: X-Men",
@@ -2271,7 +2271,7 @@
   },
   "568": {
     "en_us": "Reward: Personal Spider Serum",
-    "ru_ru": "Награда: Личная сыворотка Паука"
+    "ru_ru": "Награда: Личная паучья сыворотка"
   },
   "569": {
     "en_us": "Wolverine vs. Doctor Doom",
@@ -2279,7 +2279,7 @@
   },
   "570": {
     "en_us": "Reward: Completely Ordinary Cow Device",
-    "ru_ru": "Награда: Абсолютно обычное устройство Коровы"
+    "ru_ru": "Награда: Совершенно обычное коровье устройство"
   },
   "571": {
     "en_us": "I'm Back",
@@ -2287,7 +2287,7 @@
   },
   "572": {
     "en_us": "Own all of Rogue's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Владейте всеми #purplecard#уникальными предметами#/purplecard# Шельмы."
+    "ru_ru": "Получите все #purplecard#уникальные предметы#/purplecard# Шельмы."
   },
   "573": {
     "en_us": "As Luke Cage, collect the $200 that #purplecard#Doctor Doom#/purplecard# owes you for a job well done. When he refuses to pay up, defeat him 10 times in a #purplecard#Terminal#/purplecard#.",
@@ -2295,7 +2295,7 @@
   },
   "574": {
     "en_us": "Own all of Thing's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Владейте всеми #purplecard#уникальными предметами#/purplecard# Существа."
+    "ru_ru": "Получите все #purplecard#уникальные предметы#/purplecard# Существа."
   },
   "575": {
     "en_us": "Five hundred times, defeat #purplecard#Mister Sinister#/purplecard# and open all of his possible #purplecard#Bounty Chests#/purplecard#.",
@@ -2311,7 +2311,7 @@
   },
   "578": {
     "en_us": "S.H.I.E.L.D. Life Support Gear",
-    "ru_ru": "Снаряжение жизнеобеспечения Щ.И.Т."
+    "ru_ru": "Система жизнеобеспечения ЩИТа"
   },
   "579": {
     "en_us": "Suspicious Campsite",
@@ -2343,7 +2343,7 @@
   },
   "586": {
     "en_us": "Doom Deathmatch",
-    "ru_ru": "Смертельный матч Дума"
+    "ru_ru": "Дум: Бой насмерть"
   },
   "587": {
     "en_us": "Reward: Latverian Monarch Cloak",
@@ -2351,7 +2351,7 @@
   },
   "588": {
     "en_us": "Unlock #purplecard#Heroic#/purplecard# difficulty mode.",
-    "ru_ru": "Разблокируйте режим сложности #purplecard#Героический#/purplecard#."
+    "ru_ru": "Разблокируйте #purplecard#Героический#/purplecard# режим сложности."
   },
   "589": {
     "en_us": "Be on a four-hero team with heroes who have been #purplecard#possessed by the Phoenix Force#/purplecard#.",
@@ -2359,11 +2359,11 @@
   },
   "590": {
     "en_us": "Daddy Deadpool Device",
-    "ru_ru": "Устройство Папы Дэдпула"
+    "ru_ru": "Устройство папочки Дэдпула"
   },
   "591": {
     "en_us": "Cape of the Stormcrafter",
-    "ru_ru": "Плащ Мастера Штормов"
+    "ru_ru": "Плащ мастера Бурь"
   },
   "592": {
     "en_us": "Rescue 1,000 #purplecard#civilians#/purplecard# in #purplecard#Midtown Patrol#/purplecard#.",
@@ -2375,11 +2375,11 @@
   },
   "594": {
     "en_us": "Wonderman's Jet Belt",
-    "ru_ru": "Ремень Джета Чудо-человека"
+    "ru_ru": "Реактивный пояс Чудо-человека"
   },
   "595": {
     "en_us": "Rooftop Access",
-    "ru_ru": "Доступ на крышу"
+    "ru_ru": "Выход на крышу"
   },
   "596": {
     "en_us": "Web of Carnage",
@@ -2403,11 +2403,11 @@
   },
   "601": {
     "en_us": "Dinosaur Fossils",
-    "ru_ru": "Динозавровые ископаемые"
+    "ru_ru": "Окаменелости динозавров"
   },
   "602": {
     "en_us": "The Burning Crusade, Stage 1",
-    "ru_ru": "Пылающий крестовый поход, этап 1"
+    "ru_ru": "Огненный крестовый поход, этап 1"
   },
   "603": {
     "en_us": "I Wish I Knew How to Quit You.",
@@ -2415,11 +2415,11 @@
   },
   "604": {
     "en_us": "Apprehendroid Array",
-    "ru_ru": "Массив «Аппрехендроид»"
+    "ru_ru": "Массив Арестодроидов"
   },
   "605": {
     "en_us": "Phoenix Force Visor",
-    "ru_ru": "Визор Силы Феникса"
+    "ru_ru": "Визор силы Феникса"
   },
   "606": {
     "en_us": "Distinguished Heroism",
@@ -2431,7 +2431,7 @@
   },
   "608": {
     "en_us": "Hybrid Agent Schramm",
-    "ru_ru": "Гибридный агент Шрамм"
+    "ru_ru": "Агент-гибрид Шрамм"
   },
   "609": {
     "en_us": "No More Mr. Nice Dog",
@@ -2459,7 +2459,7 @@
   },
   "615": {
     "en_us": "Own all of Winter Soldier's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Владей всеми #purplecard#Уникальными предметами#/purplecard# Зимнего Солдата."
+    "ru_ru": "Получите все #purplecard#уникальные предметы#/purplecard# Зимнего Солдата."
   },
   "616": {
     "en_us": "As Scarlet Witch, reach #purplecard#level 60#/purplecard#.",
@@ -2471,7 +2471,7 @@
   },
   "618": {
     "en_us": "Reward: High Commander's Armor",
-    "ru_ru": "Награда: Доспехи Верховного Командора"
+    "ru_ru": "Награда: Броня Главнокомандующего"
   },
   "619": {
     "en_us": "Collect a #purplecard#Cosmic Sauron Medallion#/purplecard#.",
@@ -2479,7 +2479,7 @@
   },
   "620": {
     "en_us": "Clean Sweeps",
-    "ru_ru": "Чистые подметания"
+    "ru_ru": "Полные зачистки"
   },
   "621": {
     "en_us": "Chapter 08",
@@ -2495,7 +2495,7 @@
   },
   "624": {
     "en_us": "Danny Rand's Kung Fu Shoes",
-    "ru_ru": "Кунг-фу туфли Дэнни Рэнда"
+    "ru_ru": "Обувь для кунг-фу Дэнни Рэнда"
   },
   "625": {
     "en_us": "M.O.D.O.K.",
@@ -2503,7 +2503,7 @@
   },
   "626": {
     "en_us": "Frost Giant Glacial Lord",
-    "ru_ru": "Ледяной великан — Ледяной лорд"
+    "ru_ru": "Ледяной гигант - владыка льдов"
   },
   "627": {
     "en_us": "War Zone",
@@ -2511,7 +2511,7 @@
   },
   "628": {
     "en_us": "The Real Deal",
-    "ru_ru": "Настоящий профи"
+    "ru_ru": "Подлинник"
   },
   "629": {
     "en_us": "Psionic Strength",
@@ -2519,7 +2519,7 @@
   },
   "630": {
     "en_us": "Savage Exports I",
-    "ru_ru": "Дикие экспортные грузы I"
+    "ru_ru": "Экспорт с Дикой Земли I"
   },
   "631": {
     "en_us": "Colossal Valor",
@@ -2551,7 +2551,7 @@
   },
   "638": {
     "en_us": "Once And Future King",
-    "ru_ru": "Однажды и будущий король"
+    "ru_ru": "Король былого и грядущего"
   },
   "639": {
     "en_us": "Eye of the Eggbreaker",
@@ -2559,11 +2559,11 @@
   },
   "640": {
     "en_us": "Have 10 heroes at #purplecard#level 60 Cosmic Prestige#/purplecard#.",
-    "ru_ru": "Иметь 10 героев на #purplecard#60 уровне Космического Престижа#/purplecard#."
+    "ru_ru": "Получить для 10 героев #purplecard#уровень 60 космического престижа#/purplecard#."
   },
   "641": {
     "en_us": "For a Unique",
-    "ru_ru": "Ради уникума"
+    "ru_ru": "На уникальные предметы"
   },
   "642": {
     "en_us": "Legendary Upgrade, Stage Three",
@@ -2573,7 +2573,6 @@
     "en_us": "Daughter of the Dragon",
     "ru_ru": "Дочь Дракона"
   },
-  "644": {
     "en_us": "Marvel Heroes Omega",
     "ru_ru": "Marvel Heroes Омега"
   },
@@ -2619,7 +2618,7 @@
   },
   "655": {
     "en_us": "In a #purplecard#solo#/purplecard# run, defeat #purplecard#Doctor Octopus#/purplecard# in #purplecard#Red Terminal#/purplecard#.",
-    "ru_ru": "В #purplecard#соло#/purplecard# забеге победите #purplecard#Доктора Осминога#/purplecard# в #purplecard#Красном Терминале#/purplecard#."
+    "ru_ru": "В #purplecard#одиночку#/purplecard# победите #purplecard#Доктора Осьминога#/purplecard# в #purplecard#красном терминале#/purplecard#."
   },
   "656": {
     "en_us": "Circlet of Cyttorak",
@@ -2631,7 +2630,7 @@
   },
   "658": {
     "en_us": "Cow Tags",
-    "ru_ru": "Корова-бирки"
+    "ru_ru": "Коровьи бирки"
   },
   "659": {
     "en_us": "Maggia Takeover",
@@ -2655,11 +2654,11 @@
   },
   "664": {
     "en_us": "Reward: Gifted Odin Rune",
-    "ru_ru": "Награда: Одарённая руна Одина"
+    "ru_ru": "Награда: Дарованная руна Одина"
   },
   "665": {
     "en_us": "Target Acquired: All-Father Brevik III",
-    "ru_ru": "Цель захвачена: Всебог Бревик III"
+    "ru_ru": "Цель захвачена: Всеотец Бревик III"
   },
   "666": {
     "en_us": "I'm Really Back This Time",
@@ -2671,7 +2670,7 @@
   },
   "668": {
     "en_us": "As Nightcrawler, defeat #purplecard#Doctor Doom#/purplecard# in #purplecard#Story Mode#/purplecard# within #purplecard#180 seconds#/purplecard# of entering his #purplecard#Throne Room#/purplecard#. You must be solo for the entire fight.",
-    "ru_ru": "Играя за Найткрoулера, победите #purplecard#Доктора Дума#/purplecard# в #purplecard#Сюжетном режиме#/purplecard# за #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный зал#/purplecard#. Весь бой нужно пройти в одиночку."
+    "ru_ru": "Играя за Ночного Змея, победите #purplecard#Доктора Дума#/purplecard# в #purplecard#сюжетном режиме#/purplecard# за #purplecard#180 секунд#/purplecard# после входа в его #purplecard#тронный зал#/purplecard#. Весь бой нужно пройти в одиночку."
   },
   "669": {
     "en_us": "Ben Grimm's Helmet",
@@ -2679,7 +2678,7 @@
   },
   "670": {
     "en_us": "One hundred times, defeat #purplecard#M.O.D.O.K.#/purplecard# and open all of his possible #purplecard#Bounty Chests#/purplecard#.",
-    "ru_ru": "Сто раз победите #purplecard#М.О.Д.О.К.#/purplecard# и откройте все его возможные #purplecard#Наградные сундуки#/purplecard#."
+    "ru_ru": "Сто раз победите #purplecard#М.О.Д.О.К.а#/purplecard# и откройте все его возможные #purplecard#Наградные сундуки#/purplecard#."
   },
   "671": {
     "en_us": "Darkhold Scroll",
@@ -2687,15 +2686,15 @@
   },
   "672": {
     "en_us": "Target Acquired: Mister Sinister",
-    "ru_ru": "Цель получена: Мистер Зловещий"
+    "ru_ru": "Цель захвачена: Мистер Зловещий"
   },
   "673": {
     "en_us": "Latverian Monarch Cloak",
-    "ru_ru": "Плащ Латверийского Монарха"
+    "ru_ru": "Плащ монарха Латверии"
   },
   "674": {
     "en_us": "Missile Silo",
-    "ru_ru": "Ракетная шахта"
+    "ru_ru": "Пусковая шахта"
   },
   "675": {
     "en_us": "Green Goblin",
@@ -2723,11 +2722,11 @@
   },
   "681": {
     "en_us": "Reward: Sinister's Bioengineered Cuirass",
-    "ru_ru": "Награда: Биоинженерный Кирас Синистера"
+    "ru_ru": "Награда: Биотехническая кираса Зловещего"
   },
   "682": {
     "en_us": "Purchase 1,000 #purplecard#Med Kits#/purplecard#.",
-    "ru_ru": "Купите 1,000 #purplecard#Аптечек#/purplecard#."
+    "ru_ru": "Приобрести 1 000 #purplecard#аптечек#/purplecard#."
   },
   "683": {
     "en_us": "Be on a four-hero team with each available member of the #purplecard#Guardians of the Galaxy#/purplecard# represented.",
@@ -2735,7 +2734,7 @@
   },
   "684": {
     "en_us": "Magic Satchel of Weaponry",
-    "ru_ru": "Волшебная сумка оружия"
+    "ru_ru": "Магический ранец оружия"
   },
   "685": {
     "en_us": "Pick A Card, Any Card",
@@ -2743,7 +2742,7 @@
   },
   "686": {
     "en_us": "Strike Team Mohawk",
-    "ru_ru": "Ударная команда Мохок"
+    "ru_ru": "Ударная группа \"Мохаук\""
   },
   "687": {
     "en_us": "One hundred times, defeat #purplecard#Shocker#/purplecard# and open all of his possible #purplecard#Bounty Chests#/purplecard#.",
@@ -2755,7 +2754,7 @@
   },
   "689": {
     "en_us": "Midtown Patrol",
-    "ru_ru": "Патруль Мидтауна"
+    "ru_ru": "Патруль в Мидтауне"
   },
   "690": {
     "en_us": "Frog-Man's Leap-Frog Suit Mask",
@@ -2783,11 +2782,11 @@
   },
   "696": {
     "en_us": "Madame Hydra",
-    "ru_ru": "Мадам ГИДРА"
+    "ru_ru": "Мадам Гидра"
   },
   "697": {
     "en_us": "As Kitty Pryde, equip the #purplecard#Insignia of Phoenix#/purplecard# and defeat 1,975 enemies using any #purplecard#Lockheed power#/purplecard# as the finishing blow.",
-    "ru_ru": "Играя за Китти Прайд, экипируйте #purplecard#Инсигнию Феникса#/purplecard# и победите 1,975 врагов, используя любое #purplecard#умение Локхида#/purplecard# в качестве завершающего удара."
+    "ru_ru": "Играя за Китти Прайд, экипируйте #purplecard#Символ Феникса#/purplecard# и победите 1,975 врагов, используя любое #purplecard#умение Локхида#/purplecard# в качестве добивающего удара."
   },
   "698": {
     "en_us": "Raccoonatics LW-60 Minigun",
@@ -2803,7 +2802,7 @@
   },
   "701": {
     "en_us": "As Squirrel Girl, use your deadly claws and martials arts prowess to defeat 1,000 #purplecard#elite#/purplecard# enemies using #purplecard#melee powers#/purplecard# as the finishing blow.",
-    "ru_ru": "Играя за Белку-Девочку, используйте свои смертоносные когти и мастерство боевых искусств, чтобы победить 1 000 #purplecard#элитных#/purplecard# врагов, используя #purplecard#способности ближнего боя#/purplecard# в качестве завершающего удара."
+    "ru_ru": "Играя за Девушку-белку, победить 1 000 #purplecard#элитных#/purplecard# врагов, используя когти и #purplecard#способности ближнего боя#/purplecard# в качестве добивающего удара."
   },
   "702": {
     "en_us": "Defeat 250 #purplecard#supervillains#/purplecard# in #purplecard#Midtown Manhattan#/purplecard#.",
@@ -2867,15 +2866,15 @@
   },
   "717": {
     "en_us": "All-Father Brevik",
-    "ru_ru": "Всебатька Бревик"
+    "ru_ru": "Всеотец Бревик"
   },
   "718": {
     "en_us": "Rogue",
     "ru_ru": "Шельма"
   },
   "719": {
-    "en_us": "Enchanting",
-    "ru_ru": "Зачарование"
+    "en_us": "Crafting",
+    "ru_ru": "Элементы"
   },
   "720": {
     "en_us": "Defeat 7 Different Super Villains in their Showdowns.",
@@ -2891,15 +2890,15 @@
   },
   "723": {
     "en_us": "Shimmy Shimmy Ya",
-    "ru_ru": "Шимми Шимми Йа"
+    "ru_ru": "Шимми Шимми Я"
   },
   "724": {
     "en_us": "Kurse",
-    "ru_ru": "Кёрс"
+    "ru_ru": "Проклятье"
   },
   "725": {
     "en_us": "Lemurian Star: Round 2",
-    "ru_ru": "Лемуранская звезда: Раунд 2"
+    "ru_ru": "Звезда лемурийцев: 2-й раунд"
   },
   "726": {
     "en_us": "Eddie Brock's \"Tri-Weights\"",
