@@ -2573,6 +2573,7 @@
     "en_us": "Daughter of the Dragon",
     "ru_ru": "Дочь Дракона"
   },
+  "644": {
     "en_us": "Marvel Heroes Omega",
     "ru_ru": "Marvel Heroes Омега"
   },
@@ -2902,19 +2903,19 @@
   },
   "726": {
     "en_us": "Eddie Brock's \"Tri-Weights\"",
-    "ru_ru": "«Три-веса» Эдди Брока"
+    "ru_ru": "\"Тройной вес\" Эдди Брока"
   },
   "727": {
     "en_us": "As Punisher, mow down 2,500 enemies in #purplecard#Industry City Patrol#/purplecard# using #purplecard#Full Auto#/purplecard# as the finishing blow.",
-    "ru_ru": "Играя за Карателя, уничтожьте 2 500 врагов в #purplecard#Патруле Промышленного района#/purplecard#, используя #purplecard#Очередь#/purplecard# в качестве завершающего удара."
+    "ru_ru": "Играя за Карателя, скосить 2 500 врагов в #purplecard#Патруле Промышленного района#/purplecard#, используя #purplecard#тяжелый пулемет#/purplecard# для добивающего удара."
   },
   "728": {
     "en_us": "Own all of Hawkeye's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Иметь все #purplecard#уникальные предметы#/purplecard# Соколиного Глаза."
+    "ru_ru": "Получите все #purplecard#уникальные предметы#/purplecard# Соколиного Глаза."
   },
   "729": {
     "en_us": "Own all of Mister Fantastic's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Иметь все #purplecard#уникальные предметы#/purplecard# Мистера Фантастика."
+    "ru_ru": "Получите все #purplecard#уникальные предметы#/purplecard# Мистера Фантастика."
   },
   "730": {
     "en_us": "Supply and Demand III",
@@ -2954,7 +2955,7 @@
   },
   "739": {
     "en_us": "Reward: Matrix of Unbinding",
-    "ru_ru": "Награда: Матрица Развязывания"
+    "ru_ru": "Награда: Матрица отвязки"
   },
   "740": {
     "en_us": "Chapter 3",
@@ -2962,11 +2963,11 @@
   },
   "741": {
     "en_us": "Iceman",
-    "ru_ru": "Айсмэн"
+    "ru_ru": "Человек-Лед"
   },
   "742": {
     "en_us": "Many Orbs, Handle It!",
-    "ru_ru": "Много сфер, справляйся!"
+    "ru_ru": "Удержи много сфер!"
   },
   "743": {
     "en_us": "Kingpin's Warehouse",
@@ -2978,7 +2979,7 @@
   },
   "745": {
     "en_us": "Show those annoying beekeepers that Hulk isn't only the strongest one there is by defeating 1,962 #purplecard#A.I.M. Specialists#/purplecard# in the #purplecard#A.I.M. Weapon Facility#/purplecard# in any mode.",
-    "ru_ru": "Покажите назойливым пчеловодам, что Халк — не только самый сильный, победив 1 962 #purplecard#специалистов А.И.М.#/purplecard# в #purplecard#Оружейном комплексе А.И.М.#/purplecard# в любом режиме."
+    "ru_ru": "Покажите назойливым пчеловодам, что Халк — не только самый сильный, победив 1 962 #purplecard#специалистов А.И.М.#/purplecard# в #purplecard#Оружейной фабрике А.И.М.#/purplecard# в любом режиме."
   },
   "746": {
     "en_us": "Silver Surfer vs Doctor Doom",
@@ -2986,7 +2987,7 @@
   },
   "747": {
     "en_us": "Title Unlocked: The Insane",
-    "ru_ru": "Титул разблокирован: Безумный"
+    "ru_ru": "Титул разблокирован: Безумец"
   },
   "748": {
     "en_us": "Defeat the demon #purplecard#Surtur#/purplecard# in the #purplecard#Muspelheim Raid#/purplecard#.",
@@ -2998,7 +2999,7 @@
   },
   "750": {
     "en_us": "Dropship Counter-Attack",
-    "ru_ru": "Контратака десантного корабля"
+    "ru_ru": "Контратака десантных кораблей"
   },
   "751": {
     "en_us": "Self Defense",
@@ -3026,7 +3027,7 @@
   },
   "757": {
     "en_us": "Howard the Duck's Big Freaking Gun",
-    "ru_ru": "Большая чертова пушка Говарда Утки"
+    "ru_ru": "БФГ Говарда Утки"
   },
   "758": {
     "en_us": "Unlock all waypoints in #purplecard#Chapter 3#/purplecard#.",
@@ -3042,7 +3043,7 @@
   },
   "761": {
     "en_us": "As Nova, reach #purplecard#level 60#/purplecard#.",
-    "ru_ru": "Играя за Нова, достигните #purplecard#60 уровня#/purplecard#."
+    "ru_ru": "Играя за Нову, достигните #purplecard#60 уровня#/purplecard#."
   },
   "762": {
     "en_us": "Bone Claws",
@@ -3058,7 +3059,7 @@
   },
   "765": {
     "en_us": "Defeat #purplecard#Sabretooth#/purplecard# in each location throughout the game where he appears.",
-    "ru_ru": "Победите #purplecard#Саблезуба#/purplecard# в каждой локации игры, где он появляется."
+    "ru_ru": "Победите #purplecard#Саблезубого#/purplecard# в каждой локации, где он появляется."
   },
   "766": {
     "en_us": "Collect an Epic or Cosmic #purplecard#Holo-Hulk Medallion#/purplecard#.",
@@ -3110,15 +3111,15 @@
   },
   "778": {
     "en_us": "As Rogue, steal #purplecard#Blob's Bellyflop#/purplecard# and use it to defeat #purplecard#Blob#/purplecard# as the finishing blow. There are worse powers to steal, we guess.",
-    "ru_ru": "Играя за Шельму, украдите #purplecard#Плюх живота Блоба#/purplecard# и используйте её, чтобы победить #purplecard#Блоба#/purplecard# завершающим ударом. Бывают способности и хуже."
+    "ru_ru": "Играя за Шельму, украдите #purplecard#Посадку на брюхо Пузыря#/purplecard# и используйте её, чтобы победить #purplecard#Пузыря#/purplecard# добивающим ударом. Бывают способности и хуже."
   },
   "779": {
     "en_us": "More Kindling",
-    "ru_ru": "Больше растопки"
+    "ru_ru": "Больше дров!"
   },
   "780": {
     "en_us": "As Thing, summon #purplecard#H.E.R.B.I.E.#/purplecard# as a pet and defeat 500 #purplecard#Doombots#/purplecard#.",
-    "ru_ru": "Играя за Существо, призовите #purplecard#ХЕРБИ#/purplecard# как питомца и победите 500 #purplecard#Думботов#/purplecard#."
+    "ru_ru": "Играя за Существо, призовите питомца-#purplecard#Э.Р.Б.И.#/purplecard# и победите 500 #purplecard#Думботов#/purplecard#."
   },
   "781": {
     "en_us": "Defeat #purplecard#Mandarin#/purplecard# and open all of his possible #purplecard#Bounty Chests#/purplecard#.",
@@ -3130,11 +3131,11 @@
   },
   "783": {
     "en_us": "Target Acquired: MODOK",
-    "ru_ru": "Цель получена: МОДОК"
+    "ru_ru": "Цель захвачена: МОДОК"
   },
   "784": {
     "en_us": "Defeat #purplecard#Mandarin#/purplecard# in each location throughout the game where he appears.",
-    "ru_ru": "Победите #purplecard#Мандарина#/purplecard# в каждой локации игры, где он появляется."
+    "ru_ru": "Победите #purplecard#Мандарина#/purplecard# в каждой локации, где он появляется."
   },
   "785": {
     "en_us": "Reward: 1,000 Credits",
@@ -3142,7 +3143,7 @@
   },
   "786": {
     "en_us": "Visit each of the following #purplecard#Treasure Rooms#/purplecard# in Savage Land.",
-    "ru_ru": "Посетите каждую из следующих #purplecard#комнат с сокровищами#/purplecard# в Дикоземье."
+    "ru_ru": "Побывать во всех следующих #purplecard#сокровищницах#/purplecard# Дикой Земли."
   },
   "787": {
     "en_us": "Kingpin",
@@ -3166,11 +3167,11 @@
   },
   "792": {
     "en_us": "Reward: Maximum Midtown Patrol Badge",
-    "ru_ru": "Награда: Значок патруля Мидтауна (максимальный)"
+    "ru_ru": "Награда: Максимальный значок патруля Мидтауна"
   },
   "793": {
     "en_us": "Defeat #purplecard#M.O.D.O.K.#/purplecard# another 270 times in the #purplecard#A.I.M. Weapon Facility Terminal#/purplecard#.",
-    "ru_ru": "Победите #purplecard#М.О.Д.О.К.#/purplecard# ещё 270 раз в #purplecard#Терминале Оружейного комплекса А.И.М.#/purplecard#."
+    "ru_ru": "Победите #purplecard#М.О.Д.О.К.#/purplecard# ещё 270 раз в #purplecard#Терминале Оружейной фабрики А.И.М.#/purplecard#."
   },
   "794": {
     "en_us": "Resurrect a fellow hero in #purplecard#Midtown#/purplecard#.",
@@ -3182,11 +3183,11 @@
   },
   "796": {
     "en_us": "Luscious Loafers of 1337ness",
-    "ru_ru": "Роскошные лоферы 1337-го уровня"
+    "ru_ru": "Мягчайшие мокасины вечной 1337ности"
   },
   "797": {
     "en_us": "Own all of Gambit's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Иметь все #purplecard#уникальные предметы#/purplecard# Гамбита."
+    "ru_ru": "Получите все #purplecard#уникальные предметы#/purplecard# Гамбита."
   },
   "798": {
     "en_us": "Defeat #purplecard#Doctor Octopus#/purplecard# and open all of his possible #purplecard#Bounty Chests#/purplecard#.",
@@ -3202,7 +3203,7 @@
   },
   "801": {
     "en_us": "Shipyard Crane",
-    "ru_ru": "Кран судоверфи"
+    "ru_ru": "Портовый кран"
   },
   "802": {
     "en_us": "Defeat #purplecard#Kl'rt#/purplecard# 350 times in the #purplecard#Hightown Invasion Terminal#/purplecard#.",
@@ -3222,7 +3223,7 @@
   },
   "806": {
     "en_us": "Reward: Ultimate Upgrade Token",
-    "ru_ru": "Награда: Токен апгрейда Ультимативной способности"
+    "ru_ru": "Награда: Жетон Ультимативного улучшения"
   },
   "807": {
     "en_us": "Rocket Raccoon vs Doctor Doom",
@@ -3262,7 +3263,7 @@
   },
   "816": {
     "en_us": "Complete all #purplecard#Danger Room Simulation#/purplecard# achievements.",
-    "ru_ru": "Завершите все достижения #purplecard#Симуляции Комнаты Опасности#/purplecard#."
+    "ru_ru": "Получите все достижения #purplecard#Симуляции Комнаты Опасности#/purplecard#."
   },
   "817": {
     "en_us": "Begone Demons!",
@@ -3298,7 +3299,7 @@
   },
   "825": {
     "en_us": "Defeat #purplecard#Hulk#/purplecard# 50 times in the #purplecard#S.H.I.E.L.D. Holo-Sim#/purplecard#.",
-    "ru_ru": "Победите #purplecard#Халка#/purplecard# 50 раз в #purplecard#Холо-симе Щ.И.Т.#/purplecard#."
+    "ru_ru": "Победите #purplecard#Халка#/purplecard# 50 раз в #purplecard#Голо-симулятора ЩИТа#/purplecard#."
   },
   "826": {
     "en_us": "Quantum Field",
