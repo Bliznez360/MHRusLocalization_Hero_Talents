@@ -1009,7 +1009,7 @@
             },
             "Desc": {
               "id": "18034786101439628607",
-              "eng": "Swipe your blades at all nearby enemies, knocking them off balance.",
+              "eng": "Swipe your blades at all nearby enemies, knocking them off balance. ",
               "rus": "Поразите своими клинками всех ближайших врагов нанесят урон и заставляя их на время потерять равновесие."
             }
           },
@@ -1217,7 +1217,7 @@
     "Bio": {
       "id": "1899334061196655",
       "eng": "#emphasis#Real Name:#/emphasis# Elizabeth \"Betsy\" Braddock\n#emphasis#Identity:#/emphasis# Secret\n\nSister of Captain Britain, Betsy Braddock is the psychic X-Man known as Psylocke. Originally just a telepath, Betsy ended up switching bodies with a deadly assassin that allowed her to become the psychic ninja she is today. While using her telekinetic powers to manifest a \"Psi-Knife\", Psylocke slips into the shadows and cuts enemies down with her martial arts and katana skills.\n\n#emphasis#Created By:#/emphasis# Chris Claremont and Herb Trimpe\n#emphasis#First Appearance:#/emphasis# Captain Britain #8 (December 1976)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Элизабет \"Бетси\" Браддок\n#emphasis#Личность:#/emphasis# Секретная\n\nСестра Капитана Британии, Бетси Браддок является психиком и членом Людей Икс, известной как Псайлок. Изначально будучи просто телепатом, Бетси в итоге поменялась телами со смертоносным убийцей, что позволило ей стать психическим ниндзя, каким она является и сегодня. Используя свои телекинетические способности для создания \"Пси-Ножа\", Псайлок уходит в тени и уничтожает врагов при помощи боевых искусств и навыков владения катаной.\n\n#emphasis#Создано:#/emphasis# Крисом Клэрмонтом и Хербом Тримпом\n#emphasis#Первое появление:#/emphasis# Капитан Британия #8 (декабрь 1976)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Элизабет \"Бетси\" Браддок\n#emphasis#Личность:#/emphasis# Секретная\n\nСестра Капитана Британии, Бетси Браддок является психиком и членом Людей Икс, известной как Псайлок. Изначально будучи просто телепатом, Бетси в итоге поменялась телами со смертоносным убийцей, что позволило ей стать психическим ниндзя, каким она является и сегодня. Используя свои телекинетические способности для создания \"Пси-Ножа\", Псайлок уходит в тени и уничтожает врагов при помощи боевых искусств и навыков владения катаной.\n\n#emphasis#Создано:#/emphasis# Крисом Клэрмонтом и Хербом Тримпом\n#emphasis#Первое появление:#/emphasis# Капитан Британия #8 (декабрь 1976)"
     },
     "PowerTables": [
       {
@@ -1503,7 +1503,7 @@
     "Bio": {
       "id": "4837955410398217581",
       "eng": "#emphasis#Real Name:#/emphasis# Katherine \"Kitty\" Anne Pryde\n#emphasis#Identity:#/emphasis# Secret\n\nKitty Pryde was your average 13 year old girl from Illinois  when her powers began manifesting. Able to \"phase\" her body and anything she touches through solid matter, Kitty's been connected to the X-Men since the first time her powers came to light. Though her powers were originally considered passive, Kitty has learned to use them in various waves to save her friends and even the world! Not content with  just a sharp wit and awesome power set, Kitty Pryde also possesses masterful knowledge of martial arts (thanks to an adventure with Wolverine) as well as a fire-breathing pet alien dragon, Lockheed!\n\n#emphasis#Created By:#/emphasis# Chris Clarement and John Byrne\n#emphasis#First Appearance:#/emphasis# X-Men #129 (September 1980)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Кэтрин \"Китти\" Энн Прайд\n#emphasis#Личность:#/emphasis# Секретная\n\nКитти Прайд была обычной 13-летней девочкой из Иллиноиса, когда ее способности мутанта начали проявляться. Она способна \"фазировать\" свое тело и всего, чего коснётся в этот момент, сквозь твердые предметы, Китти связана с Людьми Икс с тех пор, как ее способности впервые проявились. Хотя изначально ее способности считались скорее пассивными, Китти научилась использовать их в различных формах, чтобы спасать своих друзей и даже мир! Ей недостаточно просто острого ума и потрясающего набора сил, Китти Прайд также обладает мастерским знанием боевых искусств (благодаря приключению с Росомахой), а также огнедышащим питомцем инопланетным драконом, Локхидом!\n\n#emphasis#Создано:#/emphasis# Крис Клэрмонт и Джон Бирн\n#emphasis#Первое появление:#/emphasis# Люди Икс #129 (сентябрь 1980)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Кэтрин \"Китти\" Энн Прайд\n#emphasis#Личность:#/emphasis# Секретная\n\nКитти Прайд была обычной 13-летней девочкой из Иллиноиса, когда ее способности мутанта начали проявляться. Она способна \"фазировать\" свое тело и всего, чего коснётся в этот момент, сквозь твердые предметы, Китти связана с Людьми Икс с тех пор, как ее способности впервые проявились. Хотя изначально ее способности считались скорее пассивными, Китти научилась использовать их в различных формах, чтобы спасать своих друзей и даже мир! Ей недостаточно просто острого ума и потрясающего набора сил, Китти Прайд также обладает мастерским знанием боевых искусств (благодаря приключению с Росомахой), а также огнедышащим питомцем инопланетным драконом, Локхидом!\n\n#emphasis#Создано:#/emphasis# Крис Клэрмонт и Джон Бирн\n#emphasis#Первое появление:#/emphasis# Люди Икс #129 (сентябрь 1980)"
     },
     "PowerTables": [
       {
@@ -2093,7 +2093,7 @@
             },
             "Desc": {
               "id": "7281526080721257783",
-              "eng": "So you have a tank's cannon. Okay then.",
+              "eng": "So you have a tank's cannon. Okay then. ",
               "rus": "Серьёзно?! У тебя танковая пушка? Ну ладно"
             }
           },
@@ -2223,7 +2223,7 @@
             "Desc": {
               "id": "10546827911563183412",
               "eng": "Come on and slam! With a big freakin' hammer!",
-              "rus": "Когда у меня в руках молоток, то всё вокруг напоминает гвоздь…\r"
+              "rus": "Когда у меня в руках молоток, то всё вокруг напоминает гвоздь…"
             }
           },
           {
@@ -2671,7 +2671,7 @@
     "Bio": {
       "id": "10893382912749339913",
       "eng": "#emphasis#Real Name:#/emphasis# Nicholas Joseph Fury\n#emphasis#Identity:#/emphasis# No Dual Identity\n\nFollowing in his father's footsteps, Nicholas Joseph Fury enlisted in the armed services during World War II and would ultimately command one of the Allied forces' most elite squads—the Howling Commandos. But as the war took its toll, an explosive injury would cause him to become immunized with the Infinity Formula to save his life.\n\nAs the compound slowed his aging over time, Fury was recruited by the CIA as one of their toughest and elusive field agents. This exceptional covert service led him to become the director of the new international peacekeeping agency known as S.H.I.E.L.D. Harnessing Earth's mightiest heroes, Nick Fury's vigilante eye watches over the world to protect it from dangers both seen and unseen.\n\n#emphasis#Created By:#/emphasis# Stan Lee and Jack Kirby",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Николас Джозеф Фьюри\n#emphasis#Личность:#/emphasis# Без двойной личности\n\nСледуя по стопам своего отца, Николас Джозеф Фьюри поступил на военную службу во время Второй мировой войны и в конечном итоге командовал одним из самых элитных отрядов союзников — Громовыми Коммандос. Но по мере того, как война брала своё, серьёзное ранение вынудило его применить Формулу Бесконечности — это спасло ему жизнь, но навсегда изменило его тело.\n\nПоскольку это соединение замедляло его старение с течением времени, Фьюри был завербован ЦРУ в качестве одного из их самых жестких и неуловимых полевых агентов. Эта исключительная скрытная служба в конечном итоге привела к тому, что он стал директором нового международного миротворческого агентства, известного как ЩИТ. Используя силы самых могущественных героев Земли, Ник Фьюри следит за миром, чтобы защитить его от опасностей как известных, так и скрытых от всех.\n\n#emphasis#Создано:#/emphasis# Стеном Ли и Джеком Кирби\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Николас Джозеф Фьюри\n#emphasis#Личность:#/emphasis# Без двойной личности\n\nСледуя по стопам своего отца, Николас Джозеф Фьюри поступил на военную службу во время Второй мировой войны и в конечном итоге командовал одним из самых элитных отрядов союзников — Громовыми Коммандос. Но по мере того, как война брала своё, серьёзное ранение вынудило его применить Формулу Бесконечности — это спасло ему жизнь, но навсегда изменило его тело.\n\nПоскольку это соединение замедляло его старение с течением времени, Фьюри был завербован ЦРУ в качестве одного из их самых жестких и неуловимых полевых агентов. Эта исключительная скрытная служба в конечном итоге привела к тому, что он стал директором нового международного миротворческого агентства, известного как ЩИТ. Используя силы самых могущественных героев Земли, Ник Фьюри следит за миром, чтобы защитить его от опасностей как известных, так и скрытых от всех.\n\n#emphasis#Создано:#/emphasis# Стеном Ли и Джеком Кирби"
     },
     "PowerTables": [
       {
@@ -3231,7 +3231,7 @@
     "Bio": {
       "id": "15551886707658261890",
       "eng": "#emphasis#Real Name:#/emphasis# \"Victor Shade\"\n#emphasis#Identity:#/emphasis# Public\n\nThough originally designed to destroy the Avengers, the Vision would invariably become one of the team's strongest members. Created by Ultron, Vision was unleashed on the Avengers in order to lure them into a trap. Inspired by their plight, the synthezoid would reject his programming and join the super heroes in their quest to protect the world from threats like those of his \"father.\" Marrying his fellow teammate, the Scarlet Witch, Vision would solidify his position in the Avengers as not only a powerful combatant and brilliant strategist, but as one of the most human members of the team.\n\n#emphasis#Created by:#/emphasis# Roy Thomas and John Buscema\n#emphasis#First Appearance:#/emphasis# Avengers #57 (October 1968)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# \"Виктор Шейд\"\n#emphasis#Личность:#/emphasis# Публичная\n\nХоть он и был изначально создан для уничтожения Мстителей, Вижн в итоге стал одним из сильнейших членов их команды. Созданный Альтроном, Вижн был должен был заманить Мстителей в ловушку. Вдохновлённый их борьбой, синтезоид отверг свою программу и присоединился к супергероям в их миссии по защите мира от угроз — таких, как те, что исходили от его \"отца\". Брак с Алой Ведьмой, его напарницей по команде, закрепил позиции Вижна в Мстителях - теперь он считался не просто сильным бойцом и умным стратегом, но и также одним из самых человечных членов команды.\n\n#emphasis#Создано:#/emphasis# Роем Томасом и Джоном Буссемой\n#emphasis#Первое появление:#/emphasis# Мстители #57 (октябрь 1968)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# \"Виктор Шейд\"\n#emphasis#Личность:#/emphasis# Публичная\n\nХоть он и был изначально создан для уничтожения Мстителей, Вижн в итоге стал одним из сильнейших членов их команды. Созданный Альтроном, Вижн был должен был заманить Мстителей в ловушку. Вдохновлённый их борьбой, синтезоид отверг свою программу и присоединился к супергероям в их миссии по защите мира от угроз — таких, как те, что исходили от его \"отца\". Брак с Алой Ведьмой, его напарницей по команде, закрепил позиции Вижна в Мстителях - теперь он считался не просто сильным бойцом и умным стратегом, но и также одним из самых человечных членов команды.\n\n#emphasis#Создано:#/emphasis# Роем Томасом и Джоном Буссемой\n#emphasis#Первое появление:#/emphasis# Мстители #57 (октябрь 1968)"
     },
     "PowerTables": [
       {
@@ -3982,7 +3982,7 @@
             "Name": {
               "id": "11039573618003084554",
               "eng": "Flamethrower",
-              "rus": "Огнемет"
+              "rus": "Огнемёт"
             },
             "Desc": {
               "id": "11928716553679406399",
@@ -3999,7 +3999,7 @@
             "Desc": {
               "id": "13808527239817856323",
               "eng": "This multipurpose assault weapon launches a thermobaric warhead powerful enough to level a building, leaving a #emphasis#burning#/emphasis# inferno which should take care of anyone that survives the initial blast.",
-              "rus": "Многофункциональное штурмовое оружие, стреляет термобарическими боеприпасами, достаточно мощными, чтобы сравнять с землей дом, оставив на месте взрыва #emphasis#горящий#/emphasis# ад, в котором погибнут те, кто переживет сам взрыв."
+              "rus": "Многофункциональное штурмовое оружие, стреляющее термобарическими боеприпасами, достаточно мощными, чтобы сравнять с землей дом, оставив на месте взрыва #emphasis#горящий#/emphasis# ад, в котором погибнут те, кто переживет сам взрыв."
             }
           },
           {
@@ -4213,7 +4213,7 @@
             "Desc": {
               "id": "17051907467383080250",
               "eng": "Infuse your elemental gun with the power of #green#Air#/green# and fire a blast that bounces between multiple enemies.",
-              "rus": "Наполните свой элементный бластер силой #green#воздуха#/green# и сделайте выстрел, который будет рикошетом отскакивать от одного врага к другому.\r"
+              "rus": "Наполните свой элементный бластер силой #green#воздуха#/green# и сделайте выстрел, который будет рикошетом отскакивать от одного врага к другому."
             }
           },
           {
@@ -4445,7 +4445,7 @@
     "Bio": {
       "id": "11317837591383770478",
       "eng": "#emphasis#Real Name:#/emphasis# Eric Brooks\n#emphasis#Identity:#/emphasis# Secret\n\nBorn while a vampire fed on his mother, Eric Brooks would become something the world had never seen before. Affected by the vampire's curse, Eric was imbued with all their supernatural powers, but none of their weaknesses to garlic, silver, or sunlight, hence the vampires' epithet of \"Daywalker.\" Left an orphan and cursed with a vampiric thirst for blood, Eric would use his superhuman abilities to hunt the world's vampires in a quest to kill all who would doom him to this existence. Over the course of his unnaturally long lifetime he would eventually become the world's most prolific vampire hunter: Blade!\n#emphasis#Created By:#/emphasis# Marv Wolfman & Gene Colan\n#emphasis#First Appearance:#/emphasis# Tomb of Dracula #10 (July 1973)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Эрик Брукс\n#emphasis#Личность:#/emphasis# Секретная\n\nРожденный, пока вампир кормился его матерью, Эрик Брукс стал тем, чего мир никогда не видел прежде. Под влиянием вампирского проклятия Эрик был наделен всеми их сверхъестественными способностями, но без их слабостей к чесноку, серебру или солнечному свету, что и дало вампирам прозвище «Дневной охотник». Оставшись сиротой и проклятым вампирским жаждой крови, Эрик использовал свои сверхчеловеческие способности, чтобы охотиться на вампиров мира в стремлении убить всех, кто обрек его на это существование. На протяжении своей ненормально долгой жизни он в конечном итоге стал самым плодовитым охотником на вампиров в мире: Блэйд!\n#emphasis#Создано:#/emphasis# Марвом Уольфманом и Джином Коланом\n#emphasis#Первое появление:#/emphasis# Tomb of Dracula #10 (Июль 1973)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Эрик Брукс\n#emphasis#Личность:#/emphasis# Секретная\n\nРожденный, пока вампир кормился его матерью, Эрик Брукс стал тем, чего мир никогда не видел прежде. Под влиянием вампирского проклятия Эрик был наделен всеми их сверхъестественными способностями, но без их слабостей к чесноку, серебру или солнечному свету, что и дало вампирам прозвище «Дневной охотник». Оставшись сиротой и проклятым вампирским жаждой крови, Эрик использовал свои сверхчеловеческие способности, чтобы охотиться на вампиров мира в стремлении убить всех, кто обрек его на это существование. На протяжении своей ненормально долгой жизни он в конечном итоге стал самым плодовитым охотником на вампиров в мире: Блэйд!\n#emphasis#Создано:#/emphasis# Марвом Уольфманом и Джином Коланом\n#emphasis#Первое появление:#/emphasis# Tomb of Dracula #10 (Июль 1973)"
     },
     "PowerTables": [
       {
@@ -5189,7 +5189,7 @@
             "Desc": {
               "id": "4671547465106982219",
               "eng": "Charge up and launch a rocket-propelled arrow that lances through enemies and has an enhanced chance to critically hit.",
-              "rus": "Зарядите колоду и метните карты словно стрелы, которые рассекают врагов на расстоянии с повышенным шансом критического удара." 
+              "rus": "Зарядите колоду и метните карты словно стрелы, которые рассекают врагов на расстоянии с повышенным шансом критического удара."
             }
           },
           {
@@ -5358,7 +5358,7 @@
             "Desc": {
               "id": "4079346155860722996",
               "eng": "Unveil your hand and reach out to an enemy, sapping their strength for yourself.",
-              "rus": "Снимите перчатку и прикоснитесь к противнику, высасывая его силы и усивая себя."
+              "rus": "Снимите перчатку и коснитесь противника, поглощая его силы и забирая их себе."
             }
           },
           {
@@ -5439,7 +5439,7 @@
             "Desc": {
               "id": "4079346155860722996",
               "eng": "Unveil your hand and reach out to an enemy, sapping their strength for yourself.",
-              "rus": "Снимите перчатку и прикоснитесь к противнику, забирая его особую силу себе."
+              "rus": "Снимите перчатку и коснитесь противника, поглощая его силы и забирая их себе."
             }
           },
           {
@@ -5692,7 +5692,7 @@
             "Desc": {
               "id": "2135891987154535693",
               "eng": "Concentrate an accumulating stream of photons toward your enemies that grows into an irresistible torrent of energy.",
-              "rus": "Сконцентрируйте все увеличивающийся поток фотонов и направьте на ваших врагов несокрушимый шквал энергии."
+              "rus": "Сконцентрируйте всё увеличивающийся поток фотонов и направьте на своих врагов сокрушительный шквал энергии."
             }
           },
           {
@@ -5716,7 +5716,7 @@
             "Desc": {
               "id": "2091268711464961290",
               "eng": "Fire a precisely calculated optic beam that ricochets and banks off enemies, striking multiple targets.",
-              "rus": "Выпустите точно рассчитанный луч, который отрикошетит от врагов и поразит несколько целей.\r"
+              "rus": "Выпустите точно рассчитанный луч, который отрикошетит от врагов и поразит несколько целей."
             }
           },
           {
@@ -5785,19 +5785,19 @@
             "Desc": {
               "id": "14391545075750929741",
               "eng": "Direct Beast to clear a path, leaving enemies #emphasis#bleeding#/emphasis# after his ferocious assault. Afterwards, he'll return to your side, ready to carry out your commands.",
-              "rus": "Прикажите Зверю расчистить путь, оставив врагов #emphasis#истекать кровью#/emphasis# после его яростной атаки. Затем он вернётся к вам, ожидая дальнейших указаний." 
+              "rus": "Прикажите Зверю расчистить путь, оставив врагов #emphasis#истекать кровью#/emphasis# после его яростной атаки. Затем он вернётся к вам, ожидая дальнейших указаний."
             }
           },
           {
             "Name": {
               "id": "9892938876121646386",
               "eng": "Strike Team - Iceman",
-              "rus": "Ударная группа - Человек-Лед"
+              "rus": "Ударная группа - Человек-Лёд"
             },
             "Desc": {
               "id": "553205639617774867",
               "eng": "Iceman lends support by freezing an area with an ice beam that #emphasis#slows#/emphasis# and applies lasting damage to any enemies who tread through.",
-              "rus": "Человек-Лед заморозит обозначенную территорию ледяным лучом, который #emphasis#замедлит#/emphasis# всех врагов и нанесет им урон, продолжающийся с течением времени."
+              "rus": "Человек-Лёд заморозит обозначенную территорию ледяным лучом, который #emphasis#замедлит#/emphasis# всех врагов и нанесет им урон, продолжающийся с течением времени."
             }
           },
           {
@@ -5954,7 +5954,7 @@
             "Desc": {
               "id": "14002434481966089532",
               "eng": "Call down lightning that arcs between multiple enemies.",
-              "rus": "Призовите молнию, которая ударит в нескольких врагов.\r"
+              "rus": "Призовите молнию, которая ударит в нескольких врагов."
             }
           },
           {
@@ -6369,7 +6369,7 @@
             "Desc": {
               "id": "788415391879726397",
               "eng": "Strike an enemies with a blazing fist, dealing extra damage to #emphasis#burning#/emphasis# targets.",
-              "rus": "Ударьте врага пылающим кулаком, нанося дополнительный урон #emphasis#горящим#/emphasis# целям.\nЭта способность не активирует \"Горючий материал\"."
+              "rus": "Ударьте врага пылающим кулаком, нанося дополнительный урон #emphasis#горящим#/emphasis# целям."
             }
           },
           {
@@ -6461,7 +6461,7 @@
     "Name": {
       "id": "4845311078637307139",
       "eng": "Green Goblin",
-      "rus": "Зеленый Гоблин"
+      "rus": "Зелёный Гоблин"
     },
     "Desc": {
       "id": "Invalid",
@@ -6471,7 +6471,7 @@
     "Bio": {
       "id": "17352068562686903684",
       "eng": "#emphasis#Real Name:#/emphasis# Norman Osborn\n#emphasis#Identity:#/emphasis# Public\n\nNorman Osborn was never a very sane man. Growing up under an abusive father and the loss of his wife was enough to push any man over the edge, but Norman Osborn had much further to fall still. While reverse-engineering an experimental serum Norman created a volatile concoction that exploded in his face and finally drove him to become the violent madman, The Green Goblin!\nAlways thirsting for power the Green Goblin has made a career out of being stopped by his least favorite super hero, the Amazing Spider-Man. Yet ever the sly one, Osborn has always eluded punishment for his crimes as the Green Goblin, even becoming leader of the Thunderbolts and eventually being promoted to Director of H.A.M.M.E.R., S.H.I.E.L.D.'s replacement. Norman Osborn has a long and cruel list of crimes to atone for, but maybe, just maybe, he can do some good while he's trying to fool everyone.\n\n#emphasis#Created by:#/emphasis# Stan Lee and Steve Ditko\n#emphasis#First Appearance:#/emphasis# Amazing Spider-Man #14 (July 1964)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Норман Осборн\n#emphasis#Личность:#/emphasis# Публичная\n\nНорман Озборн никогда не был особо вменяемым человеком. Воспитание под гнётом жестокого отца и потеря жены могли бы сломать кого угодно, но Норману Озборну было суждено пасть куда глубже. Пытаясь воссоздать экспериментальную сыворотку, он создал нестабильный состав, который взорвался прямо ему в лицо и окончательно превратил его в буйного безумца — Зелёного гоблина! Вечно жаждущий власти, Гоблин сделал себе карьеру на том, что его раз за разом останавливал его самый нелюбимый супергерой — Невероятный Человек-паук. Однако, будучи хитрым, Озборн всегда уходил от наказания за свои преступления, он даже возглавил команду Громовержцев, а позже стал директором организации М.О.Л.ОТ., пришедшей на смену Щ.И.Т.у. Список злодеяний Нормана Озборна длинен и жесток, но, возможно, хоть что-то хорошее он и сделает — пока пытается всех обмануть.\n\n#emphasis#Создано:#/emphasis# Станом Ли и Стивом Дитко\n#emphasis#Первое появление:#/emphasis# Удивительный Человек-Паук #14 (Июль 1964)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Норман Осборн\n#emphasis#Личность:#/emphasis# Публичная\n\nНорман Озборн никогда не был особо вменяемым человеком. Воспитание под гнётом жестокого отца и потеря жены могли бы сломать кого угодно, но Норману Озборну было суждено пасть куда глубже. Пытаясь воссоздать экспериментальную сыворотку, он создал нестабильный состав, который взорвался прямо ему в лицо и окончательно превратил его в буйного безумца — Зелёного гоблина! Вечно жаждущий власти, Гоблин сделал себе карьеру на том, что его раз за разом останавливал его самый нелюбимый супергерой — Невероятный Человек-паук. Однако, будучи хитрым, Озборн всегда уходил от наказания за свои преступления, он даже возглавил команду Громовержцев, а позже стал директором организации М.О.Л.ОТ., пришедшей на смену Щ.И.Т.у. Список злодеяний Нормана Озборна длинен и жесток, но, возможно, хоть что-то хорошее он и сделает — пока пытается всех обмануть.\n\n#emphasis#Создано:#/emphasis# Станом Ли и Стивом Дитко\n#emphasis#Первое появление:#/emphasis# Удивительный Человек-Паук #14 (Июль 1964)"
     },
     "PowerTables": [
       {
@@ -6690,7 +6690,7 @@
             },
             "Desc": {
               "id": "5148991594612589825",
-              "eng": "Spider-Man once mocked this weapon in it's early prototyping stage. Let's see him mock it now.",
+              "eng": "Spider-Man once mocked this weapon in it's early prototyping stage.  Let's see him mock it now.",
               "rus": "Когда её еще разрабатывали, Человек Паук смеялся над этой пушкой. Посмотрим, будет ли он высмеивать её сейчас."
             }
           }
@@ -7007,7 +7007,7 @@
     "Bio": {
       "id": "14411269618553390395",
       "eng": "#emphasis#Real Name:#/emphasis# Elektra Natchios \n#emphasis#Identity:#/emphasis# Secret\n\nFrom a young age, Elektra Natchios trained in the martial arts well into her adulthood. But when Elektra's father—a Greek Ambassador—was killed in a terrorist abduction gone horribly wrong, she was convinced that the law had failed her. She then traveled afar to Japan to perfect her combat skills; taking matters into her own hands. Taught by both the ancient Chaste order and notorious Hand organization, she would later return home as an infamous assassin at the top of her game.\n\nBeing the best of the best, Elektra's clients include a large variety of the world's elite—from S.H.I.E.L.D. to Kingpin. Yet, she continuously crosses paths with her old college flame, Matt Murdock and his alter ego Daredevil. Elektra's adventures have led her far, wide, and back again. But this time the price is right, and she's here to get the job done.\n\n#emphasis#Created By:#/emphasis# Frank Miller\n#emphasis#First Appearance:#/emphasis# Daredevil #168 (January 1981)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Элекtra Начиос \n#emphasis#Личность:#/emphasis# Секретная\n\nС юных лет Элекtra Начиос тренировалась в боевых искусствах вплоть до взрослой жизни. Но когда отец Элекtra — греческий посол — был убит в результате ужасного террористического похищения, она была убеждена, что закон ее подвел. Она отправилась в Японию, чтобы отточить свои боевые навыки, взяв дело в свои руки. Обученная как древним орденом Чистых, так и печально известной организацией Рука, она позже вернулась домой как печально известный убийца на пике своей карьеры.\n\nБудучи лучшей из лучших, клиенты Элекtra включают в себя широкий круг мировых элит — от ЩИТа до Кингпина. Тем не менее, она постоянно пересекается со своим старым университетским романом, Мэттом Мердоком, и его альтер эго Сорвиголова. Приключения Элекtra привели ее далеко, широко и обратно. Но на этот раз цена верна, и она здесь, чтобы выполнить задание.\n\n#emphasis#Создано:#/emphasis# Фрэнк Миллер\n#emphasis#Первое появление:#/emphasis# Сорвиголова #168 (январь 1981)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Элекtra Начиос \n#emphasis#Личность:#/emphasis# Секретная\n\nС юных лет Элекtra Начиос тренировалась в боевых искусствах вплоть до взрослой жизни. Но когда отец Элекtra — греческий посол — был убит в результате ужасного террористического похищения, она была убеждена, что закон ее подвел. Она отправилась в Японию, чтобы отточить свои боевые навыки, взяв дело в свои руки. Обученная как древним орденом Чистых, так и печально известной организацией Рука, она позже вернулась домой как печально известный убийца на пике своей карьеры.\n\nБудучи лучшей из лучших, клиенты Элекtra включают в себя широкий круг мировых элит — от ЩИТа до Кингпина. Тем не менее, она постоянно пересекается со своим старым университетским романом, Мэттом Мердоком, и его альтер эго Сорвиголова. Приключения Элекtra привели ее далеко, широко и обратно. Но на этот раз цена верна, и она здесь, чтобы выполнить задание.\n\n#emphasis#Создано:#/emphasis# Фрэнк Миллер\n#emphasis#Первое появление:#/emphasis# Сорвиголова #168 (январь 1981)"
     },
     "PowerTables": [
       {
@@ -7305,14 +7305,14 @@
     "Bio": {
       "id": "8640462477789562215",
       "eng": "#emphasis#Real Name:#/emphasis# Thor Odinson\n#emphasis#Identity:#/emphasis#  Public\n\nThor is the Norse god of thunder and the son of Odin All-Father, ruler of Asgard. He wields the mystic hammer Mjolnir, which allows him to fly and to hurl bolts of lightning.\nThor was a founding member of the Avengers and frequently battles as one of their number. At times, Thor has used the secret identity of Donald Blake to walk among mortals, but he always returns to the halls of Asgard to hoist a tankard with his fellow gods.\n\n#emphasis#Created By:#/emphasis# Stan Lee and Jack Kirby\n#emphasis#First Appearance:#/emphasis# Journey into Mystery #83 (August 1962)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Тор Одинсон\n#emphasis#Личность:#/emphasis# открыта\n#emphasis#Рост:#/emphasis# 198 см\n#emphasis#Вес:#/emphasis# 290 кг\n\nТор - скандинавский бог грома, сын Всеотца Одина, правителя Асгарда. Он владеет волшебным молотом Мьельниром, с помощью которого может летать и метать молнии.\nТор - один из основателей Мстителей и часто сражается в их рядах. Иногда Тор скрывается под именем Дональда Блейка, чтобы общаться со смертными, но всегда возвращается в залы Асгарда, чтобы выпить кружечку с другими богами.\n\n#emphasis#Создатели:#/emphasis# Стэн Ли и Джек Керби\n#emphasis#Первое упоминание:#/emphasis# \"Journey into Mystery\" № 83 (август 1962 г.)"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Тор Одинсон\n#emphasis#Личность:#/emphasis# открыта\n#emphasis#Рост:#/emphasis# 198 см\n#emphasis#Вес:#/emphasis# 290 кг\n\nТор - скандинавский бог грома, сын Всеотца Одина, правителя Асгарда. Он владеет волшебным молотом Мьёльниром, с помощью которого может летать и метать молнии.\nТор - один из основателей Мстителей и часто сражается в их рядах. Иногда Тор скрывается под именем Дональда Блейка, чтобы общаться со смертными, но всегда возвращается в залы Асгарда, чтобы выпить кружечку с другими богами.\n\n#emphasis#Создатели:#/emphasis# Стэн Ли и Джек Керби\n#emphasis#Первое упоминание:#/emphasis# \"Journey into Mystery\" № 83 (август 1962 г.)"
     },
     "PowerTables": [
       {
         "Name": {
           "id": "14778026814461576467",
           "eng": "Master of Mjolnir",
-          "rus": "Хозяин Мьёльнира"
+          "rus": "Повелитель Мьёльнира"
         },
         "Powers": [
           {
@@ -7348,7 +7348,7 @@
             "Desc": {
               "id": "1838180655447213383",
               "eng": "Slam Mjolnir into the ground, #emphasis#knocking down#/emphasis# enemies and make them #emphasis#vulnerable#/emphasis# to subsequent attacks.",
-              "rus": "Ударить Мьельниром о землю, #emphasis#сбивая с ног#/emphasis# врагов и делая их #emphasis#уязвимыми#/emphasis# для дальнейших атак."
+              "rus": "Ударить Мьёльниром о землю, #emphasis#сбивая с ног#/emphasis# врагов и делая их #emphasis#уязвимыми#/emphasis# для дальнейших атак."
             }
           },
           {
@@ -7496,7 +7496,7 @@
             "Name": {
               "id": "11671206287530263814",
               "eng": "Bring the Thunder",
-              "rus": "Ярость Небес"
+              "rus": "Несущий Гром"
             },
             "Desc": {
               "id": "1834987304305296703",
@@ -7932,7 +7932,7 @@
             "Desc": {
               "id": "16257095066003375431",
               "eng": "Take flight and slam into the middle of a group of enemies, #emphasis#knocking them down#/emphasis#.",
-              "rus": "взмойте в воздух и силой обрушьтесь на группу врагов, #emphasis#сбивая их с ног#/emphasis#."
+              "rus": "Совершите прыжок с последующим ударом по области, #emphasis#сбивающим врагов с ног#/emphasis#."
             }
           },
           {
@@ -8163,7 +8163,7 @@
     "Bio": {
       "id": "17277167515596817776",
       "eng": "#emphasis#Real Name:#/emphasis# Max Eisenhardt\n#emphasis#Identity:#/emphasis# Public\n\nUtilizing his control over all electromagnetism, Magneto has used his powers for many purposes: leader of the Brotherhood, terrorist, and even X-Man. Once a close friend of Professor Charles Xavier, Magneto took a more extreme path against prejudice and used his powers to prove mutantkind's superiority by any means necessary. Not an unreasonable man by any means, Magneto has been known to work on the side of angels if he feels it will accomplish noble goals and this time is no different.\n\n#emphasis#Created By:#/emphasis# Stan Lee and Jack Kirby\n#emphasis#First Appearance:#/emphasis# X-Men #1 (September 1963)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Макс Эйзенхардт\n#emphasis#Личность:#/emphasis# Публичная\n\nИспользуя свой контроль над всем электромагнетизмом, Магнето применял свои силы для многих целей: лидер Братства, террорист и даже будучи с Людьми Икс. Когда-то близкий друг профессора Чарльза Ксавье, Магнето выбрал более радикальный путь борьбы против угнетения и использовал свои силы, чтобы доказать превосходство мутантов любыми необходимыми средствами. Не будучи совершенно безрассудным человеком, Магнето известен тем, что может работать на стороне и добра, если посчитает цели союзников достойными, и этот раз не исключение.\n\n#emphasis#Создано:#/emphasis# Станом Ли и Джеком Кирби\n#emphasis#Первое появление:#/emphasis# Люди Икс #1 (сентябрь 1963)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Макс Эйзенхардт\n#emphasis#Личность:#/emphasis# Публичная\n\nИспользуя свой контроль над всем электромагнетизмом, Магнето применял свои силы для многих целей: лидер Братства, террорист и даже будучи с Людьми Икс. Когда-то близкий друг профессора Чарльза Ксавье, Магнето выбрал более радикальный путь борьбы против угнетения и использовал свои силы, чтобы доказать превосходство мутантов любыми необходимыми средствами. Не будучи совершенно безрассудным человеком, Магнето известен тем, что может работать на стороне и добра, если посчитает цели союзников достойными, и этот раз не исключение.\n\n#emphasis#Создано:#/emphasis# Станом Ли и Джеком Кирби\n#emphasis#Первое появление:#/emphasis# Люди Икс #1 (сентябрь 1963)"
     },
     "PowerTables": [
       {
@@ -8681,7 +8681,7 @@
             "Desc": {
               "id": "2024341262589822219",
               "eng": "Mount up and stomp skulls in style with the legendary Thanosbuster mech-suit.\nGain access to rockets, flamethrower and thrusters while piloting the Mech.",
-              "rus": "Легендарный бронекостюм \"Танособой\" - это боевая мощь и стиль при ходьбе по вражеским головам!\nВ бронекостюме вам доступны ракеты, огнемет и ускорители."
+              "rus": "Легендарный бронекостюм \"Танособой\" - это боевая мощь и стиль при ходьбе по вражеским головам!\nВ бронекостюме вам доступны ракеты, огнемёт и ускорители."
             }
           }
         ]
@@ -8826,7 +8826,7 @@
             "Desc": {
               "id": "1735046748156986629",
               "eng": "Grab hold of your hellbike as it surges upwards. Then hurl it back to the infernal depths, causing an enourmous rift of #emphasis#Hellfire#/emphasis#, scorching and #emphasis#knocking up#/emphasis# any nearby enemies.",
-              "rus": "Ухватитесь за свой адский мотоцикл, когда он взлетает "свечкой" вверх. А затем обрушьте его обратно в глубины ада, создав чудовищный провал, наполненный #emphasis#адским пламенем#/emphasis#, обжигая и #emphasis#отбрасывая#/emphasis# всех врагов."
+              "rus": "Ухватитесь за свой адский мотоцикл, когда он взлетает \"свечкой\" вверх. А затем обрушьте его обратно в глубины ада, создав чудовищный провал, наполненный #emphasis#адским пламенем#/emphasis#, обжигая и #emphasis#отбрасывая#/emphasis# всех врагов."
             }
           },
           {
@@ -8895,7 +8895,7 @@
             "Desc": {
               "id": "15172256721486480658",
               "eng": "Blast enemies in front of you with beams of potent magical energies.",
-              "rus": "Разите врагов лучами могущественной магической энергии."
+              "rus": "Поразите находящихся перед вами врагов лучами могущественной магической энергии."
             }
           },
           {
@@ -9241,7 +9241,7 @@
             "Desc": {
               "id": "12969971214983497017",
               "eng": "Leap away from combat and fire a thick wad of webbing back at any pursuers, damaging and #emphasis#immobilizing#/emphasis# them.",
-              "rus": "Выйдите из боя прыжком и выстрелите в преследователей большим зарядом паутины, нанеся им урон и #emphasis#обездвижив#/emphasis# их."
+              "rus": "Отпрыгните немедленном выходят из боя и выстрелите в преследователей зарядом паутины, нанеся им урон и #emphasis#обездвижив#/emphasis# их."
             }
           },
           {
@@ -9421,7 +9421,7 @@
             },
             "Desc": {
               "id": "18166600559012939068",
-              "eng": "Inflict agony undreamt of by channeling the raw destructive power of Faltine.",
+              "eng": "Inflict agony undreamt of by channeling the raw destructive power of Faltine.  ",
               "rus": "Ниспошли муки, неведомые смертным, направив на врага необузданную разрушительную силу Фелтайна."
             }
           },
@@ -9813,7 +9813,7 @@
             "Desc": {
               "id": "6341036858331104576",
               "eng": "Fire a 10,000 volt charge of electricity that arcs between targets and is strong enough to bring enemies to their knees.",
-              "rus": "Выстрелите электрическим зарядом в 10 тысяч вольт, который ударит в нескольких врагов и повергнет их на колени."
+              "rus": "Выстрелите электрическим зарядом в 10 тысяч вольт, который ударит сразу нескольких врагов и повергнет их на колени."
             }
           },
           {
@@ -9951,7 +9951,7 @@
     "Bio": {
       "id": "15424076993539147123",
       "eng": "#emphasis#Real Name:#/emphasis# Robert Louis Drake\n#emphasis#Identity:#/emphasis# Secret\n\nOne of the original five X-Men, Bobby Drake has been a super hero since he was a teenager. Using his powers of Thermokinesis (the ability to control and project extreme temperature, in Bobby's case, ice) Iceman has been a valuable asset to the heroic community for quite some time. Having served as an X-Man, Defender, member of X-Factor and even a champion, he has put his Omega Level powers to the test against a large range of foes.\n\n#emphasis#Created By:#/emphasis# Stan Lee and Jack Kirby\n#emphasis#First Appearance:#/emphasis# X-Men #1 (September 1963)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Роберт Луис Дрейк\n#emphasis#Личность:#/emphasis# Секретная\n\nОдин из первых пяти Людей Икс, Бобби Дрейк является супергероем с подросткового возраста. Используя свои способности термокинеза (умение контролировать и проецировать экстремальные температуры, в случае Бобби — лед), Человек-лёд стал ценным активом для героического сообщества на протяжении долгого времени. Он был членом Людей Икс, Защитников, Икс Фактор (и даже стал чемпионом последних), и не раз проверил свои силы уровня Омега в сражениях с множеством врагов.\n\n#emphasis#Создано:#/emphasis# Станом Ли и Джеком Кирби\n#emphasis#Первое появление:#/emphasis# Люди Икс #1 (сентябрь 1963)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Роберт Луис Дрейк\n#emphasis#Личность:#/emphasis# Секретная\n\nОдин из первых пяти Людей Икс, Бобби Дрейк является супергероем с подросткового возраста. Используя свои способности термокинеза (умение контролировать и проецировать экстремальные температуры, в случае Бобби — лед), Человек-лёд стал ценным активом для героического сообщества на протяжении долгого времени. Он был членом Людей Икс, Защитников, Икс Фактор (и даже стал чемпионом последних), и не раз проверил свои силы уровня Омега в сражениях с множеством врагов.\n\n#emphasis#Создано:#/emphasis# Станом Ли и Джеком Кирби\n#emphasis#Первое появление:#/emphasis# Люди Икс #1 (сентябрь 1963)"
     },
     "PowerTables": [
       {
@@ -9994,7 +9994,7 @@
             "Desc": {
               "id": "10690196526894810375",
               "eng": "Hold down the hotkey to unleash a continuous cascade of ice from both hands.",
-              "rus": "Удерживайте горячую клавишу, чтобы выпустить непрерывный каскад ледяных осколков."
+              "rus": "Удерживайте горячую клавишу, чтобы создать непрерывный поток льда из обеих рук."
             }
           },
           {
@@ -10118,7 +10118,7 @@
             "Name": {
               "id": "12276276289513194826",
               "eng": "Work of Art",
-              "rus": "Произведение искусства"
+              "rus": "Шедевр"
             },
             "Desc": {
               "id": "6365644851914147078",
@@ -10368,7 +10368,7 @@
             "Name": {
               "id": "3475338170515588406",
               "eng": "Torqued Shield Throw",
-              "rus": "Крученый бросок щита"
+              "rus": "Кручёный бросок щита"
             },
             "Desc": {
               "id": "14765582576271689020",
@@ -10554,7 +10554,7 @@
             "Desc": {
               "id": "16260179831764616509",
               "eng": "Fire a cosmic beam that strikes multiple nearby enemies.",
-              "rus": "Выстрелите космическим лучом, который поражает противников поблизости.\r"
+              "rus": "Выстрелите космическим лучом, который поражает противников поблизости."
             }
           },
           {
@@ -10779,8 +10779,8 @@
     },
     "Desc": {
       "id": "753527694656668991",
-      "eng": "The ultimate metal powerhouse, Piotr Rasputin is a heroic icon of the X-Men who specializes in brawling, tanking and protecting those who need to be protected. Вместе с Росомахой они устраивают сокрушительные атаки, а его сестра Магик обеспечивает мистическую поддержку в бою.",
-      "rus": "Легендарный металлический гигант, Пётр Распутин, является одним из символов команды Людей Икс, который специализируется на ближнем бою, танковании и защите тех, кто в ней нуждается. В бою его часто сопровождает Росомаха, вместе с которым они выполняют спец.атаку, а также его сестра Мэджик."
+      "eng": "The ultimate metal powerhouse, Piotr Rasputin is a heroic icon of the X-Men who specializes in brawling, tanking and protecting those who need to be protected. He will often be joined in battle by Wolverine via his Fastball Special move and by his sister Magik.",
+      "rus": "Легендарный металлический гигант, Пётр Распутин это символ героизма Людей Икс, который специализируется на ближнем бою, танковании и защите тех, кто в ней нуждается. В бою к нему часто присоединяется Росомаха для \"Особой подачи\", а также его сестра Мэджик."
     },
     "Bio": {
       "id": "2798023013411063143",
@@ -10952,7 +10952,7 @@
             "Name": {
               "id": "5567540779055777078",
               "eng": "Call Illyana",
-              "rus": "Позвовите Ильяну"
+              "rus": "Вызов Ильяны"
             },
             "Desc": {
               "id": "4492790728666449212",
@@ -11085,7 +11085,7 @@
             "Name": {
               "id": "1806810665269265712",
               "eng": "Apprehend",
-              "rus": "Арестуй"
+              "rus": "Захват"
             },
             "Desc": {
               "id": "10365347319770514752",
@@ -11109,7 +11109,7 @@
             "Name": {
               "id": "11200200494317176078",
               "eng": "Nunchuck Beatdown",
-              "rus": "Круговерть нунчак"
+              "rus": "Драка нунчаками"
             },
             "Desc": {
               "id": "1726249684534297915",
@@ -11323,7 +11323,7 @@
     "Name": {
       "id": "4255515015523009797",
       "eng": "Invisible Woman",
-      "rus": "Женщина невидимка"
+      "rus": "Женщина-Невидимка"
     },
     "Desc": {
       "id": "Invalid",
@@ -11619,7 +11619,7 @@
     "Bio": {
       "id": "7971432501396112648",
       "eng": "#emphasis#Real Name:#/emphasis# Jennifer Walters \n#emphasis#Identity:#/emphasis# Public\n\nSeriously wounded after a gangland shooting, attorney Jennifer Walters received an emergency blood transfusion from her cousin, Bruce Banner, aka The Incredible Hulk! Transformed by the blood transfusion, Walters received a milder version of her cousin's powers. She was large, green, and impossibly strong, but she still retained her intellect.  Choosing to spend all her time as The Sensational She-Hulk, Jen Walters has served on the Avengers, the Defenders, the Lady Liberators, and has built a reputation as a brilliant attorney for the super hero community.  \n\n\n\n#emphasis#Created By:#/emphasis# Stan Lee and John Buscema\n",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Дженнифер Уолтерс \n#emphasis#Личность:#/emphasis# Публичная\n\nСерьезно раненая после стрельбы в криминальной среде, адвокат Дженнифер Уолтерс получила экстренное переливание крови от своего кузена, Брюса Бэннера, также известного как Невероятный Халк! Трансформировавшись из-за переливания крови, Уолтерс получила более мягкую версию сил своего кузена. Она точно также стала более крупной, зеленой и невероятно сильной, но при этом сохранила свой интеллект. Выбрав проводить все свое время в образе Удивительной Женщины-Халк, Джен Уолтерс состояла в Мстителях, Защитниках, Леди Освободительницах и заработала репутацию блестящего адвоката для сообщества супергероев. \n\n\n\n#emphasis#Создано:#/emphasis# Станом Ли и Джоном Бусимой\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Дженнифер Уолтерс \n#emphasis#Личность:#/emphasis# Публичная\n\nСерьезно раненая после стрельбы в криминальной среде, адвокат Дженнифер Уолтерс получила экстренное переливание крови от своего кузена, Брюса Бэннера, также известного как Невероятный Халк! Трансформировавшись из-за переливания крови, Уолтерс получила более мягкую версию сил своего кузена. Она точно также стала более крупной, зеленой и невероятно сильной, но при этом сохранила свой интеллект. Выбрав проводить все свое время в образе Удивительной Женщины-Халк, Джен Уолтерс состояла в Мстителях, Защитниках, Леди Освободительницах и заработала репутацию блестящего адвоката для сообщества супергероев. \n\n\n\n#emphasis#Создано:#/emphasis# Станом Ли и Джоном Бусимой"
     },
     "PowerTables": [
       {
@@ -12125,7 +12125,7 @@
             "Desc": {
               "id": "18142723719114982708",
               "eng": "Mentally project an image of yourself into the minds of your foes, causing them to fight something that isn't really there.",
-              "rus": "Создайте ментальную проекцию себя в сознании врагов, на некоторое время заставляя их атаковать пустоту."
+              "rus": "Создайте ментальную проекцию себя в сознании врагов, заставив их сражаться с воображением."
             }
           },
           {
@@ -12203,7 +12203,7 @@
     "Bio": {
       "id": "8022553358227735818",
       "eng": "#emphasis#Real Name:#/emphasis# Felicia Hardy\n#emphasis#Identity:#/emphasis# Public\n\nIdolizing her father, himself a famous burglar, Felicia Hardy taught herself safe cracking, lock picking, and other thievery techniques. After failing to break out her father, she took up the persona of Black Cat full-time, seeking to continue her father's legacy. Though she always walks the line between hero and criminal, at the end of the day, she can be counted on to do the right thing.\n\n#emphasis#Created By:#/emphasis# Marv Wolfman and Keith Pollard\n#emphasis#First Appearance:#/emphasis# The Amazing Spider-Man #194 (July 1979)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Фелиция Харди\n#emphasis#Личность:#/emphasis# Публичная\n\nПодражая своему отцу, который сам был известным вором, Фелиция Харди научилась вскрывать сейфы, подбирать замки и другим техникам воровства. После неудачной попытки вытащить своего отца, она полностью приняла личность Черной Кошки, стремясь продолжить наследие своего отца. Хотя она всегда балансирует на грани между героем и преступником, в конце концов, на нее можно положиться, что она сделает правильный выбор.\n\n#emphasis#Создано:#/emphasis# Марвом Вулфманом и Китом Поллардом\n#emphasis#Первое появление:#/emphasis# Человек-паук #194 (Июль 1979)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Фелиция Харди\n#emphasis#Личность:#/emphasis# Публичная\n\nПодражая своему отцу, который сам был известным вором, Фелиция Харди научилась вскрывать сейфы, подбирать замки и другим техникам воровства. После неудачной попытки вытащить своего отца, она полностью приняла личность Черной Кошки, стремясь продолжить наследие своего отца. Хотя она всегда балансирует на грани между героем и преступником, в конце концов, на нее можно положиться, что она сделает правильный выбор.\n\n#emphasis#Создано:#/emphasis# Марвом Вулфманом и Китом Поллардом\n#emphasis#Первое появление:#/emphasis# Человек-паук #194 (Июль 1979)"
     },
     "PowerTables": [
       {
@@ -12520,7 +12520,7 @@
             "Desc": {
               "id": "9881622586498745670",
               "eng": "Catch your opponents off-guard with a series of jabs that get faster the more Momentum you have built up.",
-              "rus": "Поймате противников врасплох серией коротких прямых ударов, которые тем быстрее, чем больше накоплено моментума."
+              "rus": "Поймате противников врасплох серией коротких прямых ударов, которые тем быстрее, чем больше накоплено Моментума."
             }
           },
           {
@@ -12649,7 +12649,7 @@
             "Desc": {
               "id": "2008310116831528256",
               "eng": "Juggernaut channels the unending wrath of Cyttorak through his fists and slams them into the ground, causing a massively destructive shockwave.",
-              "rus": "Джаггернаут высвобождает бесконечный гнев Ситторака, лупя кулаками по земле так, что возникает мощная сейсмическая волна.\nПерезарядка общая со способностью \"$powerReference0.powerName$\"."
+              "rus": "Джаггернаут высвобождает бесконечный гнев Ситторака, лупя кулаками по земле так, что возникает мощная сейсмическая волна."
             }
           },
           {
@@ -12753,12 +12753,12 @@
     "Name": {
       "id": "10384050094155367736",
       "eng": "Squirrel Girl",
-      "rus": "Девушка-белка"
+      "rus": "Девушка-Белка"
     },
     "Desc": {
       "id": "5259736012149097790",
       "eng": "Squirrel Girl has strong claws and fierce agility, but frankly, no one is entirely sure how she manages to defeat the enemies she faces.",
-      "rus": "У Девочки-Белочки - мощные когти, она невероятно подвижна, но, честно говоря, никто не по-настоящему не понимает, как ей удается справляться с такими врагами."
+      "rus": "Девушка-Белка имеет мощные когти, она невероятно подвижна, но, честно говоря, никто не по-настоящему не понимает, как ей удается справляться с такими врагами."
     },
     "Bio": {
       "id": "6400340920712693108",
@@ -13011,7 +13011,7 @@
             "Name": {
               "id": "13620756449372407111",
               "eng": "Squirrel Friends",
-              "rus": "Мои друзья-белки"
+              "rus": "Друзья-белки"
             },
             "Desc": {
               "id": "Invalid",
@@ -13232,7 +13232,7 @@
             },
             "Desc": {
               "id": "1635703403052008774",
-              "eng": "Hold down the hotkey to set your ribbons to pummel enemies directly in front of you. ",
+              "eng": "Hold down the hotkey to set your ribbons to pummel enemies directly in front of you.",
               "rus": "Удерживайте горячую клавишу, чтобы ваши ленты атакаковали врагов находящихся перед вами."
             }
           },
@@ -13323,7 +13323,7 @@
     "Bio": {
       "id": "10884421940285605177",
       "eng": "#emphasis#Real Name:#/emphasis# Daniel \"Danny\" Rand\n#emphasis#Identity:#/emphasis# Secret\n\nRaised in the mystical city of K'un-L'un, Danny Rand sought vengeance on the man he blamed for the death of his parents. Driven by vengeance, Danny was tutored by Lei Kung the Thunderer in the ways of martial arts. Excelling at his training, Danny was given the opportunity to take the sacred mantle of \"Iron Fist\" by fighting the dragon Shou-Lao the Undying and plunging his hands into its molten heart, rendering his hands \"like unto iron.\" Upon finding the man responsible for his parents' death, Danny chose to forgive him and would instead use his skills to help people, eventually putting him on the path to form Heroes for Hire with his new and like-minded friend, Luke Cage.\n#emphasis#Created By:#/emphasis# Roy Thomas, Gill Kane, & Bill Everett\n#emphasis#First Appearance:#/emphasis# Marvel Premiere #15 (May 1974)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Дэниел \"Дэнни\" Рэнд\n#emphasis#Личность:#/emphasis# Тайная\n\nВыросший в мистическом городе Кунь-Лунь, Дэнни Рэнд искал мести человеку, которого он винит в смерти своих родителей. Вдохновленный местью, Дэнни обучался у Лей Кунга Громовержца искусствам боя. Совершествуясь в своем обучении, Дэнни получил возможность принять священное звание \"Железный Кулак\", сразившись с драконом Шоу-Лао Бессмертным и погрузив свои руки в его расплавленное сердце, сделав свои руки \"как железо\". Найдя человека, ответственного за смерть своих родителей, Дэнни решил простить его и вместо этого использовать свои навыки, чтобы помогать людям, в конечном итоге став на путь создания \"Героев на заказ\" со своим новым другом, Люком Кейджем, который разделял его взгляды.\n#emphasis#Создано:#/emphasis# Рой Томас, Гилл Кейн и Билл Эверетт\n#emphasis#Первое появление:#/emphasis# Marvel Premiere #15 (май 1974)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Дэниел \"Дэнни\" Рэнд\n#emphasis#Личность:#/emphasis# Тайная\n\nВыросший в мистическом городе Кунь-Лунь, Дэнни Рэнд искал мести человеку, которого он винит в смерти своих родителей. Вдохновленный местью, Дэнни обучался у Лей Кунга Громовержца искусствам боя. Совершествуясь в своем обучении, Дэнни получил возможность принять священное звание \"Железный Кулак\", сразившись с драконом Шоу-Лао Бессмертным и погрузив свои руки в его расплавленное сердце, сделав свои руки \"как железо\". Найдя человека, ответственного за смерть своих родителей, Дэнни решил простить его и вместо этого использовать свои навыки, чтобы помогать людям, в конечном итоге став на путь создания \"Героев на заказ\" со своим новым другом, Люком Кейджем, который разделял его взгляды.\n#emphasis#Создано:#/emphasis# Рой Томас, Гилл Кейн и Билл Эверетт\n#emphasis#Первое появление:#/emphasis# Marvel Premiere #15 (май 1974)"
     },
     "PowerTables": [
       {
@@ -13926,7 +13926,7 @@
             "Desc": {
               "id": "761240738659239230",
               "eng": "Hurl your shield, sending it ricocheting between your enemies, lacerating their faces.",
-              "rus": "Метните щит, заставив его отлетать рикошетом от врага к врагу, разбивая лица противникам.\r"
+              "rus": "Метните щит, заставив его отлетать рикошетом от врага к врагу, разбивая лица противникам."
             }
           },
           {
@@ -14211,7 +14211,7 @@
             },
             "Desc": {
               "id": "6101773481562866948",
-              "eng": "Conjure a blasting hex that's easy to fire and even easier to fire quickly.",
+              "eng": "Conjure a blasting hex that's easy to fire and even easier to fire quickly.  ",
               "rus": "Атакуйте простым, но быстрым магическим зарядом, который легко создать и еще проще отправить во врага."
             }
           },
@@ -14223,7 +14223,7 @@
             },
             "Desc": {
               "id": "18330256448134645063",
-              "eng": "Burst open a portal to the Chaos Dimension and unleash its dangerous energies on anything within the doorway.",
+              "eng": "Burst open a portal to the Chaos Dimension and unleash its dangerous energies on anything within the doorway. ",
               "rus": "Откройте портал в Измерение Хаоса и выпустите его опасные энергии на всё, что будет находиться рядом с этой дверью."
             }
           },
@@ -14388,7 +14388,7 @@
             },
             "Desc": {
               "id": "8816906919666124034",
-              "eng": "Prey on the weakest among your enemies and cast a spell that compounds damage to those already afflicted with negative effects.",
+              "eng": "Prey on the weakest among your enemies and cast a spell that compounds damage to those already afflicted with negative effects. ",
               "rus": "Поразите самых слабых врагов заклинанием, которое наносит урон уже страдающим от наложенных на них негативных эффектов противникам."
             }
           },
@@ -14796,7 +14796,7 @@
             "Desc": {
               "id": "456688945552688388",
               "eng": "Pummel enemies with a double-arm haymaker.",
-              "rus": "Сразите врагов парой сокрушительных ударов.\nПри полном наборе очков комбо вы добьете противника сокрушительным ударом локтем."
+              "rus": "Сразите врагов парой сокрушительных ударов."
             }
           },
           {
@@ -14868,7 +14868,7 @@
             "Desc": {
               "id": "1853459340171216191",
               "eng": "Throw a car that #emphasis#stuns#/emphasis#, and deals massive damage to all enemies hit.",
-              "rus": "Швырните машину, #emphasis#оглушая#/emphasis# врагов и нанося им большой урон."
+              "rus": "Швырнуть машину, #emphasis#оглушая#/emphasis# врагов и нанося им массивный урон."
             }
           }
         ]
@@ -14889,7 +14889,7 @@
             "Desc": {
               "id": "3985377760403719489",
               "eng": "Deal powerful blows to enemies with your fists.",
-              "rus": "Избейте противника сильными ударами кулаков.\r"
+              "rus": "Избейте противника сильными ударами кулаков."
             }
           },
           {
@@ -14913,7 +14913,7 @@
             "Desc": {
               "id": "1117646878743987507",
               "eng": "Dodge and weave while delivering a flurry of punches at enemies in front of you.",
-              "rus": "Уклоняйтесь от ударов, в тоже время беспощадно избивая врагов перед собой.\r"
+              "rus": "Уклоняйтесь от ударов, в тоже время беспощадно избивая врагов перед собой."
             }
           },
           {
@@ -15039,7 +15039,7 @@
     "Bio": {
       "id": "7914502770137564523",
       "eng": "#emphasis#Real Name:#/emphasis# Loki Laufeyson\n#emphasis#Identity:#/emphasis#  Public\n\nLoki is the Norse god of mischief and evil and the adopted son of Odin All-Father, the ruler of Asgard. He is crafty, clever, and resourceful, using sorcery to achieve his intricate goals.\n\nLoki resents the glory and acclaim given to his adoptive brother, Thor, and he strives to place himself on the throne of Asgard. However, on the rare occasions when his goals overlap with Thor or other heroes, Loki has been known to ally himself with those he would otherwise detest.\n\n#emphasis#Created By:#/emphasis# Don Rico, Stan Lee, Larry Lieber, and Jack Kirby\n#emphasis#First Appearance:#/emphasis# Journey into Mystery #85 (October 1962)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Локи Лауфейсон\n#emphasis#Личность:#/emphasis#  Публичная\n\nЛоки — норвежский бог озорства и зла, усыновленный сын Одина Всевышнего, правителя Асгарда. Он хитрый, умный и находчивый, использующий магию для достижения своих замысловатых целей.\n\nЛоки недоволен славой и признанием, которые получает его приемный брат Тор, и стремится занять трон Асгарда. Однако в редкие моменты, когда его цели пересекаются с Тором или другими героями, Локи известен тем, что объединяется с теми, кого он в противном случае ненавидел бы.\n\n#emphasis#Создан:#/emphasis# Дон Рико, Стан Ли, Ларри Либер и Джек Кирби\n#emphasis#Первое появление:#/emphasis# Путешествие в Тайну #85 (октябрь 1962)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Локи Лауфейсон\n#emphasis#Личность:#/emphasis#  Публичная\n\nЛоки — норвежский бог озорства и зла, усыновленный сын Одина Всевышнего, правителя Асгарда. Он хитрый, умный и находчивый, использующий магию для достижения своих замысловатых целей.\n\nЛоки недоволен славой и признанием, которые получает его приемный брат Тор, и стремится занять трон Асгарда. Однако в редкие моменты, когда его цели пересекаются с Тором или другими героями, Локи известен тем, что объединяется с теми, кого он в противном случае ненавидел бы.\n\n#emphasis#Создан:#/emphasis# Дон Рико, Стан Ли, Ларри Либер и Джек Кирби\n#emphasis#Первое появление:#/emphasis# Путешествие в Тайну #85 (октябрь 1962)"
     },
     "PowerTables": [
       {
@@ -15599,7 +15599,7 @@
     "Bio": {
       "id": "16586603681397933420",
       "eng": "#emphasis#Real Name:#/emphasis# Eddie Brock\n#emphasis#Identity:#/emphasis# Venom\n\nThough he started as a reporter for the Daily Globe, Eddie Brock's life took a drastic turn when he was overtaken by the alien symbiote (which was previously bonded with Peter Parker himself). Calling himself Venom, Eddie had one purpose: destroy Spider-Man at any cost for costing him his job. Having become content with not obliterating Spider-Man, Venom has since served on the side of angels from time to time, calling himself a \"Lethal Protector\" and enacting his own twisted brand of justice on those he deems even more twisted than he.\n\n#emphasis#Created By:#/emphasis# David Michelinie & Todd MacFarlane\n#emphasis#First Appearance:#/emphasis# The Amazing Spider-Man #299 (April 1988)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Эдди Брок\n#emphasis#Личность:#/emphasis# Веном\n\nХотя он начинал как репортер для Daily Globe, жизнь Эдди Брока кардинально изменилась, когда он был захвачен инопланетным симбиотом (который ранее был связан с самим Питером Паркером). Называя себя Веномом, Эдди имел одну цель: уничтожить Человека-паука любой ценой за то, что тот лишил его работы. Став довольным тем, что не уничтожил Человека-паука, Веном с тех пор время от времени служил на стороне ангелов, называя себя «Смертоносным Защитником» и осуществляя свою извращенную версию справедливости над теми, кого он считает еще более извращенными, чем он сам.\n\n#emphasis#Создано:#/emphasis# Дэвидом Мишелини и Тоддом Макафарлейном\n#emphasis#Первое появление:#/emphasis# The Amazing Spider-Man #299 (апрель 1988)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Эдди Брок\n#emphasis#Личность:#/emphasis# Веном\n\nХотя он начинал как репортер для Daily Globe, жизнь Эдди Брока кардинально изменилась, когда он был захвачен инопланетным симбиотом (который ранее был связан с самим Питером Паркером). Называя себя Веномом, Эдди имел одну цель: уничтожить Человека-паука любой ценой за то, что тот лишил его работы. Став довольным тем, что не уничтожил Человека-паука, Веном с тех пор время от времени служил на стороне ангелов, называя себя «Смертоносным Защитником» и осуществляя свою извращенную версию справедливости над теми, кого он считает еще более извращенными, чем он сам.\n\n#emphasis#Создано:#/emphasis# Дэвидом Мишелини и Тоддом Макафарлейном\n#emphasis#Первое появление:#/emphasis# The Amazing Spider-Man #299 (апрель 1988)"
     },
     "PowerTables": [
       {
@@ -16439,7 +16439,7 @@
             "Desc": {
               "id": "18142723719114982708",
               "eng": "Mentally project an image of yourself into the minds of your foes, causing them to fight something that isn't really there.",
-              "rus": "Создать ментальную проекцию себя в сознании врагов, заставив их сражаться с воображением."
+              "rus": "Создайте ментальную проекцию себя в сознании врагов, заставив их сражаться с воображением."
             }
           },
           {
@@ -16505,7 +16505,7 @@
     "Bio": {
       "id": "14266376848055272701",
       "eng": "#emphasis#Real Name:#/emphasis# Hank McCoy\n#emphasis#Identity:#/emphasis# Public\n\nBorn with his mutation, Henry McCoy's high intellect and unusually enlarged limbs brought him much hardship before seeking refuge at Xavier's School for Gifted Youngsters.  Until one fateful day when McCoy's scientific experiments went irreversibly wrong, enhancing his natural senses and constitution but inadvertently mutating him further with animal features such as claws, fangs, and fur.\n\nAs an original member of the X-Men, Hank's condition still continues to wildly mutate over time. Despite these challenges, he remains undeterred as the team's wittiest mutant of many talents. Genius. Athlete. X-Man. But to most, he is simply Beast.\n\n#emphasis#Created By:#/emphasis# Stan Lee and Jack Kirby\n#emphasis#First Appearance:#/emphasis# X-Men #1 (September, 1963)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Хэнк Макабой\n#emphasis#Личность:#/emphasis# Публичная\n\nРодившись с мутацией, высокий интеллект Генри Макабоя и необычно увеличенные конечности принесли ему много трудностей, прежде чем он нашел убежище в Школе для одаренных молодежи профессора Ксавье. До одного судьбоносного дня, когда научные эксперименты Макабоя пошли необратимо не так, усилив его естественные чувства и физическую форму, но невольно мутировав его дальше с животными чертами, такими как когти, клыки и шерсть.\n\nБудучи оригинальным членом Людей Икс, состояние Хэнка продолжает дико мутировать с течением времени. Несмотря на эти трудности, он остается непоколебимым как самый остроумный мутант команды с множеством талантов. Гений. Атлет. Люди Икс. Но для большинства он просто Зверь.\n\n#emphasis#Создано:#/emphasis# Станом Ли и Джеком Кирби\n#emphasis#Первое появление:#/emphasis# Люди Икс #1 (сентябрь, 1963)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Хэнк Макабой\n#emphasis#Личность:#/emphasis# Публичная\n\nРодившись с мутацией, высокий интеллект Генри Макабоя и необычно увеличенные конечности принесли ему много трудностей, прежде чем он нашел убежище в Школе для одаренных молодежи профессора Ксавье. До одного судьбоносного дня, когда научные эксперименты Макабоя пошли необратимо не так, усилив его естественные чувства и физическую форму, но невольно мутировав его дальше с животными чертами, такими как когти, клыки и шерсть.\n\nБудучи оригинальным членом Людей Икс, состояние Хэнка продолжает дико мутировать с течением времени. Несмотря на эти трудности, он остается непоколебимым как самый остроумный мутант команды с множеством талантов. Гений. Атлет. Люди Икс. Но для большинства он просто Зверь.\n\n#emphasis#Создано:#/emphasis# Станом Ли и Джеком Кирби\n#emphasis#Первое появление:#/emphasis# Люди Икс #1 (сентябрь, 1963)"
     },
     "PowerTables": [
       {
@@ -16729,7 +16729,7 @@
             "Name": {
               "id": "18138833140124026129",
               "eng": "Momentum",
-              "rus": "Импульс"
+              "rus": "Моментум"
             },
             "Desc": {
               "id": "Invalid",
@@ -17363,7 +17363,7 @@
     "Bio": {
       "id": "6183137247652349289",
       "eng": "#emphasis#Real Name:#/emphasis# Victor von Doom\n#emphasis#Identity:#/emphasis# Public\n\nVictor von Doom has not lived an easy life. Born in Latveria, Victor's mother was claimed by the demon Mephisto in a mystical deal gone wrong. The loss of his mother would be Victor's key motivating force, driving him to excel in the study of any way to free her from Mephisto's grasp: scientific or mystical. His studies would eventually bring him to New York State University alongside Reed Richards and Ben Grimm. Building a machine to save his mother, Victor was caught in the ensuing explosion that Reed Richards warned would happen. Expelled and with his face disfigured, Victor von Doom would eternally blame the future Mister Fantastic for his own failures. Even taking over his homeland of Latveria in order to utilize its resources for his schemes was not enough for Doom. Only the humiliation of cursed Richards and total global domination will sate the appetite of Doctor Doom!\n \n#emphasis#Created By:#/emphasis# Stan Lee and Jack Kirby \n#emphasis#First Appearance:#/emphasis# Fantastic Four #5 (July 1962)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Виктор фон Дум\n#emphasis#Личность:#/emphasis# Публичная\n\nВиктор фон Дум не жил легкой жизнью. Родившись в Латверии, мать Виктора была унесена демоном Мефисто в результате мистической сделки, которая пошла не так. Утрата матери стала ключевой движущей силой для Виктора, побуждая его преуспевать в изучении любых способов освободить её от власти Мефисто: научных или мистических. Его исследования в конечном итоге привели его в Университет штата Нью-Йорк вместе с Ридом Ричардсом и Беном Гриммом. Создав машину, чтобы спасти свою мать, Виктор попал в последовавший взрыв, о котором предупреждал Рид Ричардс. Исключенный и с изуродованным лицом, Виктор фон Дум будет вечно винить будущего Мистера Фантастика в своих собственных неудачах. Даже захват его родины Латверии, чтобы использовать её ресурсы для своих планов, не был достаточен для Дума. Только унижение проклятого Ричардса и полное мировое господство удовлетворят жажду Доктора Дума!\n \n#emphasis#Создано:#/emphasis# Станом Ли и Джеком Кирби \n#emphasis#Первое появление:#/emphasis# Фантастическая Четверка #5 (Июль 1962)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Виктор фон Дум\n#emphasis#Личность:#/emphasis# Публичная\n\nВиктор фон Дум не жил легкой жизнью. Родившись в Латверии, мать Виктора была унесена демоном Мефисто в результате мистической сделки, которая пошла не так. Утрата матери стала ключевой движущей силой для Виктора, побуждая его преуспевать в изучении любых способов освободить её от власти Мефисто: научных или мистических. Его исследования в конечном итоге привели его в Университет штата Нью-Йорк вместе с Ридом Ричардсом и Беном Гриммом. Создав машину, чтобы спасти свою мать, Виктор попал в последовавший взрыв, о котором предупреждал Рид Ричардс. Исключенный и с изуродованным лицом, Виктор фон Дум будет вечно винить будущего Мистера Фантастика в своих собственных неудачах. Даже захват его родины Латверии, чтобы использовать её ресурсы для своих планов, не был достаточен для Дума. Только унижение проклятого Ричардса и полное мировое господство удовлетворят жажду Доктора Дума!\n \n#emphasis#Создано:#/emphasis# Станом Ли и Джеком Кирби \n#emphasis#Первое появление:#/emphasis# Фантастическая Четверка #5 (Июль 1962)"
     },
     "PowerTables": [
       {
@@ -17709,7 +17709,7 @@
     "Bio": {
       "id": "12076136680373224712",
       "eng": "#emphasis#Real Name:#/emphasis# Scott Edward Harris Lang\n#emphasis#Identity:#/emphasis# Public\n\nThough a brilliant electronics expert, Scott Lang had made his share of bad decisions. Having served time in prison for burglary, Scott would return to his life of crime in order to save his terminally ill daughter, Cassie. Stealing the Ant-Man suit from Hank Pym, Scott would use the suit to save Dr. Erica Sondheim, the only doctor capable of saving Cassie from her heart condition. Once he realized that Scott was only trying to do the right thing, Hank Pym not only let Scott keep the suit, but gave him his blessing as the brand new Ant-Man!\n \n#emphasis#Created By:#/emphasis# David Michelinie & John Byrne \n#emphasis#First Appearance:#/emphasis# Avengers #181 (March 1979)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Скотт Эдвард Харрис Лэнг\n#emphasis#Личность:#/emphasis# Публичная\n\nХотя он был блестящим экспертом в области электроники, Скотт Лэнг совершил немало плохих решений. Отбыв срок в тюрьме за кражу, Скотт вернулся к преступной жизни, чтобы спасти свою смертельно больную дочь, Кэсси. Украдя костюм Человека-муравья у Хэнка Пима, Скотт использовал костюм, чтобы спасти доктора Эрику Сондхайм, единственного врача, способного спасти Кэсси от ее сердечного заболевания. Как только Хэнк Пим понял, что Скотт просто пытается сделать правильное дело, он не только позволил Скотту оставить костюм, но и дал ему свое благословение как новому Человеку-муравью!\n \n#emphasis#Создано:#/emphasis# Дэвидом Мишелини и Джоном Бирном \n#emphasis#Первое появление:#/emphasis# Мстители #181 (март 1979)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Скотт Эдвард Харрис Лэнг\n#emphasis#Личность:#/emphasis# Публичная\n\nХотя он был блестящим экспертом в области электроники, Скотт Лэнг совершил немало плохих решений. Отбыв срок в тюрьме за кражу, Скотт вернулся к преступной жизни, чтобы спасти свою смертельно больную дочь, Кэсси. Украдя костюм Человека-муравья у Хэнка Пима, Скотт использовал костюм, чтобы спасти доктора Эрику Сондхайм, единственного врача, способного спасти Кэсси от ее сердечного заболевания. Как только Хэнк Пим понял, что Скотт просто пытается сделать правильное дело, он не только позволил Скотту оставить костюм, но и дал ему свое благословение как новому Человеку-муравью!\n \n#emphasis#Создано:#/emphasis# Дэвидом Мишелини и Джоном Бирном \n#emphasis#Первое появление:#/emphasis# Мстители #181 (март 1979)"
     },
     "PowerTables": [
       {
