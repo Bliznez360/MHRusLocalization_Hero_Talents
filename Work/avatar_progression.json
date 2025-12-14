@@ -15034,12 +15034,12 @@
     "Desc": {
       "id": "7793885670266766706",
       "eng": "Loki uses illusions and sorcery to trick and overwhelm his enemies.",
-      "rus": "Локи использует иллюзии и колдовство с помощью которых побеждает своих врагов."
+      "rus": "Локи использует иллюзии и колдовство, чтобы обмануть и одолеть своих врагов."
     },
     "Bio": {
       "id": "7914502770137564523",
       "eng": "#emphasis#Real Name:#/emphasis# Loki Laufeyson\n#emphasis#Identity:#/emphasis#  Public\n\nLoki is the Norse god of mischief and evil and the adopted son of Odin All-Father, the ruler of Asgard. He is crafty, clever, and resourceful, using sorcery to achieve his intricate goals.\n\nLoki resents the glory and acclaim given to his adoptive brother, Thor, and he strives to place himself on the throne of Asgard. However, on the rare occasions when his goals overlap with Thor or other heroes, Loki has been known to ally himself with those he would otherwise detest.\n\n#emphasis#Created By:#/emphasis# Don Rico, Stan Lee, Larry Lieber, and Jack Kirby\n#emphasis#First Appearance:#/emphasis# Journey into Mystery #85 (October 1962)",
-      "rus": "#emphasis#Настоящее имя:#/emphasis# Локи Лауфейсон\n#emphasis#Личность:#/emphasis#  Публичная\n\nЛоки — норвежский бог коварства и зла, усыновленный сын Одина Всевышнего, правителя Асгарда. Он хитрый, умный и находчивый, использующий магию для достижения своих замысловатых целей.\n\nЛоки недоволен славой и признанием, которые получает его приемный брат Тор, и стремится занять трон Асгарда. Однако в редкие моменты, когда его цели пересекаются с Тором или другими героями, Локи известен тем, что объединяется с теми, кого он в противном случае ненавидел бы.\n\n#emphasis#Создан:#/emphasis# Дон Рико, Стан Ли, Ларри Либер и Джек Кирби\n#emphasis#Первое появление:#/emphasis# Путешествие в Тайну #85 (октябрь 1962)\n"
+      "rus": "#emphasis#Настоящее имя:#/emphasis# Локи Лауфейсон\n#emphasis#Личность:#/emphasis#  Публичная\n\nЛоки — норвежский бог озорства и зла, усыновленный сын Одина Всевышнего, правителя Асгарда. Он хитрый, умный и находчивый, использующий магию для достижения своих замысловатых целей.\n\nЛоки недоволен славой и признанием, которые получает его приемный брат Тор, и стремится занять трон Асгарда. Однако в редкие моменты, когда его цели пересекаются с Тором или другими героями, Локи известен тем, что объединяется с теми, кого он в противном случае ненавидел бы.\n\n#emphasis#Создан:#/emphasis# Дон Рико, Стан Ли, Ларри Либер и Джек Кирби\n#emphasis#Первое появление:#/emphasis# Путешествие в Тайну #85 (октябрь 1962)\n"
     },
     "PowerTables": [
       {
@@ -15287,7 +15287,7 @@
             "Name": {
               "id": "5393342106739934525",
               "eng": "Lord of Lies",
-              "rus": "Бог обмана"
+              "rus": "Владыка Лжи"
             },
             "Desc": {
               "id": "Invalid",
