@@ -3327,11 +3327,11 @@
   },
   "832": {
     "en_us": "Mister Tosetti",
-    "ru_ru": "Мистер Тозетти"
+    "ru_ru": "Мистер Тосетти"
   },
   "833": {
     "en_us": "As Captain America, defeat 20 #purplecard#super villains#/purplecard# in #purplecard#Midtown Patrol#/purplecard# using #purplecard#ranged powers#/purplecard# as the finishing blow.",
-    "ru_ru": "Играя за Капитана Америку, победите 20 #purplecard#суперзлодеев#/purplecard# в #purplecard#Патруле Мидтауна#/purplecard#, используя #purplecard#дальнобойные способности#/purplecard# как завершающий удар."
+    "ru_ru": "Играя за Капитана Америку, победите 20 #purplecard#суперзлодеев#/purplecard# в #purplecard#\"Патруле в Мидтауне\"#/purplecard# с помощью #purplecard#способностей дальнего боя#/purplecard# в качестве добивающего удара."
   },
   "834": {
     "en_us": "The Madness",
@@ -3343,7 +3343,7 @@
   },
   "836": {
     "en_us": "Field-Ready Computation Device",
-    "ru_ru": "Готовое к полю вычислительное устройство"
+    "ru_ru": "Боевое вычислительное устройство"
   },
   "837": {
     "en_us": "Sympathy for the Symbiote III",
@@ -3351,7 +3351,7 @@
   },
   "838": {
     "en_us": "Holo-Sim Adept",
-    "ru_ru": "Адепт Холо-симуляции"
+    "ru_ru": "Адепт Голо-симулятора"
   },
   "839": {
     "en_us": "Ice",
@@ -3387,11 +3387,11 @@
   },
   "847": {
     "en_us": "Gold Room Chests",
-    "ru_ru": "Золотые сундуки"
+    "ru_ru": "Сундуки в сокровищнице"
   },
   "848": {
     "en_us": "Stryker Command Bunker",
-    "ru_ru": "Бункер командования Страйкера"
+    "ru_ru": "Командный бункер Страйкера"
   },
   "849": {
     "en_us": "As Loki, defeat #purplecard#Loki#/purplecard# 20 times in #purplecard#Story Mode#/purplecard#.",
@@ -3403,7 +3403,7 @@
   },
   "851": {
     "en_us": "Mega-Sentinel",
-    "ru_ru": "Мега-Страж"
+    "ru_ru": "Мегастраж"
   },
   "852": {
     "en_us": "Claws of the Sisters",
@@ -3435,35 +3435,35 @@
   },
   "859": {
     "en_us": "Complete all #purplecard#A.R.M.O.R Incursion#/purplecard# achievements.",
-    "ru_ru": "Заверши все достижения #purplecard#АРМОР: Вторжение#/purplecard#."
   },
   "860": {
     "en_us": "Vision Bodysuit",
     "ru_ru": "Комбинезон Вижна"
+    "ru_ru": "Получите все достижения #purplecard#\"Вторжения АРМОР\"#/purplecard#."
   },
   "861": {
     "en_us": "Buccaneer Beach",
-    "ru_ru": "Пляж Буканьеров"
+    "ru_ru": "Пиратский пляж"
   },
   "862": {
     "en_us": "Slugfest",
-    "ru_ru": "Жестокая драка"
+    "ru_ru": "Бой на кулаках"
   },
   "863": {
     "en_us": "Buried Treasure",
-    "ru_ru": "Зарытые сокровища"
+    "ru_ru": "Закопанное сокровище"
   },
   "864": {
     "en_us": "Custom Made by the Juggernaut",
-    "ru_ru": "Сделано на заказ Джаггернаутом"
+    "ru_ru": "Сделано Джаггернаутом"
   },
   "865": {
     "en_us": "Gloves of the Light Brigade",
-    "ru_ru": "Перчатки Светлой Бригады"
+    "ru_ru": "Перчатки Лёгкой Бригады"
   },
   "866": {
     "en_us": "Old Man's Work Boots",
-    "ru_ru": "Рабочие ботинки старика"
+    "ru_ru": "Рабочие ботинки Старика"
   },
   "867": {
     "en_us": "In a #purplecard#solo#/purplecard# run, defeat #purplecard#Juggernaut#/purplecard# in #purplecard#Red Terminal#/purplecard#.",
@@ -3475,7 +3475,7 @@
   },
   "869": {
     "en_us": "Core Power",
-    "ru_ru": "Ядро Способности"
+    "ru_ru": "Ядро силы"
   },
   "870": {
     "en_us": "Demonic Incursion",
@@ -3499,11 +3499,11 @@
   },
   "875": {
     "en_us": "In the sands of #purplecard#Buccaneer Beach#/purplecard#, you’ve found a half-buried bottle, with a cryptic message secreted inside.",
-    "ru_ru": "В песках #purplecard#Пляжа Буканьеров#/purplecard# вы нашли наполовину зарытую бутылку с таинственным посланием внутри."
+    "ru_ru": "В песке #purplecard#Пиратского пляжа#/purplecard# вы нашли бутылку с таинственным зашифрованным посланием внутри."
   },
   "876": {
     "en_us": "Savagely Torn Outfit",
-    "ru_ru": "Дико разорванный наряд"
+    "ru_ru": "Яростно изодранный костюм"
   },
   "877": {
     "en_us": "Trask's Revenge",
@@ -3515,7 +3515,7 @@
   },
   "879": {
     "en_us": "As Ghost Rider, defeat 1,972 enemies using #purplecard#Ride#/purplecard# as the finishing blow, leaving them charred in your wake.",
-    "ru_ru": "Играй за Призрачного Гонщика и победи 1 972 врагов, используя #purplecard#Поездку#/purplecard# как завершающий удар, оставляя их обугленными на своём пути."
+    "ru_ru": "Играя за Призрачного Гонщика, победить 1 972 врага с помощью #purplecard#\"Поездки\"#/purplecard# в качестве добивающего удара."
   },
   "880": {
     "en_us": "Tools of Vengeance",
