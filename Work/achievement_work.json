@@ -37,7 +37,7 @@
   },
   "9": {
     "en_us": "Latverian Regalia",
-    "ru_ru": "Латверийская регалия"
+    "ru_ru": "Латверийские регалии"
   },
   "10": {
     "en_us": "Blessing of Balder",
@@ -89,7 +89,7 @@
   },
   "22": {
     "en_us": "Reward: Symbiote Infestation (Item Grade 69)",
-    "ru_ru": "Награда: Заражение симбиотом (Предмет 69 уровня)"
+    "ru_ru": "Награда: Заражение симбиотами (69 Ранга)"
   },
   "23": {
     "en_us": "Reward: Pelt of the Sacred White Gorilla",
@@ -149,7 +149,7 @@
   },
   "37": {
     "en_us": "As Green Goblin, defeat #purplecard#Green Goblin#/purplecard# in #purplecard#Story Mode#/purplecard#.",
-    "ru_ru": "Играя за Зеленого Гоблина, победите #purplecard#Зеленого Гоблина#/purplecard# в #purplecard#режиме истории#/purplecard#."
+    "ru_ru": "Играя за Зеленого Гоблина, победите #purplecard#Зеленого Гоблина#/purplecard# в #purplecard#Сюжетном режиме#/purplecard#."
   },
   "38": {
     "en_us": "Blade",
@@ -439,7 +439,7 @@
   },
   "110": {
     "en_us": "Complete all events in the #purplecard#Bamboo Forest Danger Room#/purplecard# scenario.",
-    "ru_ru": "Завершите все события в сценарии #purplecard#Комната Опасности Бамбукового леса#/purplecard#."
+    "ru_ru": "Завершите все события в сценарии #purplecard#Комната опасности Бамбукового леса#/purplecard#."
   },
   "111": {
     "en_us": "Hunting Grounds",
@@ -559,7 +559,7 @@
   },
   "140": {
     "en_us": "Reward: Personal Pyro's Flamethrower",
-    "ru_ru": "Награда: Личный огнемет Пиро"
+    "ru_ru": "Награда: Личный огнемёт Пиро"
   },
   "141": {
     "en_us": "Mine Field",
@@ -699,7 +699,7 @@
   },
   "175": {
     "en_us": "Loot 100 #purplecard#reward chests#/purplecard# in the #purplecard#victory room#/purplecard# after completing a Danger Room scenario.",
-    "ru_ru": "Откройте 100 #purplecard#сундуков с наградой#/purplecard# в #purplecard#комнате победы#/purplecard# после завершения сценария Комнаты Опасности."
+    "ru_ru": "Откройте 100 #purplecard#сундуков с наградой#/purplecard# в #purplecard#комнате победы#/purplecard# после завершения сценария Комнаты опасности."
   },
   "176": {
     "en_us": "Daredevil",
@@ -727,7 +727,7 @@
   },
   "182": {
     "en_us": "Black Cat's Grappling Hook",
-    "ru_ru": "Крюк Черной Кошки"
+    "ru_ru": "Крюк для захвата Чёрной Кошки"
   },
   "183": {
     "en_us": "The Dark World",
@@ -983,7 +983,7 @@
   },
   "246": {
     "en_us": "Complete any Danger Room scenario with the following #purplecard#Scenario Modifiers#/purplecard#:",
-    "ru_ru": "Пройдите любой сценарий Комнаты Опасности с следующими #purplecard#модификаторами сценария#/purplecard#:"
+    "ru_ru": "Пройдите любой сценарий Комнаты опасности с следующими #purplecard#модификаторами сценария#/purplecard#:"
   },
   "247": {
     "en_us": "Collection Cakewalk",
@@ -1091,7 +1091,7 @@
   },
   "273": {
     "en_us": "Jewel of Yggdrasil",
-    "ru_ru": "Драгоценность Иггдрасиля"
+    "ru_ru": "Камень Иггдрасиля"
   },
   "274": {
     "en_us": "Cable",
@@ -1351,7 +1351,7 @@
   },
   "338": {
     "en_us": "As Elektra, find and defeat #purplecard#Elektra#/purplecard# 13 times in #purplecard#Fisk Tower- Story Mode#/purplecard# and #purplecard#Hand Tower- Story Mode#/purplecard#.",
-    "ru_ru": "В роли Электры найдите и победите #purplecard#Электру#/purplecard# 13 раз в #purplecard#Башне Фиска — режим истории#/purplecard# и #purplecard#Башне Руки — режим истории#/purplecard#."
+    "ru_ru": "В роли Электры найдите и победите #purplecard#Электру#/purplecard# 13 раз в #purplecard#Башне Фиска — Сюжетный режим#/purplecard# и #purplecard#Башне Руки — Сюжетный режим#/purplecard#."
   },
   "339": {
     "en_us": "Apply a Modification to an Artifact.",
@@ -1455,7 +1455,7 @@
   },
   "364": {
     "en_us": "Crimson Crystal of Cyttorak",
-    "ru_ru": "Багровый кристалл Цитторака"
+    "ru_ru": "Багряный кристалл Ситторака"
   },
   "365": {
     "en_us": "Defeat #purplecard#Kurse#/purplecard# 350 times in the #purplecard#Odin's Palace Terminal#/purplecard#.",
@@ -1771,11 +1771,11 @@
   },
   "443": {
     "en_us": "As Angela, defeat #purplecard#Doctor Doom#/purplecard# in #purplecard#Story Mode#/purplecard# within #purplecard#180 seconds#/purplecard# of entering his #purplecard#Throne Room#/purplecard#. You must be solo for the entire fight.",
-    "ru_ru": "Играя за Ангелу, победите #purplecard#Доктора Дума#/purplecard# в #purplecard#режиме истории#/purplecard# за #purplecard#180 секунд#/purplecard# с момента входа в его #purplecard#Тронный зал#/purplecard#. Вы должны быть в одиночку на протяжении всей битвы."
+    "ru_ru": "Играя за Ангелу, победите #purplecard#Доктора Дума#/purplecard# в #purplecard#Сюжетном режиме#/purplecard# за #purplecard#180 секунд#/purplecard# с момента входа в его #purplecard#Тронный зал#/purplecard#. Вы должны быть в одиночку на протяжении всей битвы."
   },
   "444": {
     "en_us": "Complete a Danger Room scenario with a #purplecard#Challenge Rating#/purplecard# of 30 or higher.",
-    "ru_ru": "Пройдите сценарий Комнаты Опасности с #purplecard#рейтингом сложности#/purplecard# 30 или выше."
+    "ru_ru": "Пройдите сценарий Комнаты опасности с #purplecard#рейтингом сложности#/purplecard# 30 или выше."
   },
   "445": {
     "en_us": "War Machine vs. Doctor Doom",
@@ -1815,7 +1815,7 @@
   },
   "454": {
     "en_us": "Netharanium Jewel",
-    "ru_ru": "Драгоценность Нетарания"
+    "ru_ru": "Нетараниумный камень"
   },
   "455": {
     "en_us": "Collect a #purplecard#Cosmic Dr. Doom Medallion#/purplecard#.",
@@ -1831,7 +1831,7 @@
   },
   "458": {
     "en_us": "Reward: Bloodstone Sigil (Recipe)",
-    "ru_ru": "Награда: Символ Кровавого Камня (рецепт)"
+    "ru_ru": "Награда: Сигил Кровавого Камня (рецепт)"
   },
   "459": {
     "en_us": "Target Acquired: Ultron",
@@ -1863,7 +1863,7 @@
   },
   "466": {
     "en_us": "Defeat #purplecard#Kraven#/purplecard# 80 times in the #purplecard#Bronx Zoo One-Shot#/purplecard#.",
-    "ru_ru": "Победите #purplecard#Крейвена#/purplecard# 80 раз в #purplecard#Ваншоте Зоопарка Бронкса#/purplecard#."
+    "ru_ru": "Победите #purplecard#Крэйвена#/purplecard# 80 раз в #purplecard#Ваншоте Зоопарка Бронкса#/purplecard#."
   },
   "467": {
     "en_us": "Drax Attacks!",
@@ -1891,7 +1891,7 @@
   },
   "473": {
     "en_us": "Advanced Crystal of Kadavus",
-    "ru_ru": "Продвинутый кристалл Кадавуса"
+    "ru_ru": "Улучшенный кристалл Кадавуса"
   },
   "474": {
     "en_us": "Target Acquired: Taskmaster",
@@ -1963,7 +1963,7 @@
   },
   "491": {
     "en_us": "Atlantean Jewel",
-    "ru_ru": "Атлантийский самоцвет"
+    "ru_ru": "Камень Атлантиды"
   },
   "492": {
     "en_us": "Gambit",
@@ -2019,7 +2019,7 @@
   },
   "505": {
     "en_us": "Advanced Bannertech Accelerator",
-    "ru_ru": "Продвинутый ускоритель Bannertech"
+    "ru_ru": "Улучшенный ускоритель Бэннертек"
   },
   "506": {
     "en_us": "High Commander Brevik",
@@ -2039,7 +2039,7 @@
   },
   "510": {
     "en_us": "Loot or craft each of the following #purplecard#Danger Room simulation chips#/purplecard#.",
-    "ru_ru": "Добыть или создать каждый из следующих #purplecard#чипов симуляции Комнаты Опасности#/purplecard#."
+    "ru_ru": "Добыть или создать каждый из следующих #purplecard#чипов симуляции Комнаты опасности#/purplecard#."
   },
   "511": {
     "en_us": "Limbo Quartus",
@@ -2067,7 +2067,7 @@
   },
   "517": {
     "en_us": "Kraven",
-    "ru_ru": "Крейвен"
+    "ru_ru": "Крэйвен"
   },
   "518": {
     "en_us": "Electro",
@@ -2107,7 +2107,7 @@
   },
   "527": {
     "en_us": "Defeat the following supervillains in the final area of the #purplecard#A.I.M. Weapon Facility Danger Room#/purplecard# scenario.",
-    "ru_ru": "Победите следующих суперзлодеев в финальной зоне сценария #purplecard#Комнаты Опасности оружейного комплекса А.И.М.#/purplecard#."
+    "ru_ru": "Победите следующих суперзлодеев в финальной зоне сценария #purplecard#Комнаты опасности оружейного комплекса А.И.М.#/purplecard#."
   },
   "528": {
     "en_us": "Herald vs. Hunter",
@@ -2175,7 +2175,7 @@
   },
   "544": {
     "en_us": "Korshun Advanced Combat Knife",
-    "ru_ru": "Продвинутый боевой нож Коршун"
+    "ru_ru": "Улучшенный боевой нож Коршун"
   },
   "545": {
     "en_us": "As the Silver Surfer, defeat 1,966 foes using #purplecard#Event Horizon#/purplecard# as the finishing blow.",
@@ -2271,7 +2271,7 @@
   },
   "568": {
     "en_us": "Reward: Personal Spider Serum",
-    "ru_ru": "Награда: Личная паучья сыворотка"
+    "ru_ru": "Награда: Личная сыворотка Паука"
   },
   "569": {
     "en_us": "Wolverine vs. Doctor Doom",
@@ -2323,7 +2323,7 @@
   },
   "581": {
     "en_us": "Complete all 9 Chapters in Story Mode.",
-    "ru_ru": "Пройдите все 9 глав в режиме истории."
+    "ru_ru": "Пройдите все 9 глав в Сюжетном режиме."
   },
   "582": {
     "en_us": "Bag of Tricks",
@@ -2391,7 +2391,7 @@
   },
   "598": {
     "en_us": "Reward: World's Greatest Hamburger Recipe",
-    "ru_ru": "Награда: Рецепт лучшего в мире гамбургера"
+    "ru_ru": "Награда: Рецепт лучшего бургера в мире"
   },
   "599": {
     "en_us": "It's A Trap!",
@@ -2427,7 +2427,7 @@
   },
   "607": {
     "en_us": "Brevik's Cowbell",
-    "ru_ru": "Коровий колокол Бревика"
+    "ru_ru": "Коровий колокольчик Бревика"
   },
   "608": {
     "en_us": "Hybrid Agent Schramm",
@@ -2623,7 +2623,7 @@
   },
   "656": {
     "en_us": "Circlet of Cyttorak",
-    "ru_ru": "Диадема Цитторака"
+    "ru_ru": "Диадема Ситторака"
   },
   "657": {
     "en_us": "Craft a #purplecard#Pure Element#/purplecard#.",
@@ -2711,7 +2711,7 @@
   },
   "678": {
     "en_us": "Complete any Danger Room scenario with the following #purplecard#Challenge Modifiers#/purplecard#:",
-    "ru_ru": "Завершите любой сценарий Комнаты Опасностей со следующими #purplecard#Модификаторами Испытаний#/purplecard#:"
+    "ru_ru": "Завершите любой сценарий Комнаты опасности со следующими #purplecard#Модификаторами Испытаний#/purplecard#:"
   },
   "679": {
     "en_us": "The Thing and The Team",
@@ -2743,7 +2743,7 @@
   },
   "686": {
     "en_us": "Strike Team Mohawk",
-    "ru_ru": "Ударная группа \"Мохаук\""
+    "ru_ru": "Ударная группа \"Ирокез\""
   },
   "687": {
     "en_us": "One hundred times, defeat #purplecard#Shocker#/purplecard# and open all of his possible #purplecard#Bounty Chests#/purplecard#.",
@@ -2751,7 +2751,7 @@
   },
   "688": {
     "en_us": "Advanced Phoenix Feather",
-    "ru_ru": "Продвинутое Перо Феникса"
+    "ru_ru": "Улучшенное перо Феникса"
   },
   "689": {
     "en_us": "Midtown Patrol",
@@ -3119,7 +3119,7 @@
   },
   "780": {
     "en_us": "As Thing, summon #purplecard#H.E.R.B.I.E.#/purplecard# as a pet and defeat 500 #purplecard#Doombots#/purplecard#.",
-    "ru_ru": "Играя за Существо, призовите питомца-#purplecard#Э.Р.Б.И.#/purplecard# и победите 500 #purplecard#Думботов#/purplecard#."
+    "ru_ru": "Играя за Существо, призовите питомца #purplecard#Г.Е.Р.Б.И.#/purplecard# и победите 500 #purplecard#Думботов#/purplecard#."
   },
   "781": {
     "en_us": "Defeat #purplecard#Mandarin#/purplecard# and open all of his possible #purplecard#Bounty Chests#/purplecard#.",
@@ -3263,7 +3263,7 @@
   },
   "816": {
     "en_us": "Complete all #purplecard#Danger Room Simulation#/purplecard# achievements.",
-    "ru_ru": "Получите все достижения #purplecard#Симуляции Комнаты Опасности#/purplecard#."
+    "ru_ru": "Получите все достижения #purplecard#Симуляции Комнаты опасности#/purplecard#."
   },
   "817": {
     "en_us": "Begone Demons!",
@@ -3379,7 +3379,7 @@
   },
   "845": {
     "en_us": "Complete all events in the #purplecard#Mutate Marsh Danger Room#/purplecard# scenario.",
-    "ru_ru": "Завершите все события в сценарии #purplecard#Комнаты Опасности Болот выродков#/purplecard#."
+    "ru_ru": "Завершите все события в сценарии #purplecard#Комнаты опасности Болот выродков#/purplecard#."
   },
   "846": {
     "en_us": "Chapter 7",
@@ -3471,7 +3471,7 @@
   },
   "868": {
     "en_us": "Advanced Kung Fu Training Sequence",
-    "ru_ru": "Расширенная тренировка кунг-фу"
+    "ru_ru": "Улучшенная тренировочная серия Кунг-Фу"
   },
   "869": {
     "en_us": "Core Power",
@@ -3615,7 +3615,7 @@
   },
   "904": {
     "en_us": "Reward: Skrull Medallion Of Bravery",
-    "ru_ru": "Награда: Медальон Храбрости Скрулла"
+    "ru_ru": "Награда: Медальон доблести Скруллов"
   },
   "905": {
     "en_us": "Own all of Black Cat's #purplecard#Unique Items#/purplecard#.",
@@ -3907,7 +3907,7 @@
   },
   "977": {
     "en_us": "Reward: Mystic Mayhem Coffer",
-    "ru_ru": "Награда: Сундук Магического Хаоса"
+    "ru_ru": "Награда: Ларец Магического Хаоса"
   },
   "978": {
     "en_us": "Tier 1 (Easy)",
@@ -4111,47 +4111,47 @@
   },
   "1028": {
     "en_us": "Danger Room Elimination",
-    "ru_ru": "Устранение в Комнате Опасностей"
+    "ru_ru": "Устранение в Комнате опасности"
   },
   "1029": {
     "en_us": "It's Just an Illusion",
-    "ru_ru": "Это всего лишь Иллюзия"
+    "ru_ru": "Это всего лишь иллюзия"
   },
   "1030": {
     "en_us": "Scream Right Back In His Face",
-    "ru_ru": "Крикни ему в лицо в ответ"
+    "ru_ru": "Крикни ему прямо в лицо"
   },
   "1031": {
     "en_us": "Ice, Ice, Loki",
-    "ru_ru": "Лёд, Лёд, Локи"
+    "ru_ru": "Лед, Лед, Локи"
   },
   "1032": {
     "en_us": "I Hate the Brood",
-    "ru_ru": "Ненавижу Бруда"
+    "ru_ru": "Ненавижу Брудов"
   },
   "1033": {
     "en_us": "Soldier of the Future",
-    "ru_ru": "Солдат Будущего"
+    "ru_ru": "Солдат будущего"
   },
   "1034": {
     "en_us": "As Spider-Man, summon another #purplecard#Spider-Man#/purplecard# as a Team-Up and complete the #purplecard#Spider-Clone event#/purplecard# in #purplecard#Industry City Patrol#/purplecard#.",
-    "ru_ru": "Играя за Человека-Паука, призовите другого #purplecard#Человека-Паука#/purplecard# как Напарника и завершите #purplecard#ивент со Спайдер-Клонами#/purplecard# в #purplecard#Патруле Промышленного Города#/purplecard#."
+    "ru_ru": "Играя за Человека-Паука, призовите другого #purplecard#Человека-Паука#/purplecard# как Напарника и завершите #purplecard#событие Клон-Пауков#/purplecard# в #purplecard#Патруле Промышленного района#/purplecard#."
   },
   "1035": {
     "en_us": "Manhattan Eviction Notice",
-    "ru_ru": "Манхэттенское Уведомление о Выселении"
+    "ru_ru": "Манхэттенское уведомление о выселении"
   },
   "1036": {
     "en_us": "S.H.I.E.L.D. Motion Tracker",
-    "ru_ru": "Трекер Движения Щ.И.Т."
+    "ru_ru": "Датчик движения ЩИТа"
   },
   "1037": {
     "en_us": "Reward: 4 Coffers of Achievements",
-    "ru_ru": "Награда: 4 Ларца Достижений"
+    "ru_ru": "Награда: 4 Ларца за достижение"
   },
   "1038": {
     "en_us": "X-traordinary Feats",
-    "ru_ru": "Икс-траординарные Подвиги"
+    "ru_ru": "Икс-ключительные подвиги"
   },
   "1039": {
     "en_us": "Defeat #purplecard#Kaecilius#/purplecard# 500 times in the #purplecard#Dimmensions Collide Terminal#/purplecard#.",
@@ -4163,23 +4163,23 @@
   },
   "1041": {
     "en_us": "Reward: Cosmic ICP Unlocked",
-    "ru_ru": "Награда: Космический ИСП разблокирован"
+    "ru_ru": "Награда: Доступ к Космическому патрулю Промышленного района"
   },
   "1042": {
     "en_us": "Mutate Marsh Elimination",
-    "ru_ru": "Устранение на Мутировавшем Болоте"
+    "ru_ru": "Устранение в Болоте выродков"
   },
   "1043": {
     "en_us": "As Iron Man, defeat #purplecard#Lavaheart#/purplecard# in Limbo Quartus.",
-    "ru_ru": "Играя за Железного Человека, победите #purplecard#Лавахарт#/purplecard# в Лимбо Квартус."
+    "ru_ru": "Играя за Железного Человека, победите #purplecard#Сердце Лавы#/purplecard# в Лимбо Квартус."
   },
   "1044": {
     "en_us": "Kills The Marvel Universe",
-    "ru_ru": "Убивает Вселенную Marvel"
+    "ru_ru": "Убийца Вселенной Marvel"
   },
   "1045": {
     "en_us": "Sequenced Shutdown",
-    "ru_ru": "Секвенцированное Отключение"
+    "ru_ru": "Поэтапное отключение"
   },
   "1046": {
     "en_us": "As X-23, defend the X-Mansion from William Stryker's attacks by defeating 100 #purplecard#Purifiers#/purplecard# in #purplecard#X-Defense#/purplecard#.",
