@@ -6011,7 +6011,7 @@
   },
   "1503": {
     "en_us": "Hand Tower",
-    "ru_ru": "Башня клана Руки"
+    "ru_ru": "Башня Руки"
   },
   "1504": {
     "en_us": "As Rogue, defeat 20 #purplecard#supervillains#/purplecard# using #purplecard#Crushing Blows#/purplecard# as the finishing blow. Gloves on or off, sugah.",
@@ -6515,7 +6515,7 @@
   },
   "1629": {
     "en_us": "As Black Bolt, defeat #purplecard#Venom#/purplecard# 5 times. It might get loud.",
-    "ru_ru": "Будучи Чёрным Громом, победите #purplecard#Венома#/purplecard# 5 раз. Может быть шумно."
+    "ru_ru": "Играя за Чёрным Громом, победите #purplecard#Венома#/purplecard# 5 раз. Может быть шумно."
   },
   "1630": {
     "en_us": "Reward: Personal Skrull Communication Device",
@@ -6899,11 +6899,11 @@
   },
   "1725": {
     "en_us": "Defeat #purplecard#Mister Hyde#/purplecard# 80 times in the #purplecard#Bronx Zoo One-Shot#/purplecard#.",
-    "ru_ru": "Победите #purplecard#Мистера Хайда#/purplecard# 80 раз в #purplecard#Ваншоте Бронксского зоопарка#/purplecard#."
+    "ru_ru": "Победите #purplecard#Мистера Хайда#/purplecard# 80 раз в #purplecard#Ваншоте: Бронксский зоопарк#/purplecard#."
   },
   "1726": {
     "en_us": "Defeat #purplecard#M.O.D.O.K.#/purplecard# in each location throughout the game where he appears.",
-    "ru_ru": "Победите #purplecard#М.О.Д.О.К.#/purplecard# в каждой локации, где он появляется."
+    "ru_ru": "Победите #purplecard#МОДОКа#/purplecard# в каждой локации, где он появляется."
   },
   "1727": {
     "en_us": "Lieber's Brewhouse",
@@ -6919,11 +6919,11 @@
   },
   "1730": {
     "en_us": "Target Acquired: Mole Man",
-    "ru_ru": "Цель захвачена: Безмозглый"
+    "ru_ru": "Цель захвачена: Человек-Крот"
   },
   "1731": {
     "en_us": "Wrecking Ball",
-    "ru_ru": "Разрушительный шар"
+    "ru_ru": "Стенобитный шар"
   },
   "1732": {
     "en_us": "Mister Fantastic and The Team",
@@ -6931,15 +6931,15 @@
   },
   "1733": {
     "en_us": "Jean Grey vs. Doctor Doom",
-    "ru_ru": "Джин Грей против Доктора Дума"
+    "ru_ru": "Джина Грей против Доктора Дума"
   },
   "1734": {
     "en_us": "Reward: Personal Advanced Circlet of Cyttorak",
-    "ru_ru": "Награда: Личный продвинутый венец Цитторака"
+    "ru_ru": "Награда: Личная улучшенная диадема Ситторака"
   },
   "1735": {
     "en_us": "An Orb For All Occasions",
-    "ru_ru": "Сфера для всех случаев"
+    "ru_ru": "Сфера на все случаи жизни"
   },
   "1736": {
     "en_us": "The New Avengers",
@@ -6947,35 +6947,35 @@
   },
   "1737": {
     "en_us": "As Deadpool, defeat #purplecard#Doctor Doom#/purplecard# in #purplecard#Story Mode#/purplecard# within #purplecard#180 seconds#/purplecard# of entering his #purplecard#Throne Room#/purplecard#. You must be solo for the entire fight.",
-    "ru_ru": "Будучи Дэдпулом, победите #purplecard#Доктора Дума#/purplecard# в #purplecard#Сюжетном режиме#/purplecard# в течение #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный зал#/purplecard#. Вы должны быть в одиночку на протяжении всей битвы."
+    "ru_ru": "Играя за Дэдпула, победите #purplecard#Доктора Дума#/purplecard# в #purplecard#Сюжетном режиме#/purplecard# за #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный зал#/purplecard#. Вы должны сражаться в одиночку на протяжении всего боя."
   },
   "1738": {
     "en_us": "Show 'em how it's done in New Orleans by defeating 1,000 elite enemies using #purplecard#melee powers#/purplecard# as the finishing blow.",
-    "ru_ru": "Покажите, как это делается в Новом Орлеане, победив 1,000 элитных врагов, используя #purplecard#способности ближнего боя#/purplecard# для завершающего удара."
+    "ru_ru": "Покажите, как это делается в Новом Орлеане, победив 1 000 элитных врагов, используя #purplecard#способности ближнего боя#/purplecard# для добивающего удара."
   },
   "1739": {
     "en_us": "There Can Be Only One",
-    "ru_ru": "Остаться может только один"
+    "ru_ru": "Останется только один"
   },
   "1740": {
     "en_us": "Cosmic Bounty Expert: The Hood",
-    "ru_ru": "Космический эксперт по вознаграждениям: Капюшон"
+    "ru_ru": "Эксперт по Космической Награде: Капюшон"
   },
   "1741": {
     "en_us": "Advanced Kree Hyper-Optics",
-    "ru_ru": "Продвинутые крийские гипер-оптики"
+    "ru_ru": "Улучшенная гипероптика Крии"
   },
   "1742": {
     "en_us": "Betty Ross' Big-Ass Sword",
-    "ru_ru": "Большой меч Бетти Росс"
+    "ru_ru": "Огромный меч Бетти Росс"
   },
   "1743": {
     "en_us": "Crag Island",
-    "ru_ru": "Остров Крег"
+    "ru_ru": "Скалистый остров"
   },
   "1744": {
     "en_us": "Cosmic Bounty Hunter: Vulture",
-    "ru_ru": "Космический охотник за вознаграждениями: Стервятник"
+    "ru_ru": "Охотник за Космической Наградой: Стервятник"
   },
   "1745": {
     "en_us": "All in Doom's Time",
@@ -6987,19 +6987,19 @@
   },
   "1747": {
     "en_us": "Reach influence #purplecard#level 5#/purplecard# with the #purplecard#Genosha Liberator Force Quartermaster#/purplecard#.",
-    "ru_ru": "Достигните уровня влияния #purplecard#5#/purplecard# с #purplecard#Интендантом Сил Освободителей Геноши#/purplecard#."
+    "ru_ru": "Получить репутацию #purplecard#5 уровня#/purplecard# у #purplecard#Квартирмейстера Сил Освобождения Геноши#/purplecard#."
   },
   "1748": {
     "en_us": "The Burning Crusade, Stage 8",
-    "ru_ru": "Горящая Крестовая Похода, Стадия 8"
+    "ru_ru": "Огненный крестовый поход, этап 8"
   },
   "1749": {
     "en_us": "As Jean Grey, defeat #purplecard#Mr. Sinister#/purplecard# 20 times in a #purplecard#Terminal#/purplecard#. Enough clones, please.",
-    "ru_ru": "Будучи Джин Грей, победите #purplecard#Мистера Зловещего#/purplecard# 20 раз в #purplecard#Терминале#/purplecard#. Достаточно клонов, пожалуйста."
+    "ru_ru": "Играя за Джину Грей, победите #purplecard#Мистера Зловещего#/purplecard# 20 раз в #purplecard#Терминале#/purplecard#. Пожалуйста, не надо больше клонов."
   },
   "1750": {
     "en_us": "Generation Next's Bandana",
-    "ru_ru": "Бандана Поколения Нэкст"
+    "ru_ru": "Бандана поколения Некст"
   },
   "1751": {
     "en_us": "Help Civilian Trapped Under Car",
@@ -7011,11 +7011,11 @@
   },
   "1753": {
     "en_us": "Commander Giguere",
-    "ru_ru": "Командир Жигер"
+    "ru_ru": "Командир Джигвайр"
   },
   "1754": {
     "en_us": "Nice Popgun, Skull-boy",
-    "ru_ru": "Неплохой пистолетик, Черепашонок"
+    "ru_ru": "Хорошая пукалка, черепок"
   },
   "1755": {
     "en_us": "Team Achievements As Hero",
@@ -7027,15 +7027,15 @@
   },
   "1757": {
     "en_us": "As Daredevil, defeat Wilson Fisk (AKA #purplecard#Kingpin#/purplecard#) 13 times in a #purplecard#Terminal#/purplecard#.",
-    "ru_ru": "Будучи Сорвиголовой, победите Уилсона Фиска (он же #purplecard#Кингпин#/purplecard#) 13 раз в #purplecard#Терминале#/purplecard#."
+    "ru_ru": "Играя за Сорвиголову, победите Уилсона Фиска (#purplecard#Кингпина#/purplecard#) 13 раз в #purplecard#Терминале#/purplecard#."
   },
   "1758": {
     "en_us": "Master Splinters",
-    "ru_ru": "Мастер Сплинтеров"
+    "ru_ru": "Мастер Сплинтер"
   },
   "1759": {
     "en_us": "As Captain Marvel, make 1,968 #purplecard#Mercenaries#/purplecard# respect your rank of Major by defeating them in the #purplecard#Taskmaster Institute Terminal#/purplecard# using #purplecard#melee powers#/purplecard# as the finishing blow.",
-    "ru_ru": "Будучи Капитаном Марвел, заставьте 1,968 #purplecard#Наёмников#/purplecard# уважать ваш ранг Майора, победив их в #purplecard#Терминале Института Мастера Задач#/purplecard# с помощью #purplecard#способностей ближнего боя#/purplecard# для завершающего удара."
+    "ru_ru": "Играя за Капитан Марвел, заставить 1 968 #purplecard#наемников#/purplecard# в #purplecard#Терминале: Институт Таскмастера#/purplecard# уважать ваш ранг майора. Победите их, используя #purplecard#способности ближнего боя#/purplecard# в качестве добивающего удара."
   },
   "1760": {
     "en_us": "Spider-Man vs Doctor Doom",
@@ -7043,7 +7043,7 @@
   },
   "1761": {
     "en_us": "Ice Golem Mage",
-    "ru_ru": "Ледяной Голем Маг"
+    "ru_ru": "Ледяной голем-маг"
   },
   "1762": {
     "en_us": "Game Modes",
@@ -7051,7 +7051,7 @@
   },
   "1763": {
     "en_us": "Kaecilius, Normal Solo Run",
-    "ru_ru": "Кейциллюс, Нормальный соло-забег"
+    "ru_ru": "Обычный Кецилий в одиночку"
   },
   "1764": {
     "en_us": "Insignia of Phoenix",
@@ -7067,23 +7067,23 @@
   },
   "1767": {
     "en_us": "Whispering Winds",
-    "ru_ru": "Шепчущие ветра"
+    "ru_ru": "Шёпот ветра"
   },
   "1768": {
     "en_us": "Cosmic Awareness",
-    "ru_ru": "Космическое осознание"
+    "ru_ru": "Космическое восприятие"
   },
   "1769": {
     "en_us": "Onslaught Survivors",
-    "ru_ru": "Выжившие после Натиска"
+    "ru_ru": "Пережившие натиск"
   },
   "1770": {
     "en_us": "As Daredevil, defeat 1,000 enemies in #purplecard#Hand Tower#/purplecard# while wearing the #purplecard#Shadowy Mask of The Hand#/purplecard#.",
-    "ru_ru": "Будучи Сорвиголовой, победите 1,000 врагов в #purplecard#Башне Руки#/purplecard# в маске #purplecard#Теневой Маске Руки#/purplecard#."
+    "ru_ru": "Играя за Сорвиголову, победите 1 000 врагов в #purplecard#Башне Руки#/purplecard#, нося #purplecard#Теневую маску Руки#/purplecard#."
   },
   "1771": {
     "en_us": "The Claws Come Out",
-    "ru_ru": "Когти вылезли"
+    "ru_ru": "Когти выпущены"
   },
   "1772": {
     "en_us": "World's Greatest Archer",
@@ -7095,11 +7095,11 @@
   },
   "1774": {
     "en_us": "Surtur: Anglaugur Skulleater",
-    "ru_ru": "Суртур: Англаугур Пожиратель Черепов"
+    "ru_ru": "Суртур: Англаугур Черепогрыз"
   },
   "1775": {
     "en_us": "Remarkable Conviction",
-    "ru_ru": "Выдающаяся убеждённость"
+    "ru_ru": "Поразительная Стойкость"
   },
   "1776": {
     "en_us": "Day",
@@ -7107,7 +7107,7 @@
   },
   "1777": {
     "en_us": "Kurse Medallion",
-    "ru_ru": "Медальон Курсе"
+    "ru_ru": "Медальон Проклятья"
   },
   "1778": {
     "en_us": "Complete the following #purplecard#Journalism#/purplecard# achievements:",
@@ -7115,7 +7115,7 @@
   },
   "1779": {
     "en_us": "As Magik, defeat 1,000 enemies using #purplecard#Otherwordly Nova#/purplecard# as the finishing blow.",
-    "ru_ru": "Будучи Мэджик, победите 1,000 врагов с помощью #purplecard#Иного мира Нова#/purplecard# для завершающего удара."
+    "ru_ru": "Играя за Мэджик, победите 1 000 врагов с помощью #purplecard#Иное Нова#/purplecard# для завершающего удара."
   },
   "1780": {
     "en_us": "Swift Disruption",
@@ -7127,15 +7127,15 @@
   },
   "1782": {
     "en_us": "Reward: Random Challenge Bonus Token",
-    "ru_ru": "Награда: Случайный бонусный жетон за вызов"
+    "ru_ru": "Награда: Жетон случайного Бонуса испытания"
   },
   "1783": {
     "en_us": "Ultimate Nullifier (80)",
-    "ru_ru": "Ультимативный Ликвидатор (80)"
+    "ru_ru": "Абсолютный нуллификатор (80)"
   },
   "1784": {
     "en_us": "Complete all of #purplecard#Rocket Raccoon's achievements#/purplecard#.",
-    "ru_ru": "Выполните все достижения #purplecard#Ракеты#/purplecard#."
+    "ru_ru": "Выполните все #purplecard#достижения Ракеты#/purplecard#."
   },
   "1785": {
     "en_us": "Superior Mutant",
@@ -7143,7 +7143,7 @@
   },
   "1786": {
     "en_us": "Not So Puny",
-    "ru_ru": "Не такой уж хилый"
+    "ru_ru": "Не так уж и Мелковат"
   },
   "1787": {
     "en_us": "Billionaire Playboy Philanthropist",
@@ -7151,7 +7151,7 @@
   },
   "1788": {
     "en_us": "Pulling Teeth",
-    "ru_ru": "Вытаскивая зубы"
+    "ru_ru": "Удаление зубов"
   },
   "1789": {
     "en_us": "Mister Hyde",
@@ -7159,15 +7159,15 @@
   },
   "1790": {
     "en_us": "Legendary Quest III",
-    "ru_ru": "Легендарная миссия III"
+    "ru_ru": "Легендарный Квест III"
   },
   "1791": {
     "en_us": "Brimstone",
-    "ru_ru": "Бримстоун"
+    "ru_ru": "Сера"
   },
   "1792": {
     "en_us": "Defeat #purplecard#Kraven#/purplecard# in each location throughout the game where he appears.",
-    "ru_ru": "Победите #purplecard#Крейвена#/purplecard# в каждой локации, где он появляется."
+    "ru_ru": "Победите #purplecard#Крэйвена#/purplecard# в каждой локации, где он появляется."
   },
   "1793": {
     "en_us": "Cyclops",
@@ -7179,15 +7179,15 @@
   },
   "1795": {
     "en_us": "Never Melting Ice Cream Bar",
-    "ru_ru": "Немелящийся мороженый батончик"
+    "ru_ru": "Нетающий батончик мороженого"
   },
   "1796": {
     "en_us": "Defeat Crossbones in all three #purplecard#Patrol Zones.#/purplecard#",
-    "ru_ru": "Победите Кроссбоунса во всех трёх #purplecard#зонах патруля#/purplecard#."
+    "ru_ru": "Победите Кроссбоунса во всех трёх #purplecard#Зонах патруля#/purplecard#."
   },
   "1797": {
     "en_us": "As Wolverine, celebrate Canada Day any time by using the #purplecard#cheer emote#/purplecard# with the #purplecard#Guardian's Battle-Suit#/purplecard# equipped.",
-    "ru_ru": "Будучи Росомахой, празднуйте День Канады в любое время, используя #purplecard#эмоцию приветствия#/purplecard# с экипированным #purplecard#Боевым костюмом Стража#/purplecard#."
+    "ru_ru": "Играя за Росомаху, в честь Дня Канады используйте #purplecard#эмоцию \"радость\"#/purplecard#, надев #purplecard#Боевой костюм Стража#/purplecard#."
   },
   "1798": {
     "en_us": "Loki vs Loki",
@@ -7199,7 +7199,7 @@
   },
   "1800": {
     "en_us": "As Winter Soldier, defeat #purplecard#Magneto#/purplecard# 10 times in a #purplecard#Terminal#/purplecard# using #purplecard#Magnetic Disc Mine#/purplecard# as the finishing blow.",
-    "ru_ru": "Будучи Зимним Солдатом, победите #purplecard#Магнето#/purplecard# 10 раз в #purplecard#Терминале#/purplecard#, используя #purplecard#Магнитную мину-диск#/purplecard# для завершающего удара."
+    "ru_ru": "Играя за Зимнего Солдата, победите #purplecard#Магнето#/purplecard# 10 раз в #purplecard#Терминале#/purplecard#, используя #purplecard#Магнитную дисковую мину#/purplecard# для добивающего удара."
   },
   "1801": {
     "en_us": "Reward: Mr. Fixit White Tuxedo Costume",
