@@ -903,7 +903,7 @@
   },
   "226": {
     "en_us": "War Belt",
-    "ru_ru": "Боевой пояс"
+    "ru_ru": "Военный пояс"
   },
   "227": {
     "en_us": "Secret Cow Level",
@@ -1335,7 +1335,7 @@
   },
   "334": {
     "en_us": "War Axe",
-    "ru_ru": "Боевой топор"
+    "ru_ru": "Военный топор"
   },
   "335": {
     "en_us": "Craft a #purplecard#Medkit#/purplecard#.",
@@ -1775,7 +1775,7 @@
   },
   "444": {
     "en_us": "Complete a Danger Room scenario with a #purplecard#Challenge Rating#/purplecard# of 30 or higher.",
-    "ru_ru": "Пройдите сценарий Комнаты опасности с #purplecard#рейтингом сложности#/purplecard# 30 или выше."
+    "ru_ru": "Пройдите сценарий Комнаты опасности с #purplecard#Рейтингом испытания#/purplecard# 30 или выше."
   },
   "445": {
     "en_us": "War Machine vs. Doctor Doom",
@@ -6207,7 +6207,7 @@
   },
   "1552": {
     "en_us": "Forge yourself in fire by applying the #purplecard#Fire Barrage runeword#/purplecard# to an #purplecard#Uru-Forged Item#/purplecard#.",
-    "ru_ru": "Закалите себя в огне, применив #purplecard#рунное слово \"Стена огня\"#/purplecard# к #purplecard#предмету из Уру#/purplecard#."
+    "ru_ru": "Закалите себя в огне, применив #purplecard#рунное слово \"Стена огня\"#/purplecard# к #purplecard#Уру-кованому предмету#/purplecard#."
   },
   "1553": {
     "en_us": "Metal Militia",
@@ -8291,7 +8291,7 @@
   },
   "2073": {
     "en_us": "War Helm",
-    "ru_ru": "Шлем войны"
+    "ru_ru": "Военный шлем"
   },
   "2074": {
     "en_us": "Craft a #purplecard#Portal#/purplecard# to the #purplecard#Confidential Bovine Sector#/purplecard#.",
@@ -8635,7 +8635,7 @@
   },
   "2159": {
     "en_us": "Complete a Danger Room scenario with a #purplecard#Challenge Rating#/purplecard# of 20 or higher.",
-    "ru_ru": "Завершите сценарий Комнаты опасности с #purplecard#Рейтингом испытания#/purplecard# 20 или выше."
+    "ru_ru": "Пройдите сценарий Комнаты опасности с #purplecard#Рейтингом испытания#/purplecard# 20 или выше."
   },
   "2160": {
     "en_us": "Loot 100 #purplecard#A.R.M.O.R. Research Drives#/purplecard# from each of the following locations.",
@@ -8803,7 +8803,7 @@
   },
   "2201": {
     "en_us": "Uru-Enhanced Shield",
-    "ru_ru": "Усиленный Уру щит"
+    "ru_ru": "Уру-усиленный щит"
   },
   "2202": {
     "en_us": "Reward: Heroism of Punchclops",
@@ -9163,7 +9163,7 @@
   },
   "2291": {
     "en_us": "Have #purplecard#100 hours#/purplecard# played on one character.",
-    "ru_ru": "Проведите #purplecard#100 часов#/purplecard# игры одним персонажа."
+    "ru_ru": "Проведите #purplecard#100 часов#/purplecard# игры одним персонажем."
   },
   "2292": {
     "en_us": "Own all of Rocket Raccoon's #purplecard#Unique Items#/purplecard#.",
@@ -9403,15 +9403,15 @@
   },
   "2351": {
     "en_us": "Target Acquired: All-Father Brevik II",
-    "ru_ru": "Цель Обнаружена: Всеотец Бревик II"
+    "ru_ru": "Цель захвачена: Всеотец Бревик II"
   },
   "2352": {
     "en_us": "#purplecard#Prestige#/purplecard# a hero to level 1 \"blue\" prestige.",
-    "ru_ru": "Поднимите #purplecard#Престиж#/purplecard# героя до 1-го \"синего\" уровня престижа."
+    "ru_ru": "#purplecard#Повысьте престиж#/purplecard# героя до 1 уровня синего престижа."
   },
   "2353": {
     "en_us": "Reward: Infinity Orb & 200 Credits",
-    "ru_ru": "Награда: Сфера Бесконечности и 200 Кредитов"
+    "ru_ru": "Награда: Сфера Бесконечности и 200 кредитов"
   },
   "2354": {
     "en_us": "Purifiers",
@@ -9419,15 +9419,15 @@
   },
   "2355": {
     "en_us": "Cosmic Bounty Hunter: M.O.D.O.K.",
-    "ru_ru": "Космический Охотник за Головами: М.О.Д.О.К."
+    "ru_ru": "Охотник за Космической Наградой: МОДОК"
   },
   "2356": {
     "en_us": "Advanced Amulet of Agamotto",
-    "ru_ru": "Улучшенный Амулет Агамотто"
+    "ru_ru": "Улучшенный амулет Агамотто"
   },
   "2357": {
     "en_us": "Defeat #purplecard#The Hood#/purplecard# 500 times in the #purplecard#Hood's Hideout Terminal#/purplecard#.",
-    "ru_ru": "Победите #purplecard#Капюшона#/purplecard# 500 раз в #purplecard#Терминале Убежища Капюшона#/purplecard#."
+    "ru_ru": "Победите #purplecard#Капюшона#/purplecard# 500 раз в #purplecard#Терминале: Убежища Капюшона#/purplecard#."
   },
   "2358": {
     "en_us": "Kiss of the Viper",
@@ -9435,11 +9435,11 @@
   },
   "2359": {
     "en_us": "Hangar Airstrip",
-    "ru_ru": "Взлетно-Посадочная Полоса Ангара"
+    "ru_ru": "Ангар взлетной полосы"
   },
   "2360": {
     "en_us": "Complete 50 Legendary Quests.",
-    "ru_ru": "Выполните 50 Легендарных Заданий."
+    "ru_ru": "Выполните 50 Легендарных Квестов."
   },
   "2361": {
     "en_us": "Age of Ultron",
@@ -9447,31 +9447,31 @@
   },
   "2362": {
     "en_us": "H.A.M.M.E.R. Security Card",
-    "ru_ru": "Карта Безопасности М.О.Л.О.Т."
+    "ru_ru": "Карта доступа М.О.Л.О.Т."
   },
   "2363": {
     "en_us": "Complete a Danger Room scenario with a #purplecard#Challenge Rating#/purplecard# of 50 or higher.",
-    "ru_ru": "Пройдите сценарий Комнаты Опасности с #purplecard#Уровнем Сложности#/purplecard# 50 или выше."
+    "ru_ru": "Пройдите сценарий Комнаты опасности с #purplecard#Рейтингом испытания#/purplecard# 50 или выше."
   },
   "2364": {
     "en_us": "Zis Is Not Ze Last You Will See of Me",
-    "ru_ru": "Зис Из Нот Зе Ласт Ю Уилл Си Оф Ми"
+    "ru_ru": "Ви видите меня не в роследний раз"
   },
   "2365": {
     "en_us": "Stolen Board of the Herald",
-    "ru_ru": "Украденная Доска Вестника"
+    "ru_ru": "Похищенный серф Вестника"
   },
   "2366": {
     "en_us": "Complete any 50 of the marathon of achievements below. You'll be knee deep in doombots by the time this is over.",
-    "ru_ru": "Выполните любые 50 из марафона достижений ниже. К тому времени, как это закончится, вы будете по колено в Думботах."
+    "ru_ru": "Завершите любые 50 достижений из списка ниже. К концу этого марафона, вы будете по колено в думботах."
   },
   "2367": {
     "en_us": "Target Acquired: Doctor Doom III",
-    "ru_ru": "Цель Обнаружена: Доктор Дум III"
+    "ru_ru": "Цель захвачена: Доктор Дум III"
   },
   "2368": {
     "en_us": "Be The Superhero",
-    "ru_ru": "Будь Супергероем"
+    "ru_ru": "Быть Супергероем"
   },
   "2369": {
     "en_us": "Brothers of Asgard",
@@ -9479,27 +9479,27 @@
   },
   "2370": {
     "en_us": "The Guns With No Name",
-    "ru_ru": "Пистолеты Без Имени"
+    "ru_ru": "Безымянные Пушки"
   },
   "2371": {
     "en_us": "Cosmic Bounty Hunter: Shocker",
-    "ru_ru": "Космический Охотник за Головами: Шокер"
+    "ru_ru": "Охотник за Космической Наградой: Шокер"
   },
   "2372": {
     "en_us": "Advanced Flames of the Faltine",
-    "ru_ru": "Улучшенное Пламя Фалтайн"
+    "ru_ru": "Улучшенное пламя Фалтинов"
   },
   "2373": {
     "en_us": "S.H.I.E.L.D. Reconnaissance Belt",
-    "ru_ru": "Пояс Разведки Щ.И.Т.а"
+    "ru_ru": "Пояс разведчика ЩИТа"
   },
   "2374": {
     "en_us": "Forgotten Station",
-    "ru_ru": "Забытая Станция"
+    "ru_ru": "Забытая станция"
   },
   "2375": {
     "en_us": "Gettin' Hitched",
-    "ru_ru": "Пожениться"
+    "ru_ru": "Неразрывные Узы"
   },
   "2376": {
     "en_us": "Cosmic Spirit",
@@ -9507,19 +9507,19 @@
   },
   "2377": {
     "en_us": "As Black Cat, defeat 1,000 enemies using #purplecard#traps#/purplecard#.",
-    "ru_ru": "Играя за Черную Кошку, победите 1000 врагов, используя #purplecard#ловушки#/purplecard#."
+    "ru_ru": "Играя за Черную Кошку, победите 1 000 врагов, используя #purplecard#ловушки#/purplecard#."
   },
   "2378": {
     "en_us": "Defeat 500 #purplecard#Lava Men#/purplecard# with #purplecard#Firestar#/purplecard# as your Team-Up.",
-    "ru_ru": "Победите 500 #purplecard#Лаваменов#/purplecard#, используя #purplecard#Файерстар#/purplecard# в качестве Напарника."
+    "ru_ru": "Победите 500 #purplecard#Лавоменов#/purplecard# вместе с вашим Напарником #purplecard#Огненной Звездой#/purplecard#."
   },
   "2379": {
     "en_us": "Have #purplecard#1,000 hours#/purplecard# played on one character.",
-    "ru_ru": "Проведите #purplecard#1000 часов#/purplecard# игры одним персонажем."
+    "ru_ru": "Проведите #purplecard#1 000 часов#/purplecard# игры одним персонажем."
   },
   "2380": {
     "en_us": "Burrower's Body Armor",
-    "ru_ru": "Нательная Броня Землекопа"
+    "ru_ru": "Броня Землекопа"
   },
   "2381": {
     "en_us": "Captain America vs Doctor Doom",
@@ -9527,7 +9527,7 @@
   },
   "2382": {
     "en_us": "Legacy of Punchclops",
-    "ru_ru": "Наследие Панчклопса"
+    "ru_ru": "Наследие Кулаклопа"
   },
   "2383": {
     "en_us": "Defeat 100 #purplecard#supervillains#/purplecard# in #purplecard#Midtown Manhattan#/purplecard#.",
@@ -9547,31 +9547,31 @@
   },
   "2387": {
     "en_us": "Complete #purplecard#Wave 100#/purplecard# in #purplecard#X-Defense#/purplecard# and #purplecard#Wave 100#/purplecard# in #purplecard#Holo-Sim#/purplecard#.",
-    "ru_ru": "Завершите #purplecard#Волну 100#/purplecard# в #purplecard#Икс-Защите#/purplecard# и #purplecard#Волну 100#/purplecard# в #purplecard#Голо-Симуляторе#/purplecard#."
+    "ru_ru": "Завершите #purplecard#100-ю волну#/purplecard# в #purplecard#Защите Икс#/purplecard# и #purplecard#100-ю волну#/purplecard# в #purplecard#Голо-симуляторе#/purplecard#."
   },
   "2388": {
     "en_us": "X-Factor Bodysuit",
-    "ru_ru": "Костюм Икс-Фактора"
+    "ru_ru": "Комбинезон \"Икс-Фактор\""
   },
   "2389": {
     "en_us": "As Daredevil, reach #purplecard#level 60#/purplecard#.",
-    "ru_ru": "Играя за Сорвиголову, достигните #purplecard#уровня 60#/purplecard#."
+    "ru_ru": "Играя за Сорвиголову, достигните #purplecard#60 уровня#/purplecard#."
   },
   "2390": {
     "en_us": "The Freakin' Guardians of the Galaxy",
-    "ru_ru": "Черт Возьми, Стражи Галактики"
+    "ru_ru": "Чертовы Стражи Галактики"
   },
   "2391": {
     "en_us": "VIPer",
-    "ru_ru": "ВИПр"
+    "ru_ru": "VIP-Гадюка"
   },
   "2392": {
     "en_us": "Very Typical Cows",
-    "ru_ru": "Очень Типичные Коровы"
+    "ru_ru": "Самые обычные коровы"
   },
   "2393": {
     "en_us": "The Cat's Meow",
-    "ru_ru": "Кошачье Мяу"
+    "ru_ru": "Кошачья грация"
   },
   "2394": {
     "en_us": "Adversaries",
@@ -9583,19 +9583,19 @@
   },
   "2396": {
     "en_us": "That One Unnamed Super Hero Team",
-    "ru_ru": "Та Самая Безымянная Команда Супергероев"
+    "ru_ru": "Та самая Безымянная команда Супергероев"
   },
   "2397": {
     "en_us": "Orson Randall's Bandoliers",
-    "ru_ru": "Патронташ Орсона Рэндалла"
+    "ru_ru": "Патронташ Орсона Рэнделла"
   },
   "2398": {
     "en_us": "Rock Troll Gladiator",
-    "ru_ru": "Гладиатор Каменных Троллей"
+    "ru_ru": "Каменный тролль Гладиатор"
   },
   "2399": {
     "en_us": "Red Onslaught Survivors",
-    "ru_ru": "Выжившие Красного Натиска"
+    "ru_ru": "Выжившие: Красный Натиск"
   },
   "2400": {
     "en_us": "Hood",
@@ -9603,31 +9603,31 @@
   },
   "2401": {
     "en_us": "Complete Symbiosis",
-    "ru_ru": "Завершить Симбиоз"
+    "ru_ru": "Полный симбиоз"
   },
   "2402": {
     "en_us": "As Punisher, defeat 1,000 #purplecard#elite enemies#/purplecard# in #purplecard#Industry City Patrol#/purplecard# by any means necessary.",
-    "ru_ru": "Играя за Карателя, победите 1000 #purplecard#элитных врагов#/purplecard# в #purplecard#Патруле Промышленного района#/purplecard# любыми необходимыми средствами."
+    "ru_ru": "Играя за Карателя, победить 1 000 #purplecard#элитных врагов#/purplecard# в #purplecard#Патруле Промышленного района#/purplecard# любыми средствами."
   },
   "2403": {
     "en_us": "Prove to the world that the Dark Avengers were just cheap knockoffs by defeating #purplecard#Bullseye#/purplecard# 5 times using #purplecard#Serrated Arrow#/purplecard# as the finishing blow.",
-    "ru_ru": "Докажите миру, что Темные Мстители были просто дешевыми подделками, победив #purplecard#Булзая#/purplecard# 5 раз, используя #purplecard#Зазубренную Стрелу#/purplecard# в качестве добивающего удара."
+    "ru_ru": "Доказать миру, что Темные Мстители - это просто дешевые подделки, победив #purplecard#Меченого#/purplecard# 5 раз с помощью #purplecard#Зазубренной стрелы#/purplecard# в качестве добивающего удара."
   },
   "2404": {
     "en_us": "As Psylocke, reach #purplecard#level 60#/purplecard#.",
-    "ru_ru": "Играя за Псайлок, достигните #purplecard#уровня 60#/purplecard#."
+    "ru_ru": "Играя за Псайлок, достигните #purplecard#60 уровня#/purplecard#."
   },
   "2405": {
     "en_us": "Sinister Diversions II",
-    "ru_ru": "Зловещие Отвлечения II"
+    "ru_ru": "Зловещие диверсии II"
   },
   "2406": {
     "en_us": "Defeat 25,000 #purplecard#supervillains#/purplecard# in #purplecard#X-Defense#/purplecard#.",
-    "ru_ru": "Победите 25 000 #purplecard#суперзлодеев#/purplecard# в #purplecard#Икс-Защите#/purplecard#."
+    "ru_ru": "Победите 25 000 #purplecard#суперзлодеев#/purplecard# в #purplecard#Защите Икс#/purplecard#."
   },
   "2407": {
     "en_us": "Mouth",
-    "ru_ru": "Рот"
+    "ru_ru": "Рта"
   },
   "2408": {
     "en_us": "Wizard Medallion",
@@ -9643,7 +9643,7 @@
   },
   "2411": {
     "en_us": "The Phoenix Unleashed",
-    "ru_ru": "Феникс Освобожденный"
+    "ru_ru": "Феникс освобожденный"
   },
   "2412": {
     "en_us": "Mister Fantastic vs Doctor Doom",
@@ -9651,11 +9651,11 @@
   },
   "2413": {
     "en_us": "Defeat #purplecard#1,000 holographic supervillains#/purplecard# in the #purplecard#S.H.I.E.L.D. Holo-Sim#/purplecard#.",
-    "ru_ru": "Победите #purplecard#1000 голографических суперзлодеев#/purplecard# в #purplecard#Голо-Симуляторе Щ.И.Т.а#/purplecard#."
+    "ru_ru": "Победите #purplecard#1 000 голографических суперзлодеев#/purplecard# в #purplecard#Голо-симуляторе ЩИТа#/purplecard#."
   },
   "2414": {
     "en_us": "Serpent",
-    "ru_ru": "Змей"
+    "ru_ru": "Змеи"
   },
   "2415": {
     "en_us": "Luke Cage isn't the only one who can clean up these streets! Show the city that Iron Fist is also a Hero, for hire.",
@@ -9675,11 +9675,11 @@
   },
   "2419": {
     "en_us": "Cosmic Control Rod (80)",
-    "ru_ru": "Космический Контрольный Жезл (80)"
+    "ru_ru": "Жезл космического контроля (80)"
   },
   "2420": {
     "en_us": "Complete #purplecard#Wave 30#/purplecard# in #purplecard#X-Defense#/purplecard#.",
-    "ru_ru": "Завершите #purplecard#Волну 30#/purplecard# в #purplecard#Икс-Защите#/purplecard#."
+    "ru_ru": "Завершите #purplecard#30-ю волну#/purplecard# в #purplecard#Защите Икс#/purplecard#."
   },
   "2421": {
     "en_us": "Sisters of Magma",
@@ -9687,11 +9687,11 @@
   },
   "2422": {
     "en_us": "Defeat #purplecard#Lizard#/purplecard# in each location throughout the game where he appears.",
-    "ru_ru": "Победите #purplecard#Ящера#/purplecard# в каждой локации по всей игре, где он появляется."
+    "ru_ru": "Победите #purplecard#Ящера#/purplecard# в каждой локации, где он появляется."
   },
   "2423": {
     "en_us": "Accept No Substitutes",
-    "ru_ru": "Не Принимайте Заменителей"
+    "ru_ru": "Не принимайте заменителей"
   },
   "2424": {
     "en_us": "The Cosmic Cupcake",
@@ -9699,27 +9699,27 @@
   },
   "2425": {
     "en_us": "Eric Brook's Custom Glaive",
-    "ru_ru": "Персональный Глефа Эрика Брукса"
+    "ru_ru": "Особая глефа Эрика Брукса"
   },
   "2426": {
     "en_us": "Original Avengers, Assemble!",
-    "ru_ru": "Оригинальные Мстители, Сбор!"
+    "ru_ru": "Первые Мстители, общий сбор!"
   },
   "2427": {
     "en_us": "Fire Giant Uniques",
-    "ru_ru": "Уники Огненного Великана"
+    "ru_ru": "Уникальные предметы Огненного гиганта"
   },
   "2428": {
     "en_us": "Command Bunker",
-    "ru_ru": "Командный Бункер"
+    "ru_ru": "Командный бункер"
   },
   "2429": {
     "en_us": "Litigator",
-    "ru_ru": "Сутяжник"
+    "ru_ru": "Сила закона"
   },
   "2430": {
     "en_us": "As Juggernaut, activate your #purplecard#Crimson Force Field#/purplecard# power 100 times.",
-    "ru_ru": "Играя за Джаггернаута, активируйте свою способность #purplecard#Алое Силовое Поле#/purplecard# 100 раз."
+    "ru_ru": "Играя за Джаггернаута, активировать #purplecard#Багряное силовое поле#/purplecard# 100 раз."
   },
   "2431": {
     "en_us": "Wolverine vs Doctor Doom",
@@ -9727,27 +9727,27 @@
   },
   "2432": {
     "en_us": "In a solo #purplecard#Cosmic Terminal#/purplecard# run, defeat #purplecard#Doctor Doom#/purplecard# in #purplecard#under 60 seconds#/purplecard# upon entering his #purplecard#throne room#/purplecard#. You must be present for the entire fight.",
-    "ru_ru": "В одиночном забеге #purplecard#Космического Терминала#/purplecard# победите #purplecard#Доктора Дума#/purplecard# #purplecard#менее чем за 60 секунд#/purplecard# после входа в его #purplecard#тронный зал#/purplecard#. Вы должны присутствовать на протяжении всего боя."
+    "ru_ru": "В одиночку победите #purplecard#Доктора Дума#/purplecard# в #purplecard#Космическом терминале#/purplecard# менее чем за #purplecard#60 секунд#/purplecard# после входа в его #purplecard#Тронный зал#/purplecard#. Вы должны сражаться в одиночку на протяжении всего боя."
   },
   "2433": {
     "en_us": "Battle Crossbow",
-    "ru_ru": "Боевой Арбалет"
+    "ru_ru": "Боевой арбалет"
   },
   "2434": {
     "en_us": "Let's Try This Again",
-    "ru_ru": "Давайте Попробуем Снова"
+    "ru_ru": "Испытаем удачу снова"
   },
   "2435": {
     "en_us": "It's Your Grave",
-    "ru_ru": "Это Ваша Могила"
+    "ru_ru": "Это ваша могила"
   },
   "2436": {
     "en_us": "Golden Bow of Apollo",
-    "ru_ru": "Золотой Лук Аполлона"
+    "ru_ru": "Золотой лук Аполлона"
   },
   "2437": {
     "en_us": "Mutants Under Fire",
-    "ru_ru": "Мутанты Под Огнем"
+    "ru_ru": "Мутанты под огнем"
   },
   "2438": {
     "en_us": "Industrial Strength",
@@ -9755,7 +9755,7 @@
   },
   "2439": {
     "en_us": "Defeat 2,015 enemies with the #purplecard#Potted Groot Pet#/purplecard# summoned.",
-    "ru_ru": "Победите 2015 врагов с призванным #purplecard#Питомец Грут в Горшке#/purplecard#."
+    "ru_ru": "Победите 2 015 врагов, призвав питомца #purplecard#Грут в горшке#/purplecard#."
   },
   "2440": {
     "en_us": "Savage Land",
@@ -9763,7 +9763,7 @@
   },
   "2441": {
     "en_us": "As Taskmaster, be a sensible businessman and #purplecard#donate#/purplecard# 500 items.",
-    "ru_ru": "Играя за Таскмастера, будьте рассудительным бизнесменом и #purplecard#пожертвуйте#/purplecard# 500 предметов."
+    "ru_ru": "Играя за Таскмастера, будьте разумным бизнесменом и #purplecard#передайте#/purplecard# 500 предметов."
   },
   "2442": {
     "en_us": "Reward: Groot Movie Team-Up",
