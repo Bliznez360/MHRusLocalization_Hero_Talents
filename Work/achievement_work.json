@@ -251,7 +251,7 @@
   },
   "63": {
     "en_us": "Level 20 Achieved!",
-    "ru_ru": "Уровень 20!"
+    "ru_ru": "Достигнут 20 уровень!"
   },
   "64": {
     "en_us": "My Oldest Enemy",
@@ -7823,7 +7823,7 @@
   },
   "1956": {
     "en_us": "Kinney Family Locket",
-    "ru_ru": "Фамильный медальон Кинни"
+    "ru_ru": "Фамильный кулон Кинни"
   },
   "1957": {
     "en_us": "Fantastic Voyage",
@@ -9763,31 +9763,31 @@
   },
   "2441": {
     "en_us": "As Taskmaster, be a sensible businessman and #purplecard#donate#/purplecard# 500 items.",
-    "ru_ru": "Играя за Таскмастера, будьте разумным бизнесменом и #purplecard#передайте#/purplecard# 500 предметов."
+    "ru_ru": "Играя за Таскмастера, будьте разумным бизнесменом и #purplecard#отдайте#/purplecard# 500 предметов."
   },
   "2442": {
     "en_us": "Reward: Groot Movie Team-Up",
-    "ru_ru": "Награда: Напарник Грут из Фильма"
+    "ru_ru": "Награда: Напарник Грут (фильм)"
   },
   "2443": {
     "en_us": "Whatever You Can Do...",
-    "ru_ru": "Все, что Вы Можете Сделать..."
+    "ru_ru": "Всё, что вы умеете..."
   },
   "2444": {
     "en_us": "As Moon Knight, reach #purplecard#level 60#/purplecard#.",
-    "ru_ru": "Играя за Лунного Рыцаря, достигните #purplecard#уровня 60#/purplecard#."
+    "ru_ru": "Играя за Лунного Рыцаря, достигните #purplecard#60 уровня#/purplecard#."
   },
   "2445": {
     "en_us": "Cape of Sigurd Dragonslayer",
-    "ru_ru": "Плащ Сигурда Убийцы Драконов"
+    "ru_ru": "Накидка Сигурда Драконоборца"
   },
   "2446": {
     "en_us": "In a #purplecard#solo#/purplecard# run, defeat #purplecard#Taskmaster#/purplecard# on #purplecard#Normal Difficulty#/purplecard# or higher.",
-    "ru_ru": "В #purplecard#одиночном#/purplecard# забеге победите #purplecard#Таскмастера#/purplecard# на #purplecard#Обычной Сложности#/purplecard# или выше."
+    "ru_ru": "В #purplecard#одиночку#/purplecard# победите #purplecard#Таскмастера#/purplecard# в #purplecard#Обычной сложности#/purplecard#."
   },
   "2447": {
     "en_us": "Advanced A.I.M. Robot Dispensor",
-    "ru_ru": "Улучшенный Диспенсер Роботов А.И.М."
+    "ru_ru": "Улучшенный раздатчик роботов А.И.М."
   },
   "2448": {
     "en_us": "Blessing of Frigga",
@@ -9799,7 +9799,7 @@
   },
   "2450": {
     "en_us": "Treasure Hunting",
-    "ru_ru": "Поиск Сокровищ"
+    "ru_ru": "Охота за сокровищами"
   },
   "2451": {
     "en_us": "Carnage vs. Doctor Doom",
@@ -9811,15 +9811,15 @@
   },
   "2453": {
     "en_us": "Five hundred times, defeat #purplecard#Kl'rt#/purplecard# and open all of his possible #purplecard#Bounty Chests#/purplecard#.",
-    "ru_ru": "Пятьсот раз победите #purplecard#Кл'рта#/purplecard# и откройте все его возможные #purplecard#Сундуки с Наградой#/purplecard#."
+    "ru_ru": "Пятьсот раз победите #purplecard#Кл'рта#/purplecard# и откройте все его возможные #purplecard#Наградные сундуки#/purplecard#."
   },
   "2454": {
     "en_us": "Target Acquired: Pyro",
-    "ru_ru": "Цель Обнаружена: Пиро"
+    "ru_ru": "Цель захвачена: Пиро"
   },
   "2455": {
     "en_us": "As #purplecard#Ghost Rider#/purplecard#, defeat #purplecard#Pyro#/purplecard# 20 times with any #purplecard#Spider-Ham#/purplecard# summoned as your pet.",
-    "ru_ru": "Играя за #purplecard#Призрачного Гонщика#/purplecard#, победите #purplecard#Пиро#/purplecard# 20 раз с призванным #purplecard#любым Питомцем-Пауком-Хэмом#/purplecard#."
+    "ru_ru": "Играя за #purplecard#Человека-Факела#/purplecard#, победите #purplecard#Пиро#/purplecard# 20 раз с призванным #purplecard#Свин-Пауком#/purplecard#."
   },
   "2456": {
     "en_us": "Nova vs. Doctor Doom",
@@ -9827,39 +9827,39 @@
   },
   "2457": {
     "en_us": "Target Acquired: Red Skull II",
-    "ru_ru": "Цель Обнаружена: Красный Череп II"
+    "ru_ru": "Цель захвачена: Красный Череп II"
   },
   "2458": {
     "en_us": "Essential Roster",
-    "ru_ru": "Основной Состав"
+    "ru_ru": "Основной список"
   },
   "2459": {
     "en_us": "Be on a four-hero team with four unique available #purplecard#former Horsemen of the Apocalypse#/purplecard#.",
-    "ru_ru": "Будьте в команде из четырех героев с четырьмя уникальными доступными #purplecard#бывшими Всадниками Апокалипсиса#/purplecard#."
+    "ru_ru": "Будьте в команде из четырех героев с четырьмя Уникальными предметами #purplecard#бывших Всадников Апокалипсиса#/purplecard#."
   },
   "2460": {
     "en_us": "As Luke Cage, loot 250,000 #purplecard#Credits#/purplecard#.",
-    "ru_ru": "Играя за Люка Кейджа, подберите 250 000 #purplecard#Кредитов#/purplecard#."
+    "ru_ru": "Играя за Люка Кейджа, собрать 250 000 #purplecard#кредитов#/purplecard#."
   },
   "2461": {
     "en_us": "As Nightcrawler, take down 1,975 #purplecard#N'Garai Demons#/purplecard#. Just in case one of them knows where Azazel is.",
-    "ru_ru": "Играя за Ночного Змея, уничтожьте 1975 #purplecard#Демонов Н'Гарай#/purplecard#. Просто на случай, если кто-то из них знает, где Азазель."
+    "ru_ru": "Играя за Ночного Змея, уничтожьте 1 975 #purplecard#Демонов Н'Гарай#/purplecard#. Просто на случай, если кто-то из них знает, где Азазель."
   },
   "2462": {
     "en_us": "Videotape Collection",
-    "ru_ru": "Коллекция Видеокассет"
+    "ru_ru": "Коллекция видеокассет"
   },
   "2463": {
     "en_us": "Five hundred times, defeat #purplecard#Kingpin#/purplecard# and open all of his possible #purplecard#Bounty Chests#/purplecard#.",
-    "ru_ru": "Пятьсот раз победите #purplecard#Кингпина#/purplecard# и откройте все его возможные #purplecard#Сундуки с Наградой#/purplecard#."
+    "ru_ru": "Пятьсот раз победить #purplecard#Кингпина#/purplecard# и откройте все его возможные #purplecard#Наградные сундуки#/purplecard#."
   },
   "2464": {
     "en_us": "The Footstigons",
-    "ru_ru": "Футстигоны"
+    "ru_ru": "Сапожищи"
   },
   "2465": {
     "en_us": "Collapsed Subway",
-    "ru_ru": "Обрушившееся Метро"
+    "ru_ru": "Разрушенное метро"
   },
   "2466": {
     "en_us": "Sinister Six Surplus",
@@ -9871,7 +9871,7 @@
   },
   "2468": {
     "en_us": "Defeat 2,016 enemies with the #purplecard#Lucky Pet#/purplecard# summoned.",
-    "ru_ru": "Победите 2016 врагов с призванным #purplecard#Счастливым Питомцем#/purplecard#."
+    "ru_ru": "Победите 2 016 врагов с призванным #purplecard#Питомцем Лаки#/purplecard#."
   },
   "2469": {
     "en_us": "Green Goblin vs Doctor Doom",
@@ -9883,27 +9883,27 @@
   },
   "2471": {
     "en_us": "Reward: Random Cosmic Medallion",
-    "ru_ru": "Награда: Случайный Космический Медальон"
+    "ru_ru": "Награда: Случайный космический медальон"
   },
   "2472": {
     "en_us": "Battle of the Atom Chain Belt",
-    "ru_ru": "Цепочный Пояс Битвы Атомов"
+    "ru_ru": "Цепной пояс \"Битва Атома\""
   },
   "2473": {
     "en_us": "Locket of the Lords Cardinal",
-    "ru_ru": "Медальон Лордов Кардиналов"
+    "ru_ru": "Кулон Лордов-Кардиналов"
   },
   "2474": {
     "en_us": "Reward: Personal AIM Robot Dispenser",
-    "ru_ru": "Награда: Персональный Диспенсер Роботов АИМ"
+    "ru_ru": "Награда: Личный раздатчик роботов А.И.М."
   },
   "2475": {
     "en_us": "Guns & Ammo",
-    "ru_ru": "Оружие и Боеприпасы"
+    "ru_ru": "Оружие и боеприпасы"
   },
   "2476": {
     "en_us": "Basic",
-    "ru_ru": "Базовый"
+    "ru_ru": "Базовые"
   },
   "2477": {
     "en_us": "Joined the Resistance",
@@ -9911,7 +9911,7 @@
   },
   "2478": {
     "en_us": "Maggia Incursion",
-    "ru_ru": "Вторжение Маджии"
+    "ru_ru": "Вторжение Маггии"
   },
   "2479": {
     "en_us": "Glorious Gamora",
@@ -9919,15 +9919,15 @@
   },
   "2480": {
     "en_us": "Do Ya Feel Lucky?",
-    "ru_ru": "Везет?"
+    "ru_ru": "Думаешь, тебе повезет?"
   },
   "2481": {
     "en_us": "Level 30 Achieved!",
-    "ru_ru": "Достигнут Уровень 30!"
+    "ru_ru": "Достигнут 30 уровень!"
   },
   "2482": {
     "en_us": "As Doctor Strange, reach #purplecard#level 60#/purplecard#.",
-    "ru_ru": "Играя за Доктора Стрэнджа, достигните #purplecard#уровня 60#/purplecard#."
+    "ru_ru": "Играя за Доктора Стрэнджа, достигните #purplecard#60 уровня#/purplecard#."
   },
   "2483": {
     "en_us": "Wild Man of Borneo",
@@ -9935,63 +9935,63 @@
   },
   "2484": {
     "en_us": "Squirrel Squadron",
-    "ru_ru": "Отряд Белок"
+    "ru_ru": "Эскадрон белок"
   },
   "2485": {
     "en_us": "As Storm, defeat #purplecard#Black Panther#/purplecard# in #purplecard#PvP#/purplecard#.",
-    "ru_ru": "Играя за Шторм, победите #purplecard#Черную Пантеру#/purplecard# в #purplecard#PvP#/purplecard#."
+    "ru_ru": "Играя за Шторм, победите #purplecard#Чёрную Пантеру#/purplecard# в #purplecard#PvP#/purplecard#."
   },
   "2486": {
     "en_us": "Cosmic Bounty Master: Kaecilius",
-    "ru_ru": "Мастер Космической Награды: Кецилий"
+    "ru_ru": "Мастер по Космической Награде: Кецилий"
   },
   "2487": {
     "en_us": "Brilliantly Blue",
-    "ru_ru": "Блестяще Синий"
+    "ru_ru": "Блестяще синий"
   },
   "2488": {
     "en_us": "Wakandan Loot Crate",
-    "ru_ru": "Ящик с Добычей Ваканды"
+    "ru_ru": "Вакандский ящик с добычей"
   },
   "2489": {
     "en_us": "Reward: Cosmic Holo-Sim Unlocked",
-    "ru_ru": "Награда: Разблокирован Космический Голо-Сим"
+    "ru_ru": "Награда: Доступ к космическому Голо-симулятору"
   },
   "2490": {
     "en_us": "Just like Jamie Madrox, do some detective work and complete 10 #purplecard#secret achievements#/purplecard# or achievements with #purplecard#mystery objectives#/purplecard#.",
-    "ru_ru": "Как Джейми Мэдрокс, проведите детективную работу и выполните 10 #purplecard#секретных достижений#/purplecard# или достижений с #purplecard#загадочными целями#/purplecard#."
+    "ru_ru": "Провести расследование, как Джейми Мэдрокс, и получить 10 #purplecard#секретных достижений#/purplecard# или достижений с #purplecard#таинственными задачами#/purplecard#."
   },
   "2491": {
     "en_us": "Reward: .44 Magnum",
-    "ru_ru": "Награда: .44 Magnum"
+    "ru_ru": "Награда: Магнум .44"
   },
   "2492": {
     "en_us": "As Rogue, use #purplecard#Drain Life#/purplecard# on a #purplecard#supervillain#/purplecard# 100 times.",
-    "ru_ru": "Играя за Шельму, используйте #purplecard#Вытягивание Жизни#/purplecard# на #purplecard#суперзлодее#/purplecard# 100 раз."
+    "ru_ru": "Играя за Шельму, примените #purplecard#Высасывание жизни#/purplecard# к #purplecard#суперзлодеям#/purplecard# 100 раз."
   },
   "2493": {
     "en_us": "New X-Men Boots",
-    "ru_ru": "Ботинки Новых Людей Икс"
+    "ru_ru": "Сапоги \"Новые Люди Икс\""
   },
   "2494": {
     "en_us": "Shadowy Mask of the Hand",
-    "ru_ru": "Теневая Маска Руки"
+    "ru_ru": "Теневая маска Руки"
   },
   "2495": {
     "en_us": "No Fate But My Own",
-    "ru_ru": "Нет Судьбы, Кроме Моей Собственной"
+    "ru_ru": "Нет судьбы, кроме моей"
   },
   "2496": {
     "en_us": "As Mister Fantastic, reach #purplecard#level 60#/purplecard#.",
-    "ru_ru": "Играя за Мистера Фантастика, достигните #purplecard#уровня 60#/purplecard#."
+    "ru_ru": "Играя за Мистера Фантастика, достигните #purplecard#60 уровня#/purplecard#."
   },
   "2497": {
     "en_us": "Hail Hydra",
-    "ru_ru": "Да Здравствует Гидра"
+    "ru_ru": "Да здравствует ГИДРА"
   },
   "2498": {
     "en_us": "Defeat #purplecard#5,000 holographic supervillains#/purplecard# in the #purplecard#S.H.I.E.L.D. Holo-Sim#/purplecard#.",
-    "ru_ru": "Победите #purplecard#5000 голографических суперзлодеев#/purplecard# в #purplecard#Голо-Симуляторе Щ.И.Т.а#/purplecard#."
+    "ru_ru": "Победите #purplecard#5 000 голографических суперзлодеев#/purplecard# в #purplecard#Голо-симуляторе ЩИТа#/purplecard#."
   },
   "2499": {
     "en_us": "Thorn",
@@ -10019,7 +10019,7 @@
   },
   "2505": {
     "en_us": "We Are Omnipotent",
-    "ru_ru": "Мы Всемогущи"
+    "ru_ru": "Мы всемогущи"
   },
   "2506": {
     "en_us": "Experimental Repulsors",
