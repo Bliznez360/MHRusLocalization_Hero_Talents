@@ -1107,7 +1107,7 @@
   },
   "277": {
     "en_us": "Travel to #purplecard#Xavier's School#/purplecard# in #purplecard#Chapter 5#/purplecard#.",
-    "ru_ru": "Добраться до #purplecard#школы Ксавье#/purplecard# в #purplecard#Главе 5#/purplecard#."
+    "ru_ru": "Отправляйтесь в #purplecard#школу Ксавье#/purplecard# в #purplecard#Главе 5#/purplecard#."
   },
   "278": {
     "en_us": "The Initiative",
@@ -8103,7 +8103,7 @@
   },
   "2026": {
     "en_us": "Travel to the #purplecard#Avengers Tower#/purplecard# in #purplecard#Chapter 1#/purplecard#.",
-    "ru_ru": "Добраться до #purplecard#Башни Мстителей#/purplecard# в #purplecard#Главе 1#/purplecard#."
+    "ru_ru": "Отправляйтесь в #purplecard#Башню Мстителей#/purplecard# в #purplecard#Главе 1#/purplecard#."
   },
   "2027": {
     "en_us": "Abnormal Mutations",
@@ -10731,7 +10731,7 @@
   },
   "2683": {
     "en_us": "Gloves of the Siberian Winter",
-    "ru_ru": "Перчатки Сибирской Зимы"
+    "ru_ru": "Перчатки Сибирской зимы"
   },
   "2684": {
     "en_us": "Shield of the Silver Savage",
@@ -10743,15 +10743,15 @@
   },
   "2686": {
     "en_us": "Collect the following #purplecard#very rare Unique Items#/purplecard#.",
-    "ru_ru": "Соберите следующие #purplecard#очень редкие Уникальные Предметы#/purplecard#."
+    "ru_ru": "Соберите следующие #purplecard#очень редкие Уникальные предметы#/purplecard#."
   },
   "2687": {
     "en_us": "Bannertech Engineering",
-    "ru_ru": "Технологии Баннертек"
+    "ru_ru": "Инженерия Баннертек"
   },
   "2688": {
     "en_us": "Black Hat",
-    "ru_ru": "Черная Шляпа"
+    "ru_ru": "Чёрная шляпа"
   },
   "2689": {
     "en_us": "Complete all #purplecard#events#/purplecard# in #purplecard#Chapter 7#/purplecard#.",
@@ -10763,7 +10763,7 @@
   },
   "2691": {
     "en_us": "Open 50 Bounty Chests in Operations.",
-    "ru_ru": "Откройте 50 Сундуков с Наградой в Операциях."
+    "ru_ru": "Откройте 50 Наградных сундуков в Операциях."
   },
   "2692": {
     "en_us": "Witch Hunter's Boots",
@@ -10771,11 +10771,11 @@
   },
   "2693": {
     "en_us": "The Raft: Cell Block Alpha",
-    "ru_ru": "Плот: Блок Камер Альфа"
+    "ru_ru": "Рафт: Тюремный блок Альфа"
   },
   "2694": {
     "en_us": "As Nova, loot 500 #purplecard#Cosmic Items#/purplecard# (excluding rings) and 10 #purplecard#Cosmic Medallions#/purplecard# so that Worldmind can learn more of the Cosmic Cube's effects.",
-    "ru_ru": "Играя за Нову, подберите 500 #purplecard#Космических Предметов#/purplecard# (кроме колец) и 10 #purplecard#Космических Медальонов#/purplecard#, чтобы Вселенский Разум мог узнать больше о воздействии Космического Куба."
+    "ru_ru": "Играя за Нову, подберите 500 #purplecard#Космических предметов#/purplecard# (кроме колец) и 10 #purplecard#Космических медальонов#/purplecard#, чтобы Мировой Разум мог узнать больше о воздействии Космического Куба."
   },
   "2695": {
     "en_us": "Joy Ride",
@@ -10783,23 +10783,23 @@
   },
   "2696": {
     "en_us": "Subterranean Peacekeeping",
-    "ru_ru": "Подземное Миротворчество"
+    "ru_ru": "Миротворчество Подземных"
   },
   "2697": {
     "en_us": "Ol' Buckethead",
-    "ru_ru": "Старое Ведро"
+    "ru_ru": "Старик Ведроголовый"
   },
   "2698": {
     "en_us": "In a #purplecard#solo#/purplecard# run, defeat #purplecard#M.O.D.O.K.#/purplecard# on #purplecard#Normal Difficulty#/purplecard# or higher.",
-    "ru_ru": "В #purplecard#одиночном#/purplecard# забеге победите #purplecard#М.О.Д.О.К.#/purplecard# на #purplecard#Обычной Сложности#/purplecard# или выше."
+    "ru_ru": "В #purplecard#одиночку#/purplecard# победите #purplecard#МОДОКа#/purplecard# в #purplecard#Обычной сложности#/purplecard#."
   },
   "2699": {
     "en_us": "Find the #purplecard#Shooting Gallery#/purplecard# in the #purplecard#Fort Stryker Training Camp#/purplecard# and destroy all of the #purplecard#target stands#/purplecard# in under 10 seconds.",
-    "ru_ru": "Найдите #purplecard#Стрельбище#/purplecard# в #purplecard#Тренировочном Лагере Форта Страйкер#/purplecard# и уничтожьте все #purplecard#стенды с мишенями#/purplecard# менее чем за 10 секунд."
+    "ru_ru": "Найдите #purplecard#Тир#/purplecard# в #purplecard#Тренировочном лагере Форта Страйкер#/purplecard# и уничтожьте все #purplecard#стенды с мишенями#/purplecard# менее чем за 10 секунд."
   },
   "2700": {
     "en_us": "Closing Statements",
-    "ru_ru": "Заключительные Заявления"
+    "ru_ru": "Последнее слово"
   },
   "2701": {
     "en_us": "Magik’s Mystery, Part II",
@@ -10811,7 +10811,7 @@
   },
   "2703": {
     "en_us": "Impostors Detected: Avengers",
-    "ru_ru": "Обнаружены Самозванцы: Мстители"
+    "ru_ru": "Обнаружены самозванцы: Мстители"
   },
   "2704": {
     "en_us": "Totems",
@@ -10827,35 +10827,35 @@
   },
   "2707": {
     "en_us": "Be on a team with 5 uniquely represented available members of the #purplecard#West Coast Avengers#/purplecard#.",
-    "ru_ru": "Будьте в команде из 5 уникально представленных доступных членов #purplecard#Мстителей Западного Побережья#/purplecard#."
+    "ru_ru": "Будьте в команде из 5 разных членов состава #purplecard#Мстителей Западного побережья#/purplecard#."
   },
   "2708": {
     "en_us": "Impenetrable Leather Jacket",
-    "ru_ru": "Непробиваемая Кожаная Куртка"
+    "ru_ru": "Непробиваемая кожаная куртка"
   },
   "2709": {
     "en_us": "Defeat #purplecard#Juggernaut#/purplecard# 3 times as Thing.",
-    "ru_ru": "Победите #purplecard#Джаггернаута#/purplecard# 3 раза за Существо."
+    "ru_ru": "Победите #purplecard#Джаггернаута#/purplecard# 3 раза, играя за Существо."
   },
   "2710": {
     "en_us": "Five hundred times, defeat #purplecard#Magneto#/purplecard# and open all of his possible #purplecard#Bounty Chests#/purplecard#.",
-    "ru_ru": "Пятьсот раз победите #purplecard#Магнето#/purplecard# и откройте все его возможные #purplecard#Сундуки с Наградой#/purplecard#."
+    "ru_ru": "Пятьсот раз победить #purplecard#Магнето#/purplecard# и откройте все его возможные #purplecard#Наградные сундуки#/purplecard#."
   },
   "2711": {
     "en_us": "Blinding Brazier of Balthakk",
-    "ru_ru": "Ослепляющая Жаровня Балтакка"
+    "ru_ru": "Ослепляющая жаровня Бальтакка"
   },
   "2712": {
     "en_us": "Target Acquired: Shocker",
-    "ru_ru": "Цель получена: Шокер"
+    "ru_ru": "Цель захвачена: Шокер"
   },
   "2713": {
     "en_us": "Defeat #purplecard#Magneto#/purplecard# in each location throughout the game where he appears.",
-    "ru_ru": "Победите #purplecard#Магнето#/purplecard# в каждой локации по всей игре, где он появляется."
+    "ru_ru": "Победите #purplecard#Магнето#/purplecard# в каждой локации, где он появляется."
   },
   "2714": {
     "en_us": "Symbiote Infestation",
-    "ru_ru": "Симбиотическое Заражение"
+    "ru_ru": "Заражение симбиотами"
   },
   "2715": {
     "en_us": "Boiler Room",
@@ -10863,7 +10863,7 @@
   },
   "2716": {
     "en_us": "Get Five Heroes to Level 60.",
-    "ru_ru": "Доведите Пять Героев до Уровня 60."
+    "ru_ru": "Повысьте уровень пяти Героям до 60."
   },
   "2717": {
     "en_us": "Collect all of the following #purplecard#animal artifacts#/purplecard#:",
@@ -10871,23 +10871,23 @@
   },
   "2718": {
     "en_us": "Own all of Doctor Doom's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Получите все #purplecard#Уникальные Предметы#/purplecard# Доктора Дума."
+    "ru_ru": "Получите все #purplecard#Уникальные предметы#/purplecard# Доктора Дума."
   },
   "2719": {
     "en_us": "Reward: Personal Taskmaster's Fighting for Losers Guide",
-    "ru_ru": "Награда: Персональное Руководство Таскмастера «Боевые Искусства для Неудачников»"
+    "ru_ru": "Награда: Личное руководство Таскмастера \"Боевые искусства для лузеров\""
   },
   "2720": {
     "en_us": "As Jean Grey, defeat #purplecard#Doctor Doom#/purplecard# in #purplecard#Story Mode#/purplecard# within #purplecard#180 seconds#/purplecard# of entering his #purplecard#Throne Room#/purplecard#. You must be solo for the entire fight.",
-    "ru_ru": "Играя за Джин Грей, победите #purplecard#Доктора Дума#/purplecard# в #purplecard#Сюжетном режиме#/purplecard# в течение #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный Зал#/purplecard#. Вы должны быть в одиночку на протяжении всего боя."
+    "ru_ru": "Играя за Джин Грей, победите #purplecard#Доктора Дума#/purplecard# в #purplecard#Сюжетном режиме#/purplecard# за #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный зал#/purplecard#. Вы должны сражаться в одиночку на протяжении всего боя."
   },
   "2721": {
     "en_us": "Breaking the Fourth Wall",
-    "ru_ru": "Разрушая Четвертую Стену"
+    "ru_ru": "Разрушение Четвертой стены"
   },
   "2722": {
     "en_us": "Nisanti Boots",
-    "ru_ru": "Ботинки Нисанти"
+    "ru_ru": "Сапоги Нисанти"
   },
   "2723": {
     "en_us": "Travel to #purplecard#Odin's Palace#/purplecard# in #purplecard#Chapter 9#/purplecard#.",
@@ -10895,19 +10895,19 @@
   },
   "2724": {
     "en_us": "If They Be Worthy...",
-    "ru_ru": "Если Они Достойны..."
+    "ru_ru": "Если они достойны..."
   },
   "2725": {
     "en_us": "S.W.O.R.D. Command Post",
-    "ru_ru": "Командный Пост М.Е.Ч.а"
+    "ru_ru": "Командный пункт МЕЧа"
   },
   "2726": {
     "en_us": "Bucky's Tactical Knife",
-    "ru_ru": "Тактический Нож Баки"
+    "ru_ru": "Тактический нож Баки"
   },
   "2727": {
     "en_us": "When I Feel Heavy Metal",
-    "ru_ru": "Когда Я Чувствую Хэви-Метал"
+    "ru_ru": "Когда я чувствую тяжелый метал"
   },
   "2728": {
     "en_us": "Alt-aholic III",
@@ -10915,15 +10915,15 @@
   },
   "2729": {
     "en_us": "As Rocket Raccoon, destroy 250 #purplecard#dumpsters#/purplecard#.  Real dumpsters only - holo-dumpsters don't count.",
-    "ru_ru": "Играя за Ракету, уничтожьте 250 #purplecard#мусорных контейнеров#/purplecard#. Только настоящие мусорные контейнеры - голо-мусорные контейнеры не считаются."
+    "ru_ru": "Играя за Ракету, уничтожьте 250 #purplecard#мусорных баков#/purplecard#. Только настоящие мусорные баки - голо-баки не в счёт."
   },
   "2730": {
     "en_us": "Stark Industries Support Armor",
-    "ru_ru": "Броня Поддержки Старк Индастриз"
+    "ru_ru": "Броня поддержки \"Старк Индастриз\""
   },
   "2731": {
     "en_us": "Get Off My Lawn!",
-    "ru_ru": "Убирайся с Моей Лужайки!"
+    "ru_ru": "Прочь с моей лужайки!"
   },
   "2732": {
     "en_us": "Mole Man",
@@ -10943,7 +10943,7 @@
   },
   "2736": {
     "en_us": "Defeat 2,017 enemies with the #purplecard#Cosmo Pet#/purplecard# summoned.",
-    "ru_ru": "Победите 2017 врагов с призванным #purplecard#Питомцем Космо#/purplecard#."
+    "ru_ru": "Победите 2 017 врагов с призванным #purplecard#Питомцем Космо#/purplecard#."
   },
   "2737": {
     "en_us": "Beast vs Doctor Doom",
@@ -10959,27 +10959,27 @@
   },
   "2740": {
     "en_us": "As Winter Soldier, defeat #purplecard#Hulk#/purplecard# 5 times in the #purplecard#Holo-Sim#/purplecard# using your #purplecard#Bionic Arm#/purplecard# as the finishing blow.",
-    "ru_ru": "Играя за Зимнего Солдата, победите #purplecard#Халка#/purplecard# 5 раз в #purplecard#Голо-Симуляторе#/purplecard#, используя свою #purplecard#Бионическую Руку#/purplecard# в качестве добивающего удара."
+    "ru_ru": "Играя за Зимнего Солдата, победите #purplecard#Халка#/purplecard# 5 раз в #purplecard#Голо-симуляторе#/purplecard#, используя свою #purplecard#Бионическую руку#/purplecard# в качестве добивающего удара."
   },
   "2741": {
     "en_us": "Show fellow magic users how powerful #purplecard#Chaos Magic#/purplecard# can really be by defeating 1,964 #purplecard#sorcerers and demons#/purplecard#.",
-    "ru_ru": "Покажите другим магам, насколько сильна может быть #purplecard#Магия Хаоса#/purplecard#, победив 1964 #purplecard#колдунов и демонов#/purplecard#."
+    "ru_ru": "Покажите другим магам, насколько сильна может быть #purplecard#Магия Хаоса#/purplecard#, победив 1 964 #purplecard#колдунов и демонов#/purplecard#."
   },
   "2742": {
     "en_us": "Inertia Resistant Combat Armor",
-    "ru_ru": "Боевая Броня, Устойчивая к Инерции"
+    "ru_ru": "Противоинерционная боевая броня"
   },
   "2743": {
     "en_us": "Doc Octopus",
-    "ru_ru": "Док Осьминог"
+    "ru_ru": "Доктор Осьминог"
   },
   "2744": {
     "en_us": "Complete both a run of #purplecard#X-Defense#/purplecard# and a run of #purplecard#Holo-Sim#/purplecard#.",
-    "ru_ru": "Завершите как забег #purplecard#Икс-Защиты#/purplecard#, так и забег #purplecard#Голо-Симулятора#/purplecard#."
+    "ru_ru": "Завершите прохождение #purplecard#Защиты Икс#/purplecard# и #purplecard#Голо-Симулятора#/purplecard#."
   },
   "2745": {
-    "en_us": "Collection",
-    "ru_ru": "Коллекция"
+    "en_us": "X-traordinary Feats",
+    "ru_ru": "Икс-ключительные подвиги"
   },
   "2746": {
     "en_us": "Chapter 02",
@@ -10991,35 +10991,35 @@
   },
   "2748": {
     "en_us": "Defeat #purplecard#Captain America#/purplecard# in the #purplecard#Airfield Showdown#/purplecard# Game Mode.",
-    "ru_ru": "Победите #purplecard#Капитана Америку#/purplecard# в игровом режиме #purplecard#Разборка на Аэродроме#/purplecard#."
+    "ru_ru": "Победите #purplecard#Капитана Америку#/purplecard# в игровом режиме #purplecard#Противостояние на Аэродроме#/purplecard#."
   },
   "2749": {
     "en_us": "Weapon Bust",
-    "ru_ru": "Изъятие Оружия"
+    "ru_ru": "Изъятие оружия"
   },
   "2750": {
     "en_us": "As Blade, defeat the #purplecard#Herald of Ash#/purplecard# in Limbo Primitus.",
-    "ru_ru": "Играя за Блэйда, победите #purplecard#Вестника Пепла#/purplecard# в Лимбо Примитус."
+    "ru_ru": "Победите #purplecard#Вестника Пепла#/purplecard# в Лимбо Примус."
   },
   "2751": {
     "en_us": "The Whole 9 Yards",
-    "ru_ru": "Все Девять Ярдов"
+    "ru_ru": "Все 9 ярдов"
   },
   "2752": {
     "en_us": "Powered Up",
-    "ru_ru": "Усиленный"
+    "ru_ru": "Полная Мощь"
   },
   "2753": {
     "en_us": "Old School Telepath",
-    "ru_ru": "Телепат Старой Школы"
+    "ru_ru": "Телепат старой школы"
   },
   "2754": {
     "en_us": "Rise of the Cult of the Eye I",
-    "ru_ru": "Восстание Культа Глаза I"
+    "ru_ru": "Восхождение культа Ока I"
   },
   "2755": {
     "en_us": "Acclaimed Valor",
-    "ru_ru": "Признанное Мужество"
+    "ru_ru": "Прославленная Доблесть"
   },
   "2756": {
     "en_us": "Defeat #purplecard#Red Onslaught#/purplecard# 50 times.",
@@ -11043,43 +11043,43 @@
   },
   "2761": {
     "en_us": "Belt of the Yellow Jacket",
-    "ru_ru": "Пояс Желтого Жакета"
+    "ru_ru": "Пояс от желтой куртки"
   },
   "2762": {
     "en_us": "Chapter 9 Waypoints",
-    "ru_ru": "Точки Перемещения Главы 9"
+    "ru_ru": "Путевые точки Главы 9"
   },
   "2763": {
     "en_us": "Own all of She-Hulk's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Получите все #purplecard#Уникальные Предметы#/purplecard# Женщины-Халк."
+    "ru_ru": "Получите все #purplecard#Уникальные предметы#/purplecard# Женщины-Халка."
   },
   "2764": {
     "en_us": "Old Friend",
-    "ru_ru": "Старый Друг"
+    "ru_ru": "Старый друг"
   },
   "2765": {
     "en_us": "Twin Glock 26 Pistols",
-    "ru_ru": "Пистолеты Твин Глок 26"
+    "ru_ru": "Парные пистолеты Глок 26"
   },
   "2766": {
     "en_us": "Gamma-Powered",
-    "ru_ru": "Гамма-Усиленный"
+    "ru_ru": "Гамма-Заряженный"
   },
   "2767": {
     "en_us": "Silver Savage's Morningstar",
-    "ru_ru": "Утренняя Звезда Серебряного Дикаря"
+    "ru_ru": "Моргенштерн Серебряного дикаря"
   },
   "2768": {
     "en_us": "Industry City Eviction Notice",
-    "ru_ru": "Уведомление о Выселении из Промышленного района"
+    "ru_ru": "Уведомление о выселении из Промышленного района"
   },
   "2769": {
     "en_us": "Collect 10 hearts and 10 candies and obtain the Spirit of Valentine's Day.",
-    "ru_ru": "Соберите 10 сердец и 10 конфет и получите Дух Дня Святого Валентина."
+    "ru_ru": "Соберите 10 сердец и 10 конфет и получите Дух Дня св. Валентина."
   },
   "2770": {
     "en_us": "Craft 10 Portals to the #purplecard#Confidential Bovine Sector#/purplecard#.",
-    "ru_ru": "Создайте 10 Порталов в #purplecard#Секретный Коровий Сектор#/purplecard#."
+    "ru_ru": "Создать 10 порталов в #purplecard#Секретный Коровий сектор#/purplecard#."
   },
   "2771": {
     "en_us": "Hackers",
@@ -11095,7 +11095,7 @@
   },
   "2774": {
     "en_us": "Settling Debts",
-    "ru_ru": "Урегулирование Долгов"
+    "ru_ru": "Урегулирование долгов"
   },
   "2775": {
     "en_us": "Danger: Extreme",
@@ -11103,23 +11103,23 @@
   },
   "2776": {
     "en_us": "A.R.M.O.R. Defense",
-    "ru_ru": "Защита АРМОР"
+    "ru_ru": "Защитник АРМОР"
   },
   "2777": {
     "en_us": "Abandoned Subway",
-    "ru_ru": "Заброшенное Метро"
+    "ru_ru": "Заброшенное метро"
   },
   "2778": {
     "en_us": "Lady Liberators",
-    "ru_ru": "Леди-Освободители"
+    "ru_ru": "Леди Освободительницы"
   },
   "2779": {
     "en_us": "Old Flames",
-    "ru_ru": "Старое Пламя"
+    "ru_ru": "Былой огонь"
   },
   "2780": {
     "en_us": "As Invisible Woman, defeat #purplecard#Doctor Doom#/purplecard# in #purplecard#Story Mode#/purplecard# within #purplecard#180 seconds#/purplecard# of entering his #purplecard#Throne Room#/purplecard#. You must be solo for the entire fight.",
-    "ru_ru": "Играя за Невидимую Леди, победите #purplecard#Доктора Дума#/purplecard# в #purplecard#Сюжетном режиме#/purplecard# в течение #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный Зал#/purplecard#. Вы должны быть в одиночку на протяжении всего боя."
+    "ru_ru": "Играя за Невидимую Леди, победите #purplecard#Доктора Дума#/purplecard# в #purplecard#Сюжетном режиме#/purplecard# за #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный зал#/purplecard#. Вы должны сражаться в одиночку на протяжении всего боя."
   },
   "2781": {
     "en_us": "Human Rocket",
@@ -11127,7 +11127,7 @@
   },
   "2782": {
     "en_us": "In a #purplecard#solo#/purplecard# run, defeat #purplecard#Doctor Doom#/purplecard# on #purplecard#Normal Difficulty#/purplecard# or higher.",
-    "ru_ru": "В #purplecard#одиночном#/purplecard# забеге победите #purplecard#Доктора Дума#/purplecard# на #purplecard#Обычной Сложности#/purplecard# или выше."
+    "ru_ru": "В #purplecard#одиночку#/purplecard# победите #purplecard#Доктора Дума#/purplecard# в #purplecard#Обычной сложности#/purplecard#."
   },
   "2783": {
     "en_us": "Advanced Reactive Repulsor",
