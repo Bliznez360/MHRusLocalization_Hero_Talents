@@ -1443,7 +1443,7 @@
   },
   "361": {
     "en_us": "Be on a team with 5 uniquely represented available members of the #purplecard#X-Men#/purplecard#.",
-    "ru_ru": "Будьте в команде с 5 уникально представленными доступными членами #purplecard#Людей Икс#/purplecard#."
+    "ru_ru": "Будьте в команде из 5 разных членов состава #purplecard#Людей Икс#/purplecard#."
   },
   "362": {
     "en_us": "BAMF!",
@@ -1871,7 +1871,7 @@
   },
   "468": {
     "en_us": "Be on a team with 5 uniquely represented available members of the #purplecard#Thunderbolts#/purplecard#.",
-    "ru_ru": "Будьте в команде с 5 уникально представленными доступными членами #purplecard#Громовержцев#/purplecard#."
+    "ru_ru": "Будьте в команде из 5 разных членов состава #purplecard#Громовержцев#/purplecard#."
   },
   "469": {
     "en_us": "Luke's Badass Boots",
@@ -2663,7 +2663,7 @@
   },
   "666": {
     "en_us": "I'm Really Back This Time",
-    "ru_ru": "Теперь я точно вернулся"
+    "ru_ru": "На этот раз я точно вернулся"
   },
   "667": {
     "en_us": "Cloak of the Reaper",
@@ -11131,19 +11131,19 @@
   },
   "2783": {
     "en_us": "Advanced Reactive Repulsor",
-    "ru_ru": "Улучшенный Реактивный Репульсор"
+    "ru_ru": "Улучшенный реактивный репульсор"
   },
   "2784": {
     "en_us": "Defeat #purplecard#Rhino#/purplecard# in each location throughout the game where he appears.",
-    "ru_ru": "Победите #purplecard#Носорога#/purplecard# в каждой локации по всей игре, где он появляется."
+    "ru_ru": "Победите #purplecard#Носорога#/purplecard# в каждой локации, где он появляется."
   },
   "2785": {
     "en_us": "Very Special Things",
-    "ru_ru": "Очень Особенные Вещи"
+    "ru_ru": "Очень особые предметы"
   },
   "2786": {
     "en_us": "A City Aflame",
-    "ru_ru": "Горящий Город"
+    "ru_ru": "Город в огне"
   },
   "2787": {
     "en_us": "Mystic Mystery, Volume 7",
@@ -11151,7 +11151,7 @@
   },
   "2788": {
     "en_us": "Reward: Personal Ultron Bi-Level Concussion Projector",
-    "ru_ru": "Награда: Персональный Двухуровневый Проектор Сотрясения Альтрона"
+    "ru_ru": "Награда: Личный двухуровневый силовой излучатель Альтрона"
   },
   "2789": {
     "en_us": "Skrull Thor",
@@ -11159,15 +11159,15 @@
   },
   "2790": {
     "en_us": "Complete any Danger Room scenario with the following #purplecard#Utility Modifiers#/purplecard#:",
-    "ru_ru": "Пройдите любой сценарий Комнаты Опасности со следующими #purplecard#Модификаторами Полезности#/purplecard#:"
+    "ru_ru": "Пройдите любой сценарий Комнаты опасности со следующими #purplecard#Модификаторами Особенностей#/purplecard#:"
   },
   "2791": {
     "en_us": "Circuits Maximus",
-    "ru_ru": "Максимум Цепей"
+    "ru_ru": "Максимум Схем"
   },
   "2792": {
     "en_us": "The Spider-Clones",
-    "ru_ru": "Спайдер-Клоны"
+    "ru_ru": "Клон-Пауки"
   },
   "2793": {
     "en_us": "Venom vs. Doctor Doom",
@@ -11175,43 +11175,43 @@
   },
   "2794": {
     "en_us": "Target Acquired: All-Father Brevik",
-    "ru_ru": "Цель получена: Всеотец Бревик"
+    "ru_ru": "Цель захвачена: Всеотец Бревик"
   },
   "2795": {
     "en_us": "I'll Be Back",
-    "ru_ru": "Я Вернусь"
+    "ru_ru": "Я вернусь"
   },
   "2796": {
     "en_us": "Be on a team with 5 uniquely represented available members of the #purplecard#Secret Defenders#/purplecard#.",
-    "ru_ru": "Будьте в команде из 5 уникально представленных доступных членов #purplecard#Секретных Защитников#/purplecard#."
+    "ru_ru": "Будьте в команде из 5 разных членов состава #purplecard#Секретных Защитников#/purplecard#."
   },
   "2797": {
     "en_us": "Repentance",
-    "ru_ru": "Покаяние"
+    "ru_ru": "Раскаяние"
   },
   "2798": {
     "en_us": "One hundred times, defeat #purplecard#Mister Sinister#/purplecard# and open all of his possible #purplecard#Bounty Chests#/purplecard#.",
-    "ru_ru": "Сто раз победите #purplecard#Мистера Зловещего#/purplecard# и откройте все его возможные #purplecard#Сундуки с Наградой#/purplecard#."
+    "ru_ru": "Сто раз победите #purplecard#Мистера Зловещего#/purplecard# и откройте все его возможные #purplecard#Наградные сундуки#/purplecard#."
   },
   "2799": {
     "en_us": "Repulsor FIeld",
-    "ru_ru": "Репульсорное Поле"
+    "ru_ru": "Репульсорное поле"
   },
   "2800": {
     "en_us": "Target Acquired: Doctor Octopus",
-    "ru_ru": "Цель получена: Доктор Осьминог"
+    "ru_ru": "Цель захвачена: Доктор Осьминог"
   },
   "2801": {
     "en_us": "Facet of the Uni-Power",
-    "ru_ru": "Грань Юни-Силы"
+    "ru_ru": "Фрагмент Уни-силы"
   },
   "2802": {
     "en_us": "Base Sewers",
-    "ru_ru": "Базовая Канализация"
+    "ru_ru": "Канализация базы"
   },
   "2803": {
     "en_us": "Recycle Bin",
-    "ru_ru": "Корзина для Мусора"
+    "ru_ru": "Корзина для мусора"
   },
   "2804": {
     "en_us": "Iron Patriot Armor",
@@ -11223,27 +11223,27 @@
   },
   "2806": {
     "en_us": "Giraffe Figurine",
-    "ru_ru": "Фигурка Жирафа"
+    "ru_ru": "Фигурка жирафа"
   },
   "2807": {
     "en_us": "Mantle of the Future Warlord",
-    "ru_ru": "Мантия Будущего Военачальника"
+    "ru_ru": "Мантия военачальника Будущего"
   },
   "2808": {
     "en_us": "Reward: Random Hero Box",
-    "ru_ru": "Награда: Случайная Коробка Героя"
+    "ru_ru": "Награда: Коробка Случайного героя"
   },
   "2809": {
     "en_us": "Target Acquired: Doctor Doom II",
-    "ru_ru": "Цель получена: Доктор Дум II"
+    "ru_ru": "Цель захвачена: Доктор Дум II"
   },
   "2810": {
     "en_us": "Get all of my sweet, sweet #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Получите все мои сладенькие, сладенькие #purplecard#Уникальные Предметы#/purplecard#."
+    "ru_ru": "Собери все мои сладенькие, вкусненькие #purplecard#Уникальные предметы#/purplecard#."
   },
   "2811": {
     "en_us": "Royal Flush",
-    "ru_ru": "Роял Флеш"
+    "ru_ru": "Флеш-Рояль"
   },
   "2812": {
     "en_us": "Rescue 200 #purplecard#civilians#/purplecard# in #purplecard#Midtown Patrol#/purplecard#.",
@@ -11251,27 +11251,27 @@
   },
   "2813": {
     "en_us": "Advanced Starstone Tooth",
-    "ru_ru": "Улучшенный Зуб Звездного Камня"
+    "ru_ru": "Улучшенный зуб звездного камня"
   },
   "2814": {
     "en_us": "Defeat the #purplecard#Hood#/purplecard# in each location throughout the game where he appears.",
-    "ru_ru": "Победите #purplecard#Капюшона#/purplecard# в каждой локации по всей игре, где он появляется."
+    "ru_ru": "Победите #purplecard#Капюшона#/purplecard# в каждой локации, где он появляется."
   },
   "2815": {
     "en_us": "Hydra Belt Targeting System",
-    "ru_ru": "Система Наведения Пояса Гидры"
+    "ru_ru": "Поясная система наведения ГИДРЫ"
   },
   "2816": {
     "en_us": "Everett's Grocery",
-    "ru_ru": "Продуктовый Магазин Эверетта"
+    "ru_ru": "Бакалея Эверетта"
   },
   "2817": {
     "en_us": "Collect one of every #purplecard#Catalyst#purplecard#.",
-    "ru_ru": "Соберите по одному каждого #purplecard#Катализатора#purplecard#."
+    "ru_ru": "Соберите по одному каждого #purplecard#Катализатора#/purplecard#."
   },
   "2818": {
     "en_us": "As Black Cat, reach #purplecard#level 60#/purplecard#.",
-    "ru_ru": "Играя за Черную Кошку, достигните #purplecard#уровня 60#/purplecard#."
+    "ru_ru": "Играя за Чёрную Кошку, достигните #purplecard#60 уровня#/purplecard#."
   },
   "2819": {
     "en_us": "Travel to #purplecard#Hammer Bay#/purplecard# in #purplecard#Genosha#/purplecard#.",
@@ -11279,31 +11279,31 @@
   },
   "2820": {
     "en_us": "They Keep Pulling Me Back In!",
-    "ru_ru": "Они Продолжают Тянуть Меня Обратно!"
+    "ru_ru": "Они затягивают меня обратно!"
   },
   "2821": {
     "en_us": "Don't Make Them Like They Used To",
-    "ru_ru": "Уже Не Делают Таких, Как Раньше"
+    "ru_ru": "Сейчас таких уже не делают"
   },
   "2822": {
     "en_us": "Own all of Cyclops' #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Получите все #purplecard#Уникальные Предметы#/purplecard# Циклопа."
+    "ru_ru": "Получите все #purplecard#Уникальные предметы#/purplecard# Циклопа."
   },
   "2823": {
     "en_us": "Need More Squirrels",
-    "ru_ru": "Нужно Больше Белок"
+    "ru_ru": "Нужно больше белок"
   },
   "2824": {
     "en_us": "Advanced Fantastic Force Field",
-    "ru_ru": "Улучшенное Фантастическое Силовое Поле"
+    "ru_ru": "Улучшенное Фантастическое силовое поле"
   },
   "2825": {
     "en_us": "Grounded",
-    "ru_ru": "Приземленный"
+    "ru_ru": "Заземление"
   },
   "2826": {
     "en_us": "Own all of Beast's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Получите все #purplecard#Уникальные Предметы#/purplecard# Зверя."
+    "ru_ru": "Получите все #purplecard#Уникальные предметы#/purplecard# Зверя."
   },
   "2827": {
     "en_us": "Limbo Sextus",
@@ -11311,11 +11311,11 @@
   },
   "2828": {
     "en_us": "I Was Right",
-    "ru_ru": "Я Был Прав"
+    "ru_ru": "Я был прав"
   },
   "2829": {
     "en_us": "As Daredevil, defeat #purplecard#Doctor Doom#/purplecard# in #purplecard#Story Mode#/purplecard# within #purplecard#180 seconds#/purplecard# of entering his #purplecard#Throne Room#/purplecard#. You must be solo for the entire fight.",
-    "ru_ru": "Играя за Сорвиголову, победите #purplecard#Доктора Дума#/purplecard# в #purplecard#Сюжетном режиме#/purplecard# в течение #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный Зал#/purplecard#. Вы должны быть в одиночку на протяжении всего боя."
+    "ru_ru": "Играя за Сорвиголову, победите #purplecard#Доктора Дума#/purplecard# в #purplecard#Сюжетном режиме#/purplecard# за #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный зал#/purplecard#. Вы должны сражаться в одиночку на протяжении всего боя."
   },
   "2830": {
     "en_us": "Own all #purplecard#special artifacts#/purplecard#.",
@@ -11323,7 +11323,7 @@
   },
   "2831": {
     "en_us": "Steak For Dinner",
-    "ru_ru": "Стейк на Ужин"
+    "ru_ru": "Стейк на ужин"
   },
   "2832": {
     "en_us": "Medallions",
@@ -11335,7 +11335,7 @@
   },
   "2834": {
     "en_us": "Rewards: Hero for Hire Title and Signed Picture of the Heroes for Hire item",
-    "ru_ru": "Награды: Звание «Герой по найму» и Подписанная Фотография Героев по найму"
+    "ru_ru": "Награды: Титул Герой по найму и Подписанная фотография Героев по найму"
   },
   "2835": {
     "en_us": "Hood of Bihar",
@@ -11347,39 +11347,39 @@
   },
   "2837": {
     "en_us": "World War Hulk",
-    "ru_ru": "Мировая Война Халка"
+    "ru_ru": "Мировая война Халка"
   },
   "2838": {
     "en_us": "Peter Parker Can't Lose",
-    "ru_ru": "Питер Паркер Не Может Проиграть"
+    "ru_ru": "Питер Паркер не может проиграть"
   },
   "2839": {
     "en_us": "Standard USMC Jungle Boots",
-    "ru_ru": "Стандартные Ботинки USMC для Джунглей"
+    "ru_ru": "Уставные джанглы морпехов"
   },
   "2840": {
     "en_us": "As Hawkeye, defeat any 100 #purplecard#super villains#/purplecard#.",
-    "ru_ru": "Играя за Соколиного Глаза, победите 100 #purplecard#суперзлодеев#/purplecard#."
+    "ru_ru": "Играя за Соколиного Глаза, победите 100 любых #purplecard#суперзлодеев#/purplecard#."
   },
   "2841": {
     "en_us": "As Psylocke, defeat #purplecard#Doctor Doom#/purplecard# in #purplecard#Story Mode#/purplecard# within #purplecard#180 seconds#/purplecard# of entering his #purplecard#Throne Room#/purplecard#. You must be solo for the entire fight.",
-    "ru_ru": "Играя за Псайлок, победите #purplecard#Доктора Дума#/purplecard# в #purplecard#Сюжетном режиме#/purplecard# в течение #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный Зал#/purplecard#. Вы должны быть в одиночку на протяжении всего боя."
+    "ru_ru": "Играя за Псайлок, победите #purplecard#Доктора Дума#/purplecard# в #purplecard#Сюжетном режиме#/purplecard# за #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный зал#/purplecard#. Вы должны сражаться в одиночку на протяжении всего боя."
   },
   "2842": {
     "en_us": "Savage Exports III",
-    "ru_ru": "Дикий Экспорт III"
+    "ru_ru": "Экспорт с Дикой Земли III"
   },
   "2843": {
     "en_us": "Renowned Valor",
-    "ru_ru": "Прославленное Мужество"
+    "ru_ru": "Знаменитая Доблесть"
   },
   "2844": {
     "en_us": "Compliance will be rewarded. Defeat 400 #purplecard#S.H.I.E.L.D. Imposters#/purplecard# and one #purplecard#Elite S.H.I.E.L.D. Imposter#/purplecard#.",
-    "ru_ru": "Покорность будет вознаграждена. Победите 400 #purplecard#Самозванцев Щ.И.Т.а#/purplecard# и одного #purplecard#Элитного Самозванца Щ.И.Т.а#/purplecard#."
+    "ru_ru": "Послушание будет вознаграждено. Победите 400 #purplecard#Самозванцев ЩИТа#/purplecard# и одного #purplecard#Элитного самозванца ЩИТа#/purplecard#."
   },
   "2845": {
     "en_us": "Reward: Hand Written Note",
-    "ru_ru": "Награда: Рукописная Записка"
+    "ru_ru": "Награда: Рукописная записка"
   },
   "2846": {
     "en_us": "Moloids",
@@ -11387,19 +11387,19 @@
   },
   "2847": {
     "en_us": "Explosive Undertaking",
-    "ru_ru": "Взрывное Предприятие"
+    "ru_ru": "Взрывное предприятие"
   },
   "2848": {
     "en_us": "Let's Go Swarming",
-    "ru_ru": "Начнем Роение"
+    "ru_ru": "Пора устроить роение"
   },
   "2849": {
     "en_us": "Road Work Ahead",
-    "ru_ru": "Впереди Дорожные Работы"
+    "ru_ru": "Дорожные работы"
   },
   "2850": {
     "en_us": "Ancient Ruin Site",
-    "ru_ru": "Древнее Место Разрушения"
+    "ru_ru": "Древние руины"
   },
   "2851": {
     "en_us": "As Loki, show your brother #purplecard#Thor#/purplecard# that you are the rightful heir to the throne of Asgard by defeating him in #purplecard#PvP#/purplecard#.",
@@ -11407,43 +11407,43 @@
   },
   "2852": {
     "en_us": "As Magneto, use your control over magnetism to dismantle, demolish, and destroy 1,000 #purplecard#robots or cyborgs#/purplecard#.",
-    "ru_ru": "Играя за Магнето, используйте свой контроль над магнетизмом, чтобы разобрать, снести и уничтожить 1000 #purplecard#роботов или киборгов#/purplecard#."
+    "ru_ru": "Играя за Магнето, используйте свой контроль над магнетизмом, чтобы разобрать, снести и уничтожить 1 000 #purplecard#роботов или киборгов#/purplecard#."
   },
   "2853": {
     "en_us": "Wipe Out the Red From My Ledger",
-    "ru_ru": "Сотри Красное из Моей Книги"
+    "ru_ru": "Я должна и хочу расплатиться"
   },
   "2854": {
     "en_us": "Always Angry",
-    "ru_ru": "Всегда Зол"
+    "ru_ru": "Я всегда зол"
   },
   "2855": {
     "en_us": "Power Overwhelming",
-    "ru_ru": "Подавляющая Сила"
+    "ru_ru": "Неудержимая Сила"
   },
   "2856": {
     "en_us": "Defeat the #purplecard#Wizard#/purplecard# in each location throughout the game where he appears.",
-    "ru_ru": "Победите #purplecard#Чародея#/purplecard# в каждой локации по всей игре, где он появляется."
+    "ru_ru": "Победите #purplecard#Чародея#/purplecard# в каждой локации, где он появляется."
   },
   "2857": {
     "en_us": "Legendary Upgrade, Stage Two",
-    "ru_ru": "Легендарное Улучшение, Этап Второй"
+    "ru_ru": "Легендарное улучшение, этап второй"
   },
   "2858": {
     "en_us": "Latverian Defense Grid",
-    "ru_ru": "Латверийская Защитная Сеть"
+    "ru_ru": "Латверийская защитная сеть"
   },
   "2859": {
     "en_us": "As Blade, defeat #purplecard#Doctor Doom#/purplecard# in #purplecard#Story Mode#/purplecard# within #purplecard#180 seconds#/purplecard# of entering his #purplecard#Throne Room#/purplecard#. You must be solo for the entire fight.",
-    "ru_ru": "Играя за Блэйда, победите #purplecard#Доктора Дума#/purplecard# в #purplecard#Сюжетном режиме#/purplecard# в течение #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный Зал#/purplecard#. Вы должны быть в одиночку на протяжении всего боя."
+    "ru_ru": "Играя за Человека-Муравья, победите #purplecard#Доктора Дума#/purplecard# в #purplecard#Сюжетном режиме#/purplecard# за #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный зал#/purplecard#. Вы должны сражаться в одиночку на протяжении всего боя."
   },
   "2860": {
     "en_us": "Danger Room",
-    "ru_ru": "Комната Опасности"
+    "ru_ru": "Комната опасности"
   },
   "2861": {
     "en_us": "A.R.M.O.R. Supercharged Power Cell",
-    "ru_ru": "Суперзаряженная Силовая Ячейка АРМОР"
+    "ru_ru": "Суперзаряженный аккумулятор АРМОР"
   },
   "2862": {
     "en_us": "Father In Law",
@@ -11451,7 +11451,7 @@
   },
   "2863": {
     "en_us": "Unlock all waypoints in #purplecard#Chapter 2#/purplecard#.",
-    "ru_ru": "Разблокируйте все точки перемещения в #purplecard#Главе 2#/purplecard#."
+    "ru_ru": "Откройте все путевые точки #purplecard#Главы 2#/purplecard#."
   },
   "2864": {
     "en_us": "Spider-Woman",
@@ -11459,31 +11459,31 @@
   },
   "2865": {
     "en_us": "Complete this epic list of Asgard achievements, including all of Thor and Loki’s personal achievements to unlock the Loki Prisoner costume.",
-    "ru_ru": "Завершите этот эпический список достижений Асгарда, включая все личные достижения Тора и Локи, чтобы разблокировать костюм Заключенного Локи."
+    "ru_ru": "Завершите этот эпический список достижений Асгарда, включая все личные достижения Тора и Локи, чтобы разблокировать костюм Локи \"Пленник\"."
   },
   "2866": {
     "en_us": "Truly Desperate",
-    "ru_ru": "Поистине Отчаянный"
+    "ru_ru": "Крайнее отчаяние"
   },
   "2867": {
     "en_us": "As Nova, defeat 20 #purplecard#supervillains#/purplecard# using any of your #purplecard#pulsars#/purplecard# as the finishing blow.",
-    "ru_ru": "Играя за Нову, победите 20 #purplecard#суперзлодеев#/purplecard#, используя любой из ваших #purplecard#пульсаров#/purplecard# в качестве добивающего удара."
+    "ru_ru": "Играя за Нову, победите 20 #purplecard#суперзлодеев#/purplecard#, используя любые #purplecard#пульсары#/purplecard# в качестве добивающего удара."
   },
   "2868": {
     "en_us": "For Mariko",
-    "ru_ru": "Для Марико"
+    "ru_ru": "За Марико!"
   },
   "2869": {
     "en_us": "In a #purplecard#solo#/purplecard# run, defeat #purplecard#Shocker#/purplecard# in #purplecard#Red Terminal#/purplecard#.",
-    "ru_ru": "В #purplecard#одиночном#/purplecard# забеге победите #purplecard#Шокера#/purplecard# в #purplecard#Красном Терминале#/purplecard#."
+    "ru_ru": "В #purplecard#одиночку#/purplecard# победите #purplecard#Шокера#/purplecard# в #purplecard#Красном терминале#/purplecard#."
   },
   "2870": {
     "en_us": "Advanced Scrolls of Pama",
-    "ru_ru": "Улучшенные Свитки Памы"
+    "ru_ru": "Улучшенные свитки Памы"
   },
   "2871": {
     "en_us": "The Doomsaw",
-    "ru_ru": "Думсоу"
+    "ru_ru": "Думопила"
   },
   "2872": {
     "en_us": "Complete all #purplecard#events#/purplecard# in #purplecard#Chapter 2#/purplecard#.",
@@ -11495,31 +11495,31 @@
   },
   "2874": {
     "en_us": "Ultron, Red Solo Run",
-    "ru_ru": "Альтрон, Красный Одиночный Забег"
+    "ru_ru": "Красный Альтрон в одиночку"
   },
   "2875": {
     "en_us": "Reward: Skrull Military Uniform",
-    "ru_ru": "Награда: Военная Форма Скруллов"
+    "ru_ru": "Награда: Военная форма Скруллов"
   },
   "2876": {
     "en_us": "Extra Health Orbs",
-    "ru_ru": "Дополнительные Сферы Здоровья"
+    "ru_ru": "Дополнительные Сферы здоровья"
   },
   "2877": {
     "en_us": "Take the highway right into the danger zone by entering #purplecard#Cosmic Midtown#/purplecard# while ungrouped and defeating 1,986 enemies within #purplecard#9 minutes#/purplecard#.",
-    "ru_ru": "Сверните с шоссе прямо в опасную зону, войдя в #purplecard#Космический Мидтаун#/purplecard# без группы и победив 1986 врагов в течение #purplecard#9 минут#/purplecard#."
+    "ru_ru": "Сверните с шоссе прямо в опасную зону, войдя в #purplecard#Космический Мидтаун#/purplecard# без группы и победив 1 986 врагов в течение #purplecard#9 минут#/purplecard#."
   },
   "2878": {
     "en_us": "Defeat #purplecard#All-Father Brevik#/purplecard# another 150 times in #purplecard#Bovineheim#/purplecard#.",
-    "ru_ru": "Победите #purplecard#Всеотца Бревика#/purplecard# еще 150 раз в #purplecard#Бовинейме#/purplecard#."
+    "ru_ru": "Победите #purplecard#Всеотца Бревика#/purplecard# ещё 150 раз в #purplecard#Бовинхейме#/purplecard#."
   },
   "2879": {
     "en_us": "I'm Back (Again)",
-    "ru_ru": "Я Вернулся (Снова)"
+    "ru_ru": "Я вернулся (снова)"
   },
   "2880": {
     "en_us": "Uncanny Avenger's Gloves",
-    "ru_ru": "Перчатки Невероятного Мстителя"
+    "ru_ru": "Перчатки \"Поразительных Мстителей\""
   },
   "2881": {
     "en_us": "Luke Cage vs Doctor Doom",
@@ -11531,39 +11531,39 @@
   },
   "2883": {
     "en_us": "Immortal Spirit of Kirby",
-    "ru_ru": "Бессмертный Дух Кирби"
+    "ru_ru": "Бессмертный дух Кирби"
   },
   "2884": {
     "en_us": "Defeat #purplecard#M.O.D.O.K.#/purplecard# and open all of his possible #purplecard#Bounty Chests#/purplecard#.",
-    "ru_ru": "Победите #purplecard#М.О.Д.О.К.#/purplecard# и откройте все его возможные #purplecard#Сундуки с Наградой#/purplecard#."
+    "ru_ru": "Победите #purplecard#МОДОКа#/purplecard# и откройте все его возможные #purplecard#Наградные сундуки#/purplecard#."
   },
   "2885": {
     "en_us": "Target Acquired: Doctor Doom",
-    "ru_ru": "Цель получена: Доктор Дум"
+    "ru_ru": "Цель захвачена: Доктор Дум"
   },
   "2886": {
     "en_us": "Coat of the Skull",
-    "ru_ru": "Пальто Черепа"
+    "ru_ru": "Плащ Черепа"
   },
   "2887": {
     "en_us": "Shooting Gallery",
     "ru_ru": "Тир"
   },
   "2888": {
-    "en_us": "As Ultron, asert your position above organic life by defeating 13 #purplecard#Terminal#/purplecard# bosses.",
+    "en_us": "As Ultron, asert your position above organic life by defeating 13 #purplecard#Operations#/purplecard# bosses.",
     "ru_ru": "Играя за Альтрона, подтвердите свое превосходство над органической жизнью, победив 13 боссов #purplecard#Терминалов#/purplecard#."
   },
   "2889": {
     "en_us": "Earth-1610 Fireballs",
-    "ru_ru": "Огненные Шары Земли-1610"
+    "ru_ru": "Огненные Шары с Земли-1610"
   },
   "2890": {
     "en_us": "Defeat #purplecard#Batroc#/purplecard# 1,000 times.",
-    "ru_ru": "Победите #purplecard#Батрока#/purplecard# 1000 раз."
+    "ru_ru": "Победите #purplecard#Батрока#/purplecard# 1 000 раз."
   },
   "2891": {
     "en_us": "Menacing Minions",
-    "ru_ru": "Угрожающие Миньоны"
+    "ru_ru": "Грозные миньоны"
   },
   "2892": {
     "en_us": "Reward: BFG 9000",
@@ -11571,11 +11571,11 @@
   },
   "2893": {
     "en_us": "Defeat #purplecard#Doctor Doom#/purplecard# another 80 times in the #purplecard#Castle Doom Terminal#/purplecard#.",
-    "ru_ru": "Победите #purplecard#Доктора Дума#/purplecard# еще 80 раз в #purplecard#Терминале Замка Дума#/purplecard#."
+    "ru_ru": "Победите #purplecard#Доктора Дума#/purplecard# еще 80 раз в #purplecard#Терминале: Замом Дума#/purplecard#."
   },
   "2894": {
     "en_us": "Unlock #purplecard#Superheroic#/purplecard# difficulty mode.",
-    "ru_ru": "Разблокируйте #purplecard#Супергероический#/purplecard# режим сложности."
+    "ru_ru": "Открыть #purplecard#супергеройский#/purplecard# уровень сложности."
   },
   "2895": {
     "en_us": "Be on a team with just #purplecard#Thor#/purplecard# and #purplecard#Loki#/purplecard#.",
@@ -11583,15 +11583,15 @@
   },
   "2896": {
     "en_us": "Windreaver Pendant",
-    "ru_ru": "Подвеска Ветрореза"
+    "ru_ru": "Кулон Ветряного разбойника"
   },
   "2897": {
     "en_us": "Defeat #purplecard#Shocker#/purplecard# and open all of his possible #purplecard#Bounty Chests#/purplecard#.",
-    "ru_ru": "Победите #purplecard#Шокера#/purplecard# и откройте все его возможные #purplecard#Сундуки с Наградой#/purplecard#."
+    "ru_ru": "Победите #purplecard#Шокера#/purplecard# и откройте все его возможные #purplecard#Наградные сундуки#/purplecard#."
   },
   "2898": {
     "en_us": "Pelt of the Sacred White Gorilla",
-    "ru_ru": "Шкура Священной Белой Гориллы"
+    "ru_ru": "Шкура священной Белой гориллы"
   },
   "2899": {
     "en_us": "Explore Jersey Docks",
@@ -11599,7 +11599,7 @@
   },
   "2900": {
     "en_us": "Carnage Rules!",
-    "ru_ru": "Карнаж Правит!"
+    "ru_ru": "Карнаж правит!"
   },
   "2901": {
     "en_us": "Genetic Mutation",
