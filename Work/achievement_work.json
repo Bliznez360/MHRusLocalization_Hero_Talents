@@ -216,7 +216,7 @@
     "ru_ru": "Адская Кухня"
   },
   "54": {
-    "en_us": "Operations",
+    "en_us": "Terminal",
     "ru_ru": "Терминал"
   },
   "55": {
@@ -1911,7 +1911,7 @@
   },
   "478": {
     "en_us": "Complete 14 Different Operations.",
-    "ru_ru": "Выполните 14 различных операций."
+    "ru_ru": "Выполните 14 различных Операций."
   },
   "479": {
     "en_us": "As Ultron, reach #purplecard#level 60#/purplecard#.",
@@ -2319,7 +2319,7 @@
   },
   "580": {
     "en_us": "Defeated every Super Villian in the #purplecard#Daily Bugle#/purplecard# operation with #purplecard#Iron Man#/purplecard# as your Team-Up.",
-    "ru_ru": "Победите каждого Суперзлодея в операции #purplecard#Ежедневный Багл#/purplecard# с #purplecard#Железным Человеком#/purplecard# в качестве напарника."
+    "ru_ru": "Победите каждого Суперзлодея в операции #purplecard#Дейли Бьюгл#/purplecard# с #purplecard#Железным Человеком#/purplecard# в качестве напарника."
   },
   "581": {
     "en_us": "Complete all 9 Chapters in Story Mode.",
@@ -4043,7 +4043,7 @@
   },
   "1011": {
     "en_us": "Defeat #purplecard#Vulture#/purplecard# 500 times in the #purplecard#Daily Bugle Operation#/purplecard#.",
-    "ru_ru": "Победите #purplecard#Стервятника#/purplecard# 500 раз в операции #purplecard#Дейли Бьюгл#/purplecard#."
+    "ru_ru": "Победите #purplecard#Стервятника#/purplecard# 500 раз в #purplecard#Операции: Дейли Бьюгл#/purplecard#."
   },
   "1012": {
     "en_us": "Targeted Frustration",
@@ -11550,7 +11550,7 @@
     "ru_ru": "Тир"
   },
   "2888": {
-    "en_us": "As Ultron, asert your position above organic life by defeating 13 #purplecard#Operations#/purplecard# bosses.",
+    "en_us": "As Ultron, asert your position above organic life by defeating 13 #purplecard#Terminal#/purplecard# bosses.",
     "ru_ru": "Играя за Альтрона, подтвердите свое превосходство над органической жизнью, победив 13 боссов #purplecard#Терминалов#/purplecard#."
   },
   "2889": {
@@ -11615,19 +11615,19 @@
   },
   "2904": {
     "en_us": "Recruitment Program",
-    "ru_ru": "Программа Набора"
+    "ru_ru": "Программа вербовки"
   },
   "2905": {
     "en_us": "Kree Turret Control Matrix",
-    "ru_ru": "Матрица Управления Турелью Кри"
+    "ru_ru": "Матрица управления турелями Кри"
   },
   "2906": {
     "en_us": "As Captain America, defeat #purplecard#Doctor Doom#/purplecard# in #purplecard#Story Mode#/purplecard# within #purplecard#180 seconds#/purplecard# of entering his #purplecard#Throne Room#/purplecard#. You must be solo for the entire fight.",
-    "ru_ru": "Играя за Капитана Америку, победите #purplecard#Доктора Дума#/purplecard# в #purplecard#Сюжетном режиме#/purplecard# в течение #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный Зал#/purplecard#. Вы должны быть в одиночку на протяжении всего боя."
+    "ru_ru": "Играя за Капитана Америку, победите #purplecard#Доктора Дума#/purplecard# в #purplecard#Сюжетном режиме#/purplecard# за #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный зал#/purplecard#. Вы должны сражаться в одиночку на протяжении всего боя."
   },
   "2907": {
     "en_us": "Clan Rebellion Bodysuit",
-    "ru_ru": "Комбинезон Клана Восстания"
+    "ru_ru": "Комбинезон клана Повстанцев"
   },
   "2908": {
     "en_us": "Hand of Nimrod",
@@ -11635,47 +11635,47 @@
   },
   "2909": {
     "en_us": "Thrill-Kill Karin",
-    "ru_ru": "Карин Жаждущая Убийств"
+    "ru_ru": "Карин Кровожадная"
   },
   "2910": {
     "en_us": "Classic Underwear",
-    "ru_ru": "Классическое Нижнее Белье"
+    "ru_ru": "Классические шорты"
   },
   "2911": {
     "en_us": "As #purplecard#War Machine#/purplecard#, defeat #purplecard#Falcon#/purplecard# in the #purplecard#Airfield Showdown#/purplecard# Game Mode.",
-    "ru_ru": "Играя за #purplecard#Воителя#/purplecard#, одолейте #purplecard#Сокола#/purplecard# в игровом режиме #purplecard#Разборка на Аэродроме#/purplecard#."
+    "ru_ru": "Играя за #purplecard#Воителя#/purplecard#, одолейте #purplecard#Сокола#/purplecard# в игровом режиме #purplecard#Противостояние на Аэродроме#/purplecard#."
   },
   "2912": {
     "en_us": "Original X-Men Boots",
-    "ru_ru": "Ботинки Оригинальных Людей Икс"
+    "ru_ru": "Сапоги первых Людей Икс"
   },
   "2913": {
     "en_us": "Kazurr Sniper Rifle",
-    "ru_ru": "Снайперская Винтовка Казурра"
+    "ru_ru": "Снайперская винтовка Казурр"
   },
   "2914": {
     "en_us": "Sunburnt",
-    "ru_ru": "Обгоревший"
+    "ru_ru": "Солнечный ожог"
   },
   "2915": {
     "en_us": "As Star-Lord, defeat 500 enemies with each of the #purplecard#Guardians#/purplecard# summoned as #purplecard#Team-Up heroes#/purplecard#.",
-    "ru_ru": "Играя за Звездного Лорда, победите 500 врагов с каждым из #purplecard#Стражей#/purplecard#, призванным в качестве #purplecard#героев-напарников#/purplecard#."
+    "ru_ru": "Играя за Звёздного Лорда, победите 500 врагов с каждым из #purplecard#Стражей#/purplecard#, призванным в качестве #purplecard#Напарников#/purplecard#."
   },
   "2916": {
     "en_us": "Envenomed Nemesis",
-    "ru_ru": "Отравленный Немезис"
+    "ru_ru": "Ядовитый Немезис"
   },
   "2917": {
     "en_us": "Defeat #purplecard#Madame Hydra#/purplecard# in the #purplecard#Holo-Sim#/purplecard# and collect the chest reward from the VIP wave.",
-    "ru_ru": "Победите #purplecard#Мадам Гидру#/purplecard# в #purplecard#Голо-Симуляторе#/purplecard# и соберите награду из сундука с VIP-волны."
+    "ru_ru": "Победите #purplecard#Мадам Гидру#/purplecard# в #purplecard#Голо-симуляторе#/purplecard# и получить наградный сундук после VIP-волны."
   },
   "2918": {
     "en_us": "Extremely Normal Cows",
-    "ru_ru": "Чрезвычайно Нормальные Коровы"
+    "ru_ru": "Экстремально обычные коровы"
   },
   "2919": {
     "en_us": "Defeat #purplecard#Black Cat#/purplecard# in each location throughout the game where she appears.",
-    "ru_ru": "Победите #purplecard#Черную Кошку#/purplecard# в каждой локации по всей игре, где она появляется."
+    "ru_ru": "Победите #purplecard#Чёрную Кошку#/purplecard# в каждой локации, где она появляется."
   },
   "2920": {
     "en_us": "Takedowns",
@@ -11683,7 +11683,7 @@
   },
   "2921": {
     "en_us": "Defeat a Training Room Target Dummy.",
-    "ru_ru": "Победите Манекен для тренировок в Тренировочной комнате."
+    "ru_ru": "Победите Тренировочный манекен в Тренировочной комнате."
   },
   "2922": {
     "en_us": "They call me Luke CAGE!",
@@ -11691,39 +11691,39 @@
   },
   "2923": {
     "en_us": "H'ylthri Bodysuit",
-    "ru_ru": "Комбинезон Х'илтри"
+    "ru_ru": "Трико Х'илтри"
   },
   "2924": {
     "en_us": "Kronan Arcanist",
-    "ru_ru": "Кронанский Арканист"
+    "ru_ru": "Кронан Заклинатель"
   },
   "2925": {
     "en_us": "Daily Double",
-    "ru_ru": "Ежедневный Дубль"
+    "ru_ru": "Двойная ставка"
   },
   "2926": {
     "en_us": "As Iron Man, defeat #purplecard#Hulk#/purplecard# 5 times in the #purplecard#Holo-Sim#/purplecard# using #purplecard#melee#/purplecard# powers as the finishing blow.",
-    "ru_ru": "Играя за Железного Человека, победите #purplecard#Халка#/purplecard# 5 раз в #purplecard#Голо-Симуляторе#/purplecard#, используя #purplecard#способности ближнего боя#/purplecard# в качестве добивающего удара."
+    "ru_ru": "Играя за Железного Человека, победите #purplecard#Халка#/purplecard# 5 раз в #purplecard#Голо-cимуляторе#/purplecard#, используя способности #purplecard#ближнего боя#/purplecard# в качестве добивающего удара."
   },
   "2927": {
     "en_us": "Own all of Venom's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Получите все #purplecard#Уникальные Предметы#/purplecard# Венома."
+    "ru_ru": "Получите все #purplecard#Уникальные предметы#/purplecard# Венома."
   },
   "2928": {
     "en_us": "Sinister Diversions I",
-    "ru_ru": "Зловещие Отвлечения I"
+    "ru_ru": "Зловещие диверсии I"
   },
   "2929": {
     "en_us": "Titanic Valor",
-    "ru_ru": "Титаническое Мужество"
+    "ru_ru": "Титаническая Доблесть"
   },
   "2930": {
     "en_us": "Ride",
-    "ru_ru": "Поездка"
+    "ru_ru": "Всадника"
   },
   "2931": {
     "en_us": "Death from the Shadows",
-    "ru_ru": "Смерть из Теней"
+    "ru_ru": "Смерть из темноты"
   },
   "2932": {
     "en_us": "Bestest Day Ever!",
@@ -11735,7 +11735,7 @@
   },
   "2934": {
     "en_us": "As Ant-Man, defeat #purplecard#Taskmaster#/purplecard# 30 times and defeat 1,979 of his #purplecard#mercenaries#/purplecard# in a #purplecard#Terminal#/purplecard#.",
-    "ru_ru": "Играя за Человека-Муравья, победите #purplecard#Таскмастера#/purplecard# 30 раз и победите 1979 его #purplecard#наемников#/purplecard# в #purplecard#Терминале#/purplecard#."
+    "ru_ru": "Играя за Человека-Муравья, победите #purplecard#Таскмастера#/purplecard# 30 раз и победите 1 979 его #purplecard#наемников#/purplecard# в #purplecard#Терминале#/purplecard#."
   },
   "2935": {
     "en_us": "Chapter 1",
@@ -11743,83 +11743,83 @@
   },
   "2936": {
     "en_us": "Blow away all other S.H.I.E.L.D. Agent records in the #purplecard#Holo-Sim#/purplecard# and complete #purplecard#Wave 20#/purplecard# as Black Widow.",
-    "ru_ru": "Обойдите все рекорды Агентов Щ.И.Т.а в #purplecard#Голо-Симуляторе#/purplecard# и завершите #purplecard#Волну 20#/purplecard# за Черную Вдову."
+    "ru_ru": "Играя за Чёрную Вдову, побейте все рекорды Агентов ЩИТа в #purplecard#Голо-cимуляторе#/purplecard# завершив #purplecard#20 Волну#/purplecard#."
   },
   "2937": {
     "en_us": "Warbound Armor of Green Scar",
-    "ru_ru": "Военная Броня Зеленого Шрама"
+    "ru_ru": "Броня войны Зелёного шрама"
   },
   "2938": {
     "en_us": "As Silver Surfer, collect 500 #purplecard#Cosmic Worldstones#/purplecard# to help others better understand the Power Cosmic.",
-    "ru_ru": "Играя за Серебряного Серфера, соберите 500 #purplecard#Космических Мировых Камней#/purplecard#, чтобы помочь другим лучше понять Космическую Силу."
+    "ru_ru": "Играя за Серебряного Сёрфера, соберите  500 #purplecard#Космических камней мира#/purplecard#, чтобы помочь другим лучше понять Космическую силу."
   },
   "2939": {
     "en_us": "Insane in the Brain",
-    "ru_ru": "Безумен в Мозгу"
+    "ru_ru": "Мозговое безумие"
   },
   "2940": {
     "en_us": "For Credits",
-    "ru_ru": "За Кредиты"
+    "ru_ru": "На кредиты"
   },
   "2941": {
     "en_us": "Legendary Upgrade, Stage Four",
-    "ru_ru": "Легендарное Улучшение, Этап Четвертый"
+    "ru_ru": "Легендарное улучшение, этап четвёртый"
   },
   "2942": {
     "en_us": "Krong the Mighty",
-    "ru_ru": "Кронг Могучий"
+    "ru_ru": "Могучий Кронг"
   },
   "2943": {
     "en_us": "Pure Silk Vestments",
-    "ru_ru": "Одеяния из Чистого Шелка"
+    "ru_ru": "Одеяния из чистого шёлка"
   },
   "2944": {
     "en_us": "Purchase the following #purplecard#uniques#/purplecard# from Jocasta.",
-    "ru_ru": "Купите следующие #purplecard#уники#/purplecard# у Джокасты."
+    "ru_ru": "Купите следующие #purplecard#Уникальные предметы#/purplecard# у Джокасты."
   },
   "2945": {
     "en_us": "Cargo Barge",
-    "ru_ru": "Грузовая Баржа"
+    "ru_ru": "Грузовое судно"
   },
   "2946": {
     "en_us": "Together Again",
-    "ru_ru": "Снова Вместе"
+    "ru_ru": "Снова вместе"
   },
   "2947": {
     "en_us": "How Exactly Does This Work Again?",
-    "ru_ru": "Как Именно Это Работает Снова?"
+    "ru_ru": "Так как это работает?"
   },
   "2948": {
     "en_us": "Own all of Wolverine's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Получите все #purplecard#Уникальные Предметы#/purplecard# Росомахи."
+    "ru_ru": "Получите все #purplecard#Уникальные предметы#/purplecard# Росомахи."
   },
   "2949": {
     "en_us": "In a #purplecard#solo#/purplecard# run, defeat #purplecard#Taskmaster#/purplecard# in #purplecard#Red Terminal#/purplecard#.",
-    "ru_ru": "В #purplecard#одиночном#/purplecard# забеге победите #purplecard#Таскмастера#/purplecard# в #purplecard#Красном Терминале#/purplecard#."
+    "ru_ru": "В #purplecard#одиночку#/purplecard# победите #purplecard#Таскмастера#/purplecard# в #purplecard#Красном терминале#/purplecard#."
   },
   "2950": {
     "en_us": "Elemental Splitting",
-    "ru_ru": "Разделение Элементов"
+    "ru_ru": "Расщепление элементов"
   },
   "2951": {
     "en_us": "Hazardous Materials",
-    "ru_ru": "Опасные Материалы"
+    "ru_ru": "Опасные материалы"
   },
   "2952": {
     "en_us": "Defeat #purplecard#Ultron#/purplecard# and open all of his possible #purplecard#Bounty Chests#/purplecard#.",
-    "ru_ru": "Победите #purplecard#Альтрона#/purplecard# и откройте все его возможные #purplecard#Сундуки с Наградой#/purplecard#."
+    "ru_ru": "Победите #purplecard#Альтрона#/purplecard# и откройте все его возможные #purplecard#Наградные сундуки#/purplecard#."
   },
   "2953": {
     "en_us": "Impostors Detected: War Skrulls",
-    "ru_ru": "Обнаружены Самозванцы: Скруллы-Воины"
+    "ru_ru": "Обнаружены самозванцы: Скруллы-Воины"
   },
   "2954": {
     "en_us": "Increased Mental Damage",
-    "ru_ru": "Повышенный Ментальный Урон"
+    "ru_ru": "Повышенный Ментальный урон"
   },
   "2955": {
     "en_us": "Didn't Expect Me To Be Back?",
-    "ru_ru": "Не Ожидали, Что Я Вернусь?"
+    "ru_ru": "Не ждали, что я вернусь?"
   },
   "2956": {
     "en_us": "Anna Marie's Bomber Jacket",
