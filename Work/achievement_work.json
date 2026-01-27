@@ -1303,7 +1303,7 @@
   },
   "326": {
     "en_us": "Obtain the Discarded Purse from Midtown Manhattan Patrol.",
-    "ru_ru": "Получите выброшенную сумку на патруле Мидтаун Манхэттен."
+    "ru_ru": "Получите выброшенную сумку в Патруле Мидтаун Манхэттена."
   },
   "327": {
     "en_us": "Raptors",
@@ -3239,7 +3239,7 @@
   },
   "810": {
     "en_us": "Defeat 1,000 #purplecard#supervillains#/purplecard# in #purplecard#Midtown Manhattan#/purplecard#.",
-    "ru_ru": "Победите 1 000 #purplecard#суперзлодеев#/purplecard# в #purplecard#Мидтауне Мангэттена#/purplecard#."
+    "ru_ru": "Победите 1 000 #purplecard#суперзлодеев#/purplecard# в #purplecard#Мидтауне Манхэттена#/purplecard#."
   },
   "811": {
     "en_us": "Avengers Jade Spotlight",
@@ -3639,7 +3639,7 @@
   },
   "910": {
     "en_us": "Defeat 5,000 #purplecard#supervillains#/purplecard# in #purplecard#Midtown Manhattan#/purplecard#.",
-    "ru_ru": "Победите 5 000 #purplecard#суперзлодеев#/purplecard# в #purplecard#Мидтауне#/purplecard#."
+    "ru_ru": "Победите 5 000 #purplecard#суперзлодеев#/purplecard# в #purplecard#Мидтауне Манхэттена#/purplecard#."
   },
   "911": {
     "en_us": "Fantastic Force Cardinal Spotlight",
@@ -6675,7 +6675,7 @@
   },
   "1669": {
     "en_us": "Defeat every #purplecard#supervillain#/purplecard# who appears in the #purplecard#Midtown Manhattan#/purplecard# patrol zone.",
-    "ru_ru": "Победите каждого #purplecard#суперзлодея#/purplecard#, который появляется в зоне патрулирования #purplecard#Мидтаун#/purplecard#."
+    "ru_ru": "Победите каждого #purplecard#суперзлодея#/purplecard#, который появляется в зоне патрулирования #purplecard#Мидтаун Манхэттена#/purplecard#."
   },
   "1670": {
     "en_us": "Fire Must Conquer",
@@ -7751,7 +7751,7 @@
   },
   "1938": {
     "en_us": "Complete each #purplecard#Legendary Quest#/purplecard# in #purplecard#Midtown Manhattan#/purplecard#.",
-    "ru_ru": "Выполните каждый #purplecard#легендарный Квест#/purplecard# в#purplecard#Мидтауне#/purplecard#."
+    "ru_ru": "Выполните каждый #purplecard#легендарный Квест#/purplecard# в#purplecard#Мидтауне Манхэттена#/purplecard#."
   },
   "1939": {
     "en_us": "Shut down their unchecked exploitation of science by defeating 10,000 representatives of #purplecard#A.I.M.#/purplecard#",
@@ -11823,23 +11823,23 @@
   },
   "2956": {
     "en_us": "Anna Marie's Bomber Jacket",
-    "ru_ru": "Куртка-Бомбер Анны Мари"
+    "ru_ru": "Куртка-бомбер Анны-Мари"
   },
   "2957": {
     "en_us": "As Luke Cage, reach #purplecard#level 60#/purplecard#.",
-    "ru_ru": "Играя за Люка Кейджа, достигните #purplecard#уровня 60#/purplecard#."
+    "ru_ru": "Играя за Люка Кейджа, достигните #purplecard#60 уровня#/purplecard#."
   },
   "2958": {
     "en_us": "Experienced Teleportation",
-    "ru_ru": "Опытная Телепортация"
+    "ru_ru": "Опытный Телепорт"
   },
   "2959": {
     "en_us": "Future Foundation Pants",
-    "ru_ru": "Штаны Фонда Будущего"
+    "ru_ru": "Штаны Фонда будущего"
   },
   "2960": {
     "en_us": "Five hundred times, defeat #purplecard#M.O.D.O.K.#/purplecard# and open all of his possible #purplecard#Bounty Chests#/purplecard#.",
-    "ru_ru": "Пятьсот раз победите #purplecard#М.О.Д.О.К.#/purplecard# и откройте все его возможные #purplecard#Сундуки с Наградой#/purplecard#."
+    "ru_ru": "Пятьсот раз победите #purplecard#МОДОКа#/purplecard# и откройте все его возможные #purplecard#Наградные сундуки#/purplecard#."
   },
   "2961": {
     "en_us": "Idol of Khonshu",
@@ -11847,27 +11847,27 @@
   },
   "2962": {
     "en_us": "Target Acquired: Mandarin",
-    "ru_ru": "Цель получена: Мандарин"
+    "ru_ru": "Цель захвачена: Мандарин"
   },
   "2963": {
     "en_us": "Midtown Manhattan",
-    "ru_ru": "Мидтаун Манхэттен"
+    "ru_ru": "Мидтаун Манхэттена"
   },
   "2964": {
     "en_us": "Unique Collection, Stage One",
-    "ru_ru": "Коллекция Уников, Этап Первый"
+    "ru_ru": "Уникальная коллекция, этап первый"
   },
   "2965": {
     "en_us": "Waterfall Cave",
-    "ru_ru": "Пещера с Водопадом"
+    "ru_ru": "Пещера с водопадом"
   },
   "2966": {
     "en_us": "Find and Defeat a Cosmic Doop.",
-    "ru_ru": "Найдите и Победите Космического Дупа."
+    "ru_ru": "Найдите и победите Космического Дупа."
   },
   "2967": {
     "en_us": "Test of Precision",
-    "ru_ru": "Испытание Точности"
+    "ru_ru": "Испытание точности"
   },
   "2968": {
     "en_us": "As Doctor Doom, defeat #purplecard#Red Skull#/purplecard# in the #purplecard#Axis One-Shot#/purplecard#.",
@@ -11879,11 +11879,11 @@
   },
   "2970": {
     "en_us": "Reward: Personal Mental Focus Headband",
-    "ru_ru": "Награда: Персональная Повязка для Ментальной Фокусировки"
+    "ru_ru": "Награда: Личный обруч Ментального фокуса"
   },
   "2971": {
     "en_us": "Defeat a #purplecard#Training Room Target Dummy#/purplecard#.",
-    "ru_ru": "Победите #purplecard#Манекен для Тренировок в Тренировочной Комнате#/purplecard#."
+    "ru_ru": "Победите #purplecard#Тренировочный манекен в Тренировочной комнате#/purplecard#."
   },
   "2972": {
     "en_us": "Be on a team with #purplecard#Cyclops#/purplecard#, #purplecard#Jean Grey#/purplecard#, and #purplecard#Emma Frost#/purplecard#.",
@@ -11891,35 +11891,35 @@
   },
   "2973": {
     "en_us": "Beta Ray Wade Armor",
-    "ru_ru": "Броня Бета Рэй Уэйда"
+    "ru_ru": "Броня Бета Рэя Уэйда"
   },
   "2974": {
     "en_us": "Reward: Omega Experience Orb",
-    "ru_ru": "Награда: Сфера Опыта Омега"
+    "ru_ru": "Награда: Омега-сфера опыта"
   },
   "2975": {
     "en_us": "Same Thing That Happens to Everything Else",
-    "ru_ru": "То Же Самое, Что Случается Со Всем Остальным"
+    "ru_ru": "Та же судьба, что и у всех остальных"
   },
   "2976": {
     "en_us": "Five hundred times, defeat #purplecard#Shocker#/purplecard# and open all of his possible #purplecard#Bounty Chests#/purplecard#.",
-    "ru_ru": "Пятьсот раз победите #purplecard#Шокера#/purplecard# и откройте все его возможные #purplecard#Сундуки с Наградой#/purplecard#."
+    "ru_ru": "Пятьсот раз победить #purplecard#Шокера#/purplecard# и откройте все его возможные #purplecard#Наградные сундуки#/purplecard#."
   },
   "2977": {
     "en_us": "Demystified",
-    "ru_ru": "Разоблачено"
+    "ru_ru": "Останавливаемый"
   },
   "2978": {
     "en_us": "Amulet of Right",
-    "ru_ru": "Амулет Права"
+    "ru_ru": "Амулет Правды"
   },
   "2979": {
     "en_us": "Public Pier",
-    "ru_ru": "Общественный Пирс"
+    "ru_ru": "Общественный пирс"
   },
   "2980": {
     "en_us": "Defeat #purplecard#Kaecilius#/purplecard# in the #purplecard#Dimensions Collide#/purplecard# terminal.",
-    "ru_ru": "Победите #purplecard#Кецилия#/purplecard# в терминале #purplecard#Столкновение Измерений#/purplecard#."
+    "ru_ru": "Победите #purplecard#Кецилия#/purplecard# в терминале #purplecard#Столкновение измерений#/purplecard#."
   },
   "2981": {
     "en_us": "Complete all events in Chapter 1.",
@@ -11927,11 +11927,11 @@
   },
   "2982": {
     "en_us": "Hulk and Busters Game Center",
-    "ru_ru": "Игровой Центр Халка и Крушителей"
+    "ru_ru": "Игровой центр Халк и Бастеры"
   },
   "2983": {
     "en_us": "As Black Cat, use her #purplecard#Ultimate Power#/purplecard# 20 times.",
-    "ru_ru": "Играя за Черную Кошку, используйте ее #purplecard#Абсолютную Силу#/purplecard# 20 раз."
+    "ru_ru": "Играя за Чёрную Кошку, используйте ее #purplecard#Ультимативную способность#/purplecard# 20 раз."
   },
   "2984": {
     "en_us": "Earth-1610 Mask",
@@ -11939,19 +11939,19 @@
   },
   "2985": {
     "en_us": "Cosmic Voyage",
-    "ru_ru": "Космическое Путешествие"
+    "ru_ru": "Космическое путешествие"
   },
   "2986": {
     "en_us": "The Burning Crusade, Stage 3",
-    "ru_ru": "Пылающий Крестовый Поход, Этап 3"
+    "ru_ru": "Огненный крестовый поход, этап 3"
   },
   "2987": {
     "en_us": "As Rocket Raccoon, use your superior firepower and brilliant tactical mind to defeat 2,000 #purplecard#elite enemies#/purplecard#.",
-    "ru_ru": "Играя за Ракету, используйте свою превосходящую огневую мощь и блестящий тактический ум, чтобы победить 2000 #purplecard#элитных врагов#/purplecard#."
+    "ru_ru": "Играя за Ракету, используйте свою превосходящую огневую мощь и блестящий тактический ум, чтобы победить 2 000 #purplecard#элитных врагов#/purplecard#."
   },
   "2988": {
     "en_us": "Blue Team Utility Belt",
-    "ru_ru": "Пояс Синей Команды"
+    "ru_ru": "Разгрузочный пояс Синей команды"
   },
   "2989": {
     "en_us": "Squirrel Girl vs Doctor Doom",
@@ -11963,43 +11963,43 @@
   },
   "2991": {
     "en_us": "Own all #purplecard#spotlight artifact#/purplecard#.",
-    "ru_ru": "Получите все #purplecard#артефакты в центре внимания#/purplecard#."
+    "ru_ru": "Получите все #purplecard#Артефакты прожекторы#/purplecard#."
   },
   "2992": {
     "en_us": "Doctor Plunkett",
-    "ru_ru": "Доктор Планкетт"
+    "ru_ru": "Доктор Планкет"
   },
   "2993": {
     "en_us": "Cannery Row",
-    "ru_ru": "Консервный Ряд"
+    "ru_ru": "Консервный ряд"
   },
   "2994": {
     "en_us": "Black Cat vs. Doctor Doom",
-    "ru_ru": "Черная Кошка против Доктора Дума"
+    "ru_ru": "Чёрная Кошка против Доктора Дума"
   },
   "2995": {
     "en_us": "As Deadpool, collect 1,000 #purplecard#A.R.M.O.R. Research Drives#/purplecard# while in #purplecard#Midtown Patrol#/purplecard#.",
-    "ru_ru": "Играя за Дэдпула, соберите 1000 #purplecard#Исследовательских Накопителей АРМОР#/purplecard# во время #purplecard#Патруля Мидтауна#/purplecard#."
+    "ru_ru": "Играя за Дэдпула, соберите 1 000 #purplecard#Исследовательских дисков АРМОР#/purplecard# во время #purplecard#Патруля Мидтауна#/purplecard#."
   },
   "2996": {
     "en_us": "Defeat #purplecard#Taskmaster#/purplecard# 1,000 times on #purplecard#Cosmic Difficulty#/purplecard#.",
-    "ru_ru": "Победите #purplecard#Таскмастера#/purplecard# 1000 раз на #purplecard#Космической Сложности#/purplecard#."
+    "ru_ru": "Победите #purplecard#Таскмастера#/purplecard# 1 000 раз на #purplecard#Космической сложности#/purplecard#."
   },
   "2997": {
     "en_us": "As Iceman, defeat 1,000 #purplecard#Fire Demons or Lava Men#/purplecard# using #purplecard#Melee powers#/purplecard# as the finishing blow.",
-    "ru_ru": "Играя за Айсмена, победите 1000 #purplecard#Огненных Демонов или Лавовых Людей#/purplecard#, используя #purplecard#способности ближнего боя#/purplecard# в качестве добивающего удара."
+    "ru_ru": "Играя за Человека-Льда, победите 1 000 #purplecard#Огненных демонов или Лавоменов#/purplecard#, используя способности #purplecard#Ближнего боя#/purplecard# в качестве добивающего удара."
   },
   "2998": {
     "en_us": "The Winter Soldier's Visage",
-    "ru_ru": "Лик Зимнего Солдата"
+    "ru_ru": "Облик Зимнего Солдата"
   },
   "2999": {
     "en_us": "Sorcerer Supreme",
-    "ru_ru": "Верховный Волшебник"
+    "ru_ru": "Верховный Маг"
   },
   "3000": {
     "en_us": "As Captain Marvel, defeat #purplecard#Shocker#/purplecard# using #purplecard#Crashdown Strike#/purplecard#.",
-    "ru_ru": "Играя за Капитана Марвел, победите #purplecard#Шокера#/purplecard#, используя #purplecard#Удар Сверху#/purplecard#."
+    "ru_ru": "Играя за Капитана Марвел, победите #purplecard#Шокера#/purplecard#, используя #purplecard#Жёсткую посадку#/purplecard#."
   },
   "3001": {
     "en_us": "Groot",
