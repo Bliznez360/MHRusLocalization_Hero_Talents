@@ -12739,12 +12739,10 @@
   },
   "3185": {
     "en_us": "Unlock 10 #purplecard#titles#/purplecard# from #purplecard#Achievements#/purplecard#.",
-    "ru_ru": "Разблокируйте 10 #purplecard#званий#/purplecard# из #purplecard#Достижений#/purplecard#."
     "ru_ru": "Разблокируйте 10 #purplecard#титулов#/purplecard# из #purplecard#Достижений#/purplecard#."
   },
   "3186": {
     "en_us": "Warm Operator",
-    "ru_ru": "Теплый Оператор"
     "ru_ru": "Утепленный агент"
   },
   "3187": {
@@ -12757,7 +12755,7 @@
   },
   "3189": {
     "en_us": "Holo-Sim Grandmaster",
-    "ru_ru": "Грандмастер Голо-Симулятора"
+    "ru_ru": "Грандмастер Голо-симулятора"
   },
   "3190": {
     "en_us": "Tyr",
@@ -12793,7 +12791,7 @@
   },
   "3198": {
     "en_us": "Own all of Loki's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Получите все #purplecard#Уникальные Предметы#/purplecard# Локи."
+    "ru_ru": "Получите все #purplecard#Уникальные предметы#/purplecard# Локи."
   },
   "3199": {
     "en_us": "Betsy's X-Force Gear",
@@ -12885,11 +12883,11 @@
   },
   "3221": {
     "en_us": "Topple the Kingpin",
-    "ru_ru": "Свергнуть Кингпина"
+    "ru_ru": "Свержение Кингпина"
   },
   "3222": {
     "en_us": "Reward: Ultron Encephalo-Beam",
-    "ru_ru": "Награда: Энцепхало-Луч Альтрона"
+    "ru_ru": "Награда: Энцефало-луч Альтрона"
   },
   "3223": {
     "en_us": "Finish the Job",
