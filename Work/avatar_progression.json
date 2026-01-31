@@ -17006,12 +17006,12 @@
             "Name": {
               "id": "2179213638641911053",
               "eng": "Second Sun",
-              "rus": "Двоичная перегрузка"
+              "rus": "Второе Солнце"
             },
             "Desc": {
               "id": "10763690396657255697",
               "eng": "Become empowered with enough cosmic energy to fuel a small star that barrages enemies with stellar flares. Harnessing this surge of energy allows your health and #emphasis#photonic energy#/emphasis# to rapidly regenerate.",
-              "rus": "Взорваться фонтаном космической энергии, получая меньше урона от вражеских атак и создав вокруг себя на некоторое время силовое поле, которое #emphasis#обжигает#/emphasis# противников."
+              "rus": "Напитайтесь космической энергией, достаточной для поддержания малой звезды, которая обрушивает на врагов звездные вспышки. Использование этого прилива сил позволяет вашему здоровью и #emphasis#фотонной энергии#/emphasis# быстро восстанавливаться."
             }
           }
         ]
