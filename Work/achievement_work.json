@@ -4163,7 +4163,7 @@
   },
   "1041": {
     "en_us": "Reward: Cosmic ICP Unlocked",
-    "ru_ru": "Награда: Доступ к Космическому патрулю Промышленного района"
+    "ru_ru": "Награда: Разблокировка Космического Патруля Промышленного района"
   },
   "1042": {
     "en_us": "Mutate Marsh Elimination",
@@ -9955,7 +9955,7 @@
   },
   "2489": {
     "en_us": "Reward: Cosmic Holo-Sim Unlocked",
-    "ru_ru": "Награда: Доступ к космическому Голо-симулятору"
+    "ru_ru": "Награда: Разблокировка Космического Голо-симулятора"
   },
   "2490": {
     "en_us": "Just like Jamie Madrox, do some detective work and complete 10 #purplecard#secret achievements#/purplecard# or achievements with #purplecard#mystery objectives#/purplecard#.",
@@ -16403,51 +16403,51 @@
   },
   "4101": {
     "en_us": "Exhumed",
-    "ru_ru": "Эксгумированный"
+    "ru_ru": "Эксгумация"
   },
   "4102": {
     "en_us": "Collect the following #purplecard#\"Any Hero\" Unique Items#/purplecard#.",
-    "ru_ru": "Соберите следующие #purplecard#Уникальные Предметы \"Для Любого Героя\"#/purplecard#."
+    "ru_ru": "Собрать следующие #purplecard#Уникальные предметы любого героя#/purplecard#."
   },
   "4103": {
     "en_us": "Xavier's School Visitor Pass",
-    "ru_ru": "Пропуск Посетителя Школы Ксавьера"
+    "ru_ru": "Пропуск в школу Ксавье"
   },
   "4104": {
     "en_us": "As Carnage, defeat 1,991 foes using #purplecard#Axe powers#/purplecard# as the finishing blow.",
-    "ru_ru": "Играя за Карнажа, победите 1991 противника, используя #purplecard#способности Топора#/purplecard# в качестве добивающего удара."
+    "ru_ru": "Играя за Карнажа, победите 1 991 противника, используя #purplecard#способности Топора#/purplecard# в качестве добивающего удара."
   },
   "4105": {
     "en_us": "Chapter 10 Waypoints",
-    "ru_ru": "Точки Перемещения Главы 10"
+    "ru_ru": "Путевые точки Главы 10"
   },
   "4106": {
     "en_us": "As Kitty Pryde, defeat #purplecard#Doctor Doom#/purplecard# in #purplecard#Story Mode#/purplecard# within #purplecard#180 seconds#/purplecard# of entering his #purplecard#Throne Room#/purplecard#. You must be solo for the entire fight.",
-    "ru_ru": "Играя за Китти Прайд, победите #purplecard#Доктора Дума#/purplecard# в #purplecard#Сюжетном режиме#/purplecard# в течение #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный Зал#/purplecard#. Вы должны быть в одиночку на протяжении всего боя."
+    "ru_ru": "Играя за Китти Прайд, победите #purplecard#Доктора Дума#/purplecard# в #purplecard#Сюжетном режиме#/purplecard# в течение #purplecard#180 секунд#/purplecard# после входа в его #purplecard#Тронный зал#/purplecard#. Вы должны сражаться в одиночку на протяжении всего боя."
   },
   "4107": {
     "en_us": "As Vision, defeat 1,000 #purplecard#enemies#/purplecard# in #purplecard#Terminals#/purplecard# using #purplecard#Overclocking#/purplecard# to destroy a controlled robot as the finishing blow.",
-    "ru_ru": "Играя за Вижена, победите 1000 #purplecard#врагов#/purplecard# в #purplecard#Терминалах#/purplecard#, используя #purplecard#Разгон#/purplecard#, чтобы уничтожить контролируемого робота в качестве добивающего удара."
+    "ru_ru": "Играя за Вижна, победите 1 000 #purplecard#врагов#/purplecard# в #purplecard#Терминалах#/purplecard#, используя #purplecard#Разгон#/purplecard#, чтобы уничтожить контролируемого робота в качестве добивающего удара."
   },
   "4108": {
     "en_us": "My Own Wurst Enemy",
-    "ru_ru": "Мой Собственный Худший Враг"
+    "ru_ru": "Мой дымящийся враг"
   },
   "4109": {
     "en_us": "Reach #purplecard#level 50#/purplecard# with any hero.",
-    "ru_ru": "Достигните #purplecard#уровня 50#/purplecard# любым героем."
+    "ru_ru": "Достигните #purplecard#50 уровня#/purplecard# любым героем."
   },
   "4110": {
     "en_us": "Blaster Turret",
-    "ru_ru": "Бластерная Турель"
+    "ru_ru": "Бластерная турель"
   },
   "4111": {
     "en_us": "As Captain America, interact with #purplecard#Agent Lee#/purplecard# in #purplecard#Avengers Tower#/purplecard#.  You may be a man out of time, but you know this particular legend.",
-    "ru_ru": "Обожествленное Разрушение"
+    "ru_ru": "Играя за Капитана Америка, поговорите с #purplecard#Агентом Ли#/purplecard# в #purplecard#Башне Мстителей#/purplecard#. Возможно, вы и человек вне времени, но эту легенду вы точно знаете."
   },
   "4112": {
     "en_us": "Squirrel Systems Utility Belt",
-    "ru_ru": "Пояс для Инструментов Систем Белки"
+    "ru_ru": "Разгрузочный пояс Беличьих систем"
   },
   "4113": {
     "en_us": "Fatal Fireworks",
@@ -16455,35 +16455,35 @@
   },
   "4114": {
     "en_us": "Reach influence #purplecard#level 5#/purplecard# with the #purplecard#Captain America Liason#/purplecard#.",
-    "ru_ru": "Достигните #purplecard#уровня влияния 5#/purplecard# с #purplecard#Связным Капитаном Америкой#/purplecard#."
+    "ru_ru": "Достигните #purplecard#5 уровня#/purplecard# влияния с #purplecard#Представителем Капитана Америки#/purplecard#."
   },
   "4115": {
     "en_us": "Reward: Cosmic X-Defense Unlocked",
-    "ru_ru": "Награда: Разблокирована Космическая Икс-Защита"
+    "ru_ru": "Награда: Разблокировка Космической Защиты Икс"
   },
   "4116": {
     "en_us": "Welcome to Die!",
-    "ru_ru": "Добро Пожаловать, Чтобы Умереть!"
+    "ru_ru": "Добро пожаловать Умирать!"
   },
   "4117": {
     "en_us": "Expert Assassin",
-    "ru_ru": "Опытный Ассасин"
+    "ru_ru": "Опытный убийца"
   },
   "4118": {
     "en_us": "Complete a #purplecard#solo#/purplecard# run of the #purplecard#Vibranium Mines#/purplecard# One-Shot with #purplecard#Black Panther#/purplecard#.",
-    "ru_ru": "Завершите #purplecard#одиночный#/purplecard# забег #purplecard#Одноразовой Истории \"Вибраниевые Шахты\"#/purplecard# за #purplecard#Черную Пантеру#/purplecard#."
+    "ru_ru": "Завершите #purplecard#в одиночку#/purplecard# прохождение #purplecard#Ваншота: Вибраниевые шахты#/purplecard#, играя за #purplecard#Чёрную Пантеру#/purplecard#."
   },
   "4119": {
     "en_us": "Titanic Conviction",
-    "ru_ru": "Титаническое Убеждение"
+    "ru_ru": "Титаническая Стойкость"
   },
   "4120": {
     "en_us": "Zod",
-    "ru_ru": "Зод"
+    "ru_ru": "Зода"
   },
   "4121": {
     "en_us": "Visitor Passes",
-    "ru_ru": "Пропуска Посетителя"
+    "ru_ru": "Пропуска"
   },
   "4122": {
     "en_us": "Nick Fury vs. Doctor Doom",
@@ -16491,31 +16491,31 @@
   },
   "4123": {
     "en_us": "All Of You, Against All Of Me",
-    "ru_ru": "Вы Все Против Меня Одного"
+    "ru_ru": "Все вы — против всего меня"
   },
   "4124": {
     "en_us": "ST-99 Targeting Software",
-    "ru_ru": "Программное Обеспечение Для Наведения ST-99"
+    "ru_ru": "Система наведения ST-99"
   },
   "4125": {
     "en_us": "Complete every phase of every scenario in #purplecard#Industry City#/purplecard#.",
-    "ru_ru": "Завершите каждую фазу каждого сценария в #purplecard#Индустриальном Городе#/purplecard#."
+    "ru_ru": "Пройти все фазы каждого сценария в #purplecard#Промышленном районе#/purplecard#."
   },
   "4126": {
     "en_us": "Defeat 100 #purplecard#supervillains#/purplecard# in #purplecard#X-Defense#/purplecard#.",
-    "ru_ru": "Победите 100 #purplecard#суперзлодеев#/purplecard# в #purplecard#Икс-Защите#/purplecard#."
+    "ru_ru": "Победите 100 #purplecard#суперзлодеев#/purplecard# в #purplecard#Защите Икс#/purplecard#."
   },
   "4127": {
     "en_us": "Spycraft",
-    "ru_ru": "Шпионаж"
+    "ru_ru": "Мастерство шпионажа"
   },
   "4128": {
     "en_us": "Brood",
-    "ru_ru": "Выводок"
+    "ru_ru": "Бруды"
   },
   "4129": {
     "en_us": "Grandmaster Takedown",
-    "ru_ru": "Устранение Грандмастера"
+    "ru_ru": "Устранение Великого мастера"
   },
   "4130": {
     "en_us": "Ant-Man vs Doctor Doom",
@@ -16523,43 +16523,43 @@
   },
   "4131": {
     "en_us": "Chapter 8 Waypoints",
-    "ru_ru": "Точки Перемещения Главы 8"
+    "ru_ru": "Путевые точки Главы 8"
   },
   "4132": {
     "en_us": "Mean, Green, Crime Fighting Machines",
-    "ru_ru": "Злые, Зеленые, Борющиеся с Преступностью Машины"
+    "ru_ru": "Злые, зелёные машины правосудия"
   },
   "4133": {
     "en_us": "Own all of Magneto's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Получите все #purplecard#Уникальные Предметы#/purplecard# Магнето."
+    "ru_ru": "Получите все #purplecard#Уникальные предметы#/purplecard# Магнето."
   },
   "4134": {
     "en_us": "Own all of Black Widow's #purplecard#Unique Items#/purplecard#.",
-    "ru_ru": "Получите все #purplecard#Уникальные Предметы#/purplecard# Черной Вдовы."
+    "ru_ru": "Получите все #purplecard#Уникальные предметы#/purplecard# Чёрной Вдовы."
   },
   "4135": {
     "en_us": "I Am the Cosmos",
-    "ru_ru": "Я Есть Космос"
+    "ru_ru": "Я - Космос"
   },
   "4136": {
     "en_us": "Defeat 1,000 #purplecard#supervillains#/purplecard# in #purplecard#Industry City#/purplecard#.",
-    "ru_ru": "Победите 1000 #purplecard#суперзлодеев#/purplecard# в #purplecard#Индустриальном Городе#/purplecard#."
+    "ru_ru": "Победите 1 000 #purplecard#суперзлодеев#/purplecard# в #purplecard#Промышленном районе#/purplecard#."
   },
   "4137": {
     "en_us": "War Gauntlets",
-    "ru_ru": "Боевые Рукавицы"
+    "ru_ru": "Военные наручи"
   },
   "4138": {
     "en_us": "Prepare for the Worst",
-    "ru_ru": "Готовьтесь к Худшему"
+    "ru_ru": "Готовьтесь к худшему"
   },
   "4139": {
     "en_us": "Quarantined",
-    "ru_ru": "На Карантине"
+    "ru_ru": "Изолированный"
   },
   "4140": {
     "en_us": "Have slots 1-5 equipped with Item Grade 69 gear.",
-    "ru_ru": "Экипируйте слоты 1-5 снаряжением Уровня Предмета 69."
+    "ru_ru": "Иметь в ячейках 1-5 предметы 69 Ранга."
   },
   "4141": {
     "en_us": "Fear the Brotherhood",
@@ -16571,19 +16571,19 @@
   },
   "4143": {
     "en_us": "Xiphos, Sword of Stars",
-    "ru_ru": "Ксифос, Меч Звезд"
+    "ru_ru": "Ксифос, меч Звёзд"
   },
   "4144": {
     "en_us": "Software Upgrade",
-    "ru_ru": "Обновление Программного Обеспечения"
+    "ru_ru": "Обновление Программного обеспечения"
   },
   "4145": {
     "en_us": "As Silver Surfer, defeat 500 enemies in #purplecard#Doop Space Nine#/purplecard# using #purplecard#Movement powers#/purplecard# as the finishing blow.",
-    "ru_ru": "Играя за Серебряного Сёрфера, победите 500 врагов в #purplecard#Дуп Спейс Найн#/purplecard/, используя #purplecard#способности Перемещения#/purplecard# в качестве добивающего удара."
+    "ru_ru": "Играя за Серебряного Сёрфера, победите 500 врагов в #purplecard#Дуп Космос Девять#/purplecard#, используя #purplecard#способности Перемещения#/purplecard# в качестве добивающего удара."
   },
   "4146": {
     "en_us": "Crushing Defeat",
-    "ru_ru": "Сокрушительное Поражение"
+    "ru_ru": "Сокрушительное поражение"
   },
   "4147": {
     "en_us": "Supernova Armor",
@@ -16591,15 +16591,15 @@
   },
   "4148": {
     "en_us": "As Thor, defeat 1,000 enemies in #purplecard#Lower Asgard#/purplecard# with #purplecard#Beta Ray Bill#/purplecard# summoned as your #purplecard#Team-Up Hero#/purplecard#.",
-    "ru_ru": "Играя за Тора, победите 1000 врагов в #purplecard#Нижнем Асгарде#/purplecard# с призванным #purplecard#Бета Рэй Биллом#/purplecard# в качестве вашего #purplecard#Героя-Напарника#/purplecard#."
+    "ru_ru": "Играя за Тора, победите 1 000 врагов в #purplecard#Нижнем Асгарде#/purplecard#, призвав #purplecard#Бета Рэя Билла#/purplecard# в качестве #purplecard#Напарника#/purplecard#."
   },
   "4149": {
     "en_us": "Mister Sinister, Normal Solo Run",
-    "ru_ru": "Мистер Синистер, Обычный Одиночный Забег"
+    "ru_ru": "Обычный Мистер Зловещий в одиночку"
   },
   "4150": {
     "en_us": "Pluvian Superconductor",
-    "ru_ru": "Плювиальный Суперпроводник"
+    "ru_ru": "Плувианский Сверхпроводник"
   },
   "4151": {
     "en_us": "Apply 10 #purplecard#blessings#/purplecard# to #purplecard#artifacts#/purplecard#. You may use any combination of artifacts and blessings.",
