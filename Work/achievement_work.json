@@ -41,7 +41,7 @@
   },
   "10": {
     "en_us": "Blessing of Balder",
-    "ru_ru": "Благословение Бальдра"
+    "ru_ru": "Благословение Балдера"
   },
   "11": {
     "en_us": "Medical Malpractice",
@@ -49,7 +49,7 @@
   },
   "12": {
     "en_us": "Norn Stones",
-    "ru_ru": "Норн-камни"
+    "ru_ru": "Камни Норн"
   },
   "13": {
     "en_us": "Buri's Estate",
@@ -109,7 +109,7 @@
   },
   "27": {
     "en_us": "Agency X Body Armor",
-    "ru_ru": "Броня Агентства X"
+    "ru_ru": "Бронежилет Агентства Икс"
   },
   "28": {
     "en_us": "One hundred times, defeat #purplecard#Kingpin#/purplecard# and open all of his possible #purplecard#Bounty Chests#/purplecard#.",
@@ -117,7 +117,7 @@
   },
   "29": {
     "en_us": "Skrull Targeting Computer",
-    "ru_ru": "Компьютер прицеливания Скруллов"
+    "ru_ru": "Компьютер наведения Скруллов"
   },
   "30": {
     "en_us": "Winter Soldier",
@@ -193,7 +193,7 @@
   },
   "48": {
     "en_us": "Einherjar Brooch",
-    "ru_ru": "Брошь Эйнхерьяр"
+    "ru_ru": "Брошь Эйнхериев"
   },
   "49": {
     "en_us": "Weird Science",
@@ -271,7 +271,7 @@
   },
   "68": {
     "en_us": "Flames of Zarathos",
-    "ru_ru": "Пламя Заратоcа"
+    "ru_ru": "Пламя Заратоса"
   },
   "69": {
     "en_us": "Blob",
@@ -283,7 +283,7 @@
   },
   "71": {
     "en_us": "Fire Guardian",
-    "ru_ru": "Огненный Страж"
+    "ru_ru": "Огненный страж"
   },
   "72": {
     "en_us": "Heroes",
@@ -295,7 +295,7 @@
   },
   "74": {
     "en_us": "Sunspot",
-    "ru_ru": "Сансайт"
+    "ru_ru": "Санспот"
   },
   "75": {
     "en_us": "Beware of Snakes",
@@ -387,7 +387,7 @@
   },
   "97": {
     "en_us": "Pot of Gold of Cassidy Keep",
-    "ru_ru": "Горшок золота Кэссиди Кип"
+    "ru_ru": "Горшок золота из Кэссиди Кип"
   },
   "98": {
     "en_us": "As Venom, defeat 333 #purplecard#Symbiote Victims#/purplecard# in #purplecard#Industry City Patrol#/purplecard# using your #purplecard#Symbiotic Spikes#/purplecard# as the finishing blow.",
@@ -535,7 +535,7 @@
   },
   "134": {
     "en_us": "Hellfang of Zarathos",
-    "ru_ru": "Адский клык Заратоcа"
+    "ru_ru": "Адский клык Заратоса"
   },
   "135": {
     "en_us": "Blessing of Hela",
@@ -551,7 +551,7 @@
   },
   "138": {
     "en_us": "Inhuman Royal Crown",
-    "ru_ru": "Корона Нелюдей"
+    "ru_ru": "Королевская корона Нелюдей"
   },
   "139": {
     "en_us": "Magneto",
@@ -671,7 +671,7 @@
   },
   "168": {
     "en_us": "Frigga's Circlet",
-    "ru_ru": "Обруч Фригги"
+    "ru_ru": "Диадема Фригги"
   },
   "169": {
     "en_us": "The epic battles vs. the Kingpin are some of the most brutal in history. Honor those moments by defeating #purplecard#Kingpin#/purplecard# using 50 different heroes in #purplecard#Terminals#/purplecard#.",
@@ -695,7 +695,7 @@
   },
   "174": {
     "en_us": "Declaration of War",
-    "ru_ru": "Декларация войны"
+    "ru_ru": "Объявление войны"
   },
   "175": {
     "en_us": "Loot 100 #purplecard#reward chests#/purplecard# in the #purplecard#victory room#/purplecard# after completing a Danger Room scenario.",
@@ -831,7 +831,7 @@
   },
   "208": {
     "en_us": "Show 'em Who's Boss",
-    "ru_ru": "Покажи, кто здесь босс"
+    "ru_ru": "Покажите им, кто здесь главный"
   },
   "209": {
     "en_us": "X-Defense Initiate",
@@ -959,7 +959,7 @@
   },
   "240": {
     "en_us": "Graviton Generator",
-    "ru_ru": "Генератор гравитона"
+    "ru_ru": "Гравитонный генератор"
   },
   "241": {
     "en_us": "Blessing of Sif",
@@ -1039,7 +1039,7 @@
   },
   "260": {
     "en_us": "Grim Reaper",
-    "ru_ru": "Жнец"
+    "ru_ru": "Мрачный Жнец"
   },
   "261": {
     "en_us": "Have 1 hero at level 60 Cosmic Prestige.",
@@ -1095,7 +1095,7 @@
   },
   "274": {
     "en_us": "Cable",
-    "ru_ru": "Кэйбл"
+    "ru_ru": "Кейбл"
   },
   "275": {
     "en_us": "Defeat #purplecard#Grim Reaper#/purplecard# in each location throughout the game where he appears.",
@@ -1139,11 +1139,11 @@
   },
   "285": {
     "en_us": "Cable vs Doctor Doom",
-    "ru_ru": "Кэйбл против Доктора Дума"
+    "ru_ru": "Кейбл против Доктора Дума"
   },
   "286": {
     "en_us": "Squirrel-A-Gig",
-    "ru_ru": "Приблуда Белки"
+    "ru_ru": "Белкоптер"
   },
   "287": {
     "en_us": "Malekith",
@@ -1215,7 +1215,7 @@
   },
   "304": {
     "en_us": "Spear",
-    "ru_ru": "Копьё"
+    "ru_ru": "Копья"
   },
   "305": {
     "en_us": "The Last Reich",
@@ -1399,7 +1399,7 @@
   },
   "350": {
     "en_us": "Plandanium Graft",
-    "ru_ru": "Протез Планданиума"
+    "ru_ru": "Планданиевый имплантат"
   },
   "351": {
     "en_us": "Complete the following #purplecard#Item Collection achievements#/purplecard#.",
@@ -1667,7 +1667,7 @@
   },
   "417": {
     "en_us": "Bonebreaker",
-    "ru_ru": "Ломатель костей"
+    "ru_ru": "Костолом"
   },
   "418": {
     "en_us": "Conflict Resolution",
@@ -1719,7 +1719,7 @@
   },
   "430": {
     "en_us": "Possessed Pottery",
-    "ru_ru": "Одержимая керамика"
+    "ru_ru": "Одержимые урны"
   },
   "431": {
     "en_us": "The Ring",
@@ -1731,7 +1731,7 @@
   },
   "433": {
     "en_us": "The Fury of Mutantkind",
-    "ru_ru": "Гнев мутантов"
+    "ru_ru": "Ярость мутантов"
   },
   "434": {
     "en_us": "Drop Leg Holster Rig",
@@ -1759,7 +1759,7 @@
   },
   "440": {
     "en_us": "Brood Incursion",
-    "ru_ru": "Вторжение Бруда"
+    "ru_ru": "Вторжение Брудов"
   },
   "441": {
     "en_us": "Defender for a Day",
@@ -2051,7 +2051,7 @@
   },
   "513": {
     "en_us": "Bronx Zoo",
-    "ru_ru": "Зоопарк Бронкса"
+    "ru_ru": "Бронксский зоопарк"
   },
   "514": {
     "en_us": "Winter Soldier vs Doctor Doom",
@@ -2079,7 +2079,7 @@
   },
   "520": {
     "en_us": "Mindless Titan Medallion",
-    "ru_ru": "Медальон Безмозглого Титана"
+    "ru_ru": "Медальон Безмозглого титана"
   },
   "521": {
     "en_us": "Thing",
@@ -2171,7 +2171,7 @@
   },
   "543": {
     "en_us": "Liberators Mace",
-    "ru_ru": "Булавa Освободителей"
+    "ru_ru": "Булава Освободителей"
   },
   "544": {
     "en_us": "Korshun Advanced Combat Knife",
@@ -2239,7 +2239,7 @@
   },
   "560": {
     "en_us": "Talisman of K'un Lun",
-    "ru_ru": "Талисман Кунь-Лунь"
+    "ru_ru": "Талисман Кунь-Луня"
   },
   "561": {
     "en_us": "Ryolnir's Beard",
@@ -2303,7 +2303,7 @@
   },
   "576": {
     "en_us": "Amulet of Agamotto",
-    "ru_ru": "Амулет Аггамотто"
+    "ru_ru": "Амулет Агамотто"
   },
   "577": {
     "en_us": "Target Acquired: The Hood",
@@ -2327,7 +2327,7 @@
   },
   "582": {
     "en_us": "Bag of Tricks",
-    "ru_ru": "Сумка трюков"
+    "ru_ru": "Мешок трюков"
   },
   "583": {
     "en_us": "Danger: Escalated",
@@ -2387,7 +2387,7 @@
   },
   "597": {
     "en_us": "Advanced Technological Systems",
-    "ru_ru": "Продвинутые технологические системы"
+    "ru_ru": "Улучшенные техно-системы"
   },
   "598": {
     "en_us": "Reward: World's Greatest Hamburger Recipe",
@@ -2439,7 +2439,7 @@
   },
   "610": {
     "en_us": "Dark Beast's Gene Injector",
-    "ru_ru": "Генный инжектор Тёмного Зверя"
+    "ru_ru": "Генный инъектор Тёмного Зверя"
   },
   "611": {
     "en_us": "Brood Cavern",
@@ -2499,7 +2499,7 @@
   },
   "625": {
     "en_us": "M.O.D.O.K.",
-    "ru_ru": "М.О.Д.О.К."
+    "ru_ru": "МОДОК"
   },
   "626": {
     "en_us": "Frost Giant Glacial Lord",
@@ -2579,7 +2579,7 @@
   },
   "645": {
     "en_us": "Anglaugur Skulleater",
-    "ru_ru": "Англаугур Пожиратель Черепов"
+    "ru_ru": "Англаугур Черепоед"
   },
   "646": {
     "en_us": "Own all of Elektra's #purplecard#Unique Items#/purplecard#.",
@@ -2679,7 +2679,7 @@
   },
   "670": {
     "en_us": "One hundred times, defeat #purplecard#M.O.D.O.K.#/purplecard# and open all of his possible #purplecard#Bounty Chests#/purplecard#.",
-    "ru_ru": "Сто раз победите #purplecard#М.О.Д.О.К.а#/purplecard# и откройте все его возможные #purplecard#Наградные сундуки#/purplecard#."
+    "ru_ru": "Сто раз победите #purplecard#МОДОКа#/purplecard# и откройте все его возможные #purplecard#Наградные сундуки#/purplecard#."
   },
   "671": {
     "en_us": "Darkhold Scroll",
@@ -2779,7 +2779,7 @@
   },
   "695": {
     "en_us": "Agent of S.H.I.E.L.D. Bandolier",
-    "ru_ru": "Патронташ Агента ЩИТа"
+    "ru_ru": "Патронташ агента ЩИТа"
   },
   "696": {
     "en_us": "Madame Hydra",
@@ -2799,7 +2799,7 @@
   },
   "700": {
     "en_us": "X-Factor Mutant Hunter Boots",
-    "ru_ru": "Охотничьи сапоги мутанта \"Фактор Икс\""
+    "ru_ru": "Охотничьи сапоги мутанта \"Икс-Фактор\""
   },
   "701": {
     "en_us": "As Squirrel Girl, use your deadly claws and martials arts prowess to defeat 1,000 #purplecard#elite#/purplecard# enemies using #purplecard#melee powers#/purplecard# as the finishing blow.",
@@ -2847,7 +2847,7 @@
   },
   "712": {
     "en_us": "Original Sin Space Armor",
-    "ru_ru": "Космическая броня Первого Греха"
+    "ru_ru": "Космическая броня \"Первородный Грех\""
   },
   "713": {
     "en_us": "As Doctor Strange, complete the #purplecard#Demonic Incursion#/purplecard# event in #purplecard#Chapter 3#/purplecard#. This dimension has its instabilities.",
@@ -2951,7 +2951,7 @@
   },
   "738": {
     "en_us": "Broodling Smackdown",
-    "ru_ru": "Разгром Брудлингов"
+    "ru_ru": "Разгром Брудов"
   },
   "739": {
     "en_us": "Reward: Matrix of Unbinding",
@@ -3011,7 +3011,7 @@
   },
   "753": {
     "en_us": "Red Hjalmrun",
-    "ru_ru": "Красный Хьялмрун"
+    "ru_ru": "Хйалмрун Огненный"
   },
   "754": {
     "en_us": "Elfskin Cloak of Whispers",
@@ -3127,7 +3127,7 @@
   },
   "782": {
     "en_us": "Kestrel Key of Krakkan",
-    "ru_ru": "Ключ Кестрела Краккана"
+    "ru_ru": "Ключ Краккана Кестрела"
   },
   "783": {
     "en_us": "Target Acquired: MODOK",
@@ -3171,7 +3171,7 @@
   },
   "793": {
     "en_us": "Defeat #purplecard#M.O.D.O.K.#/purplecard# another 270 times in the #purplecard#A.I.M. Weapon Facility Terminal#/purplecard#.",
-    "ru_ru": "Победите #purplecard#М.О.Д.О.К.#/purplecard# ещё 270 раз в #purplecard#Терминале: Оружейная фабрика А.И.М.#/purplecard#."
+    "ru_ru": "Победите #purplecard#МОДОК#/purplecard# ещё 270 раз в #purplecard#Терминале: Оружейная фабрика А.И.М.#/purplecard#."
   },
   "794": {
     "en_us": "Resurrect a fellow hero in #purplecard#Midtown#/purplecard#.",
@@ -3211,7 +3211,7 @@
   },
   "803": {
     "en_us": "Master Thief",
-    "ru_ru": "Мастер-взломщик"
+    "ru_ru": "Мастер-вор"
   },
   "804": {
     "en_us": "As Kitty Pryde, defeat 1,000 enemies with #purplecard#Groot#/purplecard# summoned as a Team-Up.",
@@ -3355,7 +3355,7 @@
   },
   "839": {
     "en_us": "Ice",
-    "ru_ru": "Лёд"
+    "ru_ru": "Льда"
   },
   "840": {
     "en_us": "Black Cat Medallion",
@@ -3787,7 +3787,7 @@
   },
   "947": {
     "en_us": "As Hulk, defeat the #purplecard#Mindless Titan#/purplecard# in Limbo Secundus.",
-    "ru_ru": "Играй за Халка и победи #purplecard#Безмозглого Титана#/purplecard# в Лимбо Секундус."
+    "ru_ru": "Играй за Халка и победи #purplecard#Безмозглого титана#/purplecard# в Лимбо Секундус."
   },
   "948": {
     "en_us": "Burglary Busted",
@@ -5695,7 +5695,7 @@
   },
   "1424": {
     "en_us": "Bow of the Einherjar",
-    "ru_ru": "Лук Эйнхерий"
+    "ru_ru": "Лук Эйнхериев"
   },
   "1425": {
     "en_us": "Reward: Personal Lizard's Formula",
@@ -5727,7 +5727,7 @@
   },
   "1432": {
     "en_us": "Defeat #purplecard#M.O.D.O.K.#/purplecard# 300 times in the #purplecard#A.I.M. Weapon Facility Terminal#/purplecard#.",
-    "ru_ru": "Победите #purplecard#М.О.Д.О.К.а#/purplecard# 300 раз в #purplecard#Терминале: Оружейная фабрика А.И.М.#/purplecard#."
+    "ru_ru": "Победите #purplecard#МОДОКа#/purplecard# 300 раз в #purplecard#Терминале: Оружейная фабрика А.И.М.#/purplecard#."
   },
   "1433": {
     "en_us": "Unique Collection, Stage Two",
@@ -7095,7 +7095,7 @@
   },
   "1774": {
     "en_us": "Surtur: Anglaugur Skulleater",
-    "ru_ru": "Суртур: Англаугур Черепогрыз"
+    "ru_ru": "Суртур: Англаугур Черепоед"
   },
   "1775": {
     "en_us": "Remarkable Conviction",
@@ -10595,7 +10595,7 @@
   },
   "2649": {
     "en_us": "Sight of the Nine Realms",
-    "ru_ru": "Зрение девяти миров"
+    "ru_ru": "Зрение Девяти Миров"
   },
   "2650": {
     "en_us": "Reward: The Doomsaw (Item Grade 69)",
