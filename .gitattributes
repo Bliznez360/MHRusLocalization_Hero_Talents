@@ -1,0 +1,4 @@
+*.rus text
+*.rus linguist-language=INI
+*.rus linguist-detectable=true
+*.rus -diff
