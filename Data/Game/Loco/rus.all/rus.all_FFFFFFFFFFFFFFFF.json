@@ -9973,13 +9973,7 @@
       "String": "Громилоботы А.И.М. побеждены"
     },
     "14293513362028037429": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Волшебного повелителя"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Волшебный повелитель"
     },
@@ -10491,13 +10485,7 @@
       "String": "Не следовало тебе приходить в Мадрипур!"
     },
     "14319543994827998484": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "\"Белка!\""
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Белка!"
     },
@@ -31621,13 +31609,7 @@
       "String": "Микро-Вижн"
     },
     "15317128236176901438": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Ударного комбо"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Ударное комбо"
     },
@@ -36770,13 +36752,7 @@
       "String": "Прикончи этого дурака!"
     },
     "15544363922053727571": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Ледяных клинков"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Ледяные клинки"
     },
@@ -54529,13 +54505,7 @@
       "String": "Требуется: (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 Кредитов, чтобы создать предмет. \n\nСоздать шкуру Лорда Серы - уникальный предмет 60 уровня в ячейке 2, может использовать любой герой\n\n#emphasis#Шкура Лорда Серы#/emphasis#\n#emphasis#+ Рейтинг защиты#/emphasis#\n#emphasis#+ к урону в ближнем бою#/emphasis#\n#emphasis#+ к здоровью#/emphasis#\n#emphasis#+ к воле#/emphasis#\n#emphasis#+ к восстановлению здоровья#/emphasis#\n#emphasis#Когда уровень здоровья падает ниже 30%, вы получите \"Выносливость\"#/emphasis#\n#emphasis#Когда вы получаете длительный урон, повышается рейтинг защиты и скорости движения#/emphasis#"
     },
     "16374717547114136849": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Ракетного залпа"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Ракетный залп"
     },
@@ -70204,13 +70174,7 @@
       "String": "oncontacttimepower.condition0"
     },
     "17113557406421746958": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Темного Феникса"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Тёмный Феникс"
     },
@@ -74253,13 +74217,7 @@
       "String": "Используйте #stolenpower#Оптические лучи Циклопа#/stolenpower#, чтобы поразить нескольких ближайших врагов."
     },
     "17304797379509224808": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Шквала шрапнели"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Шквал шрапнели"
     },
@@ -79738,13 +79696,7 @@
       "String": "PowerReference1"
     },
     "17550467430018909502": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Круговых ударов ногой"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Круговые удары ногой"
     },
@@ -80811,13 +80763,7 @@
       "String": "Тяжелые браслеты"
     },
     "17603951025686906196": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Ледяного арсенала"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Ледяной арсенал"
     },
@@ -82714,13 +82660,7 @@
       "String": "Победите великого мастера Руки: #metacount#$CurrentCount$/$TotalCount$#/metacount#"
     },
     "17689205830090425620": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Вампиризма Феникса"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Вампиризм Феникса"
     },
@@ -85631,13 +85571,7 @@
       "String": "Жесткие перчатки"
     },
     "17827031747225847053": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Удара высокой плотности"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Удар высокой плотности"
     },
@@ -90132,13 +90066,7 @@
       "String": "oncontacttimepower.summonentity"
     },
     "18040975909578802538": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Серного ада"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Серный ад"
     },
