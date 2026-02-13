@@ -1111,13 +1111,7 @@
       "String": "Кровавое безумие"
     },
     "4664267199107564800": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Верного скакуна"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Верный скакун"
     },
@@ -4150,13 +4144,7 @@
       "String": "Может, объединим усилия? Что скажете, ребята?\n—Воитель"
     },
     "4812204942449902866": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Пробежки"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Пробежка"
     },
@@ -19286,13 +19274,7 @@
       "String": "Вы навели порядок в квартале полуразрушенных особняков, победив банды Бешеных псов и Чертяк на улицах Адской Кухни."
     },
     "5527292030642816317": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Реактивного полета"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Реактивный полет"
     },
@@ -36934,13 +36916,7 @@
       "String": "condition0.proceffect.condition0"
     },
     "6377463137465075070": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Телекинетического полета"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Телекинетический полет"
     },
@@ -43193,13 +43169,7 @@
       "String": "Дружественное небо"
     },
     "6662122175294408060": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Реактивного полета"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Реактивный полет"
     },
@@ -49277,13 +49247,7 @@
       "String": "condition0"
     },
     "6945144443964163387": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Левитирующего диска"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Левитирующий диск"
     },
@@ -53404,13 +53368,7 @@
       "String": "Поразительные сапоги"
     },
     "7143726590523278658": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Рывка"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Рывок"
     },
@@ -54783,13 +54741,7 @@
       "String": "+5% Скорости атаки и движения\nДлительность: $usepower.condition0.duration$."
     },
     "7205995322725041465": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Планера"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Плащ-глайдер"
     },
@@ -71081,13 +71033,7 @@
       "String": ""
     },
     "7961246973566977286": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "фантастикара"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Фантастикар"
     },
@@ -76746,13 +76692,7 @@
       "String": "Уникальный предмет"
     },
     "8219327005774972215": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Мистической левитации"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Мистическая левитация"
     },
@@ -84634,13 +84574,7 @@
       "String": ""
     },
     "8581351031875962219": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Магнитной левитации"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Магнитная левитация"
     },

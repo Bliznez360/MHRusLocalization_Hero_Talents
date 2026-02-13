@@ -12421,13 +12421,7 @@
       "String": "Преобразует ингредиенты в артефакт, повышающий ваше здоровье и скорость движения, а также дающий шанс при попадании вызвать сферы ускорения."
     },
     "14408121815612458352": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Полета на паутине"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Полет на паутине"
     },
@@ -46123,13 +46117,7 @@
       "String": "test Triple Strike"
     },
     "15983799940348708118": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Скольжения по льду"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Скольжение по льду"
     },
@@ -66869,13 +66857,7 @@
       "String": "#emphasis#$powername$#/emphasis#"
     },
     "16960962325167539517": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Хождения по воздуху"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Хождение по воздуху"
     },
@@ -67346,13 +67328,7 @@
       "String": "#EnhancedKeywordColor#УЛУЧШЕННЫЙ#/EnhancedKeywordColor# классический костюм  Хэнка Пима \"Человек-Муравей\""
     },
     "16984924265605039476": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Огненного полета"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Огненный полет"
     },
@@ -67643,13 +67619,7 @@
       "String": "Спасибо, что взрывчатка обезврежена, малыш!\n\nКогда ты умрешь, вибраний будет МОИМ."
     },
     "16998402422603449602": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Мистической левитации"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Мистическая левитация"
     },
@@ -68536,13 +68506,7 @@
       "String": "Урон составляет 30% от урона #power#$SynergyPowerName$#/power#"
     },
     "17036514570819929347": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Небесной власти"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Небесная власть"
     },
@@ -83456,13 +83420,7 @@
       "String": "Кейбл"
     },
     "17728750620598142323": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Ветров хаоса"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Ветры хаоса"
     },
