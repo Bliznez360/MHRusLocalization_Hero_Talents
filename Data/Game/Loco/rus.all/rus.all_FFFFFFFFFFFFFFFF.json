@@ -4503,13 +4503,7 @@
       "String": "Осколки Куба"
     },
     "14027325264786490627": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Трепета"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Трепет"
     },
@@ -10198,13 +10192,7 @@
       "String": "Этот #emphasis#атрибут#/emphasis# увеличивает наносимый вами урон, а также рейтинги сокрушительного удара и сокрушительного урона."
     },
     "14303585116112946435": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Доверенности"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Доверенность"
     },
@@ -10871,13 +10859,7 @@
       "String": ""
     },
     "14339632420158047508": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "лент ассасина"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Ленты Хэвена"
     },
@@ -16541,13 +16523,7 @@
       "String": "Агент ЩИТа Тревор Силвернейл"
     },
     "14599710226345493835": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Проворства"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Проворство"
     },
@@ -18369,13 +18345,7 @@
       "String": "condition0.proceffect0.condition0"
     },
     "14689705527894344979": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Огнестрельного оружия"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Огнестрельное оружие"
     },
@@ -19016,13 +18986,7 @@
       "String": "Самое жестокое заражение"
     },
     "14723023135387682055": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Невидимости"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Невидимость"
     },
@@ -20118,18 +20082,7 @@
       "String": "Маска"
     },
     "14778026814461576467": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709548786,
-          "FlagsProduced": 65535,
-          "String": "Повелитель Мйольнира"
-        },
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Повелителя Мьельнира"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Повелитель Мьёльнира"
     },
@@ -27226,13 +27179,7 @@
       "String": ""
     },
     "15111234698016064779": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Отрицания"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Отрицание"
     },
@@ -45199,13 +45146,7 @@
       "String": "Провокация, Бонус к защите (Провокация)"
     },
     "15940406477005587731": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Оптических лучей"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Оптические лучи"
     },
@@ -55620,18 +55561,7 @@
       "String": "Аксессуары и гаджеты могут впечатлить некоторых, но моя репутация сама по себе имеет большее значение, чем любой безделушка.\n—Электра"
     },
     "16420178740857799957": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709548786,
-          "FlagsProduced": 65535,
-          "String": "Бог грома"
-        },
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Бога грома"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Бог грома"
     },
@@ -56316,13 +56246,7 @@
       "String": ""
     },
     "16462776286690542922": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Бьющего больно"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Больно-больно"
     },
@@ -57300,13 +57224,7 @@
       "String": "oncontacttimepower0.condition0"
     },
     "16513144983017882901": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Живого оружия"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Живое оружие"
     },
@@ -70153,13 +70071,7 @@
       "String": "Костюм Колосса \"Джаггернаут\""
     },
     "17113995128075978053": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Фотоники"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Фотоника"
     },
@@ -72839,13 +72751,7 @@
       "String": "Категория предметов"
     },
     "17239765763449881878": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Солнечной силы"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Солнечная сила"
     },
@@ -92855,13 +92761,7 @@
       "String": "Помочь раненому агенту"
     },
     "18168317150066115900": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Кинетики"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Мастер кинетики"
     },
@@ -95094,13 +94994,7 @@
       "String": "PowerReference1.condition0"
     },
     "18277070184419099923": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Великолепного сложения"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Мощь Марвел"
     },
@@ -97740,13 +97634,7 @@
       "String": "Уру-кованый Военный щит"
     },
     "18393768929789740297": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Уничтожения"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Уничтожение"
     },
@@ -98298,13 +98186,7 @@
       "String": ""
     },
     "18420208795714979088": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Замораживающих лучей"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Замораживающие лучи"
     },
