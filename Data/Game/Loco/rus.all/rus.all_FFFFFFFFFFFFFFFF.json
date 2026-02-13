@@ -61773,13 +61773,7 @@
       "String": "Максимальный поглощенный урон: $secondaryResourceMax.nofraction$"
     },
     "16726101796807443815": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Бомбы в обратном сальто"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Бомба в обратном сальто"
     },
@@ -67230,13 +67224,7 @@
       "String": "Никуда ты не пойдешь."
     },
     "16984558961324000514": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Осколка льда"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Осколок льда"
     },
@@ -70727,13 +70715,7 @@
       "String": "Быстро!"
     },
     "17146974725881595147": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Электрошокеров"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Электрошокеры"
     },

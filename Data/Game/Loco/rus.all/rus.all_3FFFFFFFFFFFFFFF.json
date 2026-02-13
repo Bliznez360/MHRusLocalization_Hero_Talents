@@ -20481,13 +20481,7 @@
       "String": "#mission#Оборона передовой базы#/mission#"
     },
     "966818699754145099": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Скачущих огненных шаров"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Скачущие огненные шары"
     },
@@ -28629,13 +28623,7 @@
       "String": "oncontacttimepower.condition0"
     },
     "1352414691709879615": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Космического суперудара"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Космический суперудар"
     },
@@ -60805,13 +60793,7 @@
       "String": "Привет! Каковы шансы, что мы встретимся здесь?"
     },
     "2877938503531955574": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Акробатической атаки"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Акробатическая атака"
     },
