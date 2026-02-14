@@ -23,17 +23,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "панцирный"
+          "String": "Панцирный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "панцирная"
+          "String": "Панцирная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "панцирное"
+          "String": "Панцирное"
         }
       ],
       "FlagsProduced": 65535,
@@ -479,17 +479,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "погашающий"
+          "String": "Погашающий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "погашающая"
+          "String": "Погашающая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "погашающее"
+          "String": "Погашающее"
         }
       ],
       "FlagsProduced": 65535,
@@ -1680,17 +1680,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "стойкий"
+          "String": "Стойкий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "стойкая"
+          "String": "Стойкая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "стойкое"
+          "String": "Стойкое"
         }
       ],
       "FlagsProduced": 65535,
@@ -2411,17 +2411,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "серебряный"
+          "String": "Серебряный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "серебряная"
+          "String": "Серебряная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "серебряный"
+          "String": "Серебряный"
         }
       ],
       "FlagsProduced": 65535,
@@ -2657,17 +2657,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "благословенный Одином"
+          "String": "Благословенный Одином"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "благословенная Одином"
+          "String": "Благословенная Одином"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "благословенное Одином"
+          "String": "Благословенное Одином"
         }
       ],
       "FlagsProduced": 65535,
@@ -3114,23 +3114,7 @@
       "String": "Я слышал много хорошего о Таити. Там наверняка получше, чем в Мадрипуре..."
     },
     "4764765302210692470": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709548786,
-          "FlagsProduced": 65535,
-          "String": "бешеный"
-        },
-        {
-          "FlagsConsumed": 18446744073709548274,
-          "FlagsProduced": 65535,
-          "String": "бешеная"
-        },
-        {
-          "FlagsConsumed": 18446744073709548018,
-          "FlagsProduced": 65535,
-          "String": "бешеное"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Бешенство"
     },
@@ -5164,17 +5148,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "поразительный"
+          "String": "Поразительный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "поразительная"
+          "String": "Поразительная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "поразительное"
+          "String": "Поразительное"
         }
       ],
       "FlagsProduced": 65535,
@@ -6990,17 +6974,17 @@
         {
           "FlagsConsumed": 18446744073709551608,
           "FlagsProduced": 65535,
-          "String": "$BuyPrice:0$ осколков вечности"
+          "String": "$BuyPrice:0$ Осколков Вечности"
         },
         {
           "FlagsConsumed": 18446744073709551604,
           "FlagsProduced": 65535,
-          "String": "$BuyPrice:0$ осколка вечности"
+          "String": "$BuyPrice:0$ Осколка Вечности"
         },
         {
           "FlagsConsumed": 18446744073709551602,
           "FlagsProduced": 65535,
-          "String": "$BuyPrice$ осколок вечности"
+          "String": "$BuyPrice$ Осколок Вечности"
         }
       ],
       "FlagsProduced": 65535,
@@ -7451,17 +7435,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "одухотворенный"
+          "String": "Одухотворенный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "одухотворенная"
+          "String": "Одухотворенная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "одухотворенное"
+          "String": "Одухотворенное"
         }
       ],
       "FlagsProduced": 65535,
@@ -8027,17 +8011,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "радующий"
+          "String": "Радующий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "радующая"
+          "String": "Радующая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "радующее"
+          "String": "Радующее"
         }
       ],
       "FlagsProduced": 65535,
@@ -11153,17 +11137,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "выводящий из равновесия"
+          "String": "Выводящий из равновесия"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "выводящая из равновесия"
+          "String": "Выводящая из равновесия"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "выводящее из равновесия"
+          "String": "Выводящее из равновесия"
         }
       ],
       "FlagsProduced": 65535,
@@ -11454,7 +11438,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "турелей"
+          "String": "Турелей"
         }
       ],
       "FlagsProduced": 65535,
@@ -12330,7 +12314,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "технологий"
+          "String": "Технологий"
         }
       ],
       "FlagsProduced": 65535,
@@ -12606,17 +12590,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "ученый"
+          "String": "Ученый"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "ученая"
+          "String": "Ученая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "ученое"
+          "String": "Ученое"
         }
       ],
       "FlagsProduced": 65535,
@@ -12732,17 +12716,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "хитрый"
+          "String": "Хитрый"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "хитрая"
+          "String": "Хитрая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "хитрое"
+          "String": "Хитрое"
         }
       ],
       "FlagsProduced": 65535,
@@ -13148,17 +13132,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "военный"
+          "String": "Военный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "военная"
+          "String": "Военная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "военное"
+          "String": "Военное"
         }
       ],
       "FlagsProduced": 65535,
@@ -14394,17 +14378,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "изолирующий"
+          "String": "Изолирующий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "изолирующая"
+          "String": "Изолирующая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "изолирующее"
+          "String": "Изолирующее"
         }
       ],
       "FlagsProduced": 65535,
@@ -14480,7 +14464,7 @@
         {
           "FlagsConsumed": 18446744073709547519,
           "FlagsProduced": 65535,
-          "String": "воздаяний Хоншу"
+          "String": "#lightblue#Воздаяний Хоншу#/lightblue#"
         }
       ],
       "FlagsProduced": 65535,
@@ -14511,17 +14495,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "хлещущий"
+          "String": "Хлещущий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "хлещущая"
+          "String": "Хлещущая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "хлещущее"
+          "String": "Хлещущее"
         }
       ],
       "FlagsProduced": 65535,
@@ -14892,17 +14876,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "безжалостный"
+          "String": "Безжалостный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "безжалостная"
+          "String": "Безжалостная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "безжалостное"
+          "String": "Безжалостное"
         }
       ],
       "FlagsProduced": 65535,
@@ -15983,7 +15967,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "базовых способностей"
+          "String": "Базовых способностей"
         }
       ],
       "FlagsProduced": 65535,
@@ -16079,7 +16063,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "рукопашных способностей"
+          "String": "Ближних способностей"
         }
       ],
       "FlagsProduced": 65535,
@@ -16991,17 +16975,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "коренастый"
+          "String": "Коренастый"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "коренастая"
+          "String": "Коренастая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "коренастое"
+          "String": "Коренастое"
         }
       ],
       "FlagsProduced": 65535,
@@ -17127,7 +17111,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "способностей Оседлавшей ветер"
+          "String": "Оседлавшей ветер"
         }
       ],
       "FlagsProduced": 65535,
@@ -18853,17 +18837,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "своевременный"
+          "String": "Своевременный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "своевременная"
+          "String": "Своевременная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "своевременное"
+          "String": "Своевременное"
         }
       ],
       "FlagsProduced": 65535,
@@ -19815,17 +19799,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 62706,
-          "String": "пагубный"
+          "String": "Пагубный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 62194,
-          "String": "пагубная"
+          "String": "Пагубная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 61938,
-          "String": "пагубное"
+          "String": "Пагубное"
         }
       ],
       "FlagsProduced": 65535,
@@ -20061,17 +20045,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "уходящий от удара"
+          "String": "Уходящий от удара"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "уходящая от удара"
+          "String": "Уходящая от удара"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "уходящее от удара"
+          "String": "Уходящее от удара"
         }
       ],
       "FlagsProduced": 65535,
@@ -21322,7 +21306,7 @@
         {
           "FlagsConsumed": 18446744073709547519,
           "FlagsProduced": 65535,
-          "String": "Призыва лавового стража"
+          "String": "Призыва Лавамена-стража"
         }
       ],
       "FlagsProduced": 65535,
@@ -21483,7 +21467,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "крика"
+          "String": "Крика"
         }
       ],
       "FlagsProduced": 65535,
@@ -21519,7 +21503,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "прыжков"
+          "String": "Прыжков"
         }
       ],
       "FlagsProduced": 65535,
@@ -21645,17 +21629,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "искореняющий"
+          "String": "Искореняющий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "искореняющая"
+          "String": "Искореняющая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "искореняющее"
+          "String": "Искореняющее"
         }
       ],
       "FlagsProduced": 65535,
@@ -22212,13 +22196,7 @@
       "String": "Шторм"
     },
     "5675768169540355341": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Насилия"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Способности Коровьего Короля"
     },
@@ -22607,12 +22585,12 @@
         {
           "FlagsConsumed": 18446744073709547519,
           "FlagsProduced": 65535,
-          "String": "фантастического друга"
+          "String": "Фантастического друга"
         },
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "фантастического друга"
+          "String": "Фантастического друга"
         }
       ],
       "FlagsProduced": 65535,
@@ -23623,17 +23601,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "мстительный"
+          "String": "Мстительный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "мстительная"
+          "String": "Мстительная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "мстительное"
+          "String": "Мстительное"
         }
       ],
       "FlagsProduced": 65535,
@@ -23920,17 +23898,17 @@
         {
           "FlagsConsumed": 18446744073709551608,
           "FlagsProduced": 65535,
-          "String": "#brightgreencredits#$currencyamount:0$ кредитов#/brightgreencredits#"
+          "String": "#brightgreencredits#$currencyamount:0$ Кредитов#/brightgreencredits#"
         },
         {
           "FlagsConsumed": 18446744073709551604,
           "FlagsProduced": 65535,
-          "String": "#brightgreencredits#$currencyamount:0$ кредита#/brightgreencredits#"
+          "String": "#brightgreencredits#$currencyamount:0$ Кредита#/brightgreencredits#"
         },
         {
           "FlagsConsumed": 18446744073709551602,
           "FlagsProduced": 62706,
-          "String": "#brightgreencredits#$currencyamount:0$ кредит#/brightgreencredits#"
+          "String": "#brightgreencredits#$currencyamount:0$ Кредит#/brightgreencredits#"
         }
       ],
       "FlagsProduced": 65535,
@@ -28818,17 +28796,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "опустошительный"
+          "String": "Опустошительный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "опустошительная"
+          "String": "Опустошительная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "опустошительное"
+          "String": "Опустошительное"
         }
       ],
       "FlagsProduced": 65535,
@@ -28899,17 +28877,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "нервирующий"
+          "String": "Нервирующий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "нервирующая"
+          "String": "Нервирующая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "нервирующее"
+          "String": "Нервирующее"
         }
       ],
       "FlagsProduced": 65535,
@@ -29290,7 +29268,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "скрытности"
+          "String": "Скрытности"
         }
       ],
       "FlagsProduced": 65535,
@@ -31333,13 +31311,7 @@
       "String": "onContactTimePower.condition0"
     },
     "6115476600554456380": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Щита"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "AITargetedRanged SS"
     },
@@ -34153,7 +34125,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "сыворотки"
+          "String": "Сыворотки"
         }
       ],
       "FlagsProduced": 65535,
@@ -34464,7 +34436,7 @@
         {
           "FlagsConsumed": 18446744073709547519,
           "FlagsProduced": 65535,
-          "String": "любого"
+          "String": "Любого"
         }
       ],
       "FlagsProduced": 65535,
@@ -35060,17 +35032,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "любознательный"
+          "String": "Любознательный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "любознательная"
+          "String": "Любознательная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "любознательное"
+          "String": "Любознательное"
         }
       ],
       "FlagsProduced": 65535,
@@ -35176,17 +35148,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "бьющий"
+          "String": "Бьющий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "бьющая"
+          "String": "Бьющая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "бьющее"
+          "String": "Бьющее"
         }
       ],
       "FlagsProduced": 65535,
@@ -35732,17 +35704,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "терроризирующий"
+          "String": "Терроризирующий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "терроризирующая"
+          "String": "Терроризирующая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "терроризирующее"
+          "String": "Терроризирующее"
         }
       ],
       "FlagsProduced": 65535,
@@ -36333,17 +36305,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "фатальный"
+          "String": "Фатальный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "фатальная"
+          "String": "Фатальная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "фатальное"
+          "String": "Фатальное"
         }
       ],
       "FlagsProduced": 65535,
@@ -37154,7 +37126,7 @@
         {
           "FlagsConsumed": 18446744073709547519,
           "FlagsProduced": 65535,
-          "String": "фокуса"
+          "String": "#focus#Фокуса#/focus#"
         }
       ],
       "FlagsProduced": 65535,
@@ -37756,13 +37728,7 @@
       "String": "Неудержимые кастеты"
     },
     "6416866086423233796": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "базового удара"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Лом скуллов"
     },
@@ -38036,7 +38002,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "напарника (по умолчанию)"
+          "String": "Стандартных способностей Напарника"
         }
       ],
       "FlagsProduced": 65535,
@@ -38082,17 +38048,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "создающий панику"
+          "String": "Создающий панику"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "создающая панику"
+          "String": "Создающая панику"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "создающее панику"
+          "String": "Создающее панику"
         }
       ],
       "FlagsProduced": 65535,
@@ -40393,17 +40359,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "непонятный"
+          "String": "Непонятный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "непонятная"
+          "String": "Непонятная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "непонятное"
+          "String": "Непонятное"
         }
       ],
       "FlagsProduced": 65535,
@@ -40569,17 +40535,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 62706,
-          "String": "детонирующий"
+          "String": "Детонирующий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 62194,
-          "String": "детонирующая"
+          "String": "Детонирующая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 61938,
-          "String": "детонирующее"
+          "String": "Детонирующее"
         }
       ],
       "FlagsProduced": 65535,
@@ -40925,17 +40891,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "усиливающий"
+          "String": "Усиливающий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "усиливающая"
+          "String": "Усиливающая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "усиливающее"
+          "String": "Усиливающее"
         }
       ],
       "FlagsProduced": 65535,
@@ -41151,17 +41117,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "сосредоточенный"
+          "String": "Сосредоточенный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "сосредоточенная"
+          "String": "Сосредоточенная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "сосредоточенное"
+          "String": "Сосредоточенное"
         }
       ],
       "FlagsProduced": 65535,
@@ -41712,17 +41678,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "живучий"
+          "String": "Живучий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "живучая"
+          "String": "Живучая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "живучее"
+          "String": "Живучее"
         }
       ],
       "FlagsProduced": 65535,
@@ -42688,17 +42654,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "устрашающий"
+          "String": "Устрашающий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "устрашающая"
+          "String": "Устрашающая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "устрашающее"
+          "String": "Устрашающее"
         }
       ],
       "FlagsProduced": 65535,
@@ -43709,17 +43675,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "взводный"
+          "String": "Взводный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "взводная"
+          "String": "Взводная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "взводное"
+          "String": "Взводное"
         }
       ],
       "FlagsProduced": 65535,
@@ -43855,7 +43821,7 @@
         {
           "FlagsConsumed": 18446744073709547519,
           "FlagsProduced": 65535,
-          "String": "энергетического"
+          "String": "Энергетического"
         }
       ],
       "FlagsProduced": 65535,
@@ -45696,17 +45662,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "пугающий"
+          "String": "Пугающий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "пугающая"
+          "String": "Пугающая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "пугающее"
+          "String": "Пугающее"
         }
       ],
       "FlagsProduced": 65535,
@@ -45792,17 +45758,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "долбящий"
+          "String": "Долбящий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "долбящая"
+          "String": "Долбящая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "долбящее"
+          "String": "Долбящее"
         }
       ],
       "FlagsProduced": 65535,
@@ -45953,17 +45919,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "бодрящий"
+          "String": "Бодрящий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "бодрящая"
+          "String": "Бодрящая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "бодрящее"
+          "String": "Бодрящее"
         }
       ],
       "FlagsProduced": 65535,
@@ -46449,17 +46415,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "сообразительный"
+          "String": "Сообразительный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "сообразительная"
+          "String": "Сообразительная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "сообразительное"
+          "String": "Сообразительное"
         }
       ],
       "FlagsProduced": 65535,
@@ -48060,7 +48026,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "ихора"
+          "String": "Ихора"
         }
       ],
       "FlagsProduced": 65535,
@@ -48802,13 +48768,7 @@
       "String": "Подбито мехом, одобрено организацией PETA\n —Журнал HeroStyle"
     },
     "6931683668511294735": {
-      "Variants": [
-        {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Ярости"
-        }
-      ],
+      "Variants": [],
       "FlagsProduced": 65535,
       "String": "Аффиксы босса"
     },
@@ -49437,17 +49397,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "распыляющий"
+          "String": "Распыляющий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "распыляющая"
+          "String": "Распыляющая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "распыляющее"
+          "String": "Распыляющее"
         }
       ],
       "FlagsProduced": 65535,
@@ -49583,7 +49543,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "замедления"
+          "String": "Замедления"
         }
       ],
       "FlagsProduced": 65535,
@@ -52185,17 +52145,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "богатый"
+          "String": "Богатый"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "богатая"
+          "String": "Богатая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "богатое"
+          "String": "Богатое"
         }
       ],
       "FlagsProduced": 65535,
@@ -53586,17 +53546,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "увеличенный"
+          "String": "Увеличенный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "увеличенная"
+          "String": "Увеличенная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "увеличенное"
+          "String": "Увеличенное"
         }
       ],
       "FlagsProduced": 65535,
@@ -54432,17 +54392,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 62706,
-          "String": "катастрофический"
+          "String": "Катастрофический"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 62194,
-          "String": "катастрофическая"
+          "String": "Катастрофическая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 61938,
-          "String": "катастрофическое"
+          "String": "Катастрофическое"
         }
       ],
       "FlagsProduced": 65535,
@@ -54958,7 +54918,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "ментальных способностей"
+          "String": "Ментальных способностей"
         }
       ],
       "FlagsProduced": 65535,
@@ -55564,17 +55524,17 @@
         {
           "FlagsConsumed": 18446744073709551608,
           "FlagsProduced": 65535,
-          "String": "$BuyPrice:0$ кредитов"
+          "String": "$BuyPrice:0$ Кредитов"
         },
         {
           "FlagsConsumed": 18446744073709551604,
           "FlagsProduced": 65535,
-          "String": "$BuyPrice:0$ кредита"
+          "String": "$BuyPrice:0$ Кредита"
         },
         {
           "FlagsConsumed": 18446744073709551602,
           "FlagsProduced": 65522,
-          "String": "$BuyPrice:0$ кредит"
+          "String": "$BuyPrice:0$ Кредит"
         }
       ],
       "FlagsProduced": 65535,
@@ -57950,7 +57910,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "ярости"
+          "String": "Ярости"
         }
       ],
       "FlagsProduced": 65535,
@@ -58131,7 +58091,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "пассивных способностей напарника"
+          "String": "Пассивных способностей Напарника"
         }
       ],
       "FlagsProduced": 65535,
@@ -58257,17 +58217,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "разумный"
+          "String": "Разумный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "разумная"
+          "String": "Разумная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "разумное"
+          "String": "Разумное"
         }
       ],
       "FlagsProduced": 65535,
@@ -58358,17 +58318,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "прилежный"
+          "String": "Прилежный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "прилежная"
+          "String": "Прилежная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "прилежное"
+          "String": "Прилежное"
         }
       ],
       "FlagsProduced": 65535,
@@ -59399,17 +59359,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "яростный"
+          "String": "Яростный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "яростная"
+          "String": "Яростная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "яростное"
+          "String": "Яростное"
         }
       ],
       "FlagsProduced": 65535,
@@ -60520,7 +60480,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "физических способностей"
+          "String": "Физических способностей"
         }
       ],
       "FlagsProduced": 65535,
@@ -61006,17 +60966,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "бурный"
+          "String": "Бурный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "бурная"
+          "String": "Бурная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "бурное"
+          "String": "Бурное"
         }
       ],
       "FlagsProduced": 65535,
@@ -63022,17 +62982,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "тревожный"
+          "String": "Тревожный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "тревожная"
+          "String": "Тревожная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "тревожное"
+          "String": "Тревожное"
         }
       ],
       "FlagsProduced": 65535,
@@ -63858,17 +63818,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "убежищный"
+          "String": "Убежищный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "убежищная"
+          "String": "Убежищная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "убежищное"
+          "String": "Убежищное"
         }
       ],
       "FlagsProduced": 65535,
@@ -66354,17 +66314,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "веселящий"
+          "String": "Веселящий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "веселящая"
+          "String": "Веселящая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "веселящее"
+          "String": "Веселящее"
         }
       ],
       "FlagsProduced": 65535,
@@ -66835,17 +66795,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "обновляющий"
+          "String": "Обновляющий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "обновляющая"
+          "String": "Обновляющая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "обновляющее"
+          "String": "Обновляющее"
         }
       ],
       "FlagsProduced": 65535,
@@ -67836,7 +67796,7 @@
         {
           "FlagsConsumed": 18446744073709547519,
           "FlagsProduced": 65535,
-          "String": "псионного барьера"
+          "String": "#purple#Псионного барьера#/purple#"
         }
       ],
       "FlagsProduced": 65535,
@@ -68392,17 +68352,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "рьяный"
+          "String": "Рьяный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "рьяная"
+          "String": "Рьяная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "рьяное"
+          "String": "Рьяное"
         }
       ],
       "FlagsProduced": 65535,
@@ -69318,17 +69278,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "угрожающий"
+          "String": "Угрожающий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "угрожающая"
+          "String": "Угрожающая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "угрожающее"
+          "String": "Угрожающее"
         }
       ],
       "FlagsProduced": 65535,
@@ -69784,7 +69744,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "генератора обломков"
+          "String": "Генератора обломков"
         }
       ],
       "FlagsProduced": 65535,
@@ -71070,17 +71030,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "гасящий"
+          "String": "Гасящий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "гасящая"
+          "String": "Гасящая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "гасящее"
+          "String": "Гасящее"
         }
       ],
       "FlagsProduced": 65535,
@@ -71091,17 +71051,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "спортивный"
+          "String": "Спортивный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "спортивная"
+          "String": "Спортивная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "спортивное"
+          "String": "Спортивное"
         }
       ],
       "FlagsProduced": 65535,
@@ -71657,17 +71617,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "гарнизонный"
+          "String": "Гарнизонный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "гарнизонная"
+          "String": "Гарнизонная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "гарнизонное"
+          "String": "Гарнизонное"
         }
       ],
       "FlagsProduced": 65535,
@@ -71978,7 +71938,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "меча"
+          "String": "Меча"
         }
       ],
       "FlagsProduced": 65535,
@@ -72274,17 +72234,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "бронзовый"
+          "String": "Бронзовый"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "бронзовая"
+          "String": "Бронзовая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "бронзовое"
+          "String": "Бронзовое"
         }
       ],
       "FlagsProduced": 65535,
@@ -72971,17 +72931,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "несгибаемый"
+          "String": "Несгибаемый"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "несгибаемая"
+          "String": "Несгибаемая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "несгибаемое"
+          "String": "Несгибаемое"
         }
       ],
       "FlagsProduced": 65535,
@@ -73893,17 +73853,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "умный"
+          "String": "Умный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "умная"
+          "String": "Умная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "умное"
+          "String": "Умное"
         }
       ],
       "FlagsProduced": 65535,
@@ -74214,17 +74174,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "дающий энергию"
+          "String": "Дающий энергию"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "дающая энергию"
+          "String": "Дающая энергию"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "дающее энергию"
+          "String": "Дающее энергию"
         }
       ],
       "FlagsProduced": 65535,
@@ -74375,17 +74335,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "безумный"
+          "String": "Безумный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "безумная"
+          "String": "Безумная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "безумное"
+          "String": "Безумное"
         }
       ],
       "FlagsProduced": 65535,
@@ -75402,17 +75362,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "укрепляющий"
+          "String": "Укрепляющий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "укрепляющая"
+          "String": "Укрепляющая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "укрепляющее"
+          "String": "Укрепляющее"
         }
       ],
       "FlagsProduced": 65535,
@@ -76554,17 +76514,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "когортовый"
+          "String": "Когортовый"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "когортовая"
+          "String": "Когортовая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "когортовое"
+          "String": "Когортовое"
         }
       ],
       "FlagsProduced": 65535,
@@ -77580,17 +77540,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "ранящий"
+          "String": "Ранящий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "ранящая"
+          "String": "Ранящая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "ранящее"
+          "String": "Ранящее"
         }
       ],
       "FlagsProduced": 65535,
@@ -78376,17 +78336,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "воинский"
+          "String": "Воинский"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "воинская"
+          "String": "Воинская"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "воинское"
+          "String": "Воинское"
         }
       ],
       "FlagsProduced": 65535,
@@ -79733,17 +79693,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "сбивающий с толку"
+          "String": "Сбивающий с толку"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "сбивающая с толку"
+          "String": "Сбивающая с толку"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "сбивающее с толку"
+          "String": "Сбивающее с толку"
         }
       ],
       "FlagsProduced": 65535,
@@ -81194,7 +81154,7 @@
         {
           "FlagsConsumed": 18446744073709547519,
           "FlagsProduced": 65535,
-          "String": "Призвыва кротоида-прыгуна"
+          "String": "Призвыва Молоида-прыгуна"
         }
       ],
       "FlagsProduced": 65535,
@@ -81475,17 +81435,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "бескомпромиссный"
+          "String": "Бескомпромиссный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "бескомпромиссная"
+          "String": "Бескомпромиссная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "бескомпромиссное"
+          "String": "Бескомпромиссное"
         }
       ],
       "FlagsProduced": 65535,
@@ -82371,17 +82331,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "оборонительный"
+          "String": "Оборонительный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "оборонительная"
+          "String": "Оборонительная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "оборонительное"
+          "String": "Оборонительное"
         }
       ],
       "FlagsProduced": 65535,
@@ -82807,17 +82767,17 @@
         {
           "FlagsConsumed": 18446744073709551608,
           "FlagsProduced": 65535,
-          "String": "#flavor#$runestonesamount:0$ рунных камней#/flavor#"
+          "String": "#flavor#$runestonesamount:0$ Рунных камней#/flavor#"
         },
         {
           "FlagsConsumed": 18446744073709551604,
           "FlagsProduced": 65535,
-          "String": "#flavor#$runestonesamount:0$ рунного камня#/flavor#"
+          "String": "#flavor#$runestonesamount:0$ Рунного камня#/flavor#"
         },
         {
           "FlagsConsumed": 18446744073709551602,
           "FlagsProduced": 65535,
-          "String": "#flavor#$currencyamount:0$ рунный камень#/flavor#"
+          "String": "#flavor#$currencyamount:0$ Рунный камень#/flavor#"
         }
       ],
       "FlagsProduced": 65535,
@@ -83828,17 +83788,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "опасный"
+          "String": "Опасный"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "опасная"
+          "String": "Опасная"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "опасное"
+          "String": "Опасное"
         }
       ],
       "FlagsProduced": 65535,
@@ -84879,7 +84839,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "призывания"
+          "String": "Призывания"
         }
       ],
       "FlagsProduced": 65535,
@@ -85190,17 +85150,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "ужасающий"
+          "String": "Ужасающий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "ужасающая"
+          "String": "Ужасающая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "ужасающее"
+          "String": "Ужасающее"
         }
       ],
       "FlagsProduced": 65535,
@@ -87202,17 +87162,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 62706,
-          "String": "повышающий интенсивность"
+          "String": "Повышающий интенсивность"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 62194,
-          "String": "повышающая интенсивность"
+          "String": "Повышающая интенсивность"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 61938,
-          "String": "повышающее интенсивность"
+          "String": "Повышающее интенсивность"
         }
       ],
       "FlagsProduced": 65535,
@@ -87679,17 +87639,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "ранящий"
+          "String": "Ранящий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "ранящая"
+          "String": "Ранящая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "ранящее"
+          "String": "Ранящее"
         }
       ],
       "FlagsProduced": 65535,
@@ -89775,7 +89735,7 @@
         {
           "FlagsConsumed": 18446744073709547519,
           "FlagsProduced": 65535,
-          "String": "брони"
+          "String": "Брони"
         }
       ],
       "FlagsProduced": 65535,
@@ -94193,17 +94153,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "распыляющий"
+          "String": "Распыляющий"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "распыляющая"
+          "String": "Распыляющая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "распыляющее"
+          "String": "Распыляющее"
         }
       ],
       "FlagsProduced": 65535,
@@ -96344,17 +96304,17 @@
         {
           "FlagsConsumed": 18446744073709548786,
           "FlagsProduced": 65535,
-          "String": "защитно-космический"
+          "String": "Защитно-космический"
         },
         {
           "FlagsConsumed": 18446744073709548274,
           "FlagsProduced": 65535,
-          "String": "защитно-космическая"
+          "String": "Защитно-космическая"
         },
         {
           "FlagsConsumed": 18446744073709548018,
           "FlagsProduced": 65535,
-          "String": "защитно-космическое"
+          "String": "Защитно-космическое"
         }
       ],
       "FlagsProduced": 65535,
@@ -96600,7 +96560,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "способностей с длительным уроном"
+          "String": "Длительных способностей"
         }
       ],
       "FlagsProduced": 65535,
