@@ -1,0 +1,2046 @@
+{
+  "workbench.colorTheme": "Default Dark+",
+  "highlight.regexes": {
+    "(\\$[a-zA-Z_][a-zA-Z0-9_ .]*\\$)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#1ac71a", 
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#ichor#)(.*?)(#/ichor#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#BBBBBB",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#BBBBBB"
+        },
+        {
+          "color": "#BBBBBB",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#debris#)(.*?)(#/debris#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#DBB8FF",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#DBB8FF"
+        },
+        {
+          "color": "#DBB8FF",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#blue18#)(.*?)(#/blue18#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#00AAFF",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#00AAFF"
+        },
+        {
+          "color": "#00AAFF",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#powerinfo#)(.*?)(#/powerinfo#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#CCCCCC",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#CCCCCC"
+        },
+        {
+          "color": "#CCCCCC",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#gifthlt#)(.*?)(#/gifthlt#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#00AAFF",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#00AAFF"
+        },
+        {
+          "color": "#00AAFF",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#mark#)(.*?)(#/mark#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF6666",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FF6666"
+        },
+        {
+          "color": "#FF6666",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#damage#)(.*?)(#/damage#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FCDB1C",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FCDB1C"
+        },
+        {
+          "color": "#FCDB1C",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#highlight#)(.*?)(#/highlight#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#3C96E6",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#3C96E6"
+        },
+        {
+          "color": "#3C96E6",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#zzzpowerkeyword#)(.*?)(#/zzzpowerkeyword#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF9900",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FF9900"
+        },
+        {
+          "color": "#FF9900",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#PowerImpr#)(.*?)(#/PowerImpr#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#28AA00",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#28AA00"
+        },
+        {
+          "color": "#28AA00",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#Difficulty2#)(.*?)(#/Difficulty2#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF0000",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#FF0000"
+        },
+        {
+          "color": "#FF0000",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#costumedisplayslot#)(.*?)(#/costumedisplayslot#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#9128BB",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#9128BB"
+        },
+        {
+          "color": "#9128BB",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#statheader#)(.*?)(#/statheader#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF9900",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#FF9900"
+        },
+        {
+          "color": "#FF9900",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#OmegaMagenta#)(.*?)(#/OmegaMagenta#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#CC22CC",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#CC22CC"
+        },
+        {
+          "color": "#CC22CC",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#goldcard#)(.*?)(#/goldcard#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF9900",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FF9900"
+        },
+        {
+          "color": "#FF9900",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#couponheader#)(.*?)(#/couponheader#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#EAA83C",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#EAA83C"
+        },
+        {
+          "color": "#EAA83C",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#gray#)(.*?)(#/gray#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#CCCCCC",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#CCCCCC"
+        },
+        {
+          "color": "#CCCCCC",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#RarityRare#)(.*?)(#/RarityRare#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#3C96E6",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#3C96E6"
+        },
+        {
+          "color": "#3C96E6",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#tigerstance#)(.*?)(#/tigerstance#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF0000",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FF0000"
+        },
+        {
+          "color": "#FF0000",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#omegabutton#)(.*?)(#/omegabutton#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FFFFFF",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#FFFFFF"
+        },
+        {
+          "color": "#FFFFFF",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#waypointtext#)(.*?)(#/waypointtext#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FFFFFF",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#FFFFFF"
+        },
+        {
+          "color": "#FFFFFF",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#EnhancedKeywordColor#)(.*?)(#/EnhancedKeywordColor#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#9128BB",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#9128BB"
+        },
+        {
+          "color": "#9128BB",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#power#)(.*?)(#/power#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#3C96E6",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#3C96E6"
+        },
+        {
+          "color": "#3C96E6",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#shehulkcombo#)(.*?)(#/shehulkcombo#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#4DFF4D",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#4DFF4D"
+        },
+        {
+          "color": "#4DFF4D",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#waypointlabel#)(.*?)(#/waypointlabel#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#3C96E6",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#3C96E6"
+        },
+        {
+          "color": "#3C96E6",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#powerkeyword#)(.*?)(#/powerkeyword#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF9900",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FF9900"
+        },
+        {
+          "color": "#FF9900",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#Difficulty3#)(.*?)(#/Difficulty3#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#D8E415",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#D8E415"
+        },
+        {
+          "color": "#D8E415",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#crimson#)(.*?)(#/crimson#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#D60D0D",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#D60D0D"
+        },
+        {
+          "color": "#D60D0D",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#powertree#)(.*?)(#/powertree#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#E0FDF3",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#E0FDF3"
+        },
+        {
+          "color": "#E0FDF3",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#ice#)(.*?)(#/ice#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#C8C8FF",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#C8C8FF"
+        },
+        {
+          "color": "#C8C8FF",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#optional#)(.*?)(#/optional#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#CCCCCC",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#CCCCCC"
+        },
+        {
+          "color": "#CCCCCC",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#darkness#)(.*?)(#/darkness#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#9128BB",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#9128BB"
+        },
+        {
+          "color": "#9128BB",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#cyan#)(.*?)(#/cyan#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#00FFFF",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#00FFFF"
+        },
+        {
+          "color": "#00FFFF",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#objective#)(.*?)(#/objective#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FFFFFF",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#FFFFFF"
+        },
+        {
+          "color": "#FFFFFF",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#fulfillment#)(.*?)(#/fulfillment#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#C8C8FF",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#C8C8FF"
+        },
+        {
+          "color": "#C8C8FF",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#lukecagecombo#)(.*?)(#/lukecagecombo#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF9933",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FF9933"
+        },
+        {
+          "color": "#FF9933",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#lightblue#)(.*?)(#/lightblue#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#C8C8FF",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#C8C8FF"
+        },
+        {
+          "color": "#C8C8FF",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#stolenpower#)(.*?)(#/stolenpower#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#00FFBB",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#00FFBB"
+        },
+        {
+          "color": "#00FFBB",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#purple#)(.*?)(#/purple#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#9128BB",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#9128BB"
+        },
+        {
+          "color": "#9128BB",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#dragonstance#)(.*?)(#/dragonstance#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FCDB1C",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FCDB1C"
+        },
+        {
+          "color": "#FCDB1C",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#energy#)(.*?)(#/energy#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FBFF00",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FBFF00"
+        },
+        {
+          "color": "#FBFF00",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#orange#)(.*?)(#/orange#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF9900",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#FF9900"
+        },
+        {
+          "color": "#FF9900",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#bannerlarge#)(.*?)(#/bannerlarge#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FCDB1C",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#FCDB1C"
+        },
+        {
+          "color": "#FCDB1C",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#OmegaBlue#)(.*?)(#/OmegaBlue#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#0066FF",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#0066FF"
+        },
+        {
+          "color": "#0066FF",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#PowerUnknown#)(.*?)(#/PowerUnknown#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#28AA00",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#28AA00"
+        },
+        {
+          "color": "#28AA00",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#Relics#)(.*?)(#/Relics#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF34B3",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#FF34B3"
+        },
+        {
+          "color": "#FF34B3",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#clobberintime#)(.*?)(#/clobberintime#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#C9A540",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#C9A540"
+        },
+        {
+          "color": "#C9A540",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#fury#)(.*?)(#/fury#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF9900",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FF9900"
+        },
+        {
+          "color": "#FF9900",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#missionB#)(.*?)(#/missionB#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#28AA00",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#28AA00"
+        },
+        {
+          "color": "#28AA00",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#brightgreencredits#)(.*?)(#/brightgreencredits#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#BCED91",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#BCED91"
+        },
+        {
+          "color": "#BCED91",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#light green#)(.*?)(#/light green#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#A6D785",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#A6D785"
+        },
+        {
+          "color": "#A6D785",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#bannerstandard#)(.*?)(#/bannerstandard#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FCDB1C",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#FCDB1C"
+        },
+        {
+          "color": "#FCDB1C",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#solar#)(.*?)(#/solar#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FDE895",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#FDE895"
+        },
+        {
+          "color": "#FDE895",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#FleshMedkit#)(.*?)(#/FleshMedkit#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF8080",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#FF8080"
+        },
+        {
+          "color": "#FF8080",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#bold light green#)(.*?)(#/bold light green#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#A6D785",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#A6D785"
+        },
+        {
+          "color": "#A6D785",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#stealable#)(.*?)(#/stealable#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#00FF00",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#00FF00"
+        },
+        {
+          "color": "#00FF00",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#jean#)(.*?)(#/jean#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#DE92DE",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#DE92DE"
+        },
+        {
+          "color": "#DE92DE",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#silver#)(.*?)(#/silver#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#B3B3B3",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#B3B3B3"
+        },
+        {
+          "color": "#B3B3B3",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#listheader#)(.*?)(#/listheader#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF9900",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FF9900"
+        },
+        {
+          "color": "#FF9900",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#powername#)(.*?)(#/powername#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#3C96E6",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#3C96E6"
+        },
+        {
+          "color": "#3C96E6",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#ant#)(.*?)(#/ant#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#B0391C",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#B0391C"
+        },
+        {
+          "color": "#B0391C",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#OmegaRed#)(.*?)(#/OmegaRed#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#EE2222",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#EE2222"
+        },
+        {
+          "color": "#EE2222",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#warning#)(.*?)(#/warning#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF0000",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FF0000"
+        },
+        {
+          "color": "#FF0000",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#hidden#)(.*?)(#/hidden#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#555555",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#555555"
+        },
+        {
+          "color": "#555555",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#bionic#)(.*?)(#/bionic#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#D60D0D",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#D60D0D"
+        },
+        {
+          "color": "#D60D0D",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#defaultlarge#)(.*?)(#/defaultlarge#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FFFFFF",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#FFFFFF"
+        },
+        {
+          "color": "#FFFFFF",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#whitebold#)(.*?)(#/whitebold#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FFFFFF",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FFFFFF"
+        },
+        {
+          "color": "#FFFFFF",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#snakestance#)(.*?)(#/snakestance#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#9128BB",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#9128BB"
+        },
+        {
+          "color": "#9128BB",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#gold#)(.*?)(#/gold#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#EAA83C",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#EAA83C"
+        },
+        {
+          "color": "#EAA83C",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#RarityUncommon#)(.*?)(#/RarityUncommon#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#28AA00",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#28AA00"
+        },
+        {
+          "color": "#28AA00",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#white#)(.*?)(#/white#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FFFFFF",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#FFFFFF"
+        },
+        {
+          "color": "#FFFFFF",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#RarityUnique#)(.*?)(#/RarityUnique#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#B67B38",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#B67B38"
+        },
+        {
+          "color": "#B67B38",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#teambuff#)(.*?)(#/teambuff#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF9900",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FF9900"
+        },
+        {
+          "color": "#FF9900",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#OmegaBonusPoint#)(.*?)(#/OmegaBonusPoint#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#C8C8FF",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#C8C8FF"
+        },
+        {
+          "color": "#C8C8FF",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#phoenix#)(.*?)(#/phoenix#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF9900",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FF9900"
+        },
+        {
+          "color": "#FF9900",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#powermechanic#)(.*?)(#/powermechanic#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#3C96E6",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#3C96E6"
+        },
+        {
+          "color": "#3C96E6",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#arsenal#)(.*?)(#/arsenal#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#C9A540",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#C9A540"
+        },
+        {
+          "color": "#C9A540",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#blue#)(.*?)(#/blue#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#3C96E6",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#3C96E6"
+        },
+        {
+          "color": "#3C96E6",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#anger#)(.*?)(#/anger#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#2F962C",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#2F962C"
+        },
+        {
+          "color": "#2F962C",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#charge#)(.*?)(#/charge#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#C8C8FF",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#C8C8FF"
+        },
+        {
+          "color": "#C8C8FF",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#light red#)(.*?)(#/light red#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#C67171",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#C67171"
+        },
+        {
+          "color": "#C67171",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#disabled#)(.*?)(#/disabled#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#CCCCCC",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#CCCCCC"
+        },
+        {
+          "color": "#CCCCCC",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#redcard#)(.*?)(#/redcard#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF0000",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FF0000"
+        },
+        {
+          "color": "#FF0000",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#heat#)(.*?)(#/heat#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#D44C2C",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#D44C2C"
+        },
+        {
+          "color": "#D44C2C",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#darkphoenix#)(.*?)(#/darkphoenix#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF5500",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FF5500"
+        },
+        {
+          "color": "#FF5500",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#waypointlevels#)(.*?)(#/waypointlevels#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#00FFFF",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#00FFFF"
+        },
+        {
+          "color": "#00FFFF",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#teamupdisabled#)(.*?)(#/teamupdisabled#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#CCCCCC",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#CCCCCC"
+        },
+        {
+          "color": "#CCCCCC",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#OmegaGreen#)(.*?)(#/OmegaGreen#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#00CC00",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#00CC00"
+        },
+        {
+          "color": "#00CC00",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#hardknocks#)(.*?)(#/hardknocks#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#B67B38",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#B67B38"
+        },
+        {
+          "color": "#B67B38",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#artifactred#)(.*?)(#/artifactred#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#D44C2C",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#D44C2C"
+        },
+        {
+          "color": "#D44C2C",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#green#)(.*?)(#/green#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#28AA00",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#28AA00"
+        },
+        {
+          "color": "#28AA00",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#emphasis#)(.*?)(#/emphasis#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#3C96E6",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#3C96E6"
+        },
+        {
+          "color": "#3C96E6",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#powerdisplayname#)(.*?)(#/powerdisplayname#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#3C96E6",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#3C96E6"
+        },
+        {
+          "color": "#3C96E6",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#RarityUltimate#)(.*?)(#/RarityUltimate#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#A00000",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#A00000"
+        },
+        {
+          "color": "#A00000",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#pinkcard#)(.*?)(#/pinkcard#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF55BB",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FF55BB"
+        },
+        {
+          "color": "#FF55BB",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#omegaheader#)(.*?)(#/omegaheader#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF9900",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FF9900"
+        },
+        {
+          "color": "#FF9900",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#mysticism#)(.*?)(#/mysticism#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#C61AFF",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#C61AFF"
+        },
+        {
+          "color": "#C61AFF",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#pemphasis#)(.*?)(#/pemphasis#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#00AAFF",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#00AAFF"
+        },
+        {
+          "color": "#00AAFF",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#OmegaLightOrange#)(.*?)(#/OmegaLightOrange#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FFBB00",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#FFBB00"
+        },
+        {
+          "color": "#FFBB00",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#cranestance#)(.*?)(#/cranestance#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#E0FDF3",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#E0FDF3"
+        },
+        {
+          "color": "#E0FDF3",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#odinforce#)(.*?)(#/odinforce#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#4DDBFF",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#4DDBFF"
+        },
+        {
+          "color": "#4DDBFF",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#metacount#)(.*?)(#/metacount#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FFCC00",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#FFCC00"
+        },
+        {
+          "color": "#FFCC00",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#Difficulty1#)(.*?)(#/Difficulty1#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#28AA00",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#28AA00"
+        },
+        {
+          "color": "#28AA00",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#yellow#)(.*?)(#/yellow#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FCDB1C",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#FCDB1C"
+        },
+        {
+          "color": "#FCDB1C",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#waveComplete#)(.*?)(#/waveComplete#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#28AA00",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#28AA00"
+        },
+        {
+          "color": "#28AA00",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#brown#)(.*?)(#/brown#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#B67B38",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#B67B38"
+        },
+        {
+          "color": "#B67B38",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#defaultmedium#)(.*?)(#/defaultmedium#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FFFFFF",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#FFFFFF"
+        },
+        {
+          "color": "#FFFFFF",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#powerdescription#)(.*?)(#/powerdescription#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#CCCCCC",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#CCCCCC"
+        },
+        {
+          "color": "#CCCCCC",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#light#)(.*?)(#/light#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FDE895",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FDE895"
+        },
+        {
+          "color": "#FDE895",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#QualityEpic#)(.*?)(#/QualityEpic#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#9128BB",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#9128BB"
+        },
+        {
+          "color": "#9128BB",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#purplesplinters#)(.*?)(#/purplesplinters#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#9128BB",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#9128BB"
+        },
+        {
+          "color": "#9128BB",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#purplecard#)(.*?)(#/purplecard#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#CC0099",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#CC0099"
+        },
+        {
+          "color": "#CC0099",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#waypointheader#)(.*?)(#/waypointheader#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF9900",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FF9900"
+        },
+        {
+          "color": "#FF9900",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#focus#)(.*?)(#/focus#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#CCFFFF",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#CCFFFF"
+        },
+        {
+          "color": "#CCFFFF",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#itemdialogheader#)(.*?)(#/itemdialogheader#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FFFFFF",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#FFFFFF"
+        },
+        {
+          "color": "#FFFFFF",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#readyconfirm#)(.*?)(#/readyconfirm#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#28AA00",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#28AA00"
+        },
+        {
+          "color": "#28AA00",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#keyword#)(.*?)(#/keyword#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FCDB1C",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FCDB1C"
+        },
+        {
+          "color": "#FCDB1C",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#flavor#)(.*?)(#/flavor#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF9900",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#FF9900"
+        },
+        {
+          "color": "#FF9900",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#RarityCosmic#)(.*?)(#/RarityCosmic#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#D8E415",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#D8E415"
+        },
+        {
+          "color": "#D8E415",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#readypending#)(.*?)(#/readypending#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#3C96E6",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#3C96E6"
+        },
+        {
+          "color": "#3C96E6",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#pheader#)(.*?)(#/pheader#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FFAA00",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FFAA00"
+        },
+        {
+          "color": "#FFAA00",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#leopardstance#)(.*?)(#/leopardstance#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF9900",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FF9900"
+        },
+        {
+          "color": "#FF9900",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#mission#)(.*?)(#/mission#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FCDB1C",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FCDB1C"
+        },
+        {
+          "color": "#FCDB1C",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#lightpurple#)(.*?)(#/lightpurple#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#"
+        },
+        {
+          "color": "#",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#red#)(.*?)(#/red#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF0000",
+          "fontWeight": "bold"
+        },
+        {
+          "color": "#FF0000"
+        },
+        {
+          "color": "#FF0000",
+          "fontWeight": "bold"
+        }
+      ]
+    },
+    "(#PowerNoImpr#)(.*?)(#/PowerNoImpr#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#FF0000",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#FF0000"
+        },
+        {
+          "color": "#FF0000",
+          "fontWeight": "normal"
+        }
+      ]
+    },
+    "(#OmegaYellow#)(.*?)(#/OmegaYellow#)": {
+      "filterLanguageRegex": "json",
+      "decorations": [
+        {
+          "color": "#DDDD11",
+          "fontWeight": "normal"
+        },
+        {
+          "color": "#DDDD11"
+        },
+        {
+          "color": "#DDDD11",
+          "fontWeight": "normal"
+        }
+      ]
+    }
+  }
+}
