@@ -5330,7 +5330,7 @@
     "14066189255618331909": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#green#30% шанс, когда вы попадаете с помощью Силы Движения, что ваша следующая Сила Движения будет Критическим Ударом#/green#"
+      "String": "#green#30% шанс при попадании Передвижением, что ваше следующее Передвижение будет с Критическим ударом#/green#"
     },
     "14066810694558352748": {
       "Variants": [],
@@ -9542,7 +9542,7 @@
     "14273438633288074500": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Бонусных Кредитов за добычу"
+      "String": "Бонус Кредитов за добычу"
     },
     "14273709353661433084": {
       "Variants": [],
@@ -11425,7 +11425,7 @@
     "14367721613714064716": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс метнуть мистические огненные шары во все стороны, когда вы используете силу перемещения (Кулдаун 3с)"
+      "String": "$procchancestring$ шанс метнуть мистические огненные шары во все стороны, при использовании передвижения (Перезарадка 3с)"
     },
     "14367785312360662335": {
       "Variants": [],
@@ -12103,7 +12103,7 @@
     "14395215035098334526": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Аура Человека-Ракеты:\nпри использовании рывков вы и ваши союзники получаете +$param1.power.condition0.damagerating.nofraction$ Рейтинг урона, +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг урона от рывков и +$param1.power.condition0.movementspeedincrpct.pct$% Скорости движения на $param1.power.condition0.duration$"
+      "String": "Аура Человека-Ракеты:\nПри использовании Передвижения вы и ваши союзники получаете +$param1.power.condition0.damagerating.nofraction$ Рейтинг урона, +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг урона Передвижения и +$param1.power.condition0.movementspeedincrpct.pct$% Скорости движения на $param1.power.condition0.duration$"
     },
     "14395541667298149640": {
       "Variants": [],
@@ -20686,7 +20686,7 @@
     "14808754797254804793": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ионная Защитная Аура:\nКогда вы используете силу движения, вы и ваши союзники получаете +$param1.power.condition0.damageratingbonusbytype.nofraction$ Физического и Энергетического Рейтинга Урона, $param1.power.condition0.movementspeedincrpct.pct$% Увеличение Скорости Движения и +$param1.power.condition0.healingovertimebase.nofraction$ Регенерации Здоровья в секунду на протяжении $param1.power.condition0.duration$."
+      "String": "Ионная Защитная Аура:\nПри использовании Передвижения, вы и ваши союзники получаете +$param1.power.condition0.damageratingbonusbytype.nofraction$ Физического и Энергетического Рейтинга Урона, $param1.power.condition0.movementspeedincrpct.pct$% Увеличение Скорости Движения и +$param1.power.condition0.healingovertimebase.nofraction$ Регенерации Здоровья в секунду на протяжении $param1.power.condition0.duration$."
     },
     "14808817168710632712": {
       "Variants": [],
@@ -23614,7 +23614,7 @@
     "14952464153876432192": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы наносите удар Психической Силы, получаете +$param1.power.evalRegisterFloat0$ Рейтинг критического удара ($param1.power.evalRegisterFloat0.divByLevel.precision0$ за уровень) на $param1.power.condition0.duration$"
+      "String": "Когда вы наносите удар Ментальной способностью, получаете +$param1.power.evalRegisterFloat0$ Рейтинг критического удара ($param1.power.evalRegisterFloat0.divByLevel.precision0$ за уровень) на $param1.power.condition0.duration$"
     },
     "14952531327227790708": {
       "Variants": [],
@@ -25854,7 +25854,7 @@
     "15053788917785756989": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 50:\n+2% к длительному урону"
+      "String": "Уровень 50:\n+2% Длительного урона"
     },
     "15054164864935789947": {
       "Variants": [],
@@ -26450,7 +26450,7 @@
     "15078669560197088526": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Увеличиваются воля и урон от рывков"
+      "String": "Увеличение урона Передвижения"
     },
     "15078918754255111486": {
       "Variants": [],
@@ -32514,7 +32514,7 @@
     "15355111861788542268": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Вдохновение Дупа#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+20-30% к урону всех призванных союзников#/emphasis#\n#emphasis#+20-30 ед. духа#/emphasis#\n#emphasis#+200-300 Рейтинг критического удара#/emphasis#\n#emphasis#+200-300 Рейтинг сокрушительного удара#/emphasis#\n#emphasis#+200-300 ед. здоровья#/emphasis#\n#emphasis#+200-300 Рейтинг защиты#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы к здоровью, урона призванных союзников, рейтингам сокрушительного и критического ударов и защиты."
+      "String": "Добавляет рунное слово #emphasis#Вдохновение Дупа#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+20-30% Урон Призывных#/emphasis#\n#emphasis#+20-30 ед. духа#/emphasis#\n#emphasis#+200-300 Рейтинг критического удара#/emphasis#\n#emphasis#+200-300 Рейтинг сокрушительного удара#/emphasis#\n#emphasis#+200-300 ед. здоровья#/emphasis#\n#emphasis#+200-300 Рейтинг защиты#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы к здоровью, урона призванных союзников, рейтингам сокрушительного и критического ударов и защиты."
     },
     "15355431055283783058": {
       "Variants": [],
@@ -33331,7 +33331,7 @@
     "15388092722327454994": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "После использования #red#Силы Движения#/red# в течение следующих $param1.power.condition0.duration$ вы получаете на $param1.power.condition0.damagepctresist.pct$% меньше урона от Враждебных Областных Сил и ваши Физические Удары восстанавливают $param1.power.condition0.proceffect.healing.nofraction$ здоровья ($param1.power.cooldown$ перезарядка)."
+      "String": "После #red#Передвижения#/red# в течение следующих $param1.power.condition0.duration$ вы получаете на $param1.power.condition0.damagepctresist.pct$% меньше урона от Враждебных Областных Сил и ваши Физические Удары восстанавливают $param1.power.condition0.proceffect.healing.nofraction$ здоровья ($param1.power.cooldown$ перезарядка)."
     },
     "15388230543593047363": {
       "Variants": [],
@@ -35168,7 +35168,7 @@
     "15476670573051970820": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "После удачного применения \"Удара-метеора\" или рывка ваши следующие атаки - $param1.power.condition0.procEffect.condition0.maxNumStacks.decrementBy1$ - получают +$param1.power.condition0.DamageRating.nofraction$ Рейтинг урона."
+      "String": "После использования Удара-метеора или Передвижения ваши следующие атаки - $param1.power.condition0.procEffect.condition0.maxNumStacks.decrementBy1$ - получают +$param1.power.condition0.DamageRating.nofraction$ Рейтинг урона."
     },
     "15476834481960387911": {
       "Variants": [],
@@ -41436,7 +41436,7 @@
     "15776705495086662979": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ночнойcrawler"
+      "String": "Ночной Змей"
     },
     "15776880046903264614": {
       "Variants": [],
@@ -42204,7 +42204,7 @@
     "15816122836616414526": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#При уклонении от атаки или активации рывка:#/emphasis#"
+      "String": "#emphasis#При Уклонении или Передвижении:#/emphasis#"
     },
     "15816142524874491302": {
       "Variants": [],
@@ -43520,7 +43520,7 @@
     "15870675922011620618": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс призвать Безумного, когда вы наносите удар с помощью Психической Силы. Максимум 3 одновременно Безумных."
+      "String": "$procchancestring$ шанс призвать Безумного, когда вы наносите удар с помощью Ментальной способности. Максимум 3 одновременно Безумных."
     },
     "15870786929798153539": {
       "Variants": [],
@@ -45001,7 +45001,7 @@
     "15938790452608042256": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "После использования способности движения получите $param1.power.condition0.DamageRating.nofraction$ Рейтинг урона на $param1.power.condition0.duration$."
+      "String": "После Передвижения получите $param1.power.condition0.DamageRating.nofraction$ Рейтинг урона на $param1.power.condition0.duration$."
     },
     "15938894515374523669": {
       "Variants": [],
@@ -48810,7 +48810,7 @@
     "16106823218448827749": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Мультипликатор критического рейтинга энергии"
+      "String": "Множ. Энерг. Крит. Рейт."
     },
     "16106991838815061317": {
       "Variants": [],
@@ -51259,7 +51259,7 @@
     "16226485375186306320": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы используете Способность Передвижения, увеличьте свою Скорость Передвижения на 20% на 5 секунд (Перезарядка 5 секунд)"
+      "String": "При использовании Передвижения, увеличьте свою Скорость Передвижения на 20% на 5 секунд (Перезарядка 5 секунд)"
     },
     "16226555245890504090": {
       "Variants": [],
@@ -54030,7 +54030,7 @@
     "16363062899940066561": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Урон боссам"
+      "String": "Урон по Боссам"
     },
     "16363072220032140560": {
       "Variants": [],
@@ -57894,7 +57894,7 @@
     "16549213461227373830": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Преобразует ингредиенты в артефакт, повышающий вашу скорость и урон, а также исцеляющий героя при использовании рывков."
+      "String": "Преобразует ингредиенты в артефакт, повышающий вашу скорость и урон, а также исцеляющий героя при использовании способностей передвижения."
     },
     "16550254741813003628": {
       "Variants": [],
@@ -62581,7 +62581,7 @@
     "16779909945904923971": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании любой способности вы получаете +$param1.power.condition0.damageRatingBonusForPowerKeyword.noFraction$ Рейтинг урона от рывков и +$param1.power.condition0.damageRating.noFraction$ Рейтинг урона на 10 секунд (накапливается до 3 раз). После третьего раза вы получаете +1 Битвы на 10 секунд."
+      "String": "При использовании любой способности вы получаете +$param1.power.condition0.damageRatingBonusForPowerKeyword.noFraction$ Рейтинг урона Передвижения и +$param1.power.condition0.damageRating.noFraction$ Рейтинг урона на 10 секунд (накапливается до 3 раз). После третьего раза вы получаете +1 Битвы на 10 секунд."
     },
     "16780254449524540739": {
       "Variants": [],
@@ -68035,7 +68035,7 @@
     "17028588135729136963": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ночнойcrawler"
+      "String": "Ночной Змей"
     },
     "17028812002366719343": {
       "Variants": [],
@@ -69768,7 +69768,7 @@
     "17109439005277685041": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восст. здоровья"
+      "String": "Восст. Здоровья"
     },
     "17109639365512004926": {
       "Variants": [],
@@ -77716,7 +77716,7 @@
     "17483005674320233780": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Множ. Рейтинга Защиты"
+      "String": "Множ. Рейт. Защиты"
     },
     "17483082111859557693": {
       "Variants": [],
@@ -79159,7 +79159,7 @@
     "17543472397182698824": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#$SecondaryActionButtonPressed$#/emphasis# — уклоняйтесь от телеографируемых атак с помощью перемещения Чёрной Вдовы."
+      "String": "#emphasis#$SecondaryActionButtonPressed$#/emphasis# — уклоняйтесь от телеографируемых атак передвижением Чёрной Вдовы."
     },
     "17543498806931359044": {
       "Variants": [],
@@ -79956,7 +79956,7 @@
     "17579682076745925959": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ночнойcrawler"
+      "String": "Ночной Змей"
     },
     "17579813365294957880": {
       "Variants": [],
@@ -84288,7 +84288,7 @@
     "17782883211521033546": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Неудержимой силы#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#200 ед. физического урона#/emphasis#,\n#emphasis#200 Рейтинг урона от рывков#/emphasis#,\n#emphasis#200 Рейтинг критического удара#/emphasis#,\n#emphasis#2% Скорости движения#/emphasis#,\n#emphasis#-2% затрат $primarymanabehaviorname.locflagG$ на способности#/emphasis# и\n#emphasis#2% шанс при успешном применении рывка получить 200 Рейтинг критического удара и 2000 Рейтинг критического урона на 5 с#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы к рейтингам физического урона, урона от рывков, крит. удара и критического урона."
+      "String": "Добавляет рунное слово #emphasis#Неудержимой силы#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#200 Физического урона#/emphasis#,\n#emphasis#200 Рейтинг урона Передвижения#/emphasis#,\n#emphasis#200 Рейтинг критического удара#/emphasis#,\n#emphasis#2% Скорости движения#/emphasis#,\n#emphasis#-2% затрат $primarymanabehaviorname.locflagG$ на способности#/emphasis# и\n#emphasis#2% шанс при попадании передвижением получить 200 Рейтинг критического удара и 2000 Рейтинг критического урона на 5 с#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы: Рейтинг Физического урона, Рейтинг урона передвижения, Крит. рейтинг и Критический урон."
     },
     "17783255026762646785": {
       "Variants": [],
@@ -87571,7 +87571,7 @@
     "17937004582456001842": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы используете Силу Движения, получаете +$param1.power.condition0.damageRatingBonusForPowerKeyword.noFraction$ Рейтинг Урона для Сил Движения и +$param1.power.condition0.ccResistScoreAll$ Упорство на $param1.power.condition0.duration$ (накапливается до $param1.power.condition0.maxNumStacks$ раз). Когда вы достигнете $param1.power.condition0.maxNumStacks$ стеков, вы получите +$param1.power.OnPowerStartPower.OnStackCountPower.condition0.damageRatingBonusByType$ Рейтинг Физического Урона и +$param1.power.OnPowerStartPower.OnStackCountPower.condition0.Defense.nofraction$ Рейтинг Защиты на $param1.power.OnPowerStartPower.OnStackCountPower.condition0.duration$"
+      "String": "При использовании Передвижения, получаете +$param1.power.condition0.damageRatingBonusForPowerKeyword.noFraction$ Рейтинг урона Передвижения и +$param1.power.condition0.ccResistScoreAll$ Упорство на $param1.power.condition0.duration$ (накапливается до $param1.power.condition0.maxNumStacks$ раз). Когда вы достигнете $param1.power.condition0.maxNumStacks$ стеков, вы получите +$param1.power.OnPowerStartPower.OnStackCountPower.condition0.damageRatingBonusByType$ Рейтинг Физического урона и +$param1.power.OnPowerStartPower.OnStackCountPower.condition0.Defense.nofraction$ Рейтинг Защиты на $param1.power.OnPowerStartPower.OnStackCountPower.condition0.duration$"
     },
     "17937693022717347087": {
       "Variants": [],
@@ -90844,7 +90844,7 @@
     "18087150359846192414": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы используете силу перемещения, получаете 30% скорости передвижения на 10 секунд (4 секунды перезарядки)"
+      "String": "При использовании Передвижения, получаете 30% скорости передвижения на 10 секунд (4 секунды перезарядки)"
     },
     "18087451106381137207": {
       "Variants": [],
@@ -93694,7 +93694,7 @@
     "18218711925496415551": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Бонусное здоровье:"
+      "String": "Бонусн Здоровья:"
     },
     "18218957859622880579": {
       "Variants": [],
@@ -96625,7 +96625,7 @@
     "18363984182054094139": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Боевые способности"
+      "String": "Битва"
     },
     "18364067212360090939": {
       "Variants": [
