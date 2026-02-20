@@ -1545,7 +1545,7 @@
     "13896435079938180405": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет заклинание #emphasis#руны Скота#/emphasis# к любой ячейке 2, 3 или 4 снаряжения эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания.\n\nУровень 50-60 этого заклинания дает:\n#emphasis#+200 ед. здоровья#/emphasis#\n\nУровень 35-49 этого заклинания дает:\n#emphasis#+150 ед. здоровья#/emphasis#\n\nУровень 20-34 этого заклинания дает:\n#emphasis#+100 ед. здоровья#/emphasis#\n\nУровень 1-19 этого заклинания дает:\n#emphasis#+50 ед. здоровья#/emphasis#\n"
+      "String": "Добавляет заклинание #emphasis#руны Скота#/emphasis# к любой ячейке 2, 3 или 4 снаряжения эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания.\n\nУровень 50-60 этого заклинания дает:\n#emphasis#+200 Здоровья#/emphasis#\n\nУровень 35-49 этого заклинания дает:\n#emphasis#+150 Здоровья#/emphasis#\n\nУровень 20-34 этого заклинания дает:\n#emphasis#+100 Здоровья#/emphasis#\n\nУровень 1-19 этого заклинания дает:\n#emphasis#+50 Здоровья#/emphasis#\n"
     },
     "13896792477117121901": {
       "Variants": [],
@@ -2295,7 +2295,7 @@
     "13927170999721264388": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.pct.noFraction$% от базового урона против роботов"
+      "String": "$propertyValueSign$$propertyValue.pct.noFraction$% Базового урона против роботов"
     },
     "13927463512897947001": {
       "Variants": [],
@@ -2705,7 +2705,7 @@
     "13946803011768222988": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Исцеляющий фактор\n#power#+ к восстановлению здоровья#/power#"
+      "String": "Исцеляющий фактор\n#power#+ Восстановление Здоровья#/power#"
     },
     "13946925572966581529": {
       "Variants": [],
@@ -6110,7 +6110,7 @@
     "14104780120956470595": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет заклинание #emphasis#Улучшение поиска предметов АРМОР#/emphasis# к любой ячейке снаряжения (2, 3 или 4) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n#emphasis#+10% к шансу найти редкий предмет#/emphasis#"
+      "String": "Добавляет заклинание #emphasis#Улучшение поиска предметов АРМОР#/emphasis# к любой ячейке снаряжения (2, 3 или 4) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n#emphasis#+10% Поиска Редкого Предмета#/emphasis#"
     },
     "14104800689559569737": {
       "Variants": [],
@@ -7021,7 +7021,7 @@
         }
       ],
       "FlagsProduced": 65535,
-      "String": "Пугающие"
+      "String": "Грозный"
     },
     "14145327979476288825": {
       "Variants": [],
@@ -7681,7 +7681,7 @@
     "14175057661559113068": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Щелкните ПКМ для доступа к предметам для тестового рейда!\nДоступны для Карателя.\nТолько для тестирования.\nПерезарядка 10 с."
+      "String": "Щелкните ПКМ для доступа к предметам для тестового рейда!\nДоступны для Карателя.\nТолько для тестирования.\nПерезарядка 10 сек"
     },
     "14175082709749466428": {
       "Variants": [],
@@ -7811,7 +7811,7 @@
     "14180679116618401130": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановление $param1.power.healing$ ед. здоровья при попадании"
+      "String": "Восстановление $param1.power.healing$ Здоровья при попадании"
     },
     "14181219874420753729": {
       "Variants": [],
@@ -9999,7 +9999,7 @@
     "14295720893628220743": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+50% к шансу найти особый предмет\n\nКаждое дополнительно принятое зелье с этим эффектом увеличит его длительность."
+      "String": "+50% Поиска Особого Предмета\n\nКаждое дополнительно принятое зелье с этим эффектом увеличит его длительность."
     },
     "14296215733976958263": {
       "Variants": [],
@@ -10189,7 +10189,7 @@
     "14305175478207382899": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#power#Нанеся противнику удар, восстановите 77 ед. здоровья#/power#"
+      "String": "#power#Нанеся противнику удар, восстановите 77 Здоровья#/power#"
     },
     "14305420982835152243": {
       "Variants": [],
@@ -10390,7 +10390,7 @@
         }
       ],
       "FlagsProduced": 65535,
-      "String": "Телохранитель"
+      "String": "Охранный"
     },
     "14316525350131008831": {
       "Variants": [],
@@ -10455,7 +10455,7 @@
     "14320166069295973648": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Комбинезон Фонда будущего"
+      "String": "Комбинезон Фонда Будущего"
     },
     "14320383682525463923": {
       "Variants": [],
@@ -12578,7 +12578,7 @@
     "14418890247807305068": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстанавливает $param1.power.healing$ ед. здоровья, когда вы побеждаете врага"
+      "String": "Восстанавливает $param1.power.healing$ Здоровья, когда вы побеждаете врага"
     },
     "14419123082226763077": {
       "Variants": [],
@@ -14128,7 +14128,7 @@
     "14503981877883045227": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Эмблема Фонда будущего"
+      "String": "Эмблема Фонда Будущего"
     },
     "14504389594840106356": {
       "Variants": [],
@@ -14439,7 +14439,7 @@
     "14515564266388849923": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "усилитель биометрических показателей"
+      "String": "Усилитель биометрии"
     },
     "14515774655357781246": {
       "Variants": [],
@@ -16777,7 +16777,7 @@
     "14616797044992115978": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании технических способностей увеличивает рейтинг физического и энергетичского урона на +$param1.power.condition0.damageratingbonusbytype.nofraction$ на $param1.power.condition0.duration$. Эффект накапливается до 3 раз.\nПосле 3 суммирований эффекта с магическими или техническими дополнительными способностями ваши критические удары в течение $param1.power.condition0.onstackcountpower.condition0.duration$ будут восстанавливать +$param1.power.condition0.onstackcountpower.condition0.proceffect0.healing$ ед. здоровья."
+      "String": "При использовании технических способностей увеличивает рейтинг физического и энергетичского урона на +$param1.power.condition0.damageratingbonusbytype.nofraction$ на $param1.power.condition0.duration$. Эффект накапливается до 3 раз.\nПосле 3 суммирований эффекта с магическими или техническими дополнительными способностями ваши критические удары в течение $param1.power.condition0.onstackcountpower.condition0.duration$ будут восстанавливать +$param1.power.condition0.onstackcountpower.condition0.proceffect0.healing$ Здоровья."
     },
     "14617648320515671404": {
       "Variants": [],
@@ -17188,7 +17188,7 @@
     "14637505217047364975": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс во время боя приготовить порцию оладушек (любимое лакомство Питера), которые восстанавливают у всех союзников поблизости $param1.power.healing$ ед. здоровья. (Перезарядка 20 с)."
+      "String": "$procchancestring$ шанс во время боя приготовить порцию оладушек (любимое лакомство Питера), которые восстанавливают у всех союзников поблизости $param1.power.healing$ Здоровья. (Перезарядка 20 с)."
     },
     "14637702355923240199": {
       "Variants": [],
@@ -17329,7 +17329,7 @@
     "14641960085911962937": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы и ваши союзники получаете +$param1.power.evalRegisterFloat0.pct$% базового урона для энергетических атак на $param1.power.condition0.duration$ при физическом ударе (перезарядка $param1.power.cooldown$)"
+      "String": "Вы и ваши союзники получаете +$param1.power.evalRegisterFloat0.pct$% Базового Энергетического урона на $param1.power.condition0.duration$ при физическом ударе (перезарядка $param1.power.cooldown$)"
     },
     "14642247737177015710": {
       "Variants": [],
@@ -17639,7 +17639,7 @@
     "14656858532955686253": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Гаджет Фонда будущего"
+      "String": "Гаджет Фонда Будущего"
     },
     "14657180779999659330": {
       "Variants": [],
@@ -18595,7 +18595,7 @@
     "14702939709465363781": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ужасающий"
+      "String": "Грозный"
     },
     "14703176821717665082": {
       "Variants": [],
@@ -21461,7 +21461,7 @@
     "14841277625291900165": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы получаете удар от Физической Силы, #red#Сыворотка Голиафа#/red# активируется, позволяя вам получить +$param1.power.condition0.defense$ Рейтинг Защиты, +$param1.power.condition0.ccresistscoreall.nofraction$ Устойчивость и $param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше урона от Враждебных Областных Сил на протяжении $param1.power.condition0.duration$."
+      "String": "Когда вы получаете удар от Физической способности, #red#Сыворотка Голиафа#/red# активируется, позволяя вам получить +$param1.power.condition0.defense$ Рейтинг Защиты, +$param1.power.condition0.ccresistscoreall.nofraction$ Устойчивость и $param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше урона от Враждебных Областных Сил на протяжении $param1.power.condition0.duration$."
     },
     "14841550944242632036": {
       "Variants": [],
@@ -22237,7 +22237,7 @@
     "14883464108330190079": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#При попадании вы спонтанно создаете новые личности. Активным может быть любое количество; длительность - одна минута.#/emphasis#\nКонец игры: +$param1.power.onContactTimepower0.evalRegisterFloat0.pct$% к шансу блокировки\nСинди Холлер: +$param1.power.onContactTimepower1.evalRegisterFloat0.pct$% к базовому энергетическоому урону \nДжек Уэйн: +$param1.power.onContactTimepower2.evalRegisterFloat0.pct$% к базовому физическому и ментальному урону\nЛегион: +$param1.power.onContactTimepower3.evalRegisterFloat0$ ко всем параметрам\nСалли: +$param1.power.onContactTimepower4.evalRegisterFloat0$ Силы и Выносливости\nМойра: +$param1.power.onContactTimepower5.evalRegisterFloat0$ Интеллекта\nСкинсмит: +$param1.power.onContactTimepower6.evalRegisterFloat0.pct$% Рейтинг защиты\nКирксбакс Краклар: +$param1.power.onContactTimepower7.evalRegisterFloat0.pct$% Скорости движения\nКсения Надежда Панова: +$param1.power.onContactTimepower8.evalRegisterFloat0.pct$% Рейтинг сокрушительного удара\nНе-ньютоновская Энни: +$param1.power.onContactTimepower9.evalRegisterFloat0.pct$% к отклонению снаряда\nКлоун: +$param1.power.onContactTimepower10.evalRegisterFloat0.pct$% Рейтинг критического удара\nФиндль Искатель: +$param1.power.onContactTimepower11.evalRegisterFloat0.pct$% к шансу найти особый предмет\nПожиратель времени: +$param1.power.onContactTimepower12.evalRegisterFloat0.pct$% бонуса к опыту\nДрексл: +$param1.power.onContactTimepower13.evalRegisterFloat0.pct$% к базовому урону в ближнем бою"
+      "String": "#emphasis#При попадании вы спонтанно создаете новые личности. Активным может быть любое количество; длительность - одна минута.#/emphasis#\nКонец игры: +$param1.power.onContactTimepower0.evalRegisterFloat0.pct$% к шансу блокировки\nСинди Холлер: +$param1.power.onContactTimepower1.evalRegisterFloat0.pct$% к базовому энергетическоому урону \nДжек Уэйн: +$param1.power.onContactTimepower2.evalRegisterFloat0.pct$% к базовому физическому и ментальному урону\nЛегион: +$param1.power.onContactTimepower3.evalRegisterFloat0$ ко всем параметрам\nСалли: +$param1.power.onContactTimepower4.evalRegisterFloat0$ Силы и Выносливости\nМойра: +$param1.power.onContactTimepower5.evalRegisterFloat0$ Интеллекта\nСкинсмит: +$param1.power.onContactTimepower6.evalRegisterFloat0.pct$% Рейтинг защиты\nКирксбакс Краклар: +$param1.power.onContactTimepower7.evalRegisterFloat0.pct$% Скорости движения\nКсения Надежда Панова: +$param1.power.onContactTimepower8.evalRegisterFloat0.pct$% Рейтинг сокрушительного удара\nНе-ньютоновская Энни: +$param1.power.onContactTimepower9.evalRegisterFloat0.pct$% к отклонению снаряда\nКлоун: +$param1.power.onContactTimepower10.evalRegisterFloat0.pct$% Рейтинг критического удара\nФиндль Искатель: +$param1.power.onContactTimepower11.evalRegisterFloat0.pct$% Поиска Особого Предмета\nПожиратель времени: +$param1.power.onContactTimepower12.evalRegisterFloat0.pct$% бонуса к опыту\nДрексл: +$param1.power.onContactTimepower13.evalRegisterFloat0.pct$% Базового урона в ближнем бою"
     },
     "14883474639666611528": {
       "Variants": [],
@@ -22964,7 +22964,7 @@
     "14920092379777860933": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Энергизирующий"
+      "String": "Энергичный"
     },
     "14921074754689303808": {
       "Variants": [],
@@ -24295,7 +24295,7 @@
         }
       ],
       "FlagsProduced": 65535,
-      "String": "Дающие энергию"
+      "String": "Энергичный"
     },
     "14984039001088525633": {
       "Variants": [],
@@ -24816,7 +24816,7 @@
     "15009318946607072529": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстанавливает $healing$ ед. здоровья при попадании во врагов, находящихся под действием #emphasis#$powerreference0.powername.locflagG$#/emphasis#"
+      "String": "Восстанавливает $healing$ Здоровья при попадании во врагов, находящихся под действием #emphasis#$powerreference0.powername.locflagG$#/emphasis#"
     },
     "15009387996796224786": {
       "Variants": [],
@@ -25208,7 +25208,7 @@
     "15025035992867603713": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Свин-Паук Фонда будущего"
+      "String": "Свин-Паук \"Фонд Будущего\""
     },
     "15025132750084965792": {
       "Variants": [],
@@ -25723,7 +25723,7 @@
     "15049697012252214594": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ваша способность получает +$condition0.superCritChancePctAdd.pct$% шанс нанести сокрушительный удар без расхода $primaryManaBehaviorName.locflagG$ (такой эффект дает #cyan#$powerreference0.powername$#/cyan#)\nВосстанавливает $condition0.proceffect.onContactTimePower.Healing.nofraction$ ед. здоровья при нападении на истекающих кровью врагов (такой эффект дает #cyan#$powerreference0.powername$#/cyan#)"
+      "String": "Ваша способность получает +$condition0.superCritChancePctAdd.pct$% шанс нанести сокрушительный удар без расхода $primaryManaBehaviorName.locflagG$ (такой эффект дает #cyan#$powerreference0.powername$#/cyan#)\nВосстанавливает $condition0.proceffect.onContactTimePower.Healing.nofraction$ Здоровья при нападении на истекающих кровью врагов (такой эффект дает #cyan#$powerreference0.powername$#/cyan#)"
     },
     "15049715708248589637": {
       "Variants": [],
@@ -29671,7 +29671,7 @@
     "15229200652072846644": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получите 4% Брутального урона + 4% Скорости атаки при попадании на 12 секунд (15 секунд перезарядка)"
+      "String": "Получите 4% Сокрушительного урона + 4% Скорости атаки при попадании на 12 секунд (15 секунд перезарядка)"
     },
     "15229253385689761087": {
       "Variants": [],
@@ -30651,7 +30651,7 @@
     "15277918818309965121": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.abs.noFraction$ ед. здоровья ($propertyValue.divByLevel.precision1$ ед. за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.abs.noFraction$ Здоровья ($propertyValue.divByLevel.precision1$ ед. за каждый уровень)"
     },
     "15277955557529290107": {
       "Variants": [],
@@ -30922,7 +30922,7 @@
     "15289320028038038848": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#$powerReference1.powername$#/emphasis# наносит основной цели еще один удар (эффект дает #cyan#$powerReference0.powername$#/cyan#)\n #emphasis#$powerReference2.powername$#/emphasis# выпускает еще один нож (такой эффект дает #cyan#$powerReference0.powername$#/cyan#)\nВосстанавливает $healing.nofraction$ ед. здоровья (эффект дает #cyan#$powerReference0.powername$#/cyan#)"
+      "String": "#emphasis#$powerReference1.powername$#/emphasis# наносит основной цели еще один удар (эффект дает #cyan#$powerReference0.powername$#/cyan#)\n #emphasis#$powerReference2.powername$#/emphasis# выпускает еще один нож (такой эффект дает #cyan#$powerReference0.powername$#/cyan#)\nВосстанавливает $healing.nofraction$ Здоровья (эффект дает #cyan#$powerReference0.powername$#/cyan#)"
     },
     "15289371928431297867": {
       "Variants": [],
@@ -32214,7 +32214,7 @@
     "15342941182887658802": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При ударе способностью восстанавливается 84 ед. здоровья.\n\n#red#Действует до конца PvP-матча и продолжается после поражения#/red#"
+      "String": "При ударе способностью восстанавливается 84 Здоровья.\n\n#red#Действует до конца PvP-матча и продолжается после поражения#/red#"
     },
     "15343073639686997305": {
       "Variants": [],
@@ -32514,7 +32514,7 @@
     "15355111861788542268": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Вдохновение Дупа#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+20-30% Урон Призывных#/emphasis#\n#emphasis#+20-30 ед. духа#/emphasis#\n#emphasis#+200-300 Рейтинг критического удара#/emphasis#\n#emphasis#+200-300 Рейтинг сокрушительного удара#/emphasis#\n#emphasis#+200-300 ед. здоровья#/emphasis#\n#emphasis#+200-300 Рейтинг защиты#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы к здоровью, урона призванных союзников, рейтингам сокрушительного и критического ударов и защиты."
+      "String": "Добавляет рунное слово #emphasis#Вдохновение Дупа#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+20-30% Урон Призывных#/emphasis#\n#emphasis#+20-30 ед. духа#/emphasis#\n#emphasis#+200-300 Рейтинг критического удара#/emphasis#\n#emphasis#+200-300 Рейтинг сокрушительного удара#/emphasis#\n#emphasis#+200-300 Здоровья#/emphasis#\n#emphasis#+200-300 Рейтинг защиты#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы к здоровью, урона призванных союзников, рейтингам сокрушительного и критического ударов и защиты."
     },
     "15355431055283783058": {
       "Variants": [],
@@ -34467,7 +34467,7 @@
     "15443142993244063028": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#darkphoenix#Бонус Темного Феникса#/darkphoenix#: восстанавливает $healing.nofraction$ ед. здоровья, пока активны способности #darkphoenix#Темного Феникса#/darkphoenix#"
+      "String": "#darkphoenix#Бонус Темного Феникса#/darkphoenix#: восстанавливает $healing.nofraction$ Здоровья, пока активны способности #darkphoenix#Темного Феникса#/darkphoenix#"
     },
     "15443155251157468536": {
       "Variants": [],
@@ -36925,7 +36925,7 @@
     "15560542913459324173": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Сразив противника, восстановите $param1.power.healingBaseCurve.noFraction$ ед. здоровья"
+      "String": "Сразив противника, восстановите $param1.power.healingBaseCurve.noFraction$ Здоровья"
     },
     "15560692159331173687": {
       "Variants": [],
@@ -36965,7 +36965,7 @@
     "15562235328254051686": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Костюм Фонда будущего для Существа"
+      "String": "Костюм Существа \"Фонд Будущего\""
     },
     "15562504489501132088": {
       "Variants": [],
@@ -37931,7 +37931,7 @@
     "15599671620298081542": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы получаете на 3% меньше урона от дистанционных вражеских способностей"
+      "String": "Вы получаете на 3% меньше урона от Дальних способностей врага"
     },
     "15599865022744823108": {
       "Variants": [],
@@ -38402,7 +38402,7 @@
     "15620575625564849420": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы восстанавливаете $param1.power.healing$ ед. здоровья и $param1.power.endurancechangebase$ ед. $primarymanabehaviorname.locflagG$, используя Лазерное бурение (перезарядка - 2 секунды)"
+      "String": "Вы восстанавливаете $param1.power.healing$ Здоровья и $param1.power.endurancechangebase$ ед. $primarymanabehaviorname.locflagG$, используя Лазерное бурение (перезарядка - 2 секунды)"
     },
     "15621123044984096073": {
       "Variants": [],
@@ -38727,7 +38727,7 @@
     "15636975421302047999": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При ударе способностью восстанавливается 39 ед. здоровья.\n\n#red#Действует до конца PvP-матча и продолжается после поражения#/red#"
+      "String": "При ударе способностью восстанавливается 39 Здоровья.\n\n#red#Действует до конца PvP-матча и продолжается после поражения#/red#"
     },
     "15637266800617391482": {
       "Variants": [],
@@ -38842,7 +38842,7 @@
     "15643361603954607427": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы восстанавливаете $param1.power.evalRegisterFloat0$ ед. здоровья после удачного применения $param2.keyword.locflagP2G$"
+      "String": "Вы восстанавливаете $param1.power.evalRegisterFloat0$ Здоровья после удачного применения $param2.keyword.locflagP2G$"
     },
     "15643546858773153085": {
       "Variants": [],
@@ -42364,7 +42364,7 @@
     "15823407981626000711": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановление $healing.nofraction$ ед. здоровья при ударе способностью"
+      "String": "Восстановление $healing.nofraction$ Здоровья при ударе способностью"
     },
     "15823581644450039201": {
       "Variants": [],
@@ -42464,7 +42464,7 @@
     "15827987297217414455": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+$BoostOrbAggroRangeBonusPct$% Бонус Радиуса Притяжения Сфер.\n($StackCount$ эффектов)\nПовышает Радиус Притяжения Сфер.\n\nНесколько усилений еще больше повышают Радиус Притяжения Сфер:\n1 Бафф: +50%\n2 Баффа: +75%\n3 Баффа: +90%\n4 Баффа: +95%\n5 Баффов: +100%"
+      "String": "+$BoostOrbAggroRangeBonusPct$% Бонус Радиуса Притяжения Сфер.\n($StackCount$ стеков)\nПовышает Радиус Притяжения Сфер.\n\nНесколько усилений еще больше повышают Радиус Притяжения Сфер:\n1 Бафф: +50%\n2 Баффа: +75%\n3 Баффа: +90%\n4 Баффа: +95%\n5 Баффов: +100%"
     },
     "15828145918962369863": {
       "Variants": [],
@@ -43875,7 +43875,7 @@
     "15890394301618062665": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Наследие Валькирии#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+200 Рейтинг урона в дальнем бою#/emphasis#\n#emphasis#+200 Рейтинг урона в ближнем бою#/emphasis#\n#emphasis#+20 опыта за каждого убитого врага#/emphasis#\n#emphasis#Восстановление 2 ед. здоровья и 2 ед. духа при попадании#/emphasis#\n\nПредметы 25 уровня получают половину бонуса к рейтингам урона в ближнем и дальнем бою."
+      "String": "Добавляет рунное слово #emphasis#Наследие Валькирии#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+200 Рейтинг урона в дальнем бою#/emphasis#\n#emphasis#+200 Рейтинг урона в ближнем бою#/emphasis#\n#emphasis#+20 опыта за каждого убитого врага#/emphasis#\n#emphasis#Восстановление 2 Здоровья и 2 ед. духа при попадании#/emphasis#\n\nПредметы 25 уровня получают половину бонуса к рейтингам урона в ближнем и дальнем бою."
     },
     "15890399030429549935": {
       "Variants": [],
@@ -44744,7 +44744,7 @@
     "15925418514374133061": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Благословение Локи #red#(Офенсивное благословение)#/red#"
+      "String": "Благословение Локи #red#(Атакующее благословение)#/red#"
     },
     "15925893464737842493": {
       "Variants": [
@@ -44860,7 +44860,7 @@
     "15930592047238087956": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "У вас может быть до 2 дополнительных способностей #emphasis#$PowerReference0.PowerName$ с#/emphasis#, а их время действия увеличивается до 10 мин."
+      "String": "У вас может быть до 2 дополнительных способностей #emphasis#$PowerReference0.PowerName$ с#/emphasis#, а их время действия увеличивается до 10 мин"
     },
     "15930643788767692101": {
       "Variants": [],
@@ -45217,7 +45217,7 @@
     "15946975590881035579": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Перчатки Фонда будущего"
+      "String": "Перчатки Фонда Будущего"
     },
     "15948062784544179517": {
       "Variants": [],
@@ -48200,7 +48200,7 @@
     "16076079765130118424": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "к рейтингу энергетической защиты"
+      "String": "Рейтинг Энергетической защиты"
     },
     "16076650076837447078": {
       "Variants": [],
@@ -48976,7 +48976,7 @@
     "16113588466202510663": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyvaluesign$$propertyvalue.pct$% к шансу найти редкий предмет"
+      "String": "$propertyvaluesign$$propertyvalue.pct$% Поиска Редкого Предмета"
     },
     "16113614089960031538": {
       "Variants": [],
@@ -49587,7 +49587,7 @@
     "16142637997204899149": {
       "Variants": [],
       "FlagsProduced": 62706,
-      "String": "Костюм Фонда будущего для Доктора Дума"
+      "String": "Костюм Доктора Дума \"Фонд Будущего\""
     },
     "16142799840206390633": {
       "Variants": [],
@@ -50999,7 +50999,7 @@
     "16215220638036657416": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.abs.pct.precision1$% к длительности способности"
+      "String": "$propertyValueSign$$propertyValue.abs.pct.precision1$% Длительности способности"
     },
     "16215278972402337133": {
       "Variants": [],
@@ -51174,7 +51174,7 @@
     "16222288883017516399": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Сразив противника, получите $param1.power.enduranceChangeBase.precision0$ ед. $primaryManaBehaviorName.locflagG$ и $param1.power.healing.precision0$ ед. здоровья."
+      "String": "Сразив противника, получите $param1.power.enduranceChangeBase.precision0$ ед. $primaryManaBehaviorName.locflagG$ и $param1.power.healing.precision0$ Здоровья."
     },
     "16222300097175422317": {
       "Variants": [],
@@ -51759,7 +51759,7 @@
     "16250819113817343348": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#power#Нанеся противнику удар, восстановите 39 ед. здоровья#/power#"
+      "String": "#power#Нанеся противнику удар, восстановите 39 Здоровья#/power#"
     },
     "16250867556758717814": {
       "Variants": [],
@@ -53755,7 +53755,7 @@
     "16346416440067163520": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Сапоги Фонда будущего"
+      "String": "Сапоги Фонда Будущего"
     },
     "16347042195190252807": {
       "Variants": [],
@@ -54020,7 +54020,7 @@
     "16362739115256907029": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Если ваш уровень здоровья падает ниже 50%, вы восстанавливаете $param1.power.evalRegisterFloat0$ ед. здоровья в секунду в течение $param1.power.condition0.duration$ (перезарядка - $param1.power.cooldown$)"
+      "String": "Если ваш уровень здоровья падает ниже 50%, вы восстанавливаете $param1.power.evalRegisterFloat0$ Здоровья в секунду в течение $param1.power.condition0.duration$ (перезарядка - $param1.power.cooldown$)"
     },
     "16362914229710685498": {
       "Variants": [],
@@ -54155,7 +54155,7 @@
     "16368516576408175885": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Увеличивает шанс найти Редкое снаряжение Напарника\n100% к шансу найти редкий предмет\n\nКаждое дополнительно принятое зелье с этим эффектом увеличит его длительность."
+      "String": "Увеличивает шанс найти Редкое снаряжение Напарника\n100% Поиска Редкого Предмета\n\nКаждое дополнительно принятое зелье с этим эффектом увеличит его длительность."
     },
     "16368879393827063099": {
       "Variants": [],
@@ -54301,7 +54301,7 @@
     "16374646972205892875": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Требуется: (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 Кредитов, чтобы создать предмет. \n\nСоздать шкуру Лорда Серы - уникальный предмет 60 уровня в ячейке 2, может использовать любой герой\n\n#emphasis#Шкура Лорда Серы#/emphasis#\n#emphasis#+ Рейтинг защиты#/emphasis#\n#emphasis#+ к урону в ближнем бою#/emphasis#\n#emphasis#+ к здоровью#/emphasis#\n#emphasis#+ к воле#/emphasis#\n#emphasis#+ к восстановлению здоровья#/emphasis#\n#emphasis#Когда уровень здоровья падает ниже 30%, вы получите \"Выносливость\"#/emphasis#\n#emphasis#Когда вы получаете длительный урон, повышается рейтинг защиты и скорости движения#/emphasis#"
+      "String": "Требуется: (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 Кредитов, чтобы создать предмет. \n\nСоздать шкуру Лорда Серы - уникальный предмет 60 уровня в ячейке 2, может использовать любой герой\n\n#emphasis#Шкура Лорда Серы#/emphasis#\n#emphasis#+ Рейтинг защиты#/emphasis#\n#emphasis#+ к урону в ближнем бою#/emphasis#\n#emphasis#+ к здоровью#/emphasis#\n#emphasis#+ к воле#/emphasis#\n#emphasis#+ Восстановление Здоровья#/emphasis#\n#emphasis#Когда уровень здоровья падает ниже 30%, вы получите \"Выносливость\"#/emphasis#\n#emphasis#Когда вы получаете длительный урон, повышается рейтинг защиты и скорости движения#/emphasis#"
     },
     "16374717547114136849": {
       "Variants": [],
@@ -57314,7 +57314,7 @@
     "16523572283204306250": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Гений провидца#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+1000 ед. здоровья#/emphasis#\n#emphasis#+100 опыта за каждого убитого врага#/emphasis#\n#emphasis#+1 Интеллекта#/emphasis#\n#emphasis#Восстановление 10 ед. духа при подборе любой сферы#/emphasis#\n\nПредметы 25 уровня получают половину бонуса к здоровью."
+      "String": "Добавляет рунное слово #emphasis#Гений провидца#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+1000 Здоровья#/emphasis#\n#emphasis#+100 опыта за каждого убитого врага#/emphasis#\n#emphasis#+1 Интеллекта#/emphasis#\n#emphasis#Восстановление 10 ед. духа при подборе любой сферы#/emphasis#\n\nПредметы 25 уровня получают половину бонуса к здоровью."
     },
     "16523690313238840669": {
       "Variants": [],
@@ -57424,7 +57424,7 @@
     "16528074160474031361": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 50:\n+0,25% к восстановлению здоровья в секунду"
+      "String": "Уровень 50:\n+0,25% Восстановление Здоровья в секунду"
     },
     "16528204852104922434": {
       "Variants": [],
@@ -57509,7 +57509,7 @@
     "16532515165250782468": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.abs.noFraction$ ед. здоровья ($propertyValue.divByLevel.precision1$ ед. за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.abs.noFraction$ Здоровья ($propertyValue.divByLevel.precision1$ ед. за каждый уровень)"
     },
     "16532570746482591032": {
       "Variants": [],
@@ -58039,7 +58039,7 @@
     "16556527013205968187": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получите +$param1.power.evalRegisterFloat0.pct$% базового урона для ментальных атак на $param1.power.condition0.duration$ при ударе с применением физической способности"
+      "String": "Получите +$param1.power.evalRegisterFloat0.pct$% Базового Ментального урона на $param1.power.condition0.duration$ при ударе Физической способностью"
     },
     "16556529113508152687": {
       "Variants": [],
@@ -58089,7 +58089,7 @@
     "16559188376745280775": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "После удачной атаки вы и ваши союзники получаете +$param1.power.evalRegisterFloat0.pct$% к базовому урону энергетических атак на $param1.power.condition0.duration$"
+      "String": "После удачной атаки вы и ваши союзники получаете +$param1.power.evalRegisterFloat0.pct$% Базового урона энергетических атак на $param1.power.condition0.duration$"
     },
     "16559226760936424774": {
       "Variants": [],
@@ -59015,7 +59015,7 @@
     "16606856904508310797": {
       "Variants": [],
       "FlagsProduced": 61938,
-      "String": "Устройство для связи Фонда будущего"
+      "String": "Устройство для связи \"Фонд Будущего\""
     },
     "16607286676116079884": {
       "Variants": [],
@@ -59736,7 +59736,7 @@
     "16646394054210946366": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Этот рецепт требует (1) #emphasis#Асадский кованый слиток#/emphasis#, (1) #emphasis#Руна Суртура#/emphasis# и 100,000 Кредитов каждый раз, когда вы хотите создать этот предмет. \nСоздайте Фрагмент Сумерек, уникальный предмет 1-го слота 60-го уровня, доступный любому герою.\n\n#emphasis#Фрагмент Сумерек#/emphasis#\n#emphasis#+Рейтинг урона#/emphasis#\n#emphasis#+Рейтинг критического урона#/emphasis#\n#emphasis#+Рейтинг брутального урона#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#+Регена здоровья при ударах#/emphasis#\n#emphasis#Воскрешение при поражении#/emphasis#\n#emphasis#При ударах получаете Рейтинги уклонения и защиты (накапливается до 3 раз)#/emphasis#\n#emphasis#При критическом ударе получаете Рейтинг критического удара и Рейтинг брутального удара#/emphasis#\n#emphasis#При брутальном ударе поджигаете врагов#/emphasis#"
+      "String": "Этот рецепт требует (1) #emphasis#Асадский кованый слиток#/emphasis#, (1) #emphasis#Руна Суртура#/emphasis# и 100,000 Кредитов каждый раз, когда вы хотите создать этот предмет. \nСоздайте Фрагмент Сумерек, уникальный предмет 1-го слота 60-го уровня, доступный любому герою.\n\n#emphasis#Фрагмент Сумерек#/emphasis#\n#emphasis#+Рейтинг урона#/emphasis#\n#emphasis#+Рейтинг критического урона#/emphasis#\n#emphasis#+Рейтинг Сокрушительного урона#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#+Регена здоровья при ударах#/emphasis#\n#emphasis#Воскрешение при поражении#/emphasis#\n#emphasis#При ударах получаете Рейтинги уклонения и защиты (накапливается до 3 раз)#/emphasis#\n#emphasis#При критическом ударе получаете Рейтинг критического удара и Рейтинг брутального удара#/emphasis#\n#emphasis#При брутальном ударе поджигаете врагов#/emphasis#"
     },
     "16646563683943843134": {
       "Variants": [],
@@ -60102,7 +60102,7 @@
         }
       ],
       "FlagsProduced": 65535,
-      "String": "Телохранительные"
+      "String": "Охранный"
     },
     "16660522267457946880": {
       "Variants": [],
@@ -60709,7 +60709,7 @@
         }
       ],
       "FlagsProduced": 65535,
-      "String": "Точные"
+      "String": "Точный"
     },
     "16687124118257075609": {
       "Variants": [],
@@ -62001,7 +62001,7 @@
     "16748915361715062129": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#power#Нанеся противнику удар, восстановите X ед. здоровья#/power#"
+      "String": "#power#Нанеся противнику удар, восстановите X Здоровья#/power#"
     },
     "16749183638188852534": {
       "Variants": [],
@@ -62126,7 +62126,7 @@
     "16755434138459440444": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+$BoostLootSpecialBonusPct$% Бонус Поиска Особых Предметов.\n($StackCount$ эффектов)\nПовышает Шанс Поиска Особых Предметов.\n\nНесколько усилений еще больше повышают Шанс Поиска Особых Предметов:\n1 Бафф: +100%\n2 Баффа: +150%\n3 Баффа: +180%\n4 Баффа: +190%\n5 Баффов: +200%"
+      "String": "+$BoostLootSpecialBonusPct$% Бонус Поиска Особых Предметов.\n($StackCount$ стеков)\nПовышает Шанс Поиска Особых Предметов.\n\nНесколько усилений еще больше повышают Шанс Поиска Особых Предметов:\n1 Бафф: +100%\n2 Баффа: +150%\n3 Баффа: +180%\n4 Баффа: +190%\n5 Баффов: +200%"
     },
     "16755436139921278278": {
       "Variants": [],
@@ -62201,7 +62201,7 @@
     "16758653903649965381": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+50% к шансу найти особый предмет\n\nКаждое дополнительно принятое зелье с этим эффектом увеличит его длительность."
+      "String": "+50% Поиска Особого Предмета\n\nКаждое дополнительно принятое зелье с этим эффектом увеличит его длительность."
     },
     "16759226611712853271": {
       "Variants": [],
@@ -62772,7 +62772,7 @@
     "16788063275532223755": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вне боя вы находитесь в режиме маскировки, восстанавливая $healingovertimebase.nofraction$ ед. здоровья в секунду"
+      "String": "Вне боя вы находитесь в режиме маскировки, восстанавливая $healingovertimebase.nofraction$ Здоровья в секунду"
     },
     "16788117581222905203": {
       "Variants": [],
@@ -64826,7 +64826,7 @@
     "16879987631758968174": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Щелкните ПКМ для доступа к предметам для тестового рейда!\nДоступны для ХАЛКА.\nТолько для тестирования.\nПерезарядка 10 с."
+      "String": "Щелкните ПКМ для доступа к предметам для тестового рейда!\nДоступны для ХАЛКА.\nТолько для тестирования.\nПерезарядка 10 сек"
     },
     "16880226453301495059": {
       "Variants": [],
@@ -65583,7 +65583,7 @@
         }
       ],
       "FlagsProduced": 65535,
-      "String": "Дающие энергию"
+      "String": "Энергичный"
     },
     "16913378747563246907": {
       "Variants": [],
@@ -67124,7 +67124,7 @@
     "16988085597691053372": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы используете #blue#Силу Телепортации#/blue#, получаете +$param1.power.condition0.critdamagerating.nofraction$ Рейтинг критического урона и +$param1.power.condition0.supercritdamagerating.nofraction$ Рейтинг Брутального Урона. Этот эффект накапливается до 3 раз и длится $param1.power.condition0.duration$."
+      "String": "Когда вы используете #blue#Силу Телепортации#/blue#, получаете +$param1.power.condition0.critdamagerating.nofraction$ Рейтинг критического урона и +$param1.power.condition0.supercritdamagerating.nofraction$ Рейтинг Сокрушительного урона. Этот эффект накапливается до 3 раз и длится $param1.power.condition0.duration$."
     },
     "16988160798267344181": {
       "Variants": [],
@@ -67474,7 +67474,7 @@
     "17004787505794909549": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "ПКМ - съесть крендель.\nСъев, получаете #purplecard#+10 к урону и +100 ед. здоровья#/purplecard# на 1 час. Каждый новый съеденный крендель удлиняет срок действия."
+      "String": "ПКМ - съесть Крендель.\nСъев, получаете #purplecard#+10 Урона и +100 Здоровья#/purplecard# на 1 час. Каждый новый съеденный Крендель удлиняет срок действия."
     },
     "17004935948332107013": {
       "Variants": [],
@@ -67760,7 +67760,7 @@
     "17014758478474773827": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+100% базового урона для ментальных атак\n\nНовый дар заменит этот эффект"
+      "String": "+100% Базового урона для Ментальных атак\n\nНовый дар заменит этот эффект"
     },
     "17014974712959010162": {
       "Variants": [],
@@ -69373,7 +69373,7 @@
     "17093283313941153030": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Качества"
+      "String": "Черты"
     },
     "17093444757535786306": {
       "Variants": [],
@@ -69848,7 +69848,7 @@
     "17112938999850468622": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Если ваш уровень здоровья падает ниже $param2$%, вы получаете +$param1.power.condition0.defense.noFraction$ Рейтинг защиты на $param1.power.condition0.duration$. Пока действует этот эффект, каждая подобранная Сфера Обломков восстанавливает $param1.power.condition0.procEffect0.OnPowerStartPower.healing$ ед. здоровья, и вы получаете дополнительно +$param1.power.condition0.procEffect0.condition0.defense.noFraction$ Рейтинг защиты на $param1.power.condition0.procEffect0.condition0.duration$ (накапливается до $param1.power.condition0.procEffect0.condition0.maxNumStacks$ раз) (перезарядка - $param1.power.cooldown$)"
+      "String": "Если ваш уровень здоровья падает ниже $param2$%, вы получаете +$param1.power.condition0.defense.noFraction$ Рейтинг защиты на $param1.power.condition0.duration$. Пока действует этот эффект, каждая подобранная Сфера Обломков восстанавливает $param1.power.condition0.procEffect0.OnPowerStartPower.healing$ Здоровья, и вы получаете дополнительно +$param1.power.condition0.procEffect0.condition0.defense.noFraction$ Рейтинг защиты на $param1.power.condition0.procEffect0.condition0.duration$ (накапливается до $param1.power.condition0.procEffect0.condition0.maxNumStacks$ раз) (перезарядка - $param1.power.cooldown$)"
     },
     "17113346450577425735": {
       "Variants": [],
@@ -72677,7 +72677,7 @@
     "17245102681208653062": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Во время применения $param2.keyword.locflagP2G$ вы активируете ауру захватчика, которая придает вам и союзникам $param1.power.summonEntity.appliesPowers.condition0.defense.nofraction$ ед. защиты."
+      "String": "Во время применения $param2.keyword.locflagP2G$ вы активируете Ауру захватчика, которая придает вам и союзникам $param1.power.summonEntity.appliesPowers.condition0.defense.nofraction$ Защиты."
     },
     "17246060029544170862": {
       "Variants": [],
@@ -73207,7 +73207,7 @@
     "17271701194629448966": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Использовав вручную свою киберпылесос, вы получаете +$param1.power.evalRegisterFloat0.pct$% к базовому урону на $param1.power.condition0.duration$ (перезарядка - $param1.power.cooldown$)"
+      "String": "Использовав вручную свою киберпылесос, вы получаете +$param1.power.evalRegisterFloat0.pct$% Базового урона на $param1.power.condition0.duration$ (перезарядка - $param1.power.cooldown$)"
     },
     "17271717236523140516": {
       "Variants": [],
@@ -73337,7 +73337,7 @@
     "17277025751619798394": {
       "Variants": [],
       "FlagsProduced": 62706,
-      "String": "Плащ Фонда будущего"
+      "String": "Плащ Фонда Будущего"
     },
     "17277167515596817776": {
       "Variants": [],
@@ -74262,7 +74262,7 @@
     "17322228409725945139": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при попадании способностью ближнего боя получить $param1.power.condition0.defense.nofraction$ ед. защиты на $param1.power.condition0.duration$"
+      "String": "$procchancestring$ шанс при попадании способностью ближнего боя получить $param1.power.condition0.defense.nofraction$ Защиты на $param1.power.condition0.duration$"
     },
     "17322281108978468152": {
       "Variants": [],
@@ -74988,7 +74988,7 @@
     "17356159123897582980": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Костюм Фонда будущего для Мистера Фантастика"
+      "String": "Костюм Мистера Фантастика \"Фонд Будущего\""
     },
     "17356686992482174273": {
       "Variants": [],
@@ -75623,7 +75623,7 @@
     "17384200784843900167": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyvaluesign$$propertyvalue$% к восстановлению здоровья в секунду"
+      "String": "$propertyvaluesign$$propertyvalue$% Восстановление Здоровья в секунду"
     },
     "17384668176064709889": {
       "Variants": [],
@@ -75829,7 +75829,7 @@
     "17392014421282653456": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании способностью ближнего боя вы и ваши союзники получаете +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг урона в дальнем бою (перезарядка - $param1.power.cooldown$). Если активны обе способности, при нанесении критических ударов вы восстанавливаете +$param1.power.onpowerstartpower.onstackcountpower.condition0.proceffect0.healingbasecurve.nofraction$ ед. здоровья."
+      "String": "При попадании способностью ближнего боя вы и ваши союзники получаете +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг урона в дальнем бою (перезарядка - $param1.power.cooldown$). Если активны обе способности, при нанесении критических ударов вы восстанавливаете +$param1.power.onpowerstartpower.onstackcountpower.condition0.proceffect0.healingbasecurve.nofraction$ Здоровья."
     },
     "17392021619694699827": {
       "Variants": [],
@@ -76685,7 +76685,7 @@
     "17433326238534665494": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "к рейтингу защиты"
+      "String": "Рейтинг Защиты"
     },
     "17433674444467799357": {
       "Variants": [],
@@ -77461,7 +77461,7 @@
     "17469221702640272701": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$Seconds:0$ с."
+      "String": "$Seconds:0$ сек"
     },
     "17469328591482062131": {
       "Variants": [],
@@ -78417,7 +78417,7 @@
     "17511567614798398719": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Штаны Фонда будущего"
+      "String": "Штаны Фонда Будущего"
     },
     "17512191205457265976": {
       "Variants": [],
@@ -82202,7 +82202,7 @@
     "17685109341884515657": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановление $evalregisterfloat1.nofraction$ ед. здоровья при попадании любой способностью"
+      "String": "Восстановление $evalregisterfloat1.nofraction$ Здоровья при попадании любой способностью"
     },
     "17685450353680516404": {
       "Variants": [],
@@ -82232,7 +82232,7 @@
     "17686579878665061783": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Комбинезон Фонда будущего"
+      "String": "Комбинезон Фонда Будущего"
     },
     "17686681909916206498": {
       "Variants": [],
@@ -84575,7 +84575,7 @@
     "17793713521241490694": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Датчик отслеживания враждебных отрядов"
+      "String": "Сканер врагов"
     },
     "17794051917599147414": {
       "Variants": [],
@@ -85141,7 +85141,7 @@
     "17823845203732530544": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы получаете на $DamagePctResistVsPowerKeyword.pct$% меньше урона от $DamagePctResistVsPowerKeyword.param0.powerkeyword.locflagP2G$ врага"
+      "String": "Вы получаете на $DamagePctResistVsPowerKeyword.pct$% меньше урона от атак врага типа $DamagePctResistVsPowerKeyword.param0.powerkeyword$"
     },
     "17824272381121594690": {
       "Variants": [],
@@ -85286,7 +85286,7 @@
     "17831992833932068146": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет заклинание #emphasis#руны Дара#/emphasis# к любой ячейке 2, 3 или 4 снаряжения эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания.\n\nУровень 1-60 этого заклинания дает:\n#emphasis#+5% к шансу найти особый предмет#/emphasis#\n"
+      "String": "Добавляет заклинание #emphasis#руны Дара#/emphasis# к любой ячейке 2, 3 или 4 снаряжения эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания.\n\nУровень 1-60 этого заклинания дает:\n#emphasis#+5% Поиска Особого Предмета#/emphasis#\n"
     },
     "17832045713570727219": {
       "Variants": [],
@@ -85621,7 +85621,7 @@
     "17848362749538075909": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValue.pct$% базового урона обычным врагам"
+      "String": "$propertyValue.pct$% Базового урона Обычным врагам"
     },
     "17848433861372478777": {
       "Variants": [],
@@ -86274,7 +86274,7 @@
         }
       ],
       "FlagsProduced": 65535,
-      "String": "Телохранитель"
+      "String": "Охранный"
     },
     "17875742865532257652": {
       "Variants": [],
@@ -88178,7 +88178,7 @@
     "17967896250641351940": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyvaluesign$$propertyvalue.nofraction$ к сумме кредитов в каждой добыче"
+      "String": "$propertyvaluesign$$propertyvalue.nofraction$ Кредитов за добычу"
     },
     "17967908955217593659": {
       "Variants": [],
@@ -88694,7 +88694,7 @@
     "17990797733647353196": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Эмблема Фонда будущего"
+      "String": "Эмблема Фонда Будущего"
     },
     "17990818611426624833": {
       "Variants": [],
@@ -91005,7 +91005,7 @@
         }
       ],
       "FlagsProduced": 65535,
-      "String": "Телохранительные"
+      "String": "Охранный"
     },
     "18093075946007299488": {
       "Variants": [],
@@ -91310,7 +91310,7 @@
     "18107775024770778424": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 25:\n+2% к шансу уклониться от снарядов"
+      "String": "Уровень 25:\n+2% Множитель рейтинга отражения"
     },
     "18107915517394879760": {
       "Variants": [],
@@ -91500,7 +91500,7 @@
     "18119195265571947893": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Храбрость Асгарда#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+1000 Рейтинг защиты#/emphasis#\n#emphasis#+1000 ед. здоровья#/emphasis#\n#emphasis#+100 Рейтинг критического удара#/emphasis#\n#emphasis#+100 Рейтинг сокрушительного удара#/emphasis#\n#emphasis#Штраф 10% к урону от атак по площади #/emphasis#\n\nПредметы 25 уровня получают половинные бонусы к рейтингам здоровья, защиты, сокрушительного и критического ударов."
+      "String": "Добавляет рунное слово #emphasis#Храбрость Асгарда#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+1000 Рейтинг защиты#/emphasis#\n#emphasis#+1000 Здоровья#/emphasis#\n#emphasis#+100 Рейтинг критического удара#/emphasis#\n#emphasis#+100 Рейтинг сокрушительного удара#/emphasis#\n#emphasis#Штраф 10% к урону от атак по площади #/emphasis#\n\nПредметы 25 уровня получают половинные бонусы к рейтингам здоровья, защиты, сокрушительного и критического ударов."
     },
     "18119235779936978245": {
       "Variants": [],
@@ -91947,7 +91947,7 @@
         }
       ],
       "FlagsProduced": 65535,
-      "String": "Свирепые"
+      "String": "Сокрушительный"
     },
     "18141739471602779512": {
       "Variants": [],
@@ -93804,7 +93804,7 @@
     "18223606895496660342": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Такой упор на сплочении команды! Хочешь быть Человеком Икс? Участником Фонда будущего? Мстителем? Лично я хочу, чтобы меня оставили в покое. —Икс-23"
+      "String": "Такой упор на сплочении команды! Хочешь быть Человеком Икс? Участником Фонда Будущего? Мстителем? Лично я хочу, чтобы меня оставили в покое. —Икс-23"
     },
     "18223671195323401482": {
       "Variants": [],
@@ -94029,7 +94029,7 @@
     "18237298954755310860": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Создает шкуру Лорда Серы - уникальный предмет 60 уровня в ячейке 2, может использовать любой герой\n\n#emphasis#Шкура Лорда Серы#/emphasis#\n#emphasis#+ Рейтинг защиты#/emphasis#\n#emphasis#+ к урону в ближнем бою#/emphasis#\n#emphasis#+ к здоровью#/emphasis#\n#emphasis#+ к воле#/emphasis#\n#emphasis#+ к восстановлению здоровья#/emphasis#\n#emphasis#Когда уровень здоровья падает ниже 30%, вы получите \"Выносливость\"#/emphasis#\n#emphasis#Когда вы получаете длительный урон, повышается рейтинг защиты и скорости движения#/emphasis#"
+      "String": "Создает шкуру Лорда Серы - уникальный предмет 60 уровня в ячейке 2, может использовать любой герой\n\n#emphasis#Шкура Лорда Серы#/emphasis#\n#emphasis#+ Рейтинг защиты#/emphasis#\n#emphasis#+ к урону в ближнем бою#/emphasis#\n#emphasis#+ к здоровью#/emphasis#\n#emphasis#+ к воле#/emphasis#\n#emphasis#+ Восстановление Здоровья#/emphasis#\n#emphasis#Когда уровень здоровья падает ниже 30%, вы получите \"Выносливость\"#/emphasis#\n#emphasis#Когда вы получаете длительный урон, повышается рейтинг защиты и скорости движения#/emphasis#"
     },
     "18237776267413292347": {
       "Variants": [],
@@ -95749,7 +95749,7 @@
         }
       ],
       "FlagsProduced": 65535,
-      "String": "Благословенные"
+      "String": "Благословенный"
     },
     "18322172834278933763": {
       "Variants": [],
@@ -96059,7 +96059,7 @@
     "18335717756672083199": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Свин-Паук Фонда будущего"
+      "String": "Свин-Паук \"Фонд Будущего\""
     },
     "18335929554398283012": {
       "Variants": [],
@@ -98183,7 +98183,7 @@
     "18430004452232529209": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#power#Бонус к шансу найти редкий предмет и к опыту#/power#"
+      "String": "#power#Бонус Поиска Редкого Предмета и к опыту#/power#"
     },
     "18430086249821570307": {
       "Variants": [],
