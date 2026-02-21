@@ -1466,9 +1466,15 @@
       "String": "Победите супергромил ГРМ"
     },
     "4683483922240505150": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551604,
+          "FlagsProduced": 65535,
+          "String": "$secondarymanabehaviorname$:"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "Зарядите Мьёльнир с помощью $secondarymanabehaviorname$ с использованием специфических способностей"
+      "String": "Зарядите Мьёльнир с помощью $secondarymanabehaviorname$, используя определенные способности"
     },
     "4683886712990926242": {
       "Variants": [],
@@ -9708,9 +9714,15 @@
       "String": ""
     },
     "5080088293339039032": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "Заработано Очко Времени"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "$NumInfinityPoints:0$ Заработанные временные очки"
+      "String": "Заработано Очков Времени: $NumInfinityPoints:0$"
     },
     "5080094173087663363": {
       "Variants": [],
@@ -15515,7 +15527,7 @@
     "5356903432406238530": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+100 Здоровья и +50 Духа #purplecard#buff#/purplecard# на 30 минут.\n30 минут перезарядки."
+      "String": "+100 Здоровья и +50 Духа #purplecard#бафф#/purplecard# на 30 минут.\n30 минут перезарядки."
     },
     "5357105214199301385": {
       "Variants": [],
@@ -27061,7 +27073,13 @@
       "String": "Усиление получено: Сторонник Регистрации"
     },
     "5904436669436593473": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551604,
+          "FlagsProduced": 65535,
+          "String": "$secondaryResourceMax$"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "$secondaryResourceMaxBase$"
     },
@@ -33896,9 +33914,15 @@
       "String": "+$evalregisterfloat0.pct$% за каждый 1% недостающей $primaryManaBehaviorName$, пока любая способность #powerkeyword#Начальной стойки#/powerkeyword# восстанавливается"
     },
     "6246389806427014409": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "+$PowerBoost:0$ Ранг ко всем способностям"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "+$PowerBoost:0$ к рангу всех способностей"
+      "String": "+$PowerBoost:0$ Рангов ко всем способностям"
     },
     "6246813092765959546": {
       "Variants": [],
@@ -50230,7 +50254,13 @@
       "String": "Требуется: Уру-кованый предмет плюс 1 руна Озера и 1 руна Года."
     },
     "6999857306435716356": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "$currencyamount:0$ заслуга Комнаты опасности"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "$currencyamount:0$ заслуг Комнаты опасности"
     },
@@ -51475,7 +51505,13 @@
       "String": "Хорошо сделано, $AvatarName$. С победой над Огненными Стражами ворота в кальдеру теперь не охраняются.\n\nПрисоединяйся ко мне на вершине, и я открою путь к нашей следующей цели. Мы на шаг ближе к уничтожению Монолита и остановке Суртура."
     },
     "7059263485901866255": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551604,
+          "FlagsProduced": 65535,
+          "String": "$secondarymanabehaviorname$:"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "Максимум $secondarymanabehaviorname$ увеличен до 10"
     },
@@ -53337,9 +53373,15 @@
       "String": "Коробка с Сокрушительно крутыми летними очками"
     },
     "7150364243436766532": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "$NumOmegaXpOrbs:0$ Сфера Бесконечного Опыта"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "$NumOmegaXpOrbs:0$ Орбы Бесконечного Опыта"
+      "String": "$NumOmegaXpOrbs:0$ Сфер Бесконечного Опыта"
     },
     "7150447132007793984": {
       "Variants": [],
@@ -59601,7 +59643,13 @@
       "String": "Похоже, Фьюри отправил подкрепления."
     },
     "7440419422342284611": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 2,
+          "String": "$Hours$ ч"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "$Hours:0$ ч"
     },
@@ -70121,7 +70169,13 @@
       "String": "Вы делаете отличные успехи против Очистителей!"
     },
     "7928933860192290108": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551604,
+          "FlagsProduced": 65535,
+          "String": "$secondarymanabehaviorname$:"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "За каждую заполненную шкалу $secondarymanabehaviorname$ ваши способности наносят на 3% больше урона"
     },
@@ -81085,7 +81139,13 @@
       "String": "Дж. Джона Джеймсона это не обрадует."
     },
     "8440667866151453967": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "$BuyPrice$ Печать Конфликта"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "$BuyPrice:0$ Печати Конфликта"
     },
@@ -95885,9 +95945,15 @@
       "String": "Сбросьте свои ядерные ракеты на обитателей поверхности, но когда жизнь вернется, она всегда появится из-под земли!\n— Человек-Ужас"
     },
     "9155015013079778613": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "Заработано Очко Души"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "$NumInfinityPoints:0$ Заработанные душевые очки"
+      "String": "Заработано Очков Души: $NumInfinityPoints:0$"
     },
     "9155394516453754217": {
       "Variants": [],

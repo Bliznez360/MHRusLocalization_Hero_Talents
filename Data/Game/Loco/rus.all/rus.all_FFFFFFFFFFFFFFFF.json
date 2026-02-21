@@ -5218,7 +5218,13 @@
       "String": "$propertyValueSign$$propertyValue.noFraction.abs$ $param0.resistanceType$ ($propertyValue.divByLevel.precision1.abs$ за каждый уровень)"
     },
     "14061710833142990128": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551601,
+          "FlagsProduced": 65535,
+          "String": "$itemcategory$"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "$itemrarityiftier5:0$ $itemcategory$"
     },
@@ -5663,9 +5669,15 @@
       "String": "Вы поглотили #stolenpower#воспоминания Агента Коулсона#/stolenpower#, открыв доступ к важной информации о тактиках ЩИТа, что позволяет максимально эффективно синхронизироваться с ударной группой."
     },
     "14080475759960261900": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "Цена следующего ранга: $ModNextRankCost:0$ очко"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "Цена следующего ранга: $ModNextRankCost:0$ очк."
+      "String": "Цена следующего ранга: $ModNextRankCost:0$ очков"
     },
     "14080881750395192645": {
       "Variants": [],
@@ -14196,7 +14208,13 @@
       "String": "Влетите высоко вверх в безумном вихре сверкающих ударов с ослепительной скоростью, а затем нанесите последний мощный удара в финале."
     },
     "14505889221251433778": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "Корона доблести"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "$currencyamount:0$ Корон доблести"
     },
@@ -30229,9 +30247,15 @@
       "String": "Очиститель-боевик"
     },
     "15253291703462659390": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "Заработано Очко Разума"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "$NumInfinityPoints:0$ Заработанные очки разума"
+      "String": "Заработано Очков Разума: $NumInfinityPoints:0$"
     },
     "15253539080699381058": {
       "Variants": [],
@@ -48648,7 +48672,13 @@
       "String": "Эпический сценарий Комнаты опасности"
     },
     "16099763404563154245": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "Gain $secondaryResourceChangebase.divby20.precision1:0$ point of fury"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "#fury#Получите 500 очков ярости при воскрешении#/fury#"
     },
@@ -51637,9 +51667,15 @@
       "String": "Отправить сообщение во французском чате."
     },
     "16245492005687985470": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "$infinitygempoints$ Очко Бесконечности"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "#OmegaBonusPoint#Бесконечный XP#/OmegaBonusPoint#"
+      "String": "#OmegaBonusPoint#Бесконечный Опыт#/OmegaBonusPoint#"
     },
     "16245671891866355058": {
       "Variants": [],
@@ -61188,7 +61224,13 @@
       "String": "#mission#Скруллы, перевоплотившиеся в Мстителей#/mission#, собрались вместе. Не обращайте внимание на то, как они выглядят, и поверьте мне, что они на самом деле те, кем являются."
     },
     "16706153838258947330": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 2,
+          "String": "$Hours:0$ ч"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "mo"
     },
@@ -72905,7 +72947,13 @@
       "String": "Поразительный ворот"
     },
     "17259123722206840071": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "$BuyPrice$ Заслуга Комнаты опасности"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "$BuyPrice:0$ Заслуги Комнаты опасности"
     },
@@ -77459,7 +77507,13 @@
       "String": "Упрощенная модель"
     },
     "17469221702640272701": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 2,
+          "String": "$Seconds$ сек"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "$Seconds:0$ сек"
     },
@@ -81239,7 +81293,13 @@
       "String": "Физическая помеха"
     },
     "17645980944266822972": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 2,
+          "String": "$BuyPrice:0$ Кредита"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "$BuyPrice:0$"
     },
@@ -83311,9 +83371,15 @@
       "String": "summonEntity.appliesPowers1.condition0"
     },
     "17737398816351061304": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551604,
+          "FlagsProduced": 65535,
+          "String": "Дает $secondaryResourceChangeBase$ Комбо-очков"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "Дает $secondaryResourceChangeBase$ очк. комбо"
+      "String": "Дает $secondaryResourceChangeBase$ Комбо-очко"
     },
     "17737414617660786074": {
       "Variants": [],
@@ -87214,7 +87280,13 @@
       "String": "Мы изолировали этого, но, как вы можете ясно видеть..."
     },
     "17921476175450342717": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": ""
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "Получите двойной объем алмазной брони при атаках"
     },
@@ -91449,7 +91521,13 @@
       "String": "Отправка ошибки..."
     },
     "18115707013263852808": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "Награда Защитника"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "$currencyamount:0$ Наград Защитника"
     },
@@ -96690,9 +96768,15 @@
       "String": "powerreference1"
     },
     "18365878391433659672": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "Заработано Очко Силы"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "$PowerPoints:0$ Заработанные очки силы"
+      "String": "Заработано Очков Силы: $PowerPoints:0$"
     },
     "18366142312871560461": {
       "Variants": [],

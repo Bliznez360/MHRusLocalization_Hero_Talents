@@ -13563,9 +13563,15 @@
       "String": "Укрепите #5"
     },
     "633876700432958786": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551604,
+          "FlagsProduced": 65535,
+          "String": "Дает $secondaryResourceChangeBase$ Комбо-очков"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "Дает $secondaryResourceChangeBase$ очк. комбо"
+      "String": "Дает $secondaryResourceChangeBase.incrementBy1$ Комбо-очков"
     },
     "633975334476121504": {
       "Variants": [],
@@ -15540,7 +15546,13 @@
       "String": "Слабое трудовое законодательство - вот что обеспечило нынешнее процветание бизнеса в Хайтауне."
     },
     "731849074798101765": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "Награда Героя"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "$currencyamount:0$ Наград Героя"
     },
@@ -18389,9 +18401,15 @@
       "String": "Полицейский пострадал!"
     },
     "871266397642229051": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "Заработано Очко Космоса"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "$NumInfinityPoints:0$ Заработанные космические очки"
+      "String": "Заработано Очков Космоса: $NumInfinityPoints:0$"
     },
     "871846845303358790": {
       "Variants": [],
@@ -68200,7 +68218,13 @@
       "String": "Насчет этого не беспокойся. Тут, в общем, никто надолго не умирает."
     },
     "3229856140685346067": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 2,
+          "String": "$Milliseconds$ мс"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "$Milliseconds:0$ мс"
     },
@@ -76428,7 +76452,13 @@
       "String": "Ваш верный спутник и питомец, #emphasis#Lockheed#/emphasis#, будет оставаться рядом с вами в любое время, извергая огненные шары на врагов и подчиняясь вашим командам."
     },
     "3601126698725016839": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 2,
+          "String": "$Hours:0$ ч"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "s"
     },
@@ -81306,7 +81336,13 @@
       "String": ""
     },
     "3820154349948831026": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "Печать конфликта"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "$currencyamount:0$ Печатей конфликта"
     },
@@ -86838,9 +86874,15 @@
       "String": "Герой молниеносно наносит врагу удары когтями, усиливая натиск за счет инерции во время акрбатических прыжков."
     },
     "4063794238142547209": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "Заработано Очко Бесконечности"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "$NumInfinityPoints:0$ к Очкам Бесконечности"
+      "String": "Заработано Очков Бесконечности: $NumInfinityPoints:0$"
     },
     "4064110120094991616": {
       "Variants": [],

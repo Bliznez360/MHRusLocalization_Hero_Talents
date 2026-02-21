@@ -1567,9 +1567,15 @@
       "String": "Улучшенный Нетараниумный камень"
     },
     "9299643634445583688": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "$propertyValueSign$$propertyValue:0$ Rank to $itemPowerBoostName$"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "$propertyvaluesign$$propertyvalue:0$ к рангу $itempowerboostname.locflagG$"
+      "String": "$propertyvaluesign$$propertyvalue:0$ Ранг $itemPowerBoostName.locflagG$"
     },
     "9300133127636125052": {
       "Variants": [],
@@ -5337,9 +5343,15 @@
       "String": "Привет, демон. Пусть Громобой напишет твой некролог в аду!\n—Бета Рэй Билл"
     },
     "9479095696008021312": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551604,
+          "FlagsProduced": 65535,
+          "String": "Даёт $secondaryResourceChangeBase$ Комбо-очков"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "Получайте $secondaryResourceChangeBase$ #hardknocks#Жесткие удары#/hardknocks#, когда вас бьют"
+      "String": "Получайте $secondaryResourceChangeBase$ #hardknocks#Жёсткие удары#/hardknocks#, когда вас бьют"
     },
     "9479217922124219656": {
       "Variants": [],
@@ -5893,7 +5905,13 @@
       "String": "М-м-м..."
     },
     "9500343599292155189": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "Файл доступа \"Омега\" ЩИТа"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "$currencyamount:0$ Файлов доступа \"Омега\" ЩИТа"
     },
@@ -22252,9 +22270,15 @@
       "String": "Граффити: ЩИТ"
     },
     "10259194046239474995": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "$NumInfinityXpOrbs:0$ Сфера Бесконечного Опыта"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "$NumInfinityXpOrbs:0$ Орбы Бесконечного Опыта"
+      "String": "$NumInfinityXpOrbs:0$ Сферы Бесконечного Опыта"
     },
     "10259240272915268868": {
       "Variants": [],
@@ -31361,7 +31385,7 @@
     "10683590317438600456": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Очки способностей: +$PowerPoints:0$"
+      "String": "+$PowerPoints:0$ Очков способностей"
     },
     "10684021815618176259": {
       "Variants": [],
@@ -32129,7 +32153,13 @@
       "String": "Как жестоко!"
     },
     "10719226739129189640": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 2,
+          "String": "$Hours:0$ ч"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "d"
     },
@@ -43127,9 +43157,15 @@
       "String": "+$EndurancePctBonus$%"
     },
     "11269781008967861559": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551604,
+          "FlagsProduced": 65535,
+          "String": "Дает $secondaryResourceChangeBase$ Комбо-очков"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "Генерирует $secondaryResourceCOTBase.precision0$ очков комбо в секунду"
+      "String": "Дает $secondaryResourceCOTBase.precision0$ Комбо-очков в секунду"
     },
     "11270027492788405509": {
       "Variants": [],
@@ -44953,7 +44989,13 @@
       "String": "Да здравствует ГИДРА!"
     },
     "11351187264994018572": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551604,
+          "FlagsProduced": 65535,
+          "String": "$secondaryResourceBehaviorName$ дает:"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "1, или 2, если у вас 0 Очков Комбо"
     },
@@ -53400,7 +53442,13 @@
       "String": "combopower.condition0"
     },
     "11735518968910513417": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "#orange#$currencyamount:0$ Знак патруля#/orange#"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "#orange#$currencyamount:0$ Знаки патруля#/orange#"
     },
@@ -69474,7 +69522,13 @@
       "String": "Полевой инженер находится у тебя за спиной."
     },
     "12488318111877891333": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 2,
+          "String": "$Hours:0$ ч"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "w"
     },
@@ -81092,9 +81146,15 @@
       "String": "Поговорить с #mission#сержантом Флоресом#/mission#."
     },
     "13026703433637758208": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "$BuyPrice$ Удивительной Пыли"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "$BuyPrice:0$ Удивительная Пыль"
+      "String": "$BuyPrice:0$ Удивительной Пыли"
     },
     "13026735328142099785": {
       "Variants": [],
@@ -81867,9 +81927,15 @@
       "String": "Поместите предметы сюда (ALT + Использовать этот предмет). Этот торговец прокачан до максимума, поэтому вы не получите опыта у торговца, а вместо этого получите стоимость предмета в кредитах."
     },
     "13054405577621833013": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "Заработано Омега-очко"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "Получено Омега-очков: $NumOmegaPoints:0$"
+      "String": "Заработано Омега-очков: $NumOmegaPoints:0$"
     },
     "13054640619835884956": {
       "Variants": [],
@@ -93652,9 +93718,15 @@
       "String": "Походный комплект агента ЩИТа"
     },
     "13613784647999423811": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551604,
+          "FlagsProduced": 65535,
+          "String": "Дает $secondaryResourceChangeBase$ Комбо-очков"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "Дает $secondaryResourceChangeBase$ очк. комбо"
+      "String": "Дает $secondaryResourceChangeBase$ Комбо-очко"
     },
     "13613846396671886593": {
       "Variants": [],
@@ -95578,9 +95650,15 @@
       "String": "Парк чудес"
     },
     "13707099220586595640": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65535,
+          "String": "Заработано Очко Реальности"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "$NumInfinityPoints:0$ Заработанные очки реальности"
+      "String": "Заработано Очков Реальности: $NumInfinityPoints:0$"
     },
     "13708120065669531005": {
       "Variants": [],
