@@ -89714,7 +89714,13 @@
       "String": "Получено приглашение к торговле"
     },
     "18041525411877815569": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709551602,
+          "FlagsProduced": 65522,
+          "String": "$itemdisplayname$"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "$itemdisplayname$ [$stackcount:0$]"
     },
