@@ -25461,7 +25461,7 @@
     "15035943646578214276": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Один из мутантов в этой базе данных не появлялся уже несколько дней.\nЯ подозреваю, что Мистер Зловещий держит нашего союзника #mission#Бишоп#/mission# в плену где-то в своей лаборатории."
+      "String": "Один из мутантов в этой базе данных не появлялся уже несколько дней.\nЯ подозреваю, что Мистер Зловещий держит нашего союзника #mission#Бишопа#/mission# в плену где-то в своей лаборатории."
     },
     "15036066959308817728": {
       "Variants": [],
@@ -37615,7 +37615,7 @@
     "15586875031592174909": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powername$#/powername# тратит $primarymanabehaviorname$, не собирает Орбы $primarymanabehaviorname$ и имеет Заряды, которые восстанавливаются быстрее, когда вы подбираете Орбы $primarymanabehaviorname$"
+      "String": "#powername#$powername$#/powername# тратит $primarymanabehaviorname$, не собирает Сферы $primarymanabehaviorname$ и имеет Заряды, которые восстанавливаются быстрее, когда вы подбираете Сферы $primarymanabehaviorname$"
     },
     "15586970835128485178": {
       "Variants": [],
@@ -41610,7 +41610,7 @@
     "15785351616448693578": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Снаряды имеют $eventTriggerChance.pct$% шанс вызвать Орб $primarymanabehaviorname$"
+      "String": "Снаряды имеют $eventTriggerChance.pct$% шанс вызвать Сферу $primarymanabehaviorname$"
     },
     "15785410848342082892": {
       "Variants": [],
@@ -49267,7 +49267,7 @@
     "16124590020567565578": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс призвать Орб Здоровья, когда на вас нападают"
+      "String": "$procchancestring$ шанс призвать сферу Здоровья, когда на вас нападают"
     },
     "16124676516977509696": {
       "Variants": [],
@@ -58325,7 +58325,7 @@
     "16566588132943725823": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Усилители"
+      "String": "Баффы"
     },
     "16566887376265413947": {
       "Variants": [],
