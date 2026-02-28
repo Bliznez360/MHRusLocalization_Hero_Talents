@@ -6,7 +6,7 @@
     "4611829251911189773": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 50:\n+2,5% к урону от от атак по площади"
+      "String": "Уровень 50:\n+2,5% Урона по Области"
     },
     "4612055068525462893": {
       "Variants": [],
@@ -3332,7 +3332,7 @@
     "4773431773108045160": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ежедневное задание СОГ: \"Возвращение к Оси\""
+      "String": "Ежедневное задание СОГ: Возвращение к Оси"
     },
     "4774116708670899520": {
       "Variants": [],
@@ -7039,7 +7039,7 @@
     "4952264818231739767": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+2% к урону/очкам для #power#$SynergyPowerName$#/power#"
+      "String": "+2% урона/очкам для #power#$SynergyPowerName$#/power#"
     },
     "4952272626360321296": {
       "Variants": [],
@@ -8041,7 +8041,7 @@
     "5002204258401453420": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Бонус к урону (не выводится) соответствует рангам #power#$SynergyPowerName$#/power#"
+      "String": "Бонус урона (не выводится) соответствует рангам #power#$SynergyPowerName$#/power#"
     },
     "5002400280710153585": {
       "Variants": [],
@@ -14128,7 +14128,7 @@
     "5293346673859822911": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рейтинг критического удара энергией"
+      "String": "Рейт. энерг. крит. удара"
     },
     "5293348606595171646": {
       "Variants": [],
@@ -15827,7 +15827,7 @@
     "5370826294732260659": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#darkphoenix#Бонус Темного Феникса#/darkphoenix#: +50% к урону от рывка, пока активны способности #darkphoenix#Темного Феникса#/darkphoenix#"
+      "String": "#darkphoenix#Бонус Тёмного Феникса#/darkphoenix#: +50% Урона в конце Рывка, пока активны способности #darkphoenix#Тёмного Феникса#/darkphoenix#"
     },
     "5370834292035749235": {
       "Variants": [],
@@ -16695,7 +16695,7 @@
     "5413746474098754824": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы становитесь #red#Голодным#/red#, получаете +$param1.power.condition0.damagepctbonusvsbosses.pct$% бонус к урону против Боссов на $param1.power.condition0.duration$"
+      "String": "Когда вы становитесь #red#Голодным#/red#, получаете +$param1.power.condition0.damagepctbonusvsbosses.pct$% бонус урона против Боссов на $param1.power.condition0.duration$"
     },
     "5414315359814747494": {
       "Variants": [],
@@ -19464,7 +19464,7 @@
     "5541683684435887475": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 25:\n+2% к урону против врагов, атакующих вас"
+      "String": "Уровень 25:\n+2% Урона против врагов, атакующих вас"
     },
     "5541718761430713712": {
       "Variants": [],
@@ -19674,7 +19674,7 @@
     "5550973011450070353": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы наносите Критический удар, получаете 6% урона от призванных союзников и 15% радиуса действия на 12 секунд (15 секунд перезарядка)"
+      "String": "Когда вы наносите Критический удар, получаете 6% Урона Призванных союзников и 15% Радиус действия на 12 сек (15 сек перезарядка)"
     },
     "5551454193740154122": {
       "Variants": [],
@@ -20045,7 +20045,7 @@
     "5570779802940474738": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+1,5% к урону/очкам для других #emphasis#базовых способностей#/emphasis#"
+      "String": "+1,5% урона/очкам для других #emphasis#базовых способностей#/emphasis#"
     },
     "5571084157077292290": {
       "Variants": [],
@@ -20116,7 +20116,7 @@
     "5572711447234938169": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#1% шанс после удачной атаки вызвать один из указанных эффектов (все эффекты могут быть активированы одновременно):#/emphasis#\nСоздать Сферу Лимбо, которая дает вам +$param1.power.powerReference0.condition0.damagerating$ Рейтинг урона и +$param1.power.powerReference0.condition0.petdamagepctbonus$% к урону, наносимому призванными союзниками на $param1.power.powerReference0.condition0.duration$"
+      "String": "#emphasis#1% шанс после удачной атаки вызвать один из указанных эффектов (все эффекты могут быть активированы одновременно):#/emphasis#\nСоздать Сферу Лимбо, которая дает вам +$param1.power.powerReference0.condition0.damagerating$ Рейтинг урона и +$param1.power.powerReference0.condition0.petdamagepctbonus$% Урона Призванных союзников на $param1.power.powerReference0.condition0.duration$"
     },
     "5572993115487208763": {
       "Variants": [],
@@ -24834,7 +24834,7 @@
     "5803744386632582401": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 50:\n+3% к урону, наносимому боссам"
+      "String": "Уровень 50:\n+3% Урона против Боссов"
     },
     "5803816756898039102": {
       "Variants": [],
@@ -26029,7 +26029,7 @@
     "5862893538199602550": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "В Геноше доступно новое еженедельное задание СОГ: #mission#\"Космические заговорщики\"#/mission#.\n\nПоговорите с капитаном СОГ на Передовой базе Ударного отряда, чтобы узнать о задании."
+      "String": "В Геноше доступно новое еженедельное задание СОГ: #mission#Космические заговорщики#/mission#.\n\nПоговорите с капитаном СОГ на Передовой базе Ударного отряда, чтобы узнать о задании."
     },
     "5862929147645527304": {
       "Variants": [],
@@ -28017,7 +28017,7 @@
     "5951916566531081543": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Эффект бонуса к урону увеличен"
+      "String": "Эффект бонуса урона увеличен"
     },
     "5952427903795266828": {
       "Variants": [],
@@ -28332,7 +28332,7 @@
     "5970445098386851134": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+10 к урону на 20 минут."
+      "String": "+10 Урона на 20 минут."
     },
     "5970488619231347977": {
       "Variants": [],
@@ -28752,7 +28752,7 @@
     "5990373974217000207": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет заклинание #emphasis#руну лошади#/emphasis# к любой ячейке 1 или 5 снаряжения эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания.\n\nУровень 50-60 этого заклинания дает:\n#emphasis#+3% Урон Призывных#/emphasis#\n\nУровень 35-49 этого заклинания дает:\n#emphasis#+3% Урон Призывных#/emphasis#\n\nУровень 20-34 этого заклинания дает:\n#emphasis#+3% Урон Призывных#/emphasis#\n\nУровень 1-19 этого заклинания дает:\n#emphasis#+3% Урон Призывных#/emphasis#"
+      "String": "Добавляет зачарование #emphasis#Руна Лошади#/emphasis# на снаряжение в Ячейку 1 или 5 эпической редкости или выше, заменяя существующие зачарования.\n\nУровень 50-60 этого зачарования даёт:\n#emphasis#+100 Урон Призванных союзников#/emphasis#\n\nУровень 35-49 этого зачарования даёт:\n#emphasis#+100 Урон Призванных союзников#/emphasis#\n\nУровень 20-34 этого зачарования даёт:\n#emphasis#+100 Урон Призванных союзников#/emphasis#\n\nУровень 1-19 этого зачарования даёт:\n#emphasis#+100 Урон Призванных союзников#/emphasis#"
     },
     "5990516867894150505": {
       "Variants": [],
@@ -29390,7 +29390,7 @@
     "6018588129903248756": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+4% к урону/очкам для других #emphasis#базовых способностей#/emphasis#"
+      "String": "+4% урона/очкам для других #emphasis#базовых способностей#/emphasis#"
     },
     "6019132379442447626": {
       "Variants": [],
@@ -33766,7 +33766,7 @@
     "6237041406441358653": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы наносите удар #blue#Когти#/blue# способности, ближние атаки дают +$param1.power.condition0.proceffect0.condition0.defense.nofraction$ Рейтинг Защиты, +$param1.power.condition0.proceffect0.condition0.supercritratingbonusaddpowerkeyword.nofraction$ Рейтинг сокрушительного удара с ближними способностями и +$param1.power.condition0.proceffect0.condition0.damagepctbonusvsbosses.pct$% Урон против Боссов на следующие $param1.power.condition0.duration$."
+      "String": "Когда вы наносите удар #blue#Когти#/blue# способности, ближние атаки дают +$param1.power.condition0.proceffect0.condition0.defense.nofraction$ Рейтинг Защиты, +$param1.power.condition0.proceffect0.condition0.supercritratingbonusaddpowerkeyword.nofraction$ Рейтинг сокрушительного удара с ближними способностями и +$param1.power.condition0.proceffect0.condition0.damagepctbonusvsbosses.pct$% Урона против Боссов на следующие $param1.power.condition0.duration$."
     },
     "6237252967883474190": {
       "Variants": [],
@@ -35596,7 +35596,7 @@
     "6324756608643826957": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании Передвижения, получаете бафф Мидтаун Моментум, дающий вам $param1.power.condition0.DamagePctBonus.nofraction$% бонус к урону на $param1.power.condition0.duration$"
+      "String": "При использовании Передвижения, получаете бафф Мидтаун Моментум, дающий вам $param1.power.condition0.DamagePctBonus.nofraction$% бонус урона на $param1.power.condition0.duration$"
     },
     "6324763867204093256": {
       "Variants": [],
@@ -35726,7 +35726,7 @@
     "6331063544840652098": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Гнев Сумерек#emphasis# также добавляет +$param1.power.condition0.damagepctbonusvsbosses.pct$% Урон против Боссов и +$param1.power.condition0.damagepctresistvsrank.pct$% Снижение урона против Боссов"
+      "String": "#emphasis#Гнев Сумерек#emphasis# также добавляет +$param1.power.condition0.damagepctbonusvsbosses.pct$% Урона против Боссов и +$param1.power.condition0.damagepctresistvsrank.pct$% Снижение урона против Боссов"
     },
     "6331151419876771146": {
       "Variants": [
@@ -36998,7 +36998,7 @@
     "6383393349055546680": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "В Геноше доступно новое ежедневное задание СОГ: #mission#\"Змеи Мидтауна\"#/mission#.\n\nПоговорите с лейтенантом СОГ на Передовой базе Ударного отряда, чтобы узнать о задании."
+      "String": "В Геноше доступно новое ежедневное задание СОГ: #mission#Змеи Мидтауна#/mission#.\n\nПоговорите с лейтенантом СОГ на Передовой базе Ударного отряда, чтобы узнать о задании."
     },
     "6383561119070422330": {
       "Variants": [],
@@ -37128,7 +37128,7 @@
     "6389401389902071163": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "В Геноше доступно новое ежедневное задание СОГ: #mission#\"Переполох под джунглями\"#/mission#.\n\nПоговорите с лейтенантом СОГ на Передовой базе Ударного отряда, чтобы узнать о задании."
+      "String": "В Геноше доступно новое ежедневное задание СОГ: #mission#Переполох под джунглями#/mission#.\n\nПоговорите с лейтенантом СОГ на Передовой базе Ударного отряда, чтобы узнать о задании."
     },
     "6389500706598159628": {
       "Variants": [],
@@ -40893,7 +40893,7 @@
     "6564425808198960379": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 50:\n+2% к урону от ближних способностей"
+      "String": "Уровень 50:\n+2% Урона Ближних способностей"
     },
     "6564575079793034499": {
       "Variants": [],
@@ -48314,7 +48314,7 @@
     "6908567531817796934": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyvaluesign$$propertyvalue.pct.precision1$% к урону, наносимому призванными союзниками"
+      "String": "$propertyvaluesign$$propertyvalue.pct.precision1$% Урона Призванных союзников"
     },
     "6908981227283875067": {
       "Variants": [],
@@ -50907,7 +50907,7 @@
     "7031156730405127531": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Ярость Всеотца#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+300 Здоровья#/emphasis#\n#emphasis#+300 Рейтинг урона в ближнем бою#/emphasis#\n#emphasis#+300 Рейтинг критического удара в ближнем бою#/emphasis#\n#emphasis#Штраф 3% к урону от атак по площади#/emphasis#\n#emphasis#Штраф 3% к урону от способностей дальнего боя#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы к рейтингам здоровья, урона и крит. удара."
+      "String": "Добавляет рунное слово #emphasis#Ярость Всеотца#/emphasis# на любой #emphasis#Уру-кованый предмет#/emphasis#, заменяя существующее рунное слово и привязывая предмет к вашей учётной записи.\n\nПредметы 50 уровня получают бонусы:\n#emphasis#+300 Здоровье#/emphasis#\n#emphasis#+300 Рейтинг урона Ближнего боя#/emphasis#\n#emphasis#+300 Рейтинг крит. удара Ближнего боя#/emphasis#\n#emphasis#3% Снижение от урона по Области#/emphasis#\n#emphasis#3% Снижение урона от Дальнего боя#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы Здоровья, Рейтинга урона и крит. удара."
     },
     "7031612585287222586": {
       "Variants": [],
@@ -51337,7 +51337,7 @@
     "7052034098155291907": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Еженедельное задание СОГ: \"Самые разыскиваемые люди Ксавье\""
+      "String": "Еженед. задание СОГ: Особо опасные люди Ксавье"
     },
     "7052181857990083913": {
       "Variants": [],
@@ -54197,7 +54197,7 @@
     "7185856255502714228": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+1,5% к урону/очкам для #power#$SynergyPowerName$#/power#"
+      "String": "+1,5% урона/очкам для #power#$SynergyPowerName$#/power#"
     },
     "7186037812295959871": {
       "Variants": [],
@@ -54427,7 +54427,7 @@
     "7198991420781364548": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Дар короля коров#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#20% Поиска Редкого Предмета#/emphasis#,\n#emphasis#200 Здоровья#/emphasis#,\n#emphasis#200 к защите#/emphasis#,\n#emphasis#100 Рейтинг энергетического урона#/emphasis#,\n#emphasis#100 ед. к ментальному урону#/emphasis#,\n#emphasis#100 ед. к физическому урону#/emphasis# и\n#emphasis#Штраф 2% к урону от атак по площади#/emphasis#.\n\nПредметы 25 уровня получают половинные бонусы к рейтингам здоровья, защиты и урона.\r"
+      "String": "Добавляет рунное слово #emphasis#Дары Короля коров#/emphasis# на любой #emphasis#Уру-кованый предмет#/emphasis#, заменяя существующее рунное слово и привязывая предмет к вашей учётной записи.\n\nПредметы 50 уровня получают бонусы:\n#emphasis#20% Поиск редких предметов#/emphasis#,\n#emphasis#200 Здоровье#/emphasis#,\n#emphasis#200 Защита#/emphasis#,\n#emphasis#100 Энергетический урон#/emphasis#,\n#emphasis#100 Ментальный урон#/emphasis#,\n#emphasis#100 Физический урон#/emphasis# и\n#emphasis#2% Снижение от урона по области#/emphasis#.\n\nПредметы 25 уровня получают половинные бонусы здоровья, защиты и урона."
     },
     "7199042719817008411": {
       "Variants": [],
@@ -55259,7 +55259,7 @@
     "7241553494401221937": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#darkphoenix#Бонус Темного Феникса#/darkphoenix#: +50% к урону, пока активны способности #darkphoenix#Темного Феникса#/darkphoenix#"
+      "String": "#darkphoenix#Бонус Тёмного Феникса#/darkphoenix#: +50% Урона пока активны способности #darkphoenix#Тёмного Феникса#/darkphoenix#"
     },
     "7241582764610487609": {
       "Variants": [],
@@ -58404,7 +58404,7 @@
     "7387094946577974539": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "м"
+      "String": "m"
     },
     "7387501439521326397": {
       "Variants": [],
@@ -59951,7 +59951,7 @@
     "7453177459475940662": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы снимаете и становитесь временно невосприимчивыми к негативным условиям, получая бонус к урону от оружия и способностей."
+      "String": "Вы снимаете и становитесь временно невосприимчивыми к негативным условиям, получая бонус урона от оружия и способностей."
     },
     "7453415246051018044": {
       "Variants": [],
@@ -63429,7 +63429,7 @@
     "7619190924798592260": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда ваша #orange#Фотонная энергия#/orange# ниже 20%, следующие $param1.power.condition0.duration$ ваши М melee-удары дают вам +$param1.power.condition0.proceffect0.condition0.defense.nofraction$ Рейтинг защиты, +$param1.power.condition0.proceffect0.condition0.supercritratingbonusaddpowerkeyword.nofraction$ Рейтинг сокрушительного удара с М melee-способностями и +$param1.power.condition0.proceffect0.condition0.damagepctbonusvsbosses.pct$% Урон против Боссов, а ваши Д ranged-удары дают вам +$param1.power.condition0.proceffect1.condition0.castspeedincrpcttab.pct$% Скорость атаки для ваших #orange#Способностей Фотона#/orange#, $param1.power.condition0.proceffect1.condition0.BlockRatingBonusAdd.NoFraction$ Рейтинг уклонения и +$param1.power.condition0.proceffect1.condition0.supercritratingbonusaddpowerkeyword.nofraction$ Рейтинг сокрушительного удара с Областными способностями. Эти эффекты длятся $param1.power.condition0.proceffect0.condition0.duration$."
+      "String": "Когда ваша #orange#Фотонная энергия#/orange# ниже 20%, в течение $param1.power.condition0.duration$ удары в Ближнем бою дают +$param1.power.condition0.proceffect0.condition0.defense.nofraction$ Рейтинг защиты, +$param1.power.condition0.proceffect0.condition0.supercritratingbonusaddpowerkeyword.nofraction$ Рейтинг сокрушительного удара Ближних способностей и +$param1.power.condition0.proceffect0.condition0.damagepctbonusvsbosses.pct$% Урона против Боссов, а Дальние удары дают +$param1.power.condition0.proceffect1.condition0.castspeedincrpcttab.pct$% Скорость атаки для ваших #orange#Фотонных способностей#/orange#, $param1.power.condition0.proceffect1.condition0.BlockRatingBonusAdd.NoFraction$ Рейтинг отражения и +$param1.power.condition0.proceffect1.condition0.supercritratingbonusaddpowerkeyword.nofraction$ Рейтинг сокрушительного удара по Области. Эффекты длятся $param1.power.condition0.proceffect0.condition0.duration$."
     },
     "7619699899914716440": {
       "Variants": [],
@@ -63519,7 +63519,7 @@
     "7623704076493456698": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#red#Дает такие бонусы:#/red#\n#emphasis#$powerReference1.powerName$#/emphasis# наносит двойной урон, если уровень $primaryManaBehaviorName.locflagG$ ниже 25%\n#emphasis#$powerReference2.powerName$#/emphasis# получает +50% к урону и к казни, наносит дополнительный урон врагам с низким уровнем здоровья\n#emphasis#$powerReference3.powerName$#/emphasis# наносит увеличенный на +20% критический и на +20% сокруш. урон\n#emphasis#$powerReference4.powerName$#/emphasis# наносит увеличенный на +200% урон с перезарядкой $powerReference4.actionsTriggeredOnPowerEvent1.eventParam$ с\n#emphasis#$powerReference5.powerName$#/emphasis# получает на $dependentPassivePower.condition0.critChancePctAddPowerKeyword.pct$% больше шансов нанести Критический удар\n#emphasis#$powerReference6.powerName$#/emphasis# получает уменьшенный на 50% расход $primaryManaBehaviorName.locflagG$ после применения способности, нуждающейся в перезарядке"
+      "String": "#red#Дает такие бонусы:#/red#\n#emphasis#$powerReference1.powerName$#/emphasis# наносит двойной урон, если уровень $primaryManaBehaviorName.locflagG$ ниже 25%\n#emphasis#$powerReference2.powerName$#/emphasis# получает +50% урону и к Казни, наносит дополнительный урон врагам с низким уровнем здоровья\n#emphasis#$powerReference3.powerName$#/emphasis# наносит увеличенный на +20% критический и на +20% сокруш. урон\n#emphasis#$powerReference4.powerName$#/emphasis# наносит увеличенный на +200% урона с перезарядкой $powerReference4.actionsTriggeredOnPowerEvent1.eventParam$ с\n#emphasis#$powerReference5.powerName$#/emphasis# получает на $dependentPassivePower.condition0.critChancePctAddPowerKeyword.pct$% больше шансов нанести Критический удар\n#emphasis#$powerReference6.powerName$#/emphasis# получает уменьшенный на 50% расход $primaryManaBehaviorName.locflagG$ после применения способности, нуждающейся в перезарядке"
     },
     "7623810200798496028": {
       "Variants": [],
@@ -66496,7 +66496,7 @@
     "7760119882922657135": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Еженедельное СОГ"
+      "String": "Еженед. задания СОГ"
     },
     "7760531740104066319": {
       "Variants": [],
@@ -66531,7 +66531,7 @@
     "7762443902489330955": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "GLF Rep Buffer Controller"
+      "String": "Представитель СОГ"
     },
     "7762458608521119042": {
       "Variants": [],
@@ -68183,7 +68183,7 @@
     "7838667357220832614": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ежедневное задание СОГ: \"Бей паразитов\""
+      "String": "Ежедневное задание СОГ: Бей паразитов"
     },
     "7838713236005782843": {
       "Variants": [],
@@ -71659,7 +71659,7 @@
     "7995765943556506891": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 25:\n+2,5% к урону от атак по площади"
+      "String": "Уровень 25:\n+2,5% Урона по Области"
     },
     "7995950575606367495": {
       "Variants": [],
@@ -83191,7 +83191,7 @@
     "8529948433714906422": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "В Геноше доступно новое ежедневное задание СОГ: #mission#\"Переполох под джунглями\"#/mission#.\n\nПоговорите с лейтенантом УОГ на Передовой базе Ударного отряда, чтобы узнать о задании."
+      "String": "В Геноше доступно новое ежедневное задание СОГ: #mission#Переполох под джунглями#/mission#.\n\nПоговорите с лейтенантом УОГ на Передовой базе Ударного отряда, чтобы узнать о задании."
     },
     "8530063444351518008": {
       "Variants": [],
@@ -83631,7 +83631,7 @@
     "8548870474783720763": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 25:\n1% Шанс критического удара\n1% урон от ближних способностей"
+      "String": "Уровень 25:\n1% Шанс критического удара\n1% Урона Ближних способностей"
     },
     "8548993005913244997": {
       "Variants": [],
@@ -84918,7 +84918,7 @@
     "8614310670983169350": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 25:\n+2% к урону против врагов, не атакующих вас"
+      "String": "Уровень 25:\n+2% Урона против врагов, не атакующих вас"
     },
     "8614605881201198349": {
       "Variants": [],
@@ -87983,7 +87983,7 @@
     "8763106157928383807": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "В этой коробке содержится предмет \"Счастливая цепочка Люка\".\n#emphasis#+Общий рейтинг защиты#/emphasis#\n#emphasis#+Рейтинг урона#/emphasis#\n#emphasis#+Урон призванных союзников#/emphasis#\n#emphasis#+Здоровье призванных союзников#/emphasis#\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#"
+      "String": "В этой коробке содержится предмет \"Счастливая цепочка Люка\".\n#emphasis#+Общий рейтинг защиты#/emphasis#\n#emphasis#+Рейтинг урона#/emphasis#\n#emphasis#+Урон Призванных союзников#/emphasis#\n#emphasis#+Здоровье Призванных союзников#/emphasis#\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#"
     },
     "8763589449121531194": {
       "Variants": [],
@@ -88488,7 +88488,7 @@
     "8789290537714713914": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+$PetDamagePctBonus.pct$% к урону, наносимому призванными союзниками"
+      "String": "+$PetDamagePctBonus.pct$% Урона Призванных союзников"
     },
     "8789704581154276670": {
       "Variants": [],
@@ -89638,7 +89638,7 @@
     "8849459988643120400": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$DamageMultForPower.param0.PowerName$#/powername# Бонус к урону:"
+      "String": "#powername#$DamageMultForPower.param0.PowerName$#/powername# Бонус Урона:"
     },
     "8849478147823109442": {
       "Variants": [],
@@ -89763,7 +89763,7 @@
     "8855976480523289866": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Повышенный урон. Эффект усиливается, если в группе есть другие игроки с тем же усилением.\nТекущее число участников: $PartyBoostCount$\n\nЭффекты:\n1 участник   – +100% к урону\n2 участника  – +200% к урону\n3 участника  – +300% к урону\n4 участника  – +400% к урону\n5 участников – +1000% к урону"
+      "String": "Повышенный урон. Эффект усиливается, если в группе есть другие игроки с тем же усилением.\nТекущее число участников: $PartyBoostCount$\n\nЭффекты:\n1 участник   – +100% Урона\n2 участника  – +200% Урона\n3 участника  – +300% Урона\n4 участника  – +400% Урона\n5 участников – +1000% Урона"
     },
     "8856416839357891963": {
       "Variants": [],
@@ -90990,7 +90990,7 @@
     "8913193227398219031": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 50:\n+5% Урон от призыва"
+      "String": "Уровень 50:\n+5% Урона Призванных способностей"
     },
     "8913380921748358404": {
       "Variants": [],
@@ -92276,7 +92276,7 @@
     "8976603072338199869": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет заклинание #emphasis#Улучшение урона от призванных союзников АРМОР#/emphasis# к любой ячейке снаряжения (от 1 до 5) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n#emphasis#+5% к урону призванных союзников#/emphasis#"
+      "String": "Добавляет заклинание #emphasis#Улучшение урона Призванных союзников АРМОР#/emphasis# к любой ячейке снаряжения (от 1 до 5) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания дает:\n#emphasis#+5% Урона Призванных союзников#/emphasis#"
     },
     "8976674540602656072": {
       "Variants": [],
@@ -93246,7 +93246,7 @@
     "9024805528952505657": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+$petDamagePctBonus$% к урону призванных союзников (уровень x 0,5 за ранг)"
+      "String": "+$petDamagePctBonus$% Урона Призванных союзников (0,5% за ранг)"
     },
     "9024822970761610511": {
       "Variants": [],
@@ -93561,7 +93561,7 @@
     "9038859151640757622": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+5% к урону/очкам для других #emphasis#базовых способностей#/emphasis#"
+      "String": "+5% урона/очкам для других #emphasis#базовых способностей#/emphasis#"
     },
     "9039113190300648766": {
       "Variants": [],
@@ -96965,7 +96965,7 @@
     "9199453373318038904": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "В Геноше доступно новое еженедельное задание СОГ: #mission#\"От джунглей к джунглям\"#/mission#.\n\nПоговорите с капитаном СОГ на Передовой базе Ударного отряда, чтобы узнать о задании."
+      "String": "В Геноше доступно новое еженедельное задание СОГ: #mission#От джунглей к джунглям#/mission#.\n\nПоговорите с капитаном СОГ на Передовой базе Ударного отряда, чтобы узнать о задании."
     },
     "9199559334328272138": {
       "Variants": [],
