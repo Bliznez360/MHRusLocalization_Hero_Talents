@@ -15983,7 +15983,7 @@
         }
       ],
       "FlagsProduced": 65535,
-      "String": "Базовые"
+      "String": "Базовая"
     },
     "5379225648810362223": {
       "Variants": [],
@@ -16079,7 +16079,7 @@
         }
       ],
       "FlagsProduced": 65535,
-      "String": "Ближний"
+      "String": "Ближняя"
     },
     "5385121590812804360": {
       "Variants": [],
@@ -31516,7 +31516,7 @@
     "6125218715965457731": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Хаосовая магия: Угасающее страдание"
+      "String": "Магия Хаоса: Угасающее страдание"
     },
     "6125261180301280575": {
       "Variants": [],
@@ -48739,7 +48739,7 @@
     "6928763052095505679": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powerkeyword#$DamageMultForPowerKeyword.param0.Keyword$#/powerkeyword# Урон от силы:"
+      "String": "#powerkeyword#$DamageMultForPowerKeyword.param0.Keyword$#/powerkeyword#:"
     },
     "6928965010100323641": {
       "Variants": [],
@@ -53215,7 +53215,7 @@
     "7143726590523278658": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рывок"
+      "String": "Бег"
     },
     "7143747193528517987": {
       "Variants": [],
