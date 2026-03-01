@@ -126,7 +126,7 @@
     "13838304432759178557": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда ваше здоровье падает ниже $param2$%, получайте $param1.power.condition0.HealingOverTimeBase.nofraction$ регенерации здоровья в секунду на протяжении $param1.power.condition0.duration$"
+      "String": "Когда ваше здоровье падает ниже $param2$%, получайте $param1.power.condition0.HealingOverTimeBase.nofraction$ регенерации здоровья в сек на протяжении $param1.power.condition0.duration$"
     },
     "13838525305758811466": {
       "Variants": [],
@@ -323,7 +323,7 @@
     "13844170112532284718": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Если вам нанесен урон, вы наносите $param1.power.damage.nofraction$ ед. энергетического урона атакующему. На $param1.power.onpowerstartpower.condition0.duration$ вы получаете +$param1.power.onpowerstartpower0.condition0.damageratingbonusvsconditionkeyword.nofraction$ Рейтинг урона против данного врага."
+      "String": "Если вам нанесен урон, вы наносите $param1.power.damage.nofraction$ Энергетического урона атакующему. На $param1.power.onpowerstartpower.condition0.duration$ вы получаете +$param1.power.onpowerstartpower0.condition0.damageratingbonusvsconditionkeyword.nofraction$ Рейтинг урона против данного врага."
     },
     "13844285393758520634": {
       "Variants": [],
@@ -1220,7 +1220,7 @@
     "13885008809014330626": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при попадании вызвать у цели кровотечение на $param1.power.condition0.DamageOverTimeBaseUnmodified.divby2.nofraction$ Физического урона дважды в секунду на $param1.power.condition0.duration$"
+      "String": "$procchancestring$ шанс при попадании вызвать у цели кровотечение на $param1.power.condition0.DamageOverTimeBaseUnmodified.divby2.nofraction$ Физического урона дважды в сек на $param1.power.condition0.duration$"
     },
     "13885290009236079979": {
       "Variants": [],
@@ -1340,7 +1340,7 @@
     "13888433933888259435": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procChanceString$ шанс создать вокруг противника ядовитое облако, наносящее $param1.power.summonEntity.appliesPowers0.condition0.damageOverTimeBaseUnmodified.noFraction.divBy2$ ед. энергетического урона 2 раза в секунду в течение $param1.power.lifespan$."
+      "String": "$procChanceString$ шанс создать вокруг противника ядовитое облако, наносящее $param1.power.summonEntity.appliesPowers0.condition0.damageOverTimeBaseUnmodified.noFraction.divBy2$ Энергетического урона 2 раза в сек в течение $param1.power.lifespan$."
     },
     "13888486684740355486": {
       "Variants": [],
@@ -1890,7 +1890,7 @@
     "13909510794336994611": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Этот рецепт требует: 20 каждого элемента, 4 Нестабильных Молекулы, 1 Переработанный Черепок Брони Стража и 250 000 Кредитов каждый раз, когда вы хотите создать этот предмет. \n\nСоздаёт Адаптивный Реактор Стража Старка — Уникальный предмет 3 ячейки 60 уровня для любого героя\n\n#emphasis#Адаптивный Реактор Стража Старка#/emphasis#\n#emphasis#+Рейтинг Урона#/emphasis#\n#emphasis#+Снижение Урона#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#+Рейтинг Защиты от Психического Урона#/emphasis#\n#emphasis#+Боевые Навыки#/emphasis#\n#emphasis#+Выносливость#/emphasis#\n#emphasis#Когда вы получаете Урон по Области, получайте 2% снижение Урона по Области на 6с#/emphasis#\n#emphasis#Когда вы получаете Ближний Урон, получайте 2% снижение Ближнего Урона на 6с#/emphasis#\n#emphasis#Когда вы получаете Дальний Урон, получайте 2% снижение Дальнего Урона на 6с#/emphasis#\n#emphasis#+Шанс игнорировать Психический Урон при атаке#/emphasis#\n#emphasis#+Регeneration Здоровья в секунду#/emphasis#\n#emphasis#+2 Ранга ко Всем Силам#/emphasis#"
+      "String": "Этот рецепт требует: 20 каждого элемента, 4 Нестабильных Молекулы, 1 Переработанный Черепок Брони Стража и 250 000 Кредитов каждый раз, когда вы хотите создать этот предмет. \n\nСоздаёт Адаптивный Реактор Стража Старка — Уникальный предмет 3 ячейки 60 уровня для любого героя\n\n#emphasis#Адаптивный Реактор Стража Старка#/emphasis#\n#emphasis#+Рейтинг Урона#/emphasis#\n#emphasis#+Снижение Урона#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#+Рейтинг Защиты от Психического Урона#/emphasis#\n#emphasis#+Боевые Навыки#/emphasis#\n#emphasis#+Выносливость#/emphasis#\n#emphasis#Когда вы получаете Урон по Области, получайте 2% снижение Урона по Области на 6с#/emphasis#\n#emphasis#Когда вы получаете Ближний Урон, получайте 2% снижение Ближнего Урона на 6с#/emphasis#\n#emphasis#Когда вы получаете Дальний Урон, получайте 2% снижение Дальнего Урона на 6с#/emphasis#\n#emphasis#+Шанс игнорировать Психический Урон при атаке#/emphasis#\n#emphasis#+Регeneration Здоровья в сек#/emphasis#\n#emphasis#+2 Ранга ко Всем Силам#/emphasis#"
     },
     "13909933182837196034": {
       "Variants": [],
@@ -3306,7 +3306,7 @@
     "13974867367463945483": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$primarymanabehaviorname$: $endurancecost$ ед., если не заряжены элементные боеприпасы"
+      "String": "Расход $primarymanabehaviorname.locflagG$: $endurancecost$, если не заряжены Элементные боеприпасы"
     },
     "13974923653130880369": {
       "Variants": [],
@@ -4017,7 +4017,7 @@
     "14005845970191713591": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при попадании произвести взрыв ультрафиолета и нанести 30000 - 50000 ед. энергетического урона."
+      "String": "$procchancestring$ шанс при попадании произвести взрыв ультрафиолета и нанести 30000 - 50000 Энергетического урона."
     },
     "14005847005275030836": {
       "Variants": [],
@@ -4177,7 +4177,7 @@
     "14013993110893495653": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановление $endurancechangebase$ ед. $primarymanabehaviorname.locflagG$ за каждую иллюзию"
+      "String": "Восстановление $endurancechangebase$ $primarymanabehaviorname.locflagG$ за каждую иллюзию"
     },
     "14014267314502239606": {
       "Variants": [],
@@ -4584,7 +4584,7 @@
     "14030601302640035087": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Если враг атакует вас или вашего союзника, вы поглощаете $equipPower.summonEntity.appliesPowers.condition0.procEffect0.condition0.DamageAccumulationLimit.noFraction$ ед. урона (перезарядка - $equipPower.summonEntity.appliesPowers.condition0.procEffect.cooldown$)"
+      "String": "Если враг атакует вас или вашего союзника, вы поглощаете $equipPower.summonEntity.appliesPowers.condition0.procEffect0.condition0.DamageAccumulationLimit.noFraction$ урона (перезарядка - $equipPower.summonEntity.appliesPowers.condition0.procEffect.cooldown$)"
     },
     "14030659091423888653": {
       "Variants": [],
@@ -4599,7 +4599,7 @@
     "14031293990783616359": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "два раза в секунду"
+      "String": "два раза в сек"
     },
     "14031706148680303944": {
       "Variants": [],
@@ -5050,7 +5050,7 @@
     "14051338779129808137": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$ActionsTriggeredOnPowerEvent.EventTriggerChance.pct$% шанс нанести $OnPowerHitPower.damageType$ урон: $OnPowerHitPower.damage$ ед. #hidden#($OnPowerHitPower.damageRange.precision1.divByLevel$ ед. за каждый уровень)#/hidden#"
+      "String": "$ActionsTriggeredOnPowerEvent.EventTriggerChance.pct$% шанс нанести $OnPowerHitPower.damageType$ урон: $OnPowerHitPower.damage$ #hidden#($OnPowerHitPower.damageRange.precision1.divByLevel$ за уровень)#/hidden#"
     },
     "14051571368849507644": {
       "Variants": [],
@@ -5205,7 +5205,7 @@
     "14061507908841702727": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.noFraction.abs$ $param0.resistanceType$ ($propertyValue.divByLevel.precision1$ ед. за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.noFraction.abs$ $param0.resistanceType$ ($propertyValue.divByLevel.precision1$ за уровень)"
     },
     "14061570623946294589": {
       "Variants": [],
@@ -5677,7 +5677,7 @@
         }
       ],
       "FlagsProduced": 65535,
-      "String": "Цена следующего ранга: $ModNextRankCost:0$ очков"
+      "String": "Стоимость след. ранга: $ModNextRankCost:0$ очков"
     },
     "14080881750395192645": {
       "Variants": [],
@@ -5922,7 +5922,7 @@
     "14094172621175391547": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Создаёт Адаптивный Реактор Старк Стражa — Уникальный предмет 3 ячейки 60 уровня для любого героя\n\n#emphasis#Адаптивный Реактор Старк Стражa#/emphasis#\n#emphasis#+Рейтинг урона#/emphasis#\n#emphasis#+Снижение урона#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#+Рейтинг защиты от ментального урона#/emphasis#\n#emphasis#+Сила#/emphasis#\n#emphasis#+Выносливость#/emphasis#\n#emphasis#Когда вы получаете урон по области, получаете 2% снижение урона по области на 6с#/emphasis#\n#emphasis#Когда вы получаете ближний урон, получаете 2% снижение ближнего урона на 6с#/emphasis#\n#emphasis#Когда вы получаете дальний урон, получаете 2% снижение дальнего урона на 6с#/emphasis#\n#emphasis#+Шанс игнорировать ментальный урон при атаке#/emphasis#\n#emphasis#+Регенерация здоровья в секунду#/emphasis#"
+      "String": "Создаёт Адаптивный Реактор Старк Стражa — Уникальный предмет 3 ячейки 60 уровня для любого героя\n\n#emphasis#Адаптивный Реактор Старк Стражa#/emphasis#\n#emphasis#+Рейтинг урона#/emphasis#\n#emphasis#+Снижение урона#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#+Рейтинг защиты от ментального урона#/emphasis#\n#emphasis#+Сила#/emphasis#\n#emphasis#+Выносливость#/emphasis#\n#emphasis#Когда вы получаете урон по области, получаете 2% снижение урона по области на 6с#/emphasis#\n#emphasis#Когда вы получаете ближний урон, получаете 2% снижение ближнего урона на 6с#/emphasis#\n#emphasis#Когда вы получаете дальний урон, получаете 2% снижение дальнего урона на 6с#/emphasis#\n#emphasis#+Шанс игнорировать ментальный урон при атаке#/emphasis#\n#emphasis#+Регенерация здоровья в сек#/emphasis#"
     },
     "14094412160039650577": {
       "Variants": [],
@@ -7603,7 +7603,7 @@
     "14171182896688596339": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс на выстрел обширным лазером Стража, наносящий $param1.power.summonentity.appliespowers0.condition0.damageovertimebaseUnmodified.mulby3.nofraction$ ед. энергетического урона в течение $param1.power.lifespan$ при попадании способностью дальнего боя."
+      "String": "$procchancestring$ шанс на выстрел обширным лазером Стража, наносящий $param1.power.summonentity.appliespowers0.condition0.damageovertimebaseUnmodified.mulby3.nofraction$ Энергетического урона в течение $param1.power.lifespan$ при попадании способностью дальнего боя."
     },
     "14172021759647876480": {
       "Variants": [],
@@ -7713,7 +7713,7 @@
     "14176370680318330235": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procChanceString$ шанс нанести находящимся перед вами врагам $param1.power.evalregisterfloat0.precision0$ ед. $param1.power.damageType.locflagG$ урона при попадании (перезарядка $param1.power.cooldown$)"
+      "String": "$procChanceString$ шанс нанести находящимся перед вами врагам $param1.power.evalregisterfloat0.precision0$ $param1.power.damageType.locflagG$ урона при попадании (перезарядка $param1.power.cooldown$)"
     },
     "14176375044000318836": {
       "Variants": [],
@@ -7988,7 +7988,7 @@
     "14190269130003580235": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Урон $damageTypeOverTime$: $damageRangeOverTime$#hidden# ($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# два раза в секунду"
+      "String": "Урон $damageTypeOverTime$: $damageRangeOverTime$#hidden# ($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# два раза в сек"
     },
     "14190502059014751597": {
       "Variants": [],
@@ -8013,7 +8013,7 @@
     "14191069780626638154": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType$ урон финального взрыва: $damage$ ед. #hidden#($damageRange.precision1.divByLevel$ ед. за уровень)#/hidden#"
+      "String": "$damageType$ урон финального взрыва: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#"
     },
     "14191204943243052357": {
       "Variants": [],
@@ -8674,7 +8674,7 @@
     "14222949737952052492": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Праведное безумие#/emphasis# - $damageType$ урон: $damage$ ед. #hidden#($damageRange.precision1.divByLevel$ ед. за уровень)#/hidden#"
+      "String": "#emphasis#Праведное безумие#/emphasis# - $damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#"
     },
     "14223148629364442438": {
       "Variants": [],
@@ -11327,7 +11327,7 @@
     "14361227816485717361": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$evalregisterfloat0.pct$% шанс восстановить $enduranceChangeBase$ ед. $primarymanabehaviorname.locflagG$ при попадании"
+      "String": "$evalregisterfloat0.pct$% шанс восстановить $enduranceChangeBase$ $primarymanabehaviorname.locflagG$ при попадании"
     },
     "14361568411686012271": {
       "Variants": [],
@@ -11362,7 +11362,7 @@
     "14363871549189522758": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Автоматически обстреливает шрапнелью находящихся рядом врагов 4 раза в секунду, если у вас есть 50 или более #debris#обломков#/debris#"
+      "String": "Автоматически обстреливает шрапнелью находящихся рядом врагов 4 раза в сек, если у вас есть 50 или более #debris#обломков#/debris#"
     },
     "14364079386880509188": {
       "Variants": [],
@@ -13150,7 +13150,7 @@
     "14447777678029817096": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Регенерирует $healingovertimebase.nofraction$ здоровья в секунду и получает +$MovementSpeedIncrPct.pct$% скорости движения, пока вы #powermechanic#невидимы#/powermechanic# или #powermechanic#в скрытности#/powermechanic#"
+      "String": "Регенерирует $healingovertimebase.nofraction$ здоровья в сек и получает +$MovementSpeedIncrPct.pct$% скорости движения, пока вы #powermechanic#невидимы#/powermechanic# или #powermechanic#в скрытности#/powermechanic#"
     },
     "14448461015983981895": {
       "Variants": [],
@@ -13290,7 +13290,7 @@
     "14454832020074661123": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстанавливает $param1.power.enduranceChangeBase$ ед. $primaryManaBehaviorName.locflagG$ после победы над врагом"
+      "String": "Восстанавливает $param1.power.enduranceChangeBase$ $primaryManaBehaviorName.locflagG$ после победы над врагом"
     },
     "14455046725618894194": {
       "Variants": [],
@@ -13520,7 +13520,7 @@
     "14470518383160788279": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ответный $damageType$ урон: $damage$ ед. #hidden#($damageRange.precision1.divByLevel$ ед. за уровень)#/hidden#"
+      "String": "Ответный $damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#"
     },
     "14471345069948536178": {
       "Variants": [],
@@ -13535,7 +13535,7 @@
     "14472357432267113739": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType$ урон финального взрыва: $damage$ ед. #hidden#($damageRange.precision1.divByLevel$ ед. за уровень)#/hidden#"
+      "String": "$damageType$ урон финального взрыва: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#"
     },
     "14472946238038410598": {
       "Variants": [],
@@ -15905,7 +15905,7 @@
     "14573043212538545513": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс воспламенить землю при попадании на $param1.power.lifespan$, нанося $param1.power.summonentity.appliespowers0.condition0.damageovertimebaseUnmodified.nofraction$ ед. энергетического урона каждую секунду."
+      "String": "$procchancestring$ шанс воспламенить землю при попадании на $param1.power.lifespan$, нанося $param1.power.summonentity.appliespowers0.condition0.damageovertimebaseUnmodified.nofraction$ Энергетического урона каждую секунду."
     },
     "14573050694382454132": {
       "Variants": [],
@@ -15970,7 +15970,7 @@
     "14576121561576899908": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Дает 1 #debris#Обломок#/debris# в секунду, а также дополнительно $evalregisterfloat0.precision0$ #debris#Обломков#/debris#, когда вы подбираете #debris#Сферу Обломков#/debris#"
+      "String": "Дает 1 #debris#Обломок#/debris# в сек, а также дополнительно $evalregisterfloat0.precision0$ #debris#Обломков#/debris#, когда вы подбираете #debris#Сферу Обломков#/debris#"
     },
     "14576183323138852102": {
       "Variants": [],
@@ -16575,7 +16575,7 @@
     "14603484579164194101": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Затраты #powermechanic#Фотонной энергии#/powermechanic#: 100"
+      "String": "Расход #powermechanic#Фотонной энергии#/powermechanic#: 100"
     },
     "14604046524098676027": {
       "Variants": [],
@@ -16585,7 +16585,7 @@
     "14604856232750351626": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Сразив противника, получите $param1.power.endurancechangebase$ ед. $primarymanabehaviorname.locflagG$."
+      "String": "Сразив противника, получите $param1.power.endurancechangebase$ $primarymanabehaviorname.locflagG$."
     },
     "14604960072297809263": {
       "Variants": [],
@@ -17547,7 +17547,7 @@
     "14650926405729322347": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$rateOfFire$ в секунду"
+      "String": "$rateOfFire$ в сек"
     },
     "14651429238964749627": {
       "Variants": [],
@@ -17627,7 +17627,7 @@
     "14655047078956041578": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Смерть с небес#/emphasis# - $damagetype$ урон: $damage$ ед. #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden#, провоцирует врагов на 2 секунды"
+      "String": "#emphasis#Смерть с небес#/emphasis# - $damagetype$ урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden#, провоцирует врагов на 2 секунды"
     },
     "14655146533114152218": {
       "Variants": [],
@@ -18182,7 +18182,7 @@
     "14684302879996249404": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$SecondaryManaBehaviorName$ Восстановлено:"
+      "String": "Восстановление $SecondaryManaBehaviorName$:"
     },
     "14684426424669308169": {
       "Variants": [],
@@ -18227,7 +18227,7 @@
     "14686299683311977797": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Доставка душ до квартиры#/emphasis# - $procChanceString$ шанс после победы над врагом получить +$param1.power.enduranceChangeBase$ ед. $primaryManaBehaviorName.locflagG$ и стать неуязвимым на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)."
+      "String": "#emphasis#Доставка душ до квартиры#/emphasis# - $procChanceString$ шанс после победы над врагом получить +$param1.power.enduranceChangeBase$ $primaryManaBehaviorName.locflagG$ и стать неуязвимым на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)."
     },
     "14686404995890283822": {
       "Variants": [],
@@ -19379,7 +19379,7 @@
     "14742313654645163328": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы побеждаете другого игрока, вы и ближайшие союзники восстанавливаете $param1.power.onpowerstartpower.condition0.healingovertimebase.nofraction$ здоровья в секунду на протяжении $param1.power.onpowerstartpower.condition0.duration$"
+      "String": "Когда вы побеждаете другого игрока, вы и ближайшие союзники восстанавливаете $param1.power.onpowerstartpower.condition0.healingovertimebase.nofraction$ здоровья в сек на протяжении $param1.power.onpowerstartpower.condition0.duration$"
     },
     "14742506352588031245": {
       "Variants": [],
@@ -19404,7 +19404,7 @@
     "14742998521475302664": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageTypeOverTime$ урон: $damageRangeOverTime$ ед.#hidden# ($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# дважды в секунду в течение $duration$, детонирует взрыв, когда заканчивается действие или когда цель побеждена (независимо от длительности способности)"
+      "String": "$damageTypeOverTime$ урон: $damageRangeOverTime$#hidden# ($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# дважды в сек в течение $duration$, детонирует взрыв, когда заканчивается действие или когда цель побеждена (независимо от длительности способности)"
     },
     "14743253565341435242": {
       "Variants": [],
@@ -20704,7 +20704,7 @@
     "14808754797254804793": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ионная Защитная Аура:\nПри использовании Передвижения, вы и ваши союзники получаете +$param1.power.condition0.damageratingbonusbytype.nofraction$ Физического и Энергетического Рейтинга Урона, $param1.power.condition0.movementspeedincrpct.pct$% Увеличение Скорости Движения и +$param1.power.condition0.healingovertimebase.nofraction$ Регенерации Здоровья в секунду на протяжении $param1.power.condition0.duration$."
+      "String": "Ионная Защитная Аура:\nПри использовании Передвижения, вы и ваши союзники получаете +$param1.power.condition0.damageratingbonusbytype.nofraction$ Физического и Энергетического Рейтинга Урона, $param1.power.condition0.movementspeedincrpct.pct$% Увеличение Скорости Движения и +$param1.power.condition0.healingovertimebase.nofraction$ Регенерации Здоровья в сек на протяжении $param1.power.condition0.duration$."
     },
     "14808817168710632712": {
       "Variants": [],
@@ -20794,7 +20794,7 @@
     "14811990775880418568": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "После удачного применения ментальной способности вы получаете +$param1.power.condition0.damageRating.noFraction$ Рейтинг урона на $param1.power.condition0.duration$ и восстанавливаете $param1.power.onPowerHitPower0.enduranceChangeBase.noFraction$ ед. духа (перезарядка - $param1.power.cooldown$)"
+      "String": "После удачного применения ментальной способности вы получаете +$param1.power.condition0.damageRating.noFraction$ Рейтинг урона на $param1.power.condition0.duration$ и восстанавливаете $param1.power.onPowerHitPower0.enduranceChangeBase.noFraction$ Духа (перезарядка - $param1.power.cooldown$)"
     },
     "14812161045640971601": {
       "Variants": [],
@@ -21614,7 +21614,7 @@
     "14848863499676157247": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#red#Постоянный расход: $endurancecostrecurring$ ед. $primarymanabehaviorname.locflagG$ в секунду#/red#"
+      "String": "#red#Постоянный расход: $endurancecostrecurring$ $primarymanabehaviorname.locflagG$ в сек#/red#"
     },
     "14848880868461380874": {
       "Variants": [],
@@ -22140,7 +22140,7 @@
     "14879701369163351369": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Союзники становятся #teambuff#Защищёнными#/teambuff#, что защищает их от $damageShieldPercent.pct$% входящего урона и восстанавливает $healingovertimebasepct.pct$% их максимального здоровья в секунду на протяжении $duration$ (Союзники не могут быть #orange#Защищёнными#/orange# снова в течение 30 секунд)"
+      "String": "Союзники становятся #teambuff#Защищёнными#/teambuff#, что защищает их от $damageShieldPercent.pct$% входящего урона и восстанавливает $healingovertimebasepct.pct$% их максимального здоровья в сек на протяжении $duration$ (Союзники не могут быть #orange#Защищёнными#/orange# снова в течение 30 секунд)"
     },
     "14879973725913875770": {
       "Variants": [],
@@ -22336,7 +22336,7 @@
     "14887167727349204224": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Раскалывающий взрывной $damageType.locflagG$ урон: $damage$ ед. #hidden#($damageRange.precision1.divByLevel$ ед. за каждый уровень)#/hidden#"
+      "String": "Раскалывающий взрывной $damageType.locflagG$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#"
     },
     "14887221131039802683": {
       "Variants": [],
@@ -22576,7 +22576,7 @@
     "14899301259213735297": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы используете свою Коронную способность, вы и ваши союзники получаете +1 ко всем атрибутам на $param1.power.condition0.duration$ ($param1.power.cooldown$ перезарядка), а также:\nПолучите +2 Энергии и восстанавливайте $param1.power.onpowerstartpower0.condition0.healingovertimebase.nofraction$ Здоровья в секунду как #orange#Человек-Факел#/orange#\nПолучите +2 Энергии и $param1.power.onpowerstartpower1.condition0.DodgeRatingBonusAdd.nofraction$ Рейтинг Уклонения как #blue#Женщина-Невидимка#/blue#\nПолучите +6 Интеллекта и $param1.power.onpowerstartpower2.condition0.defense.nofraction$ Рейтинг Защиты как #blue#Мистер Фантастик#/blue#\nПолучите +2 Битвы и $param1.power.onpowerstartpower3.condition0.BlockRatingBonusAdd.nofraction$ Рейтинг Отражения как #brown#Каменный Человек#/brown#"
+      "String": "Когда вы используете свою Коронную способность, вы и ваши союзники получаете +1 ко всем атрибутам на $param1.power.condition0.duration$ ($param1.power.cooldown$ перезарядка), а также:\nПолучите +2 Энергии и восстанавливайте $param1.power.onpowerstartpower0.condition0.healingovertimebase.nofraction$ Здоровья в сек как #orange#Человек-Факел#/orange#\nПолучите +2 Энергии и $param1.power.onpowerstartpower1.condition0.DodgeRatingBonusAdd.nofraction$ Рейтинг Уклонения как #blue#Женщина-Невидимка#/blue#\nПолучите +6 Интеллекта и $param1.power.onpowerstartpower2.condition0.defense.nofraction$ Рейтинг Защиты как #blue#Мистер Фантастик#/blue#\nПолучите +2 Битвы и $param1.power.onpowerstartpower3.condition0.BlockRatingBonusAdd.nofraction$ Рейтинг Отражения как #brown#Каменный Человек#/brown#"
     },
     "14899590125695468814": {
       "Variants": [],
@@ -24232,7 +24232,7 @@
     "14980974133960246636": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Река души#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые имеющиеся рунные слова с предмета и привязывая его к вашей учетной записи.\n\nРека души 50 уровня дает:\n#emphasis#+60 ед. духа#/emphasis#\n#emphasis#Восстановление 6 ед. духа при попадании#/emphasis#\n#emphasis#+6% к длительности способностей#/emphasis#\n#emphasis#6% снижение стоимости способностей#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы Духа и восстановлению духа при попадании."
+      "String": "Добавляет рунное слово #emphasis#Река души#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые имеющиеся рунные слова с предмета и привязывая его к вашей учетной записи.\n\nРека души 50 уровня дает:\n#emphasis#+60 Духа#/emphasis#\n#emphasis#Восстановление 6 Духа при попадании#/emphasis#\n#emphasis#+6% к длительности способностей#/emphasis#\n#emphasis#6% снижение стоимости способностей#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы Духа и восстановлению духа при попадании."
     },
     "14981268158707860742": {
       "Variants": [],
@@ -25035,7 +25035,7 @@
     "15016419206206653755": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procChanceString$ шанс восстановить $param1.power.EnduranceChangeBase$ ед. $primaryManaBehaviorName.locflagG$ после удачного применения $param2.keyword.locflagP2G$, если величина $primaryManaBehaviorName.locflagG$ меньше 50% от максимума"
+      "String": "$procChanceString$ шанс восстановить $param1.power.EnduranceChangeBase$ $primaryManaBehaviorName.locflagG$ после удачного применения $param2.keyword.locflagP2G$, если величина $primaryManaBehaviorName.locflagG$ меньше 50% от максимума"
     },
     "15016645993310455058": {
       "Variants": [],
@@ -25176,7 +25176,7 @@
     "15021634035238896958": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageTypeOverTime$ урон:  $damageRangeOverTime$ ед. #hidden#($damageRangeOverTime.precision1.divByLevel$ ед. за каждый уровень)#/hidden# 2 раза в секунду на $duration$, если вы нанесли Критический удар"
+      "String": "$damageTypeOverTime$ урон:  $damageRangeOverTime$ #hidden#($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# 2 раза в сек на $duration$, если вы нанесли Критический удар"
     },
     "15021953348932076902": {
       "Variants": [],
@@ -25206,7 +25206,7 @@
     "15023516871525074178": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при попадании швырнуть в цель кусок бетона, нанося $param1.power.missilecollidepower.damage.nofraction$ ед. ментального урона (перезарядка - 30 секунд)"
+      "String": "$procchancestring$ шанс при попадании швырнуть в цель кусок бетона, нанося $param1.power.missilecollidepower.damage.nofraction$ Ментального урона (перезарядка - 30 секунд)"
     },
     "15024586868217939276": {
       "Variants": [],
@@ -25571,7 +25571,7 @@
     "15041310306914141494": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Агент с пулеметом#/emphasis# - урон ($DamageTypeOverTime$): $DamageRangeOverTime$ ед. #hidden# ($DamageRangeOverTime.precision1.divByLevel$ ед. за каждый уровень)#/hidden# 2 раза в секунду"
+      "String": "#emphasis#Агент с пулеметом#/emphasis# - урон ($DamageTypeOverTime$): $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# 2 раза в сек"
     },
     "15041441814463055113": {
       "Variants": [],
@@ -25696,7 +25696,7 @@
     "15047145754374243598": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ ед. #hidden#($damageRange.divByLevel$ ед. за каждый уровень) #/hidden#при уклонении в ближнем бою"
+      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.divByLevel$ за уровень) #/hidden#при уклонении в ближнем бою"
     },
     "15047286676601374013": {
       "Variants": [],
@@ -26372,7 +26372,7 @@
     "15074091769364940098": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при попадании психически атаковать врагов вокруг вас на 5,000 ментального урона дважды в секунду в течение $param1.power.condition0.duration$ (перезарядка 5 секунд)"
+      "String": "$procchancestring$ шанс при попадании психически атаковать врагов вокруг вас на 5,000 ментального урона дважды в сек в течение $param1.power.condition0.duration$ (перезарядка 5 секунд)"
     },
     "15074384999597671685": {
       "Variants": [],
@@ -26818,7 +26818,7 @@
     "15097233362387797310": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Смерть с небес#/emphasis# - $damageType$ урон: $damage$ ед. #hidden#($damageRange.precision1.divByLevel$ ед. за уровень)#/hidden#"
+      "String": "#emphasis#Смерть с небес#/emphasis# - $damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#"
     },
     "15098042637295027503": {
       "Variants": [],
@@ -26898,7 +26898,7 @@
     "15100818543397766473": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden# за ракету (6 ракет в секунду)"
+      "String": "$damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden# за ракету (6 ракет в сек)"
     },
     "15100874485332641078": {
       "Variants": [],
@@ -28290,7 +28290,7 @@
     "15159873527668606272": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон противнику: $damage$ ед. #hidden# ($damageRange.divByLevel$ за каждый уровень)#/hidden#, если вас атакуют в ближнем бою"
+      "String": "$damageType.capitalize$ урон противнику: $damage$ #hidden# ($damageRange.divByLevel$ за каждый уровень)#/hidden#, если вас атакуют в ближнем бою"
     },
     "15160093228131747137": {
       "Variants": [],
@@ -28838,7 +28838,7 @@
     "15184396107299554624": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Наёмник#/emphasis# урон Хоум-ран: $damage$ ед. #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden#"
+      "String": "#emphasis#Наёмник#/emphasis# урон Хоум-ран: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden#"
     },
     "15184460063665489222": {
       "Variants": [],
@@ -29874,7 +29874,7 @@
     "15236507100118320443": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procChanceString$ шанс при нанесении энергетического урона поджечь противника, нанося $param1.power.condition0.damageOverTimeBaseUnmodified.noFraction$ ед. энергетического урона 2 раза в секунду в течение $param1.power.condition0.duration$."
+      "String": "$procChanceString$ шанс при нанесении энергетического урона поджечь противника, нанося $param1.power.condition0.damageOverTimeBaseUnmodified.noFraction$ Энергетического урона 2 раза в сек в течение $param1.power.condition0.duration$."
     },
     "15236728922232849669": {
       "Variants": [],
@@ -30675,7 +30675,7 @@
     "15277918818309965121": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.abs.noFraction$ Здоровья ($propertyValue.divByLevel.precision1$ ед. за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.abs.noFraction$ Здоровья ($propertyValue.divByLevel.precision1$ за уровень)"
     },
     "15277955557529290107": {
       "Variants": [],
@@ -31611,7 +31611,7 @@
     "15321097481739765051": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$DamageTypeOverTime.capitalize$ урон: $DamageRangeOverTime$ ед. #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень)#/hidden# 2 раза в секунду в течение $duration$ при попадании способностью ближнего боя"
+      "String": "$DamageTypeOverTime.capitalize$ урон: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень)#/hidden# 2 раза в сек в течение $duration$ при попадании способностью ближнего боя"
     },
     "15321493469141534020": {
       "Variants": [],
@@ -32023,7 +32023,7 @@
     "15334833160812561723": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Наносит атакующему $param1.power.damage.noFraction$ ед. $param1.power.damageType.locflagG$ урона после удачной атаки врага"
+      "String": "Наносит атакующему $param1.power.damage.noFraction$ $param1.power.damageType.locflagG$ урона после удачной атаки врага"
     },
     "15335190712677434787": {
       "Variants": [],
@@ -32503,7 +32503,7 @@
     "15352886699360191801": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType$ урон: $damage$ ед.#hidden# ($damageRange.divByLevel.precision1$ ед. за каждый уровень)#/hidden# в конце рывка"
+      "String": "$damageType$ урон: $damage$#hidden# ($damageRange.divByLevel.precision1$ за уровень)#/hidden# в конце рывка"
     },
     "15352994713565201784": {
       "Variants": [],
@@ -32553,7 +32553,7 @@
     "15355697081205851499": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#optional#Затраты ярости: $SecondaryResourceCostPips$#/optional#"
+      "String": "#optional#Расход Ярости: $SecondaryResourceCostPips$#/optional#"
     },
     "15355930521207702840": {
       "Variants": [],
@@ -33195,7 +33195,7 @@
     "15379965656421893446": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Лунное затмение#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+1000 Рейтинг защиты#/emphasis#\n#emphasis#+100 Рейтинг уклонения#/emphasis#\n#emphasis#При уклонении получите 1000 Рейтинг критического удара на 2 секунды (перезарядка 10 с)#/emphasis#\n#emphasis#Восстановление 10 ед. духа при критическом попадании (перезарядка 2 с)#/emphasis#\n#emphasis#Ваш герой становится невидимым на 5 с, если уровень здоровья падает ниже 20% (перезарядка 20 с)#/emphasis#\n\nПредметы 25 уровня получают половину бонуса к рейтингам защиты, уклонения и крит. удара."
+      "String": "Добавляет рунное слово #emphasis#Лунное затмение#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+1000 Рейтинг защиты#/emphasis#\n#emphasis#+100 Рейтинг уклонения#/emphasis#\n#emphasis#При уклонении получите 1000 Рейтинг критического удара на 2 секунды (перезарядка 10 с)#/emphasis#\n#emphasis#Восстановление 10 Духа при критическом попадании (перезарядка 2 с)#/emphasis#\n#emphasis#Ваш герой становится невидимым на 5 с, если уровень здоровья падает ниже 20% (перезарядка 20 с)#/emphasis#\n\nПредметы 25 уровня получают половину бонуса к рейтингам защиты, уклонения и крит. удара."
     },
     "15380191305343304964": {
       "Variants": [],
@@ -33495,7 +33495,7 @@
     "15394153415098959115": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageTypeOverTime$ урон: $damageRangeOverTime$ ед.#hidden# ($damageRangeOverTime.precision1.divByLevel$ ед. за уровень)#/hidden# дважды в секунду (складывается с эффектом длительного урона, который наносят #emphasis#$powerReference0.powerName$#/emphasis# и #emphasis#$powerReference1.powerName$#/emphasis#)"
+      "String": "$damageTypeOverTime$ урон: $damageRangeOverTime$#hidden# ($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# дважды в сек (складывается с эффектом длительного урона, который наносят #emphasis#$powerReference0.powerName$#/emphasis# и #emphasis#$powerReference1.powerName$#/emphasis#)"
     },
     "15394411044591109522": {
       "Variants": [],
@@ -34235,7 +34235,7 @@
     "15432566941230499134": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановление $EnduranceChangeBase$ ед. $primarymanabehaviorname.locflagG$ при #powermechanic#Уклонении#/powermechanic# от атаки"
+      "String": "Восстановление $EnduranceChangeBase$ $primarymanabehaviorname.locflagG$ при #powermechanic#Уклонении#/powermechanic# от атаки"
     },
     "15433092812667225352": {
       "Variants": [],
@@ -34615,7 +34615,13 @@
       "String": "Психическое Копьё"
     },
     "15448454059621877060": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709547519,
+          "FlagsProduced": 65535,
+          "String": "#solar#Солнечной энергии#/solar#"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "#solar#Солнечная энергия#/solar#"
     },
@@ -34637,7 +34643,7 @@
     "15449792745103361360": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получите 1000 здоровья в секунду в течение 10 секунд, когда ваше здоровье опускается ниже 40% (30 секунд перезарядки)"
+      "String": "Получите 1000 здоровья в сек в течение 10 секунд, когда ваше здоровье опускается ниже 40% (30 секунд перезарядки)"
     },
     "15450110886204867906": {
       "Variants": [],
@@ -36724,7 +36730,7 @@
     "15549460592225486145": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при попадании увеличиться в размерах, получая $param1.power.condition0.damagerating.nofraction$ Рейтинг урона и $param1.power.condition0.defense.nofraction$ ед. к защите на $param1.power.condition0.duration$ (перезарядка - 15 секунд)"
+      "String": "$procchancestring$ шанс при попадании увеличиться в размерах, получая $param1.power.condition0.damagerating.nofraction$ Рейтинг урона и $param1.power.condition0.defense.nofraction$ к защите на $param1.power.condition0.duration$ (перезарядка - 15 секунд)"
     },
     "15549812629216232763": {
       "Variants": [],
@@ -37169,7 +37175,7 @@
     "15568408841174582587": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ ед. #hidden#($damageRange.precision1.divByLevel$ ед. за каждый уровень)#/hidden#при блокировании"
+      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#при блокировании"
     },
     "15568586700137760122": {
       "Variants": [],
@@ -37179,7 +37185,7 @@
     "15568669184859833616": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получите #emphasis#Незаметность#/emphasis# и восстанавливайте $healingOverTimeBase.noFraction$ здоровья в секунду вне боя"
+      "String": "Получите #emphasis#Незаметность#/emphasis# и восстанавливайте $healingOverTimeBase.noFraction$ здоровья в сек вне боя"
     },
     "15568840373722547522": {
       "Variants": [],
@@ -37349,7 +37355,7 @@
     "15576429971708118274": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс, когда вас атакуют, выпустить струю огня, которая наносит врагам $param1.power.oncontacttimepower0.missilecollidepower.damage$ ед. энергетического урона (перезарядка - 30 секунд)"
+      "String": "$procchancestring$ шанс, когда вас атакуют, выпустить струю огня, которая наносит врагам $param1.power.oncontacttimepower0.missilecollidepower.damage$ Энергетического урона (перезарядка - 30 секунд)"
     },
     "15576726509200082236": {
       "Variants": [],
@@ -38285,7 +38291,7 @@
     "15614170811481785667": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Халкбастер#/emphasis# - $damagetype$ урон: $damage$ ед. #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden# за каждый удар"
+      "String": "#emphasis#Халкбастер#/emphasis# - $damagetype$ урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden# за каждый удар"
     },
     "15614241210214319355": {
       "Variants": [],
@@ -38426,7 +38432,7 @@
     "15620575625564849420": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы восстанавливаете $param1.power.healing$ Здоровья и $param1.power.endurancechangebase$ ед. $primarymanabehaviorname.locflagG$, используя Лазерное бурение (перезарядка - 2 секунды)"
+      "String": "Вы восстанавливаете $param1.power.healing$ Здоровья и $param1.power.endurancechangebase$ $primarymanabehaviorname.locflagG$, используя Лазерное бурение (перезарядка - 2 секунды)"
     },
     "15621123044984096073": {
       "Variants": [],
@@ -39001,7 +39007,7 @@
     "15650381942683206923": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Затраты космической силы: $SecondaryResourceCost$"
+      "String": "Расход Космической силы: $SecondaryResourceCost$"
     },
     "15650515108148479249": {
       "Variants": [],
@@ -39041,7 +39047,7 @@
     "15652110628478387559": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$primarymanabehaviorname$: $EnduranceCost$ ед. за попадание"
+      "String": "Расход $primarymanabehaviorname.locflagG$: $EnduranceCost$ за удар"
     },
     "15652432166919406960": {
       "Variants": [],
@@ -39136,7 +39142,7 @@
     "15658539417072567607": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Утечка духа#/emphasis# - $damagetype$ урон: $damage$ ед. #hidden#($damagerange.precision1.divbylevel$ ед. за каждый уровень)#/hidden#"
+      "String": "#emphasis#Утечка духа#/emphasis# - $damagetype$ урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за уровень)#/hidden#"
     },
     "15658673385630205184": {
       "Variants": [],
@@ -39291,7 +39297,7 @@
     "15665840341733999888": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$evalregisterfloat4.nofraction$ в секунду"
+      "String": "$evalregisterfloat4.nofraction$ в сек"
     },
     "15665852075579409673": {
       "Variants": [],
@@ -40058,7 +40064,7 @@
     "15704793199798060362": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powerreference0.powername$#/powername# восстанавливает $evalregisterfloat0.pct$% вашего максимального $primarymanabehaviorname$ в секунду, пока активно"
+      "String": "#powername#$powerreference0.powername$#/powername# восстанавливает $evalregisterfloat0.pct$% вашего максимального $primarymanabehaviorname$ в сек, пока активно"
     },
     "15705104322922546489": {
       "Variants": [],
@@ -40799,7 +40805,7 @@
     "15741671369612920189": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$PrimaryManaBehaviorName$ восстанавливается на $param1.power.evalRegisterInt0$ ед. после удачного применения $param2.keyword.locflagP2G$"
+      "String": "$PrimaryManaBehaviorName$ восстанавливается на $param1.power.evalRegisterInt0$ после удачного применения $param2.keyword.locflagP2G$"
     },
     "15742306797122291049": {
       "Variants": [],
@@ -41485,7 +41491,7 @@
     "15777598062371734905": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$secondaryresourceoverride.manabehaviorname$ разлагается со скоростью $powerReference3.condition0.secondaryResourceCOTBase.abs$ в секунду, а зарабатывание большего количества продлевает длительность #clobberintime#Время крушить!#/clobberintime#"
+      "String": "$secondaryresourceoverride.manabehaviorname$ разлагается со скоростью $powerReference3.condition0.secondaryResourceCOTBase.abs$ в сек, а зарабатывание большего количества продлевает длительность #clobberintime#Время крушить!#/clobberintime#"
     },
     "15777682612974060817": {
       "Variants": [],
@@ -41860,7 +41866,7 @@
     "15799471308539626818": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс создать ядовитое облако вокруг цели, наносящее $param1.power.summonentity.appliespowers0.condition0.damageovertimebaseUnmodified.nofraction$ Энергетического урона в секунду в течение $param1.power.lifespan$ при попадании"
+      "String": "$procchancestring$ шанс создать ядовитое облако вокруг цели, наносящее $param1.power.summonentity.appliespowers0.condition0.damageovertimebaseUnmodified.nofraction$ Энергетического урона в сек в течение $param1.power.lifespan$ при попадании"
     },
     "15800053233653318969": {
       "Variants": [],
@@ -42087,7 +42093,7 @@
     "15808929389100205316": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановление $EnduranceCOTBase$ ед. $primarymanabehaviorname.locflagG$ в секунду, если не используются способности, расходующие $primarymanabehaviorname.uncapitalize$"
+      "String": "Восстановление $EnduranceCOTBase$ $primarymanabehaviorname.locflagG$ в сек, если не используются способности, расходующие $primarymanabehaviorname.uncapitalize$"
     },
     "15809148273536730396": {
       "Variants": [],
@@ -43148,7 +43154,7 @@
     "15854358830211663166": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#teambuff#Быстрое исцеление#/teambuff# - Исцеление 20% от вашего максимального здоровья в секунду"
+      "String": "#teambuff#Быстрое исцеление#/teambuff# - Исцеление 20% от вашего максимального здоровья в сек"
     },
     "15854448457666528638": {
       "Variants": [],
@@ -43734,7 +43740,7 @@
     "15881686586136462659": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс, когда вы наносите урон, чтобы сжечь вашу цель на $param1.power.condition0.damageovertimebaseunmodified.nofraction$ Энергетического урона дважды в секунду на протяжении $param1.power.condition0.duration$"
+      "String": "$procchancestring$ шанс, когда вы наносите урон, чтобы сжечь вашу цель на $param1.power.condition0.damageovertimebaseunmodified.nofraction$ Энергетического урона дважды в сек на протяжении $param1.power.condition0.duration$"
     },
     "15881860794241451278": {
       "Variants": [],
@@ -43899,7 +43905,7 @@
     "15890394301618062665": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Наследие Валькирии#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+200 Рейтинг урона в дальнем бою#/emphasis#\n#emphasis#+200 Рейтинг урона в ближнем бою#/emphasis#\n#emphasis#+20 опыта за каждого убитого врага#/emphasis#\n#emphasis#Восстановление 2 Здоровья и 2 ед. духа при попадании#/emphasis#\n\nПредметы 25 уровня получают половину бонуса к рейтингам урона в ближнем и дальнем бою."
+      "String": "Добавляет рунное слово #emphasis#Наследие Валькирии#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+200 Рейтинг урона в дальнем бою#/emphasis#\n#emphasis#+200 Рейтинг урона в ближнем бою#/emphasis#\n#emphasis#+20 опыта за каждого убитого врага#/emphasis#\n#emphasis#Восстановление 2 Здоровья и 2 Духа при попадании#/emphasis#\n\nПредметы 25 уровня получают половину бонуса к рейтингам урона в ближнем и дальнем бою."
     },
     "15890399030429549935": {
       "Variants": [],
@@ -44613,7 +44619,7 @@
     "15919376998681871728": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#optional#Затраты мести: $secondaryresourcecost$ за пораженную цель#/optional#"
+      "String": "#optional#Расход Мести: $secondaryresourcecost$ за пораженную цель#/optional#"
     },
     "15919412200231273836": {
       "Variants": [],
@@ -44944,7 +44950,7 @@
     "15935060355122267418": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 50:\n+20 ед. $PrimaryManaBehaviorName.locflagG$"
+      "String": "Уровень 50:\n+20 $PrimaryManaBehaviorName.locflagG$"
     },
     "15935092820823704886": {
       "Variants": [],
@@ -45742,7 +45748,7 @@
     "15970617839651783988": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Агент с пулеметом#/emphasis# - урон ($DamageTypeOverTime$): $DamageRangeOverTime$ ед. #hidden# ($DamageRangeOverTime.precision1.divByLevel$ ед. за каждый уровень)#/hidden# 2 раза в секунду"
+      "String": "#emphasis#Агент с пулеметом#/emphasis# - урон ($DamageTypeOverTime$): $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# 2 раза в сек"
     },
     "15970695617152353534": {
       "Variants": [],
@@ -46523,7 +46529,7 @@
     "16004570690004256059": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#bionic#Короткий ход курка:#/bionic# При каждом выстреле вы восстанавливате дополнительно 2 ед. $primarymanabehaviorname.locflagG$"
+      "String": "#bionic#Короткий ход курка:#/bionic# При каждом выстреле вы восстанавливате дополнительно 2 $primarymanabehaviorname.locflagG$"
     },
     "16004579954190386442": {
       "Variants": [],
@@ -46888,7 +46894,7 @@
     "16017256782147552569": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановление $endurancechangebase$ ед. $primarymanabehaviorname.locflagG$, когда вы победите врага"
+      "String": "Восстановление $endurancechangebase$ $primarymanabehaviorname.locflagG$, когда вы победите врага"
     },
     "16017398404349822226": {
       "Variants": [],
@@ -47154,7 +47160,7 @@
     "16028955684658545984": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстанавливает $healingOverTimeBasePct$% максимального здоровья в секунду на протяжении $duration$, когда ваше здоровье ниже 40% от максимума ($cooldown$ время перезарядки)"
+      "String": "Восстанавливает $healingOverTimeBasePct$% максимального здоровья в сек на протяжении $duration$, когда ваше здоровье ниже 40% от максимума ($cooldown$ время перезарядки)"
     },
     "16029372339374261517": {
       "Variants": [],
@@ -47174,7 +47180,7 @@
     "16029766303835030791": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType$ урон в ближнем бою: $damage$ ед. #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#"
+      "String": "$damageType$ урон в ближнем бою: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#"
     },
     "16029952207209235729": {
       "Variants": [],
@@ -47394,7 +47400,7 @@
     "16038095009982383413": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при нанесении энергетического урона поджечь противника, нанося $param1.power.condition0.damageovertimebaseunmodified.mulby3.nofraction$ ед. энергетического урона в течение $param1.power.condition0.duration$."
+      "String": "$procchancestring$ шанс при нанесении энергетического урона поджечь противника, нанося $param1.power.condition0.damageovertimebaseunmodified.mulby3.nofraction$ Энергетического урона в течение $param1.power.condition0.duration$."
     },
     "16038254851438937363": {
       "Variants": [],
@@ -47824,7 +47830,7 @@
     "16057944789747107119": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageTypeOverTime$ Урон: $damageRangeOverTime$#hidden# ($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# дважды в секунду #cyan#(предоставляется $powerReference0.powerName$)#/cyan#"
+      "String": "$damageTypeOverTime$ Урон: $damageRangeOverTime$#hidden# ($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# дважды в сек #cyan#(предоставляется $powerReference0.powerName$)#/cyan#"
     },
     "16058006100418626879": {
       "Variants": [],
@@ -48114,7 +48120,7 @@
     "16071003732319405383": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Потомство симбиота#/emphasis# - $damagetype$ урон: $damage$ ед. #hidden#($damagerange.precision1.divbylevel$ ед. за уровень)#/hidden#"
+      "String": "#emphasis#Потомство симбиота#/emphasis# - $damagetype$ урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за уровень)#/hidden#"
     },
     "16071161168630842685": {
       "Variants": [],
@@ -48209,7 +48215,7 @@
     "16075804616637089043": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$primarymanabehaviorname2$ Восстановлено:"
+      "String": "Восстановление $primarymanabehaviorname2$:"
     },
     "16075973778272093503": {
       "Variants": [],
@@ -48399,7 +48405,7 @@
     "16085693538314487054": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powername$#/powername# $condition0.damageTypeOverTime$ Урон: $condition0.damageRangeOverTime$#hidden# ($condition0.damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# дважды в секунду на протяжении $condition0.duration$ #cyan#(предоставляется $powerReference0.powerName$)#/cyan#"
+      "String": "#powername#$powername$#/powername# $condition0.damageTypeOverTime$ Урон: $condition0.damageRangeOverTime$#hidden# ($condition0.damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# дважды в сек на протяжении $condition0.duration$ #cyan#(предоставляется $powerReference0.powerName$)#/cyan#"
     },
     "16085734490881918268": {
       "Variants": [],
@@ -48549,7 +48555,7 @@
     "16094001778939921722": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Используйте $endurancecost$ ед. $primarymanabehaviorname.locflagG$ для нанесения $condition0.DamageRangeOverTime$ ед. $condition0.DamageTypeOverTime.locflagG$ урона 2 раза в секунду в течение $condition0.duration$"
+      "String": "Используйте $endurancecost$ $primarymanabehaviorname.locflagG$ для нанесения $condition0.DamageRangeOverTime$ $condition0.DamageTypeOverTime.locflagG$ урона 2 раза в сек в течение $condition0.duration$"
     },
     "16094306554054575367": {
       "Variants": [],
@@ -49307,7 +49313,7 @@
     "16126348289986987275": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Используйте $endurancecost$ ед. $primarymanabehaviorname.locflagG$, чтобы увеличить урон на $evalregisterfloat0.pct$%"
+      "String": "Используйте $endurancecost$ $primarymanabehaviorname.locflagG$, чтобы увеличить урон на $evalregisterfloat0.pct$%"
     },
     "16126435215824192772": {
       "Variants": [],
@@ -49662,7 +49668,7 @@
     "16144195695869887752": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procChanceString$ шанс нанести находящимся рядом врагам $param1.power.evalRegisterFloat0.precision0$ ед. физического урона в течение $param1.power.condition0.duration$, если враг нанес урон вам (перезарядка - $param1.power.cooldown$)"
+      "String": "$procChanceString$ шанс нанести находящимся рядом врагам $param1.power.evalRegisterFloat0.precision0$ Физического урона в течение $param1.power.condition0.duration$, если враг нанес урон вам (перезарядка - $param1.power.cooldown$)"
     },
     "16144547277596263687": {
       "Variants": [],
@@ -49912,7 +49918,7 @@
     "16158388986646168933": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "После удачной атаки вы с вероятностью $procChanceString$ наносите врагу $param1.power.Damage.precision0$ ед. энергетического урона"
+      "String": "После удачной атаки вы с вероятностью $procChanceString$ наносите врагу $param1.power.Damage.precision0$ Энергетического урона"
     },
     "16158934675015468305": {
       "Variants": [],
@@ -50578,7 +50584,7 @@
     "16192506737848157447": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "После удачной атаки вы теряете $param1.power.evalRegisterFloat5.pct$% имеющегося здоровья ($param1.power.evalRegisterFloat0.precision0$ ед.)"
+      "String": "После удачной атаки вы теряете $param1.power.evalRegisterFloat5.pct$% имеющегося здоровья ($param1.power.evalRegisterFloat0.precision0$)"
     },
     "16192695488898336108": {
       "Variants": [],
@@ -51204,7 +51210,7 @@
     "16222288883017516399": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Сразив противника, получите $param1.power.enduranceChangeBase.precision0$ ед. $primaryManaBehaviorName.locflagG$ и $param1.power.healing.precision0$ Здоровья."
+      "String": "Сразив противника, получите $param1.power.enduranceChangeBase.precision0$ $primaryManaBehaviorName.locflagG$ и $param1.power.healing.precision0$ Здоровья."
     },
     "16222300097175422317": {
       "Variants": [],
@@ -52571,7 +52577,7 @@
     "16285091771661878594": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс создать при попадании в цель взрыв магмы, нанося 6 000 ед. энергетического урона"
+      "String": "$procchancestring$ шанс создать при попадании в цель взрыв магмы, нанося 6 000 Энергетического урона"
     },
     "16285240785546708282": {
       "Variants": [],
@@ -53366,7 +53372,7 @@
     "16322216794599589136": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при попадании пустить противнику кровь, нанося $param1.power.condition0.DamageOverTimeBaseUnmodified.mulby3.nofraction$ ед. физического урона в течение $param1.power.condition0.duration$."
+      "String": "$procchancestring$ шанс при попадании пустить противнику кровь, нанося $param1.power.condition0.DamageOverTimeBaseUnmodified.mulby3.nofraction$ Физического урона в течение $param1.power.condition0.duration$."
     },
     "16322281459750536567": {
       "Variants": [],
@@ -53746,7 +53752,7 @@
     "16344402967912383804": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы наносите $param1.power.damage$ ед. физического урона противнику при уклонении."
+      "String": "Вы наносите $param1.power.damage$ Физического урона противнику при уклонении."
     },
     "16344703186127553851": {
       "Variants": [],
@@ -54056,7 +54062,7 @@
     "16362739115256907029": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Если ваш уровень здоровья падает ниже 50%, вы восстанавливаете $param1.power.evalRegisterFloat0$ Здоровья в секунду в течение $param1.power.condition0.duration$ (перезарядка - $param1.power.cooldown$)"
+      "String": "Если ваш уровень здоровья падает ниже 50%, вы восстанавливаете $param1.power.evalRegisterFloat0$ Здоровья в сек в течение $param1.power.condition0.duration$ (перезарядка - $param1.power.cooldown$)"
     },
     "16362914229710685498": {
       "Variants": [],
@@ -54282,7 +54288,7 @@
     "16371800139034526986": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#power#+300 ед. к восстановлению духа за стек#/power#"
+      "String": "#power#+300 к восстановлению духа за стек#/power#"
     },
     "16371896518157272377": {
       "Variants": [],
@@ -55564,7 +55570,7 @@
     "16425155568618439992": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановление $param1.power.endurancechangebase$ ед. $primarymanabehaviorname.locflagG$ при попадании"
+      "String": "Восстановление $param1.power.endurancechangebase$ $primarymanabehaviorname.locflagG$ при попадании"
     },
     "16425183202450933062": {
       "Variants": [],
@@ -55719,7 +55725,7 @@
     "16436820871657948523": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+$usepower.condition0.HealthAddBonus$ ед. к максимуму здоровья\n\n#red#Действует до конца PvP-матча и продолжается после поражения#/red#"
+      "String": "+$usepower.condition0.HealthAddBonus$ к максимуму здоровья\n\n#red#Действует до конца PvP-матча и продолжается после поражения#/red#"
     },
     "16437308616665466162": {
       "Variants": [],
@@ -56614,7 +56620,7 @@
     "16486535916969854311": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс воспламенить противника при попадании, нанеся $param1.power.condition0.damageovertimebaseUnmodified.mulby3.nofraction$ ед. энергетического урона в течение $param1.power.condition0.duration$."
+      "String": "$procchancestring$ шанс воспламенить противника при попадании, нанеся $param1.power.condition0.damageovertimebaseUnmodified.mulby3.nofraction$ Энергетического урона в течение $param1.power.condition0.duration$."
     },
     "16486611667193824525": {
       "Variants": [],
@@ -57350,7 +57356,7 @@
     "16523572283204306250": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Гений провидца#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+1000 Здоровья#/emphasis#\n#emphasis#+100 опыта за каждого убитого врага#/emphasis#\n#emphasis#+1 Интеллекта#/emphasis#\n#emphasis#Восстановление 10 ед. духа при подборе любой сферы#/emphasis#\n\nПредметы 25 уровня получают половину бонуса к здоровью."
+      "String": "Добавляет рунное слово #emphasis#Гений провидца#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+1000 Здоровья#/emphasis#\n#emphasis#+100 опыта за каждого убитого врага#/emphasis#\n#emphasis#+1 Интеллекта#/emphasis#\n#emphasis#Восстановление 10 Духа при подборе любой сферы#/emphasis#\n\nПредметы 25 уровня получают половину бонуса к здоровью."
     },
     "16523690313238840669": {
       "Variants": [],
@@ -57460,7 +57466,7 @@
     "16528074160474031361": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 50:\n+0,25% Восстановление Здоровья в секунду"
+      "String": "Уровень 50:\n+0,25% Восстановление Здоровья в сек"
     },
     "16528204852104922434": {
       "Variants": [],
@@ -57545,7 +57551,7 @@
     "16532515165250782468": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.abs.noFraction$ Здоровья ($propertyValue.divByLevel.precision1$ ед. за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.abs.noFraction$ Здоровья ($propertyValue.divByLevel.precision1$ за уровень)"
     },
     "16532570746482591032": {
       "Variants": [],
@@ -58941,7 +58947,7 @@
     "16601253114702398779": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#orange#Дух Локхида#/orange# - Локхид восстанавливает $SecondaryResourceCOTBase$ энергии в секунду. Эта регенерация приостанавливается на короткий срок, когда он использует силу."
+      "String": "#orange#Дух Локхида#/orange# - Локхид восстанавливает $SecondaryResourceCOTBase$ энергии в сек. Эта регенерация приостанавливается на короткий срок, когда он использует силу."
     },
     "16601744308582810893": {
       "Variants": [],
@@ -59011,7 +59017,7 @@
     "16604712062258513157": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстанавливает $param1.power.enduranceChangeBase$ ед. $primaryManaBehaviorName.locflagG$ после победы над врагом"
+      "String": "Восстанавливает $param1.power.enduranceChangeBase$ $primaryManaBehaviorName.locflagG$ после победы над врагом"
     },
     "16604756150157968696": {
       "Variants": [],
@@ -60820,7 +60826,7 @@
     "16691129321098446077": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон от соударения: $damage$ ед. #hidden#($damageRange.precision1.divByLevel$ ед. за уровень)#/hidden#"
+      "String": "$damageType.capitalize$ урон от соударения: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#"
     },
     "16691151294290789753": {
       "Variants": [],
@@ -61066,7 +61072,7 @@
     "16699873311939822906": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании вы получаете $param1.power.endurancechangebase$ ед. $primarymanabehaviorname.locflagG$. Если у вас максимум #orange#очков комбо#/orange#, вы дополнительно восстанавливаете $param1.power.onpowerstartpower.endurancechangebase$ ед. $primarymanabehaviorname.locflagG$. (Этот бонус на перезарядке в течение $param1.power.onpowerstartpower.cooldown$)"
+      "String": "При попадании вы получаете $param1.power.endurancechangebase$ $primarymanabehaviorname.locflagG$. Если у вас максимум #orange#очков комбо#/orange#, вы дополнительно восстанавливаете $param1.power.onpowerstartpower.endurancechangebase$ $primarymanabehaviorname.locflagG$. (Этот бонус на перезарядке в течение $param1.power.onpowerstartpower.cooldown$)"
     },
     "16700031349556315451": {
       "Variants": [],
@@ -62814,7 +62820,7 @@
     "16788063275532223755": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вне боя вы находитесь в режиме маскировки, восстанавливая $healingovertimebase.nofraction$ Здоровья в секунду"
+      "String": "Вне боя вы находитесь в режиме маскировки, восстанавливая $healingovertimebase.nofraction$ Здоровья в сек"
     },
     "16788117581222905203": {
       "Variants": [],
@@ -64487,7 +64493,7 @@
     "16863879644559639821": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#red#Расход $primarymanabehaviorname.locflagG$: $endurancecost$ ед. #/red#"
+      "String": "#red#Расход $primarymanabehaviorname.locflagG$: $endurancecost$ #/red#"
     },
     "16864142389250491721": {
       "Variants": [],
@@ -66426,7 +66432,7 @@
     "16950109664362300730": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Удар молота#/emphasis# - $damagetype$ урон: $damage$ ед. #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden#, воскрешение поверженных товарищей по команде поблизости"
+      "String": "#emphasis#Удар молота#/emphasis# - $damagetype$ урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden#, воскрешение поверженных товарищей по команде поблизости"
     },
     "16950340987012187459": {
       "Variants": [],
@@ -66926,7 +66932,7 @@
     "16975256564681147662": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Колоссальный рев#/emphasis# - $damageType$ урон: $damage$ ед. #hidden#($damageRange.precision1.divByLevel$ ед. за уровень)#/hidden#"
+      "String": "#emphasis#Колоссальный рев#/emphasis# - $damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#"
     },
     "16975351689612100873": {
       "Variants": [],
@@ -67261,7 +67267,7 @@
     "16992093888823362899": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damage$#hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden# по $EvalRegisterFloat0$ врагам раз в секунду"
+      "String": "$damage$#hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden# по $EvalRegisterFloat0$ врагам раз в сек"
     },
     "16992122712328832313": {
       "Variants": [],
@@ -67416,7 +67422,7 @@
     "17000565557119681805": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при попадании выпустить ракету, которая взорвется при столкновении с первым врагом и нанесет $param1.power.missilecollidepower.damage$ ед. энергетического урона ближайшим врагам"
+      "String": "$procchancestring$ шанс при попадании выпустить ракету, которая взорвется при столкновении с первым врагом и нанесет $param1.power.missilecollidepower.damage$ Энергетического урона ближайшим врагам"
     },
     "17000569547264755056": {
       "Variants": [],
@@ -68623,7 +68629,7 @@
     "17054476974513784116": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.abs$ $primaryManaBehaviorName$ Восстановление в секунду"
+      "String": "$propertyValueSign$$propertyValue.abs$ $primaryManaBehaviorName$ Восстановление в сек"
     },
     "17054907386083673412": {
       "Variants": [],
@@ -69260,7 +69266,7 @@
     "17086746506982917483": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс во время вражеской атаки с близкого расстояния воспламенить противника, нанося $param1.power.condition0.damageovertimebaseUnmodified.mulby3.nofraction$ ед. энергетического урона в течение $param1.power.condition0.duration$."
+      "String": "$procchancestring$ шанс во время вражеской атаки с близкого расстояния воспламенить противника, нанося $param1.power.condition0.damageovertimebaseUnmodified.mulby3.nofraction$ Энергетического урона в течение $param1.power.condition0.duration$."
     },
     "17086771993332090234": {
       "Variants": [],
@@ -70371,7 +70377,7 @@
     "17135655223678076233": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "После удачной атаки вы с вероятностью $procChanceString$ наносите $param1.power.evalRegisterFloat0.precision0$ ед. $param1.power.damageType.locflagG$ урона и снижаете вражескую скорость движения на $param1.power.condition0.movementSpeedDecrPct$% на $param1.power.condition0.duration$ (перезарядка - $param1.power.cooldown$)"
+      "String": "После удачной атаки вы с вероятностью $procChanceString$ наносите $param1.power.evalRegisterFloat0.precision0$ $param1.power.damageType.locflagG$ урона и снижаете вражескую скорость движения на $param1.power.condition0.movementSpeedDecrPct$% на $param1.power.condition0.duration$ (перезарядка - $param1.power.cooldown$)"
     },
     "17135663671864001846": {
       "Variants": [],
@@ -70411,7 +70417,7 @@
     "17136946960862610761": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.noFraction.abs$ $param0.resistanceType$ ($propertyValue.divByLevel.precision1$ ед. за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.noFraction.abs$ $param0.resistanceType$ ($propertyValue.divByLevel.precision1$ за уровень)"
     },
     "17137204487042303255": {
       "Variants": [],
@@ -70942,7 +70948,7 @@
     "17162134689178977587": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет заклинание #emphasis#руны Солнца#/emphasis# к любой ячейке 2, 3 или 4 снаряжения эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания.\n\nУровень 50-60 этого заклинания дает:\n#emphasis#+20 ед. духа#/emphasis#\n\nУровень 35-49 этого заклинания дает:\n#emphasis#+15 ед. духа#/emphasis#\n\nУровень 20-34 этого заклинания дает:\n#emphasis#+10 ед. духа#/emphasis#\n\nУровень 1-19 этого заклинания дает:\n#emphasis#+5 ед. духа#/emphasis#\n"
+      "String": "Добавляет заклинание #emphasis#руны Солнца#/emphasis# к любой ячейке 2, 3 или 4 снаряжения эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания.\n\nУровень 50-60 этого заклинания дает:\n#emphasis#+20 Духа#/emphasis#\n\nУровень 35-49 этого заклинания дает:\n#emphasis#+15 Духа#/emphasis#\n\nУровень 20-34 этого заклинания дает:\n#emphasis#+10 Духа#/emphasis#\n\nУровень 1-19 этого заклинания дает:\n#emphasis#+5 Духа#/emphasis#\n"
     },
     "17162509712906061167": {
       "Variants": [],
@@ -71847,7 +71853,7 @@
     "17205845524852966733": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстанавливает $secondaryresourcecotpct.pct$% от максимального уровня Псионического барьера в секунду"
+      "String": "Восстанавливает $secondaryresourcecotpct.pct$% от максимального уровня Псионического барьера в сек"
     },
     "17206408010881959183": {
       "Variants": [],
@@ -74120,7 +74126,7 @@
     "17315317605495801157": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Аура камня души:\nПосле удачного применения способности вы и ваши союзники получаете +$param1.power.condition0.EnduranceAddBonus.nofraction$ к макс. уровню $primarymanabehaviorname.locflagG$ на $param1.power.condition0.duration$. Пока действует эффект, вы получаете 1 ед. $primarymanabehaviorname.locflagG$ за каждую критическую атаку с помощью способности."
+      "String": "Аура камня души:\nПосле удачного применения способности вы и ваши союзники получаете +$param1.power.condition0.EnduranceAddBonus.nofraction$ к макс. уровню $primarymanabehaviorname.locflagG$ на $param1.power.condition0.duration$. Пока действует эффект, вы получаете 1 $primarymanabehaviorname.locflagG$ за каждую критическую атаку с помощью способности."
     },
     "17316467243678893369": {
       "Variants": [],
@@ -74250,7 +74256,7 @@
     "17319970025681978643": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Сразив противника, восстановите $param1.power.enduranceChangeBase.noFraction$ ед. $primaryManaBehaviorName.locflagG$"
+      "String": "Сразив противника, восстановите $param1.power.enduranceChangeBase.noFraction$ $primaryManaBehaviorName.locflagG$"
     },
     "17320268908156814604": {
       "Variants": [],
@@ -74355,7 +74361,7 @@
     "17324226368392136001": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Сразив противника, восстановите $param1.power.endurancechangebase.precision0$ ед. $primarymanabehaviorname.locflagG$."
+      "String": "Сразив противника, восстановите $param1.power.endurancechangebase.precision0$ $primarymanabehaviorname.locflagG$."
     },
     "17324540858774979894": {
       "Variants": [],
@@ -74490,7 +74496,7 @@
     "17330699090199774469": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType$ урон в дальнем бою: $damage$ ед. #hidden#($damageRange.precision1.divByLevel$ ед. за уровень)#/hidden#"
+      "String": "$damageType$ урон в дальнем бою: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#"
     },
     "17330743255347102978": {
       "Variants": [],
@@ -75671,7 +75677,7 @@
     "17384200784843900167": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyvaluesign$$propertyvalue$% Восстановление Здоровья в секунду"
+      "String": "$propertyvaluesign$$propertyvalue$% Восстановление Здоровья в сек"
     },
     "17384668176064709889": {
       "Variants": [],
@@ -75791,7 +75797,7 @@
     "17389259749566252340": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#fury#Постоянный расход: $endurancecostrecurring$ ед. $primarymanabehaviorname.locflagG$ в секунду#/fury#"
+      "String": "#fury#Постоянный расход: $endurancecostrecurring$ $primarymanabehaviorname.locflagG$ в сек#/fury#"
     },
     "17389322709440005386": {
       "Variants": [],
@@ -76273,7 +76279,7 @@
     "17408151253484832113": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании в вас атакующий получает $param1.power.damage$ ед. урона."
+      "String": "При попадании в вас атакующий получает $param1.power.damage$ урона."
     },
     "17408464794690717047": {
       "Variants": [],
@@ -77705,7 +77711,7 @@
     "17478819008933397829": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при попадании замедлить вашего атакующего и нанести $param1.power.summonentity.appliespowers0.condition0.damageovertimebaseUnmodified.nofraction$ единиц энергии дважды в секунду на протяжении $param1.power.lifespan$"
+      "String": "$procchancestring$ шанс при попадании замедлить вашего атакующего и нанести $param1.power.summonentity.appliespowers0.condition0.damageovertimebaseUnmodified.nofraction$ единиц энергии дважды в сек на протяжении $param1.power.lifespan$"
     },
     "17479318556570551611": {
       "Variants": [],
@@ -78020,7 +78026,7 @@
     "17492861155338814739": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы используете #orange#Заклинание#/orange#, восстанавливайте +$param1.power.condition0.healingovertimebase.nofraction$ здоровья в секунду на протяжении $param1.power.condition0.duration$."
+      "String": "Когда вы используете #orange#Заклинание#/orange#, восстанавливайте +$param1.power.condition0.healingovertimebase.nofraction$ здоровья в сек на протяжении $param1.power.condition0.duration$."
     },
     "17493028830915986752": {
       "Variants": [],
@@ -78572,7 +78578,7 @@
     "17515381807756215559": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Урон от $damagetype.locflagG$ взрыва: $damage$ ед. #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden#"
+      "String": "Урон от $damagetype.locflagG$ взрыва: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden#"
     },
     "17515685968878699893": {
       "Variants": [
@@ -78808,7 +78814,7 @@
     "17526615303311394058": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при попадании вызвать у цели кровотечение на $param1.power.condition0.DamageOverTimeBaseUnmodified.divby2.nofraction$ физического урона дважды в секунду на $param1.power.condition0.duration$"
+      "String": "$procchancestring$ шанс при попадании вызвать у цели кровотечение на $param1.power.condition0.DamageOverTimeBaseUnmodified.divby2.nofraction$ физического урона дважды в сек на $param1.power.condition0.duration$"
     },
     "17526633574169380164": {
       "Variants": [],
@@ -79418,7 +79424,7 @@
     "17551715611888256277": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procChanceString$ шанс при попадании базовой способностью вызвать энергетический выброс, наносящий $param1.power.missileCollidePower.damage$ ед. энергетического урона."
+      "String": "$procChanceString$ шанс при попадании базовой способностью вызвать энергетический выброс, наносящий $param1.power.missileCollidePower.damage$ Энергетического урона."
     },
     "17552172158382638407": {
       "Variants": [],
@@ -79503,7 +79509,7 @@
     "17555400028161770814": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстанавливает $EnduranceCOTBase1$ ед. $primarymanabehaviorname1.locflagG$ в секунду"
+      "String": "Восстанавливает $EnduranceCOTBase1$ $primarymanabehaviorname1.locflagG$ в сек"
     },
     "17555953211300906252": {
       "Variants": [],
@@ -79703,7 +79709,7 @@
     "17563650776241407244": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$oncontacttimepower0.summonentity0.appliespowers0.condition0.damageRangeOverTime$ Урон дважды в секунду в #powerkeyword#Области#/powerkeyword# на $oncontacttimepower0.lifespan$"
+      "String": "$oncontacttimepower0.summonentity0.appliespowers0.condition0.damageRangeOverTime$ Урон дважды в сек в #powerkeyword#Области#/powerkeyword# на $oncontacttimepower0.lifespan$"
     },
     "17563727913972860271": {
       "Variants": [],
@@ -80360,7 +80366,7 @@
     "17598412317445195064": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Сильный удар#/emphasis# - $damageType$ урон: $damage$ ед. #hidden#($damageRange.precision1.divByLevel$ ед. за уровень)#/hidden#"
+      "String": "#emphasis#Сильный удар#/emphasis# - $damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#"
     },
     "17598415426944959753": {
       "Variants": [],
@@ -80795,7 +80801,7 @@
     "17619082517647000955": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "После удачной атаки вы с вероятностью $procChanceString$ отдаете Хеликэрриеру приказ начать обстрел. При этом он наносит $param1.power.summonEntity.appliesPowers0.evalregisterfloat0.precision0$ ед. $param1.power.summonEntity.appliesPowers0.condition0.damageOverTimeBaseUnmodified.param0.damageType.locflagG$ урона в течение $param1.power.lifespan$, замедляя и ослабляя врагов на $param1.power.summonEntity.appliesPowers0.condition1.movementSpeedDecrPct$% (перезарядка - $param1.power.cooldown$)"
+      "String": "После удачной атаки вы с вероятностью $procChanceString$ отдаете Хеликэрриеру приказ начать обстрел. При этом он наносит $param1.power.summonEntity.appliesPowers0.evalregisterfloat0.precision0$ $param1.power.summonEntity.appliesPowers0.condition0.damageOverTimeBaseUnmodified.param0.damageType.locflagG$ урона в течение $param1.power.lifespan$, замедляя и ослабляя врагов на $param1.power.summonEntity.appliesPowers0.condition1.movementSpeedDecrPct$% (перезарядка - $param1.power.cooldown$)"
     },
     "17619201707164632346": {
       "Variants": [],
@@ -81827,7 +81833,7 @@
     "17668119546474595652": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Чемоданчик#/emphasis# - $damagetype$ урон: $damage$ ед. #hidden#($damagerange.precision1.divbylevel$ ед. за уровень) #/hidden#за выстрел"
+      "String": "#emphasis#Чемоданчик#/emphasis# - $damagetype$ урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за уровень) #/hidden#за выстрел"
     },
     "17668712252019836273": {
       "Variants": [],
@@ -82232,7 +82238,7 @@
     "17684210680031151361": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Урон от Дуговой молнии: $damage$ ед. #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden# при каждом попадании"
+      "String": "Урон от Дуговой молнии: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden# при каждом попадании"
     },
     "17684288436135855383": {
       "Variants": [],
@@ -82572,7 +82578,7 @@
     "17697446794412885367": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы используете Силу Невидимости, получаете $param1.power.condition0.damageratingbonusvsunaware.nofraction$ Рейтинг Урона против Неведомых Целей на $param1.power.condition0.duration$. Вы также получаете $param1.power.onpowerstartpower.condition0.endurancecotbase.nofraction$ Восстановление Духа в секунду на $param1.power.onpowerstartpower.condition0.duration$. Эффект Восстановления Духа отменяется, если вы атакуете врага."
+      "String": "Когда вы используете Силу Невидимости, получаете $param1.power.condition0.damageratingbonusvsunaware.nofraction$ Рейтинг Урона против Неведомых Целей на $param1.power.condition0.duration$. Вы также получаете $param1.power.onpowerstartpower.condition0.endurancecotbase.nofraction$ Восстановление Духа в сек на $param1.power.onpowerstartpower.condition0.duration$. Эффект Восстановления Духа отменяется, если вы атакуете врага."
     },
     "17697526916957734205": {
       "Variants": [],
@@ -82627,7 +82633,7 @@
     "17700907112063108420": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#energy#$primaryManaBehaviorName$#/energy# Стоимость: $enduranceCost$"
+      "String": "Расход #energy#$primaryManaBehaviorName.locflagG$#/energy#: $enduranceCost$"
     },
     "17701064587036263745": {
       "Variants": [],
@@ -82778,7 +82784,7 @@
     "17707660144980460872": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Преобразует два простых элемента в бальзам здоровья.\n\nИспользуя этот предмет, вы на 20 минут повышаете на 100 ед. максимальное здоровье героя, а также ускоряете восстановление здоровья на то же время.\n\n#emphasis#Критический успех: вы создаете два предмета вместо одного.#/emphasis#"
+      "String": "Преобразует два простых элемента в бальзам здоровья.\n\nИспользуя этот предмет, вы на 20 минут повышаете на 100 максимальное здоровье героя, а также ускоряете восстановление здоровья на то же время.\n\n#emphasis#Критический успех: вы создаете два предмета вместо одного.#/emphasis#"
     },
     "17707853130798663024": {
       "Variants": [],
@@ -82908,7 +82914,7 @@
     "17714049802235413868": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Удар падающего лотоса#/emphasis#: $damage$ ед.#hidden# ($damagerange.precision1.divbylevel$ ед. за каждый уровень)#/hidden#; $oncontacttimepower.condition0.DamageRangeOverTime$ ед. 2 раза в секунду в течение $oncontacttimepower.condition0.duration$"
+      "String": "#emphasis#Удар падающего лотоса#/emphasis#: $damage$#hidden# ($damagerange.precision1.divbylevel$ за уровень)#/hidden#; $oncontacttimepower.condition0.DamageRangeOverTime$ 2 раза в сек в течение $oncontacttimepower.condition0.duration$"
     },
     "17714142642261591418": {
       "Variants": [],
@@ -83719,7 +83725,7 @@
     "17751540464274507025": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Агент с дробовиком#/emphasis# - $damagetype$ урон: $damage$ ед. #hidden#($damagerange.precision1.divbylevel$ ед. за каждый уровень) #/hidden#"
+      "String": "#emphasis#Агент с дробовиком#/emphasis# - $damagetype$ урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за уровень) #/hidden#"
     },
     "17751841657500009786": {
       "Variants": [],
@@ -84179,7 +84185,7 @@
     "17775492375958324548": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстанавливает $EnduranceCOTPctBase1.pct$% максимального значения $primarymanabehaviorname1.locflagG$ в секунду"
+      "String": "Восстанавливает $EnduranceCOTPctBase1.pct$% максимального значения $primarymanabehaviorname1.locflagG$ в сек"
     },
     "17776020716997248261": {
       "Variants": [],
@@ -85317,7 +85323,7 @@
     "17828811160766514446": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ ед. #hidden#($damageRange.precision1.divByLevel$ за каждый уровень)#/hidden# при попадании"
+      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за каждый уровень)#/hidden# при попадании"
     },
     "17828862898006721864": {
       "Variants": [],
@@ -85827,7 +85833,7 @@
     "17854375531959813389": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Космическая сила Стоимость: 1 за каждое $DamageConversionRatio.abs$ поглощенное повреждение"
+      "String": "Расход Космической силы: 1 за каждые $DamageConversionRatio.abs$ поглощённого урон"
     },
     "17854490022904923407": {
       "Variants": [],
@@ -86043,7 +86049,7 @@
     "17864578621905175815": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановление $enduranceChangeBase$ ед. $primaryManaBehaviorName.locflagG$ и $secondaryResourceChangePct.pct$% прочности щита при подборе любой сферы"
+      "String": "Восстановление $enduranceChangeBase$ $primaryManaBehaviorName.locflagG$ и $secondaryResourceChangePct.pct$% прочности щита при подборе любой сферы"
     },
     "17864630359144138047": {
       "Variants": [],
@@ -87678,7 +87684,7 @@
     "17940781409195984183": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Снимает урон от взрыва: $damage$ ед.#hidden#($damageRange.precision1.divByLevel$ ед. за уровень)#/hidden# $damageType.locflagG$ урона #cyan#(такой эффект дает $powerReference0.powerName$)#/cyan#"
+      "String": "Снимает урон от взрыва: $damage$#hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden# $damageType.locflagG$ урона #cyan#(такой эффект дает $powerReference0.powerName$)#/cyan#"
     },
     "17941561100391482696": {
       "Variants": [],
@@ -88084,7 +88090,7 @@
     "17960260262650381580": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании вы получаете $param1.power.endurancechangebase$ ед. $primarymanabehaviorname.locflagG$"
+      "String": "При попадании вы получаете $param1.power.endurancechangebase$ $primarymanabehaviorname.locflagG$"
     },
     "17960449095310771572": {
       "Variants": [],
@@ -88636,7 +88642,7 @@
     "17983873644943967489": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановление $EnduranceCoTPctBase.pct$% от максимума $primarymanabehaviorname.locflagG$ в секунду в течение $duration$"
+      "String": "Восстановление $EnduranceCoTPctBase.pct$% от максимума $primarymanabehaviorname.locflagG$ в сек в течение $duration$"
     },
     "17984143167086789941": {
       "Variants": [],
@@ -89467,7 +89473,7 @@
     "18024097190557779261": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстанавливает $EnduranceCOTBase$ ед. #solar#$primarymanabehaviorname.locflagG$#/solar# в секунду в течение $duration$"
+      "String": "Восстанавливает $EnduranceCOTBase$ #solar#$primarymanabehaviorname.locflagG$#/solar# в сек в течение $duration$"
     },
     "18025585001651832175": {
       "Variants": [],
@@ -89572,7 +89578,7 @@
     "18030339848155497741": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Бен - $DamageTypeOverTime$ урон: $DamageRangeOverTime$ ед. #hidden#($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень)#/hidden# 2 раза в секунду"
+      "String": "Бен - $DamageTypeOverTime$ урон: $DamageRangeOverTime$ #hidden#($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень)#/hidden# 2 раза в сек"
     },
     "18030465875436111160": {
       "Variants": [],
@@ -89758,7 +89764,7 @@
     "18040680969819194682": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстанавливает $evalRegisterFloat0.pct.precision1$% потраченного здоровья в секунду"
+      "String": "Восстанавливает $evalRegisterFloat0.pct.precision1$% потраченного здоровья в сек"
     },
     "18040920564572816701": {
       "Variants": [],
@@ -89844,7 +89850,7 @@
     "18044041867628971325": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$DamageTypeOverTime$ урон от кровопотери: $DamageRangeOverTime$#hidden# ед. ($DamageRangeOverTime.precision1.divbylevel$ ед. за каждый уровень)#/hidden# 2 раза в секунду на $duration$ после успешного применения $powerreference0.powername.locflagG$ или $powerreference1.powername.locflagG$"
+      "String": "$DamageTypeOverTime$ урон от кровопотери: $DamageRangeOverTime$#hidden# ($DamageRangeOverTime.precision1.divbylevel$ за уровень)#/hidden# 2 раза в сек на $duration$ после успешного применения $powerreference0.powername.locflagG$ или $powerreference1.powername.locflagG$"
     },
     "18044059549951001867": {
       "Variants": [],
@@ -90340,7 +90346,7 @@
     "18061906466208810249": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Стоимость $primaryManaBehaviorName1.locflagG$: 0 за выстрел #cyan#(этот эффект снимает $powerName$)#/cyan#"
+      "String": "Расход $primaryManaBehaviorName1.locflagG$: 0 за выстрел #cyan#(этот эффект снимает $powerName$)#/cyan#"
     },
     "18061941843854165255": {
       "Variants": [],
@@ -90696,7 +90702,7 @@
     "18078490885485430081": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#fury#Получите 25 ед. $primarymanabehaviorname.locflagG$ при попадании#/fury#"
+      "String": "#fury#Получите 25 $primarymanabehaviorname.locflagG$ при попадании#/fury#"
     },
     "18078510771115459841": {
       "Variants": [],
@@ -91213,7 +91219,7 @@
     "18099377204074186050": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс сжечь вашу цель на $param1.power.condition0.damageOverTimeBaseUnmodified.divby2.noFraction$ Ментальный Урон дважды в секунду на протяжении $param1.power.condition0.duration$, накапливается до 3 раз."
+      "String": "$procchancestring$ шанс сжечь вашу цель на $param1.power.condition0.damageOverTimeBaseUnmodified.divby2.noFraction$ Ментальный Урон дважды в сек на протяжении $param1.power.condition0.duration$, накапливается до 3 раз."
     },
     "18099949955138585916": {
       "Variants": [],
@@ -91323,7 +91329,7 @@
     "18104815878209865024": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Авиаудар#/emphasis# - $damageOverTimeBasePerLevel.param0.damageType$ урон: $DamageRangeOverTime$ ед. #hidden#($DamageRangeOverTime.precision1.divByLevel$ за каждый уровень) #/hidden#2 раза в секунду в течение $duration$"
+      "String": "#emphasis#Авиаудар#/emphasis# - $damageOverTimeBasePerLevel.param0.damageType$ урон: $DamageRangeOverTime$ #hidden#($DamageRangeOverTime.precision1.divByLevel$ за каждый уровень) #/hidden#2 раза в сек в течение $duration$"
     },
     "18105286318853981495": {
       "Variants": [],
@@ -91684,7 +91690,7 @@
     "18124373591617045832": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Кровавый поток#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nКровавый поток 50 уровня дает:\n#emphasis#+200 Рейтинг физического урона#/emphasis#\n#emphasis#+200 Рейтинг урона в дальнем бою#/emphasis#\n#emphasis#2% шанс при атаке способностью дальнего боя пустить противнику кровь, нанеся 20 000 ед. урона в течение 5 с (перезарядка 20 с)#/emphasis#\n\nПредметы 25 уровня получают половину бонуса Рейтинг урона и наносят в два раза меньше урона от кровопотери."
+      "String": "Добавляет рунное слово #emphasis#Кровавый поток#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nКровавый поток 50 уровня дает:\n#emphasis#+200 Рейтинг физического урона#/emphasis#\n#emphasis#+200 Рейтинг урона в дальнем бою#/emphasis#\n#emphasis#2% шанс при атаке способностью дальнего боя пустить противнику кровь, нанеся 20 000 урона в течение 5 с (перезарядка 20 с)#/emphasis#\n\nПредметы 25 уровня получают половину бонуса Рейтинг урона и наносят в два раза меньше урона от кровопотери."
     },
     "18124527823819900162": {
       "Variants": [],
@@ -92071,7 +92077,7 @@
     "18143373453193774407": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Сила Дупа#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#При попадании ментальной способностью получите +377-577 Рейтинг урона на 17 с и восстановите 17 ед. духа (перезарядка 7 с)#/emphasis#\n#emphasis#При попадании физической способностью получите +2777-4777 Рейтинг сокрушительного урона на 17 с и восстановите 17 ед. духа (перезарядка 7 с)#/emphasis#\n#emphasis#При попадании энергетической способностью получите +777-1777 Рейтинг критического урона на 17 с и восстановите 17 ед. духа (перезарядка 7 с)#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы к восстановлению духа, рейтингам урона, сокрушительного и критического урона."
+      "String": "Добавляет рунное слово #emphasis#Сила Дупа#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#При попадании ментальной способностью получите +377-577 Рейтинг урона на 17 с и восстановите 17 Духа (перезарядка 7 с)#/emphasis#\n#emphasis#При попадании физической способностью получите +2777-4777 Рейтинг сокрушительного урона на 17 с и восстановите 17 Духа (перезарядка 7 с)#/emphasis#\n#emphasis#При попадании энергетической способностью получите +777-1777 Рейтинг критического урона на 17 с и восстановите 17 Духа (перезарядка 7 с)#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы к восстановлению духа, рейтингам урона, сокрушительного и критического урона."
     },
     "18143446059670766962": {
       "Variants": [],
@@ -92281,7 +92287,7 @@
     "18152969569824212333": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#optional#Затраты ярости: $evalregisterfloat0.$#/optional#"
+      "String": "#optional#Расход Ярости: $evalregisterfloat0.$#/optional#"
     },
     "18153185417640019258": {
       "Variants": [],
@@ -92451,7 +92457,7 @@
     "18159353394351113487": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$primarymanabehaviorname1$ Стоимость: -20% за каждую потраченную очко комбо"
+      "String": "Расход $primarymanabehaviorname1.locflagG$: -20% за потраченное комбо-очко"
     },
     "18160223357151872266": {
       "Variants": [],
@@ -93203,7 +93209,7 @@
     "18195273232391079218": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы и ваши союзники получаете #teambuff#выносливость#/teambuff#, повышая естественную регенерацию $primarymanabehaviorname.locflagG$ на $EnduranceCOTBase$ ед. в секунду, также снижается расход $primarymanabehaviorname.locflagG$ на применение способностей на $EnduranceCostChangePct.abs$%"
+      "String": "Вы и ваши союзники получаете #teambuff#выносливость#/teambuff#, повышая естественную регенерацию $primarymanabehaviorname.locflagG$ на $EnduranceCOTBase$ в сек, также снижается расход $primarymanabehaviorname.locflagG$ на применение способностей на $EnduranceCostChangePct.abs$%"
     },
     "18195886343215645961": {
       "Variants": [],
@@ -93228,7 +93234,7 @@
     "18197623210819847445": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$PowerName$#/powername# $primarymanabehaviorname$ Стоимость:"
+      "String": "Расход $primarymanabehaviorname.locflagG$ #powername#$PowerName$#/powername#:"
     },
     "18197674810546783498": {
       "Variants": [],
@@ -93388,7 +93394,7 @@
     "18204542175559812424": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановление щита: $SecondaryResourceCOTPct.abs.pct$% в секунду во время полета"
+      "String": "Восстановление щита: $SecondaryResourceCOTPct.abs.pct$% в сек во время полета"
     },
     "18204559733382776131": {
       "Variants": [],
@@ -93588,7 +93594,7 @@
     "18212188909488768257": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$DamageTypeOverTime.capitalize$ урон: $DamageRangeOverTime$ ед. #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень) #/hidden# четыре раза в секунду"
+      "String": "$DamageTypeOverTime.capitalize$ урон: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень) #/hidden# четыре раза в сек"
     },
     "18212277540442801420": {
       "Variants": [],
@@ -93643,7 +93649,7 @@
     "18213829771688871181": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстанавливает $enduranceChangeBase$ ед. $primaryManaBehaviorName.locflagG$, если вы отражаете снаряд"
+      "String": "Восстанавливает $enduranceChangeBase$ $primaryManaBehaviorName.locflagG$, если вы отражаете снаряд"
     },
     "18213949425236247866": {
       "Variants": [],
@@ -93818,7 +93824,7 @@
     "18220997973323613455": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет руническое слово #emphasis#Сила Льва#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, заменяя любое существующее руническое слово на предмете и привязывая его к вашему аккаунту.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+500 Рейтинг защиты#/emphasis#\n#emphasis#+500 Здоровье#/emphasis#\n#emphasis#+8 Регенерация здоровья в секунду#/emphasis#\n\nПредметы 25 уровня получают половину бонуса Рейтинг защиты, Здоровью и Регенерации здоровья."
+      "String": "Добавляет руническое слово #emphasis#Сила Льва#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, заменяя любое существующее руническое слово на предмете и привязывая его к вашему аккаунту.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+500 Рейтинг защиты#/emphasis#\n#emphasis#+500 Здоровье#/emphasis#\n#emphasis#+8 Регенерация здоровья в сек#/emphasis#\n\nПредметы 25 уровня получают половину бонуса Рейтинг защиты, Здоровью и Регенерации здоровья."
     },
     "18221015359409423680": {
       "Variants": [],
@@ -95636,7 +95642,7 @@
     "18312792569877038348": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ ед. #hidden#($damageRange.precision1.divByLevel$ ед. за каждый уровень) #/hidden#один раз в секунду"
+      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень) #/hidden#один раз в сек"
     },
     "18313180186375947528": {
       "Variants": [],
@@ -95741,7 +95747,7 @@
     "18318328933156259174": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$primarymanabehaviorname$: $EnduranceCost$ ед. за выстрел"
+      "String": "Расход $primarymanabehaviorname.locflagG$: $EnduranceCost$ за выстрел"
     },
     "18318687133372515642": {
       "Variants": [
@@ -95983,7 +95989,7 @@
     "18330556284085208379": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damagetype.capitalize$ урон: $damage$ ед. #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden# при попадании в #powermechanic#пылающую#/powermechanic# цель"
+      "String": "$damagetype.capitalize$ урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden# при попадании в #powermechanic#пылающую#/powermechanic# цель"
     },
     "18330933468182349171": {
       "Variants": [],
@@ -98173,7 +98179,7 @@
     "18425762506255238415": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#teambuff#Выносливость#/teambuff#: +$EnduranceCOTBase$ ед. в секунду к естественной регенерации $primarymanabehaviorname.locflagG$, -$EnduranceCostChangePct.abs$% к расходу на применение способностей $primarymanabehaviorname.locflagG$"
+      "String": "#teambuff#Выносливость#/teambuff#: +$EnduranceCOTBase$ в сек к естественной регенерации $primarymanabehaviorname.locflagG$, -$EnduranceCostChangePct.abs$% к расходу на применение способностей $primarymanabehaviorname.locflagG$"
     },
     "18425795453002253627": {
       "Variants": [],
@@ -98283,7 +98289,7 @@
     "18430917837163922752": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при попадании вызвать смертоносную Снежную бурю, наносящую 5,000 единиц энергетического урона дважды в секунду в течение $param1.power.lifespan$ (перезарядка 5 секунд)"
+      "String": "$procchancestring$ шанс при попадании вызвать смертоносную Снежную бурю, наносящую 5,000 единиц энергетического урона дважды в сек в течение $param1.power.lifespan$ (перезарядка 5 секунд)"
     },
     "18431053442100167942": {
       "Variants": [],
