@@ -1337,7 +1337,7 @@
     "61057921537541486": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Сразив противника, восстановите $param1.power.healing$ Здоровья."
+      "String": "Восстановление $param1.power.healing$ Здоровья при поражении врага"
     },
     "61078223730902287": {
       "Variants": [],
@@ -2635,7 +2635,7 @@
     "117736221239739760": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При победе над #mark#Помеченным#/mark# врагом время восстановления ваших Не-Коронных способностей и эффекта #mark#$powername$#/mark# от этого таланта сбрасывается"
+      "String": "При поражении #mark#Помеченного#/mark# врага время восстановления ваших Не-Коронных способностей и эффекта #mark#$powername$#/mark# от этого таланта сбрасывается"
     },
     "118108904134739306": {
       "Variants": [],
@@ -3787,7 +3787,7 @@
     "174519773282829580": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Сразив противника, восстановите $param1.power.healing$ Здоровья."
+      "String": "Восстановление $param1.power.healing$ Здоровья при поражении врага"
     },
     "174800178950309248": {
       "Variants": [],
@@ -7839,7 +7839,7 @@
     "363900626771707194": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 50:\n5% Дополнительный урон во время движения"
+      "String": "Уровень 50:\n5% Бонус урона в движении"
     },
     "363932439540794639": {
       "Variants": [],
@@ -13390,7 +13390,7 @@
     "623888796885386525": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 25:\n+3% Урона Призванных союзников"
+      "String": "Уровень 25:\n+3% Урона Призванным"
     },
     "625173666469905735": {
       "Variants": [],
@@ -14666,7 +14666,7 @@
     "690440015321302381": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановите $param1.power.healing$ здоровья, когда вы попадаете с помощью базовой силы"
+      "String": "Восстановление $param1.power.healing$ Здоровья, когда вы попадаете с помощью базовой силы"
     },
     "690602992024487170": {
       "Variants": [],
@@ -15011,7 +15011,7 @@
     "708075172450927928": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановите $param1.power.enduranceChangeBase.precision0$ $primaryManaBehaviorName$ при победе над врагом"
+      "String": "Восстановите $param1.power.enduranceChangeBase.precision0$ $primaryManaBehaviorName$ при поражении врага"
     },
     "708330031509931315": {
       "Variants": [],
@@ -18113,7 +18113,7 @@
     "857337483630740740": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановите $param1.power.healing$ здоровья, когда вы попадаете с помощью базовой силы"
+      "String": "Восстановление $param1.power.healing$ Здоровья, когда вы попадаете с помощью базовой силы"
     },
     "857768307523519771": {
       "Variants": [],
@@ -21163,7 +21163,7 @@
     "998571839698634093": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановите $param1.power.healing$ здоровья, когда вы победите врага"
+      "String": "Восстановление $param1.power.healing$ Здоровья при поражении врага"
     },
     "998875120167355712": {
       "Variants": [],
@@ -22304,7 +22304,7 @@
     "1058312472487265590": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 25:\n+2% Урона Дальних способностей"
+      "String": "Уровень 25:\n+2% Дальнего урона"
     },
     "1058608713503147269": {
       "Variants": [],
@@ -28478,7 +28478,7 @@
     "1346610790735676738": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получите $param1.power.endurancechangebase.precision0$ $primarymanabehaviorname$ при победе над врагом"
+      "String": "Получите $param1.power.endurancechangebase.precision0$ $primarymanabehaviorname$ при поражении врага"
     },
     "1347357556695303482": {
       "Variants": [],
@@ -36182,7 +36182,7 @@
     "1710731405050381623": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Аура Лояльного Робота:\nПризывает ХЕРБИ следовать за вами.\nКогда вы наносите удар с помощью любой Силы, вы и ваши союзники получаете Ауру Лояльного Робота на $param1.power.condition0.duration$, granting $param1.power.condition0.BlockRatingBonusAdd.nofraction$ Рейтинг Отклонения. Пока эта Аура активна, восстанавливайте $param1.power.condition0.proceffect1.endurancechangebase.precision0$ $primarymanabehaviorname$ при победе над врагом и получайте +1 $primarymanabehaviorname$ при критическом ударе."
+      "String": "Аура Лояльного Робота:\nПризывает ХЕРБИ следовать за вами.\nКогда вы наносите удар с помощью любой Силы, вы и ваши союзники получаете Ауру Лояльного Робота на $param1.power.condition0.duration$, granting $param1.power.condition0.BlockRatingBonusAdd.nofraction$ Рейтинг Отклонения. Пока эта Аура активна, восстанавливайте $param1.power.condition0.proceffect1.endurancechangebase.precision0$ $primarymanabehaviorname$ при поражении врага и получайте +1 $primarymanabehaviorname$ при критическом ударе."
     },
     "1710905011932497219": {
       "Variants": [],
@@ -45837,7 +45837,7 @@
     "2149460235509892355": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 25:\n+3% Урона Дальних способностей"
+      "String": "Уровень 25:\n+3% Дальнего урона"
     },
     "2149472244305233215": {
       "Variants": [],
@@ -48700,7 +48700,7 @@
     "2288751857612817775": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановить $param1.power.healing$ здоровья при поражении врага"
+      "String": "Восстановление $param1.power.healing$ Здоровья за поражение врага"
     },
     "2289479798615442700": {
       "Variants": [],
@@ -53137,7 +53137,7 @@
     "2505580631488988471": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановите $param1.power.endurancechangebase$ $primarymanabehaviorname$ при победе над врагом"
+      "String": "Восстановите $param1.power.endurancechangebase$ $primarymanabehaviorname$ при поражении врага"
     },
     "2505776370401346931": {
       "Variants": [],
@@ -56053,7 +56053,7 @@
     "2647366937986991430": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$primaryManaBehaviorName$ при победе над врагом"
+      "String": "$primaryManaBehaviorName$ за поражение врага"
     },
     "2647447009056261441": {
       "Variants": [],
@@ -58416,7 +58416,7 @@
     "2764742913754727707": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 25:\n+3% Урона Призванных"
+      "String": "Уровень 25:\n+5% Урона Призванным"
     },
     "2765365748550141300": {
       "Variants": [],
@@ -59901,7 +59901,7 @@
     "2838049583171306859": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановите $param1.power.healing$ здоровья, когда вы попадаете с помощью базовой силы"
+      "String": "Восстановление $param1.power.healing$ Здоровья, когда вы попадаете с помощью базовой силы"
     },
     "2838300503627203844": {
       "Variants": [],
@@ -65141,7 +65141,7 @@
     "3097721179756758278": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановите $param1.power.healing$ здоровья, когда вы попадаете с помощью $param2.keyword$ силы"
+      "String": "Восстановление $param1.power.healing$ Здоровья, когда вы попадаете с помощью $param2.keyword$ силы"
     },
     "3098286316034786719": {
       "Variants": [],
@@ -73719,7 +73719,7 @@
     "3478051456037029220": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 25:\n+2% Множитель рейтинга критического удара"
+      "String": "Уровень 25:\n+2% Множ. Рейт. Крит. удара"
     },
     "3478068781878084922": {
       "Variants": [],
@@ -75177,7 +75177,7 @@
     "3545862560080528749": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановить $param1.power.healing$ здоровья при поражении врага"
+      "String": "Восстановление $param1.power.healing$ Здоровья за поражение врага"
     },
     "3546106222096549172": {
       "Variants": [],
@@ -97408,7 +97408,7 @@
     "4550446189262406974": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 50:\n+2% Урона Ближних способностей"
+      "String": "Уровень 50:\n+2% Ближнего урона"
     },
     "4550642374781568324": {
       "Variants": [],
@@ -98164,7 +98164,7 @@
     "4582506608233874695": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановите $param1.power.healing$ Здоровья при попадании Передвижением (перезарядка $param1.power.cooldown$)."
+      "String": "Восстановление $param1.power.healing$ Здоровья при попадании Передвижением (перезарядка $param1.power.cooldown$)."
     },
     "4582671796976682253": {
       "Variants": [],
