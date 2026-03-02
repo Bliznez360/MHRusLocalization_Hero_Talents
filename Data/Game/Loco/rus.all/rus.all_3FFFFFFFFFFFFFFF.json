@@ -40254,7 +40254,7 @@
     "1893620587272865128": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 25:\n+3% Множ. Рейтинг критического удара для физических способностей"
+      "String": "Уровень 25:\n+3% Множ. Рейт. Крит. удара Физических способностей"
     },
     "1894085886744069401": {
       "Variants": [],
@@ -56419,7 +56419,7 @@
     "2662720518288639241": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы используете #powerkeyword#Удар#/powerkeyword# Способность, ваша следующая #powerkeyword#Оболочка#/powerkeyword# Способность нанесет $damagemultforpowerkeyword.pct$% больше урона и получит 100% Шанс критического удара"
+      "String": "Когда вы используете #powerkeyword#Рывок#/powerkeyword#, ваша следующая #powerkeyword#Оболочка#/powerkeyword# нанесет $damagemultforpowerkeyword.pct$% больше урона и получит 100% Шанс критического удара"
     },
     "2662958111651005762": {
       "Variants": [],
@@ -76259,7 +76259,7 @@
     "3593129765979096335": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.noFraction$ Восстановление здоровья в сек (0.2% от вашего базового здоровья в сек за ранг)"
+      "String": "$propertyValueSign$$propertyValue.noFraction$ Восстановление здоровья в сек (0.2% от вашего Базового Здоровья в сек за ранг)"
     },
     "3593217825745863995": {
       "Variants": [],
@@ -88743,7 +88743,7 @@
     "4148681827266528573": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ваши атаки имеют 5% шанс нанести $param1.power.damage$ $param1.power.damageType$ Урона ($param1.power.powerreference0.damage$ за каждую единицу Интеллекта до $param1.power.evalregisterfloat2.nofraction$)\nВосстановление: $param1.power.cooldown$"
+      "String": "Ваши атаки имеют 5% шанс нанести $param1.power.damage$ $param1.power.damageType.locflagG$ урона ($param1.power.powerreference0.damage$ за очко Интеллекта до $param1.power.evalregisterfloat2.nofraction$)\nВосстановление: $param1.power.cooldown$"
     },
     "4148783785564767609": {
       "Variants": [],

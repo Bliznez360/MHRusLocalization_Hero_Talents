@@ -7786,7 +7786,7 @@
     "9592527650541929734": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 25:\n+3% Урона Дальних способностей"
+      "String": "Уровень 25:\n+3% Дальнего урона"
     },
     "9592693204416136513": {
       "Variants": [],
@@ -23608,7 +23608,7 @@
     "10324781607058998586": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ваши атаки имеют 5% шанс нанести $param1.power.damage$ $param1.power.damageType$ Урона ($param1.power.powerreference0.damage$ за каждую единицу Выносливости до $param1.power.evalregisterfloat2.nofraction$)\nВосстановление: $param1.power.cooldown$"
+      "String": "Ваши атаки имеют 5% шанс нанести $param1.power.damage$ $param1.power.damageType.locflagG$ урона ($param1.power.powerreference0.damage$ за очко Выносливости до $param1.power.evalregisterfloat2.nofraction$)\nВосстановление: $param1.power.cooldown$"
     },
     "10324819664774825287": {
       "Variants": [],
@@ -25636,7 +25636,7 @@
     "10412546661075060088": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.noFraction$ Здоровье при попадании (0.2% от вашего базового здоровья за ранг)"
+      "String": "$propertyValueSign$$propertyValue.noFraction$ Здоровье за удар (0.2% от вашего Базового Здоровья за ранг)"
     },
     "10412553966750664004": {
       "Variants": [],
@@ -51728,7 +51728,7 @@
     "11654988924873016632": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ваши атаки имеют 5% шанс нанести $param1.power.damage$ $param1.power.damageType$ Урона ($param1.power.powerreference0.damage$ за каждую единицу Энергии до $param1.power.evalregisterfloat2.nofraction$)\nВосстановление: $param1.power.cooldown$"
+      "String": "Ваши атаки имеют 5% шанс нанести $param1.power.damage$ $param1.power.damageType.locflagG$ урона ($param1.power.powerreference0.damage$ за очко Энергии до $param1.power.evalregisterfloat2.nofraction$)\nВосстановление: $param1.power.cooldown$"
     },
     "11655043492443129157": {
       "Variants": [],
@@ -76197,7 +76197,7 @@
     "12801257821501588807": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.pct$% Базового урона против врагов с эффектом $param0.keyword$"
+      "String": "$propertyValueSign$$propertyValue.pct$% Базового урона против $param0.keyword.locflagP2G$ врагов"
     },
     "12801355927140107584": {
       "Variants": [],
@@ -92918,7 +92918,7 @@
     "13578118560970900809": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyvaluesign$$propertyvalue.pct.abs$% к полученному лечению"
+      "String": "$propertyvaluesign$$propertyvalue.pct.abs$% Получаемого лечения"
     },
     "13578182332570666240": {
       "Variants": [],

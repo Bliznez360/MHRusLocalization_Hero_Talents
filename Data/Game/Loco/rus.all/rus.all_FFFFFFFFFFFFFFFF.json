@@ -28681,7 +28681,7 @@
     "15178449226861446462": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ваши атаки имеют 5% шанс нанести $param1.power.damage$ $param1.power.damageType$ Урона ($param1.power.powerreference0.damage$ за каждую единицу Скорости до $param1.power.evalregisterfloat2.nofraction$)\nВосстановление: $param1.power.cooldown$"
+      "String": "Ваши атаки имеют 5% шанс нанести $param1.power.damage$ $param1.power.damageType.locflagG$ урона ($param1.power.powerreference0.damage$ за очко Скорости до $param1.power.evalregisterfloat2.nofraction$)\nВосстановление: $param1.power.cooldown$"
     },
     "15178480790645704058": {
       "Variants": [],
@@ -75777,7 +75777,7 @@
     "17388908017523164479": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ваши атаки имеют 5% шанс нанести $param1.power.damage$ $param1.power.damageType$ Урона ($param1.power.powerreference0.damage$ за каждую единицу Силы до $param1.power.evalregisterfloat2.nofraction$)\nВосстановление: $param1.power.cooldown$"
+      "String": "Ваши атаки имеют 5% шанс нанести $param1.power.damage$ $param1.power.damageType.locflagG$ урона ($param1.power.powerreference0.damage$ за очко Силы до $param1.power.evalregisterfloat2.nofraction$)\nВосстановление: $param1.power.cooldown$"
     },
     "17388953947914634572": {
       "Variants": [],
@@ -92913,7 +92913,7 @@
     "18181743771883865404": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ваши атаки имеют 5% шанс нанести $param1.power.damage$ $param1.power.damageType$ Урона ($param1.power.powerreference0.damage$ за каждую единицу Силы вплоть до $param1.power.evalregisterfloat2.nofraction$)\nВосстановление: $param1.power.cooldown$"
+      "String": "Ваши атаки имеют 5% шанс нанести $param1.power.damage$ $param1.power.damageType.locflagG$ урона ($param1.power.powerreference0.damage$ за очко Битвы до $param1.power.evalregisterfloat2.nofraction$)\nВосстановление: $param1.power.cooldown$"
     },
     "18181844622080542072": {
       "Variants": [],
