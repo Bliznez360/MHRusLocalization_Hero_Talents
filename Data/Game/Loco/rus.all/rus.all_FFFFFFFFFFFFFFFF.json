@@ -498,7 +498,7 @@
     "13852888191725208845": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "После применения $param2.keyword.locflagP2G$ вы получаете \"Спутниковую связь\" на $param1.power.condition0.duration$, которая дает радар, увеличивает скорость движения на +$param1.power.evalRegisterFloat0.pct$%, а базовый урон - на +$param1.power.evalRegisterFloat0.pct$%"
+      "String": "После применения $param2.keyword.locflagP2G$ вы получаете \"Спутниковую связь\" на $param1.power.condition0.duration$, которая дает радар, увеличивает Скорость передвижения на +$param1.power.evalRegisterFloat0.pct$%, а базовый урон - на +$param1.power.evalRegisterFloat0.pct$%"
     },
     "13853127674938787200": {
       "Variants": [],
@@ -2935,7 +2935,7 @@
     "13958821103418737984": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#$PowerName$#/emphasis#: +$movementspeedincrpct.pct$% Скорости движения и +$castSpeedMult.pct$% Скорости атаки (Складывается мультипликативно с обычной Скоростью атаки)"
+      "String": "#emphasis#$PowerName$#/emphasis#: +$movementspeedincrpct.pct$% Скорости передвижения и +$castSpeedMult.pct$% Скорости атаки (Складывается мультипликативно с обычной Скоростью атаки)"
     },
     "13959040202582197565": {
       "Variants": [],
@@ -3361,7 +3361,7 @@
     "13977541805005014338": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Следовать за атакой\nУвеличенная скорость атаки"
+      "String": "Следовать за атакой\nУвеличенная Скорость атаки"
     },
     "13978078023074448695": {
       "Variants": [],
@@ -12115,7 +12115,7 @@
     "14395215035098334526": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Аура Человека-Ракеты:\nПри использовании Передвижения вы и ваши союзники получаете +$param1.power.condition0.damagerating.nofraction$ Рейтинг урона, +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг урона Передвижения и +$param1.power.condition0.movementspeedincrpct.pct$% Скорости движения на $param1.power.condition0.duration$"
+      "String": "Аура Человека-Ракеты:\nПри использовании Передвижения вы и ваши союзники получаете +$param1.power.condition0.damagerating.nofraction$ Рейтинг урона, +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг урона Передвижения и +$param1.power.condition0.movementspeedincrpct.pct$% Скорости передвижения на $param1.power.condition0.duration$"
     },
     "14395541667298149640": {
       "Variants": [],
@@ -12370,7 +12370,7 @@
     "14407870345278391667": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Преобразует ингредиенты в артефакт, повышающий ваше здоровье и скорость движения, а также дающий шанс при попадании вызвать сферы ускорения."
+      "String": "Преобразует ингредиенты в артефакт, повышающий ваше здоровье и скорость передвижения, а также дающий шанс при попадании вызвать сферы ускорения."
     },
     "14408121815612458352": {
       "Variants": [],
@@ -13150,7 +13150,7 @@
     "14447777678029817096": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Регенерирует $healingovertimebase.nofraction$ здоровья в сек и получает +$MovementSpeedIncrPct.pct$% скорости движения, пока вы #powermechanic#невидимы#/powermechanic# или #powermechanic#в скрытности#/powermechanic#"
+      "String": "Регенерирует $healingovertimebase.nofraction$ здоровья в сек и получает +$MovementSpeedIncrPct.pct$% Скорости передвижения, пока вы #powermechanic#невидимы#/powermechanic# или #powermechanic#в скрытности#/powermechanic#"
     },
     "14448461015983981895": {
       "Variants": [],
@@ -18062,7 +18062,7 @@
     "14678858725534991718": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+25% Скорости атаки и движения\n\nНовый дар заменит этот эффект"
+      "String": "+25% Скорости атаки и передвижения\n\nНовый дар заменит этот эффект"
     },
     "14678862762690741515": {
       "Variants": [],
@@ -20704,7 +20704,7 @@
     "14808754797254804793": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ионная Защитная Аура:\nПри использовании Передвижения, вы и ваши союзники получаете +$param1.power.condition0.damageratingbonusbytype.nofraction$ Физического и Энергетического Рейтинга Урона, $param1.power.condition0.movementspeedincrpct.pct$% Увеличение Скорости Движения и +$param1.power.condition0.healingovertimebase.nofraction$ Регенерации Здоровья в сек на протяжении $param1.power.condition0.duration$."
+      "String": "Ионная Защитная Аура:\nПри использовании Передвижения, вы и ваши союзники получаете +$param1.power.condition0.damageratingbonusbytype.nofraction$ Физического и Энергетического Рейтинга Урона, $param1.power.condition0.movementspeedincrpct.pct$% Увеличение Скорости передвижения и +$param1.power.condition0.healingovertimebase.nofraction$ Регенерации Здоровья в сек на протяжении $param1.power.condition0.duration$."
     },
     "14808817168710632712": {
       "Variants": [],
@@ -22255,7 +22255,7 @@
     "14883464108330190079": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#При попадании вы спонтанно создаете новые личности. Активным может быть любое количество; длительность - одна минута.#/emphasis#\nКонец игры: +$param1.power.onContactTimepower0.evalRegisterFloat0.pct$% шанс блокировки\nСинди Холлер: +$param1.power.onContactTimepower1.evalRegisterFloat0.pct$% Базового Энергетического урона \nДжек Уэйн: +$param1.power.onContactTimepower2.evalRegisterFloat0.pct$% Базового Физического и Ментального урона\nЛегион: +$param1.power.onContactTimepower3.evalRegisterFloat0$ ко всем параметрам\nСалли: +$param1.power.onContactTimepower4.evalRegisterFloat0$ Силы и Выносливости\nМойра: +$param1.power.onContactTimepower5.evalRegisterFloat0$ Интеллекта\nСкинсмит: +$param1.power.onContactTimepower6.evalRegisterFloat0.pct$% Рейтинг защиты\nКирксбакс Краклар: +$param1.power.onContactTimepower7.evalRegisterFloat0.pct$% Скорости движения\nКсения Надежда Панова: +$param1.power.onContactTimepower8.evalRegisterFloat0.pct$% Рейтинг сокрушительного удара\nНе-ньютоновская Энни: +$param1.power.onContactTimepower9.evalRegisterFloat0.pct$% к отклонению снаряда\nКлоун: +$param1.power.onContactTimepower10.evalRegisterFloat0.pct$% Рейтинг критического удара\nФиндль Искатель: +$param1.power.onContactTimepower11.evalRegisterFloat0.pct$% Поиска Особых предметов\nПожиратель времени: +$param1.power.onContactTimepower12.evalRegisterFloat0.pct$% бонуса Опыта\nДрексл: +$param1.power.onContactTimepower13.evalRegisterFloat0.pct$% Базового урона в ближнем бою"
+      "String": "#emphasis#При попадании вы спонтанно создаете новые личности. Активным может быть любое количество; длительность - одна минута.#/emphasis#\nКонец игры: +$param1.power.onContactTimepower0.evalRegisterFloat0.pct$% шанс блокировки\nСинди Холлер: +$param1.power.onContactTimepower1.evalRegisterFloat0.pct$% Базового Энергетического урона \nДжек Уэйн: +$param1.power.onContactTimepower2.evalRegisterFloat0.pct$% Базового Физического и Ментального урона\nЛегион: +$param1.power.onContactTimepower3.evalRegisterFloat0$ ко всем параметрам\nСалли: +$param1.power.onContactTimepower4.evalRegisterFloat0$ Силы и Выносливости\nМойра: +$param1.power.onContactTimepower5.evalRegisterFloat0$ Интеллекта\nСкинсмит: +$param1.power.onContactTimepower6.evalRegisterFloat0.pct$% Рейтинг защиты\nКирксбакс Краклар: +$param1.power.onContactTimepower7.evalRegisterFloat0.pct$% Скорости передвижения\nКсения Надежда Панова: +$param1.power.onContactTimepower8.evalRegisterFloat0.pct$% Рейтинг сокрушительного удара\nНе-ньютоновская Энни: +$param1.power.onContactTimepower9.evalRegisterFloat0.pct$% к отклонению снаряда\nКлоун: +$param1.power.onContactTimepower10.evalRegisterFloat0.pct$% Рейтинг критического удара\nФиндль Искатель: +$param1.power.onContactTimepower11.evalRegisterFloat0.pct$% Поиска Особых предметов\nПожиратель времени: +$param1.power.onContactTimepower12.evalRegisterFloat0.pct$% бонуса Опыта\nДрексл: +$param1.power.onContactTimepower13.evalRegisterFloat0.pct$% Базового урона в ближнем бою"
     },
     "14883474639666611528": {
       "Variants": [],
@@ -22290,7 +22290,7 @@
     "14884322586520257900": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "получите $condition0.movementSpeedChangePct$% Скорость передвижения"
+      "String": "получите $condition0.movementSpeedChangePct$% Скорости передвижения"
     },
     "14884330369012335995": {
       "Variants": [
@@ -26913,7 +26913,7 @@
     "15101821332412433771": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "За Асгард!\nУвеличенные атрибуты энергии и силы\nУвеличенная сила атаки и скорость передвижения, критический урон\nЗдоровье при ударе"
+      "String": "За Асгард!\nУвеличенные атрибуты Энергии и Силы\nУвеличенная Скорость Атаки и Передвижения, Критический урон\nЗдоровье при ударе"
     },
     "15102208643854173450": {
       "Variants": [],
@@ -44825,7 +44825,7 @@
     "15927502462495622397": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Никогда не говори \"умер\"\nУвеличенный урон, сила атаки и скорость передвижения"
+      "String": "Никогда не говори \"умер\"\nУвеличенный урон, Скорость Атаки и Передвижения"
     },
     "15928374491194852626": {
       "Variants": [],
@@ -45423,7 +45423,7 @@
     "15956594870225995074": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Если враг атакует, вы впадаете в Бешенство, и ваша скорость атаки повышается на +$param1.power.condition0.CastSpeedIncrPct.pct$% на $param1.power.condition0.duration$ (накапливается до $param1.power.condition0.maxNumStacks$ раз)"
+      "String": "Если враг атакует, вы впадаете в Бешенство, и ваша Скорость атаки повышается на +$param1.power.condition0.CastSpeedIncrPct.pct$% на $param1.power.condition0.duration$ (накапливается до $param1.power.condition0.maxNumStacks$ раз)"
     },
     "15956675465276097845": {
       "Variants": [],
@@ -47215,7 +47215,7 @@
     "16030619967301420347": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Скорость движения: +$MovementSpeedIncrPct.mulby3$%, убывает в течение $duration$"
+      "String": "Скорость передвижения: +$MovementSpeedIncrPct.mulby3$%, убывает в течение $duration$"
     },
     "16030707056288072964": {
       "Variants": [],
@@ -47355,7 +47355,7 @@
     "16036576399684797701": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда усиливается $primarymanabehaviorname$, повышается скорость движения (до $evalregisterfloat0$, если $primarymanabehaviorname$ на максимуме)"
+      "String": "Когда усиливается $primarymanabehaviorname$, повышается Скорость передвижения (до $evalregisterfloat0$, если $primarymanabehaviorname$ на максимуме)"
     },
     "16036626070984983818": {
       "Variants": [],
@@ -50233,7 +50233,7 @@
     "16175122325263025514": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Замедление: -$MovementSpeedDecrPct$% Скорости движения"
+      "String": "Замедление: -$MovementSpeedDecrPct$% Скорости передвижения"
     },
     "16175506479971960132": {
       "Variants": [],
@@ -52702,7 +52702,7 @@
     "16289331449842304321": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ускорение\nУвеличенная скорость атаки и передвижения"
+      "String": "Ускорение\nУвеличенная Скорость атаки и передвижения"
     },
     "16289515622336431425": {
       "Variants": [],
@@ -53182,7 +53182,7 @@
     "16312098878141367559": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Скорость движения и атаки: +$castSpeedIncrPct$%"
+      "String": "Скорость передвижения и атаки: +$castSpeedIncrPct$%"
     },
     "16312262825752331626": {
       "Variants": [],
@@ -54343,7 +54343,7 @@
     "16374646972205892875": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Этот рецепт требует: (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 Кредитов, чтобы создать предмет. \n\nСоздаёт шкуру Лорда Серы — Уникальный предмет 2 ячейки 60 уровня для любого героя\n\n#emphasis#Шкура Лорда Серы#/emphasis#\n#emphasis#+ Рейтинг защиты#/emphasis#\n#emphasis#+ Урон Ближнего боя#/emphasis#\n#emphasis#+ Здоровье#/emphasis#\n#emphasis#+ Воли#/emphasis#\n#emphasis#+ Восстановление Здоровья#/emphasis#\n#emphasis#Когда уровень здоровья падает ниже 30%, вы получите \"Выносливость\"#/emphasis#\n#emphasis#Когда вы получаете Длительный урон, повышается Рейтинг защиты и Скорости движения#/emphasis#"
+      "String": "Этот рецепт требует: (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 Кредитов, чтобы создать предмет. \n\nСоздаёт шкуру Лорда Серы — Уникальный предмет 2 ячейки 60 уровня для любого героя\n\n#emphasis#Шкура Лорда Серы#/emphasis#\n#emphasis#+ Рейтинг защиты#/emphasis#\n#emphasis#+ Урон Ближнего боя#/emphasis#\n#emphasis#+ Здоровье#/emphasis#\n#emphasis#+ Воли#/emphasis#\n#emphasis#+ Восстановление Здоровья#/emphasis#\n#emphasis#Когда уровень здоровья падает ниже 30%, вы получите \"Выносливость\"#/emphasis#\n#emphasis#Когда вы получаете Длительный урон, повышается Рейтинг защиты и Скорости передвижения#/emphasis#"
     },
     "16374717547114136849": {
       "Variants": [],
@@ -55700,7 +55700,7 @@
     "16434095031889757451": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 25:\n+2% Скорости движения"
+      "String": "Уровень 25:\n+2% Скорости передвижения"
     },
     "16434261852773418299": {
       "Variants": [],
@@ -56320,7 +56320,7 @@
     "16468547631747368203": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Замедление: -$MovementSpeedDecrPct$% Сила атаки/Скорость движения на $duration$"
+      "String": "Замедление: -$MovementSpeedDecrPct$% Скорость Атаки/Передвижения на $duration$"
     },
     "16468738126423328001": {
       "Variants": [],
@@ -56350,7 +56350,7 @@
     "16470082077651961199": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#power#10% бонус Скорости движения за стек#/power#"
+      "String": "#power#10% бонус Скорости передвижения за стек#/power#"
     },
     "16470310801852466555": {
       "Variants": [],
@@ -61984,7 +61984,7 @@
     "16743698402374452586": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+$equipPower.condition0.movementspeedincrpct.pct$% Скорости движения, если вы не в бою как минимум 3 секунды."
+      "String": "+$equipPower.condition0.movementspeedincrpct.pct$% Скорости передвижения, если вы не в бою как минимум 3 секунды."
     },
     "16743705690936313197": {
       "Variants": [],
@@ -62589,7 +62589,7 @@
     "16778194905279628569": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Замедление: -$MovementSpeedDecrPct$% Сила атаки/Скорость движения на $duration$ (не подвержено длительности силы)"
+      "String": "Замедление: -$MovementSpeedDecrPct$% Скорость Атаки/Передвижения на $duration$ (не подвержено длительности силы)"
     },
     "16778740018407146911": {
       "Variants": [],
@@ -62770,7 +62770,7 @@
     "16785020939746084113": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Быстрые туфли - Увеличена скорость атаки и скорость передвижения"
+      "String": "Быстрые туфли - Увеличена Скорость атаки и Скорость передвижения"
     },
     "16785574973399631160": {
       "Variants": [],
@@ -62870,7 +62870,7 @@
     "16790863310863074673": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Преобразует ингредиенты в артефакт, повышающий ваше здоровье и скорость движения, а также дающий шанс при попадании вызвать сферы ускорения."
+      "String": "Преобразует ингредиенты в артефакт, повышающий ваше здоровье и скорость передвижения, а также дающий шанс при попадании вызвать сферы ускорения."
     },
     "16791026369165788416": {
       "Variants": [],
@@ -70377,7 +70377,7 @@
     "17135655223678076233": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "После удачной атаки вы с вероятностью $procChanceString$ наносите $param1.power.evalRegisterFloat0.precision0$ $param1.power.damageType.locflagG$ урона и снижаете вражескую скорость движения на $param1.power.condition0.movementSpeedDecrPct$% на $param1.power.condition0.duration$ (перезарядка - $param1.power.cooldown$)"
+      "String": "После удачной атаки вы с вероятностью $procChanceString$ наносите $param1.power.evalRegisterFloat0.precision0$ $param1.power.damageType.locflagG$ урона и снижаете вражескую Скорость передвижения на $param1.power.condition0.movementSpeedDecrPct$% на $param1.power.condition0.duration$ (перезарядка - $param1.power.cooldown$)"
     },
     "17135663671864001846": {
       "Variants": [],
@@ -73521,7 +73521,7 @@
     "17282725748624131346": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы и ваши союзники получаете #teambuff#Силу#/teambuff#, увеличивая Рейтинг Урона на $DamageRating$ и Скорость Движения и Атаки на $MovementSpeedIncrPct$% до тех пор, пока не будет использована способность #powerkeyword#Фантастического Друга#/powerkeyword#"
+      "String": "Вы и ваши союзники получаете #teambuff#Силу#/teambuff#, увеличивая Рейтинг Урона на $DamageRating$ и Скорость передвижения и Атаки на $MovementSpeedIncrPct$% до тех пор, пока не будет использована способность #powerkeyword#Фантастического Друга#/powerkeyword#"
     },
     "17282962908250965369": {
       "Variants": [],
@@ -80571,7 +80571,7 @@
     "17608932461952828795": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 25:\n+3% Скорости движения"
+      "String": "Уровень 25:\n+3% Скорости передвижения"
     },
     "17609202374807389501": {
       "Variants": [],
@@ -83299,7 +83299,7 @@
     "17733837983529567557": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Доказательства \nУвеличенный базовый урон, сила атаки и скорость передвижения, а также шанс отражения"
+      "String": "Доказательства \nУвеличенный Базовый урон, Скорость Атаки и Передвижения, а также Шанс Отражения"
     },
     "17734003953958847820": {
       "Variants": [],
@@ -84360,7 +84360,7 @@
     "17782883211521033546": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Неудержимой силы#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#200 Физического урона#/emphasis#,\n#emphasis#200 Рейтинг урона Передвижения#/emphasis#,\n#emphasis#200 Рейтинг критического удара#/emphasis#,\n#emphasis#2% Скорости движения#/emphasis#,\n#emphasis#-2% расхода $primarymanabehaviorname.locflagG$ на способности#/emphasis# и\n#emphasis#2% шанс при попадании передвижением получить 200 Рейтинг критического удара и 2000 Рейтинг критического урона на 5 с#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы: Рейтинг Физического урона, Рейтинг урона передвижения, Крит. рейтинг и Критический урон."
+      "String": "Добавляет рунное слово #emphasis#Неудержимой силы#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#200 Физического урона#/emphasis#,\n#emphasis#200 Рейтинг урона Передвижения#/emphasis#,\n#emphasis#200 Рейтинг критического удара#/emphasis#,\n#emphasis#2% Скорости передвижения#/emphasis#,\n#emphasis#-2% расхода $primarymanabehaviorname.locflagG$ на способности#/emphasis# и\n#emphasis#2% шанс при попадании передвижением получить 200 Рейтинг критического удара и 2000 Рейтинг критического урона на 5 с#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы: Рейтинг Физического урона, Рейтинг урона передвижения, Крит. рейтинг и Критический урон."
     },
     "17783255026762646785": {
       "Variants": [],
@@ -87083,11 +87083,11 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "Движущих способностей"
+          "String": "способностей Передвижения"
         }
       ],
       "FlagsProduced": 65535,
-      "String": "Движущая"
+      "String": "Передвижение"
     },
     "17912442549266679106": {
       "Variants": [],
@@ -91104,7 +91104,7 @@
     "18093343062782510400": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Поток - Увеличенная Сила атаки и скорость передвижения, рейтинг уклонения"
+      "String": "Поток - Увеличенная Скорость Атаки и Передвижения, Рейтинг уклонения"
     },
     "18093466775005037869": {
       "Variants": [],
@@ -92142,7 +92142,7 @@
     "18145940241663985003": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда погибает союзник, вас посещает вдохновение, и вы получаете +$equipPower.summonEntity0.appliesPowers0.condition0.procEffect0.condition0.Defense.noFraction$ Рейтинг защиты, +$equipPower.summonEntity0.appliesPowers0.condition0.procEffect0.condition0.CastSpeedIncrPct.noFraction$% Скорости атаки и +$equipPower.summonEntity0.appliesPowers0.condition0.procEffect0.condition0.MovementSpeedIncrPct.noFraction$% Скорости движения на $equipPower.summonEntity0.appliesPowers0.condition0.procEffect0.condition0.duration$ (перезарядка $equipPower.summonEntity0.appliesPowers0.condition0.procEffect0.cooldown$)."
+      "String": "Когда погибает союзник, вас посещает вдохновение, и вы получаете +$equipPower.summonEntity0.appliesPowers0.condition0.procEffect0.condition0.Defense.noFraction$ Рейтинг защиты, +$equipPower.summonEntity0.appliesPowers0.condition0.procEffect0.condition0.CastSpeedIncrPct.noFraction$% Скорости атаки и +$equipPower.summonEntity0.appliesPowers0.condition0.procEffect0.condition0.MovementSpeedIncrPct.noFraction$% Скорости передвижения на $equipPower.summonEntity0.appliesPowers0.condition0.procEffect0.condition0.duration$ (перезарядка $equipPower.summonEntity0.appliesPowers0.condition0.procEffect0.cooldown$)."
     },
     "18146252584448558340": {
       "Variants": [],
@@ -94119,7 +94119,7 @@
     "18237298954755310860": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Создаёт шкуру Лорда Серы — Уникальный предмет 2 ячейки 60 уровня для любого героя\n\n#emphasis#Шкура Лорда Серы#/emphasis#\n#emphasis#+ Рейтинг защиты#/emphasis#\n#emphasis#+ Урона Ближнего боя#/emphasis#\n#emphasis#+ Здоровья#/emphasis#\n#emphasis#+ Воли#/emphasis#\n#emphasis#+ Восстановление Здоровья#/emphasis#\n#emphasis#Когда уровень здоровья падает ниже 30%, вы получите \"Выносливость\"#/emphasis#\n#emphasis#Когда вы получаете длительный урон, повышается рейтинг защиты и скорости движения#/emphasis#"
+      "String": "Создаёт шкуру Лорда Серы — Уникальный предмет 2 ячейки 60 уровня для любого героя\n\n#emphasis#Шкура Лорда Серы#/emphasis#\n#emphasis#+ Рейтинг защиты#/emphasis#\n#emphasis#+ Урона Ближнего боя#/emphasis#\n#emphasis#+ Здоровья#/emphasis#\n#emphasis#+ Воли#/emphasis#\n#emphasis#+ Восстановление Здоровья#/emphasis#\n#emphasis#Когда уровень здоровья падает ниже 30%, вы получите \"Выносливость\"#/emphasis#\n#emphasis#Когда вы получаете длительный урон, повышается рейтинг защиты и Скорости передвижения#/emphasis#"
     },
     "18237776267413292347": {
       "Variants": [],

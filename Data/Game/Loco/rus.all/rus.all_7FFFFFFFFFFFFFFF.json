@@ -2977,7 +2977,7 @@
     "4757580268476433677": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+1 Скорости и +5% Скорость передвижения\nКаждое дополнительное усиление, которое дарует этот эффект, продлит его длительность.\nИспользование другого Усиления Гражданской Войны завершит эффект этого усиления."
+      "String": "+1 Скорости и +5% Скорости передвижения\nКаждое дополнительное усиление, которое дарует этот эффект, продлит его длительность.\nИспользование другого Усиления Гражданской Войны завершит эффект этого усиления."
     },
     "4758724417822459251": {
       "Variants": [],
@@ -13399,7 +13399,7 @@
     "5257959557840766270": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#teambuff#Власть#/teambuff# - увеличатся рейтинг урона, скорость атаки и скорость движения"
+      "String": "#teambuff#Власть#/teambuff# - увеличатся рейтинг урона, Скорость атаки и Скорость передвижения"
     },
     "5258003568382051660": {
       "Variants": [],
@@ -14562,7 +14562,7 @@
     "5312471798214034794": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Операции на местности\nУвеличенная скорость атаки и передвижения, Шанс критического удара и сопротивление урону"
+      "String": "Операции на местности\nУвеличенная Скорость атаки и передвижения, Шанс критического удара и сопротивление урону"
     },
     "5312752998188844291": {
       "Variants": [],
@@ -15608,7 +15608,7 @@
     "5358838572875646280": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Удвоенная скорость атаки"
+      "String": "Удвоенная Скорость атаки"
     },
     "5359034736860202266": {
       "Variants": [],
@@ -19305,7 +19305,7 @@
     "5532419276758844776": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Если вас атаковали чем-либо, наносящим длительный урон, вы получаете +$param1.power.condition0.Defense.nofraction$ Рейтинг защиты и +$param1.power.condition0.MovementSpeedIncrPct.pct$% Скорости движения на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)."
+      "String": "Если вас атаковали чем-либо, наносящим длительный урон, вы получаете +$param1.power.condition0.Defense.nofraction$ Рейтинг защиты и +$param1.power.condition0.MovementSpeedIncrPct.pct$% Скорости передвижения на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)."
     },
     "5532422983319422317": {
       "Variants": [],
@@ -29901,7 +29901,7 @@
     "6043994952989541649": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Охлаждение#/emphasis# - в первый раз уменьшает скорость движения и атаки на $PowerReference0.condition0.MovementSpeedDecrPct$% на $PowerReference0.condition0.duration$. Эффект накапливается до 5 раз. Враги с 5 эффектами становятся #emphasis#замороженными#/emphasis# на $PowerReference1.condition0.duration$"
+      "String": "#emphasis#Охлаждение#/emphasis# - в первый раз уменьшает скорость передвижения и атаки на $PowerReference0.condition0.MovementSpeedDecrPct$% на $PowerReference0.condition0.duration$. Эффект накапливается до 5 раз. Враги с 5 эффектами становятся #emphasis#замороженными#/emphasis# на $PowerReference1.condition0.duration$"
     },
     "6044034496929924512": {
       "Variants": [],
@@ -30851,7 +30851,7 @@
     "6092063634307417400": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procChanceString$ шанс при попадании получить  +$param1.power.condition0.movementSpeedIncrPct.pct$% Скорости движения на $param1.power.condition0.duration$ (перезарядка -$param1.power.cooldown$)"
+      "String": "$procChanceString$ шанс при попадании получить  +$param1.power.condition0.movementSpeedIncrPct.pct$% Скорости передвижения на $param1.power.condition0.duration$ (перезарядка -$param1.power.cooldown$)"
     },
     "6092187037310321976": {
       "Variants": [],
@@ -35086,7 +35086,7 @@
     "6299931736443192685": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#teambuff#Власть#/teambuff# - увеличится рейтинг урона, скорость атаки и скорость движения"
+      "String": "#teambuff#Власть#/teambuff# - увеличится рейтинг урона, Скорость атаки и Скорость передвижения"
     },
     "6300104076303730031": {
       "Variants": [],
@@ -35267,7 +35267,7 @@
     "6310487116799870330": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Неудержимая сила#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+200 Рейтинг физического урона#/emphasis#\n#emphasis#+200 Рейтинг урона Передвижения#/emphasis#\n#emphasis#+200 Рейтинг критического удара#/emphasis#\n#emphasis#+2% Скорости движения#/emphasis#\n#emphasis#2% снижение стоимости способностей#/emphasis#\n#emphasis#2% шанс при попадании Передвижением получить +200 Рейтинг критического удара и +2000 Рейтинг критического урона на 5 с#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы к рейтингам урона, крит. удара и критического урона."
+      "String": "Добавляет рунное слово #emphasis#Неудержимая сила#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учетной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+200 Рейтинг физического урона#/emphasis#\n#emphasis#+200 Рейтинг урона Передвижения#/emphasis#\n#emphasis#+200 Рейтинг критического удара#/emphasis#\n#emphasis#+2% Скорости передвижения#/emphasis#\n#emphasis#2% снижение стоимости способностей#/emphasis#\n#emphasis#2% шанс при попадании Передвижением получить +200 Рейтинг критического удара и +2000 Рейтинг критического урона на 5 с#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы к рейтингам урона, крит. удара и критического урона."
     },
     "6311038856820950337": {
       "Variants": [],
@@ -37275,7 +37275,7 @@
     "6395607566042203460": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 25:\n+3% Скорости движения"
+      "String": "Уровень 25:\n+3% Скорости передвижения"
     },
     "6395671135789778189": {
       "Variants": [],
@@ -38947,7 +38947,7 @@
     "6473914285946504505": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ударный Флип\nУвеличенная скорость передвижения"
+      "String": "Ударный Флип\nУвеличенная Скорость передвижения"
     },
     "6473966959424374072": {
       "Variants": [],
@@ -40844,7 +40844,7 @@
     "6562027605908653375": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Сила атаки и скорость передвижения:"
+      "String": "Скорость Атаки и Передвижения:"
     },
     "6562416214669591966": {
       "Variants": [],
@@ -46689,7 +46689,7 @@
     "6828836888563484012": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рваните прямо в бой, выпустив когти, #emphasis#сбивая с ног#/emphasis# всех врагов на своем пути и используя инерцию для того, чтобы увеличить скорость движения после атаки."
+      "String": "Рваните прямо в бой, выпустив когти, #emphasis#сбивая с ног#/emphasis# всех врагов на своем пути и используя инерцию для того, чтобы увеличить скорость передвижения после атаки."
     },
     "6829000041495922037": {
       "Variants": [],
@@ -54213,7 +54213,7 @@
     "7186135660295488870": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ураган Темпест\nУвеличенная Сила атаки и скорость передвижения, базовый урон и шанс уклонения"
+      "String": "Ураган Темпест\nУвеличенная Скорость Атаки и Передвижения, Базовый урон и Шанс уклонения"
     },
     "7186150460760720753": {
       "Variants": [],
@@ -54589,7 +54589,7 @@
     "7205361428564346220": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+5% Скорости атаки и движения\nДлительность: $usepower.condition0.duration$."
+      "String": "+5% Скорости Передвижения и Атаки\nДлительность: $usepower.condition0.duration$."
     },
     "7205995322725041465": {
       "Variants": [],
@@ -59787,7 +59787,7 @@
     "7444336325194548584": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Берсеркерская ярость\nУвеличенные атрибуты Энергии и Силы\nУвеличенная Скорость атаки и передвижения, Критический урон\nЗдоровье при попадании"
+      "String": "Берсеркерская ярость\nУвеличенные атрибуты Энергии и Силы\nУвеличенная Скорость Атаки и Передвижения, Критический урон\nЗдоровье при попадании"
     },
     "7444767415237674247": {
       "Variants": [],
@@ -63500,7 +63500,7 @@
     "7622475582646519049": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Замедление: -$MovementSpeedDecrPct$% Сила атаки/Скорость движения. Это продолжается в течение $duration$ после выхода из зоны действия"
+      "String": "Замедление: -$MovementSpeedDecrPct$% Скорости Атаки/Передвижения. Это продолжается в течение $duration$ после выхода из зоны действия"
     },
     "7622798525593552191": {
       "Variants": [],
@@ -65471,7 +65471,7 @@
     "7712938438817678706": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Скорость движения и атаки: +$castSpeedIncrPct$% на $duration$"
+      "String": "Скорость передвижения и атаки: +$castSpeedIncrPct$% на $duration$"
     },
     "7712996665619318069": {
       "Variants": [],
@@ -65761,7 +65761,7 @@
     "7726398849021248779": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Замедление: $evalRegisterFloat0.pct$% шанс нанести на 50% больше урона и уменьшить скорость движения/атаки врага на -$MovementSpeedDecrPct$% на $duration$"
+      "String": "Замедление: $evalRegisterFloat0.pct$% шанс нанести на 50% больше урона и уменьшить скорость передвижения/атаки врага на -$MovementSpeedDecrPct$% на $duration$"
     },
     "7726735230920492354": {
       "Variants": [],
@@ -71711,7 +71711,7 @@
     "7997792725859501425": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при попадании ветровой способностью получить $param1.power.condition0.movementspeedincrpct.pct$% Скорости движения и $param1.power.condition0.castspeedincrpct.pct$% Скорости атаки на $param1.power.condition0.duration$."
+      "String": "$procchancestring$ шанс при попадании ветровой способностью получить $param1.power.condition0.movementspeedincrpct.pct$% Скорости передвижения и $param1.power.condition0.castspeedincrpct.pct$% Скорости атаки на $param1.power.condition0.duration$."
     },
     "7998518012640167242": {
       "Variants": [],
@@ -72974,7 +72974,7 @@
     "8056712117959984452": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы наносите удар оружием, за каждый ранг вы получаете 1% шанс временно снизить скорость движения находящихся рядом врагов."
+      "String": "Когда вы наносите удар оружием, за каждый ранг вы получаете 1% шанс временно снизить скорость передвижения находящихся рядом врагов."
     },
     "8056863554269414767": {
       "Variants": [],
@@ -73325,7 +73325,7 @@
     "8074367341239928131": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+1 Скорости и +5% Скорость передвижения\nКаждое дополнительное усиление, которое дарует этот эффект, продлит его длительность.\nИспользование другого Усиления Гражданской Войны завершит эффект этого усиления."
+      "String": "+1 Скорости и +5% Скорости передвижения\nКаждое дополнительное усиление, которое дарует этот эффект, продлит его длительность.\nИспользование другого Усиления Гражданской Войны завершит эффект этого усиления."
     },
     "8074678820858561857": {
       "Variants": [],
@@ -73937,7 +73937,7 @@
     "8101248012592874862": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#teambuff#Власть#/teambuff# - увеличатся рейтинг урона, скорость атаки и скорость движения"
+      "String": "#teambuff#Власть#/teambuff# - увеличатся Рейтинг урона, Скорость атаки и Скорость передвижения"
     },
     "8101379962575586666": {
       "Variants": [],
@@ -75771,7 +75771,7 @@
     "8190247530218456338": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Замедление: -$MovementSpeedDecrPct$% Скорости движения в течение $duration$"
+      "String": "Замедление: -$MovementSpeedDecrPct$% Скорости передвижения в течение $duration$"
     },
     "8190258959194195278": {
       "Variants": [],
@@ -77398,7 +77398,7 @@
     "8259154100076021050": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы попадаете Дальней способностью, вы наполняетесь #blue#Приливом Адреналина#/blue#, получая $param1.power.onpowerhitpower0.condition0.castspeedincrpct.pct$% Скорости Атаки, +$param1.power.onpowerhitpower0.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинга Урона Дальнобойной Атаки и +$param1.power.onpowerhitpower0.condition0.critratingbonusadd.nofraction$ Рейт. Крит. Урона на $param1.power.onpowerhitpower0.condition0.duration$. Вы можете накопить до 7 стеков Прилива Адреналина каждые 7 секунд. ($param1.power.cooldown$ время перезарядки)"
+      "String": "Когда вы попадаете Дальней способностью, вы наполняетесь #blue#Приливом Адреналина#/blue#, получая $param1.power.onpowerhitpower0.condition0.castspeedincrpct.pct$% Скорости атаки, +$param1.power.onpowerhitpower0.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинга Дальнего урона и +$param1.power.onpowerhitpower0.condition0.critratingbonusadd.nofraction$ Рейт. Крит. Урона на $param1.power.onpowerhitpower0.condition0.duration$. Вы можете накопить до 7 стеков Прилива Адреналина каждые 7 сек. ($param1.power.cooldown$ время перезарядки)"
     },
     "8259576462916322656": {
       "Variants": [],
@@ -87979,7 +87979,7 @@
     "8762863646953309547": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#teambuff#Власть#/teambuff# - увеличатся рейтинг урона, скорость атаки и скорость движения"
+      "String": "#teambuff#Власть#/teambuff# - увеличатся Рейтинг урона, Скорость атаки и Скорость передвижения"
     },
     "8763020975846982979": {
       "Variants": [],
@@ -88169,7 +88169,7 @@
     "8773705338412664176": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы и ваши союзники получаете #teambuff#власть#/teambuff#: повышается рейтинг урона на $DamageRating$, а также скорость движения и атаки на $MovementSpeedIncrPct$%"
+      "String": "Вы и ваши союзники получаете #teambuff#власть#/teambuff#: повышается рейтинг урона на $DamageRating$, а также Скорость передвижения и атаки на $MovementSpeedIncrPct$%"
     },
     "8774054562141504830": {
       "Variants": [],
@@ -92777,7 +92777,7 @@
     "8998798097470260499": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Базовая скорость передвижения установлена на $movementspeedoverride$"
+      "String": "Базовая Скорость передвижения установлена на $movementspeedoverride$"
     },
     "8999405006470251841": {
       "Variants": [],
@@ -93592,7 +93592,7 @@
     "9039597886010295664": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+$equipPower.condition0.movementspeedincrpct.pct$% Скорости движения, если вы не в бою как минимум 3 секунды."
+      "String": "+$equipPower.condition0.movementspeedincrpct.pct$% Скорости передвижения, если вы не в бою как минимум 3 секунды."
     },
     "9039624025183159661": {
       "Variants": [],
@@ -94202,7 +94202,7 @@
     "9067674765710263566": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рваните вперед, #emphasis#оглушая#/emphasis# противников силой своего натиска. По инерции вы влетите в гущу боя, на короткое время увеличив скорость передвижения."
+      "String": "Рваните вперед, #emphasis#оглушая#/emphasis# противников силой своего натиска. По инерции вы влетите в гущу боя, на короткое время увеличив Скорость передвижения."
     },
     "9068150098376525105": {
       "Variants": [],
@@ -95308,7 +95308,7 @@
     "9125246019241903433": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "После удачной атаки вы с вероятностью $procChanceString$ устраиваете ослепительное световое шоу, снижая скорость движения врагов на $param1.power.summonEntity.appliesPowers.evalRegisterFloat0.pct$% в зоне действия на $param1.power.evalRegisterFloat0$ с и увеличивая свой базовый урон на $param1.power.onPowerStartPower.condition0.damagePctBonus.pct$% на $param1.power.onPowerStartPower.condition0.duration$ (перезарядка - $param1.power.cooldown$)"
+      "String": "После удачной атаки вы с вероятностью $procChanceString$ устраиваете ослепительное световое шоу, снижая Скорость передвижения врагов на $param1.power.summonEntity.appliesPowers.evalRegisterFloat0.pct$% в зоне действия на $param1.power.evalRegisterFloat0$ с и увеличивая свой базовый урон на $param1.power.onPowerStartPower.condition0.damagePctBonus.pct$% на $param1.power.onPowerStartPower.condition0.duration$ (перезарядка - $param1.power.cooldown$)"
     },
     "9125416160012862737": {
       "Variants": [],
@@ -96224,7 +96224,7 @@
     "9168259369314026757": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Замедление: -$MovementSpeedDecrPct$% Скорости атаки/движения"
+      "String": "Замедление: -$MovementSpeedDecrPct$% Скорости атаки/передвижения"
     },
     "9168467705422415221": {
       "Variants": [],
@@ -96244,7 +96244,7 @@
     "9168963275859494202": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы наносите удар Дальнобойной Силы, получите +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг Урона Дальнобойной Атаки и $param1.power.condition0.blockRatingBonusAdd.nofraction$ Рейтинг Отражения на $param1.power.condition0.duration$."
+      "String": "При ударе Дальней способностью, получите +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг Дальнего урона и $param1.power.condition0.blockRatingBonusAdd.nofraction$ Рейтинг Отражения на $param1.power.condition0.duration$."
     },
     "9169315360038585606": {
       "Variants": [],

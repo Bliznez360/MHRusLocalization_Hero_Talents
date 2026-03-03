@@ -7388,7 +7388,7 @@
     "344330221677708550": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#power#5% бонус Скорости атаки и движения#/power#\n\nКаждое дополнительно принятое зелье с этим эффектом увеличит его длительность."
+      "String": "#power#5% бонус скорости атаки и движения#/power#\n\nКаждое дополнительно принятое зелье с этим эффектом увеличит его длительность."
     },
     "344523954891982191": {
       "Variants": [],
@@ -9766,7 +9766,7 @@
     "454132499538183534": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Штраф $propertyvalue.pct.precision1$% Скорости движения"
+      "String": "Штраф $propertyvalue.pct.precision1$% Скорости передвижения"
     },
     "454409215638439238": {
       "Variants": [],
@@ -15137,7 +15137,7 @@
     "714252718409319746": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Если вы успешно применяете #blue#Пастбище#/blue#, скорость атаки увеличивается на $param1.power.condition0.castspeedincrpct.pct$% на $param1.power.condition0.duration$. Эффект накапливается до 3 раз."
+      "String": "Если вы успешно применяете #blue#Пастбище#/blue#, Скорость атаки увеличивается на $param1.power.condition0.castspeedincrpct.pct$% на $param1.power.condition0.duration$. Эффект накапливается до 3 раз."
     },
     "714410760253670663": {
       "Variants": [],
@@ -16116,7 +16116,7 @@
     "757039616456131945": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#teambuff#Власть#/teambuff# - увеличатся рейтинг урона, скорость атаки и скорость движения"
+      "String": "#teambuff#Власть#/teambuff# - увеличатся Рейтинг урона, Скорость атаки и Скорость передвижения"
     },
     "758300812084315471": {
       "Variants": [],
@@ -16206,7 +16206,7 @@
     "761503766745449782": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы наносите Критический удар, получите +$param1.power.condition0.supercritratingbonusadd.nofraction$ Рейтинг сокрушительного удара и +$param1.power.condition0.critratingbonusadd.nofraction$ Рейтинг критического удара на $param1.power.condition0.duration$. Этот эффект накапливается до 3 раз. При достижении 3 стеков получите $param1.power.onpowerstartpower.onstackcountpower.condition0.statintelligencemodifier.nofraction$ Интеллекта, +$param1.power.onpowerstartpower.onstackcountpower.condition0.damageratingbonusbytype.nofraction$ Рейтинг Физического Урона и $param1.power.onpowerstartpower.onstackcountpower.condition0.movementspeedincrpct.pct$% Скорости Движения на $param1.power.onpowerstartpower.onstackcountpower.condition0.duration$."
+      "String": "Когда вы наносите Критический удар, получите +$param1.power.condition0.supercritratingbonusadd.nofraction$ Рейтинг сокрушительного удара и +$param1.power.condition0.critratingbonusadd.nofraction$ Рейтинг критического удара на $param1.power.condition0.duration$. Этот эффект накапливается до 3 раз. При достижении 3 стеков получите $param1.power.onpowerstartpower.onstackcountpower.condition0.statintelligencemodifier.nofraction$ Интеллекта, +$param1.power.onpowerstartpower.onstackcountpower.condition0.damageratingbonusbytype.nofraction$ Рейтинг Физического Урона и $param1.power.onpowerstartpower.onstackcountpower.condition0.movementspeedincrpct.pct$% Скорости передвижения на $param1.power.onpowerstartpower.onstackcountpower.condition0.duration$."
     },
     "761907996137751829": {
       "Variants": [],
@@ -20948,7 +20948,7 @@
     "989520024256251189": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Кирксбакс Краклар: повышена скорость движения"
+      "String": "Кирксбакс Краклар: повышена Скорость передвижения"
     },
     "989943619717432648": {
       "Variants": [],
@@ -24267,7 +24267,7 @@
     "1147853168934651143": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при попадании увеличить скорость атаки на $param1.power.condition0.CastSpeedIncrPct.pct$%, скорость движения на $param1.power.condition0.MovementSpeedIncrPct.pct$% и рейтинг урона на $param1.power.condition0.damagerating$ на $param1.power.condition0.duration$"
+      "String": "$procchancestring$ шанс при попадании увеличить скорость атаки на $param1.power.condition0.CastSpeedIncrPct.pct$%, скорость передвижения на $param1.power.condition0.MovementSpeedIncrPct.pct$% и рейтинг урона на $param1.power.condition0.damagerating$ на $param1.power.condition0.duration$"
     },
     "1148032423687423236": {
       "Variants": [],
@@ -25824,7 +25824,7 @@
     "1217361137361683818": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+$equipPower.condition0.movementspeedincrpct.pct$% Скорости движения, если вы не в бою как минимум 3 секунды."
+      "String": "+$equipPower.condition0.movementspeedincrpct.pct$% Скорости передвижения, если вы не в бою как минимум 3 секунды."
     },
     "1217770155575674129": {
       "Variants": [],
@@ -28863,7 +28863,7 @@
     "1366872432034252040": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Максимальный Карнаж\nУвеличивает скорость атаки, регенерацию здоровья и урон"
+      "String": "Максимальный Карнаж\nУвеличивает Скорость атаки, регенерацию здоровья и урон"
     },
     "1366968690842469641": {
       "Variants": [],
@@ -41096,7 +41096,7 @@
     "1932607886495188231": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Замедление: -$MovementSpeedDecrPct$% скорости движения/атаки на $duration$ (независимо от длительности способности)"
+      "String": "Замедление: -$MovementSpeedDecrPct$% Скорости передвижения/атаки на $duration$ (независимо от длительности способности)"
     },
     "1932642778872022333": {
       "Variants": [],
@@ -41848,7 +41848,7 @@
     "1964102757255939450": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyvaluesign$$propertyvalue.pct.precision1$% Скорости движения"
+      "String": "$propertyvaluesign$$propertyvalue.pct.precision1$% Скорости передвижения"
     },
     "1964109251241706867": {
       "Variants": [],
@@ -46143,7 +46143,7 @@
     "2163776469677311297": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ускорение\nУвеличенная скорость атаки и передвижения"
+      "String": "Ускорение\nУвеличенная Скорость атаки и передвижения"
     },
     "2163910567082919175": {
       "Variants": [],
@@ -48210,7 +48210,7 @@
     "2265628818780390717": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Крылатый ботинок#/emphasis#: +$MovementSpeedIncrPct$% Скорости движения и атаки"
+      "String": "#emphasis#Крылатый ботинок#/emphasis#: +$MovementSpeedIncrPct$% Скорости передвижения и атаки"
     },
     "2265755056520758637": {
       "Variants": [],
@@ -55412,7 +55412,7 @@
     "2615888895022990640": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procChanceString$ шанс при вражеской атаке охладить противника, нанеся $param1.power.damageBaseUnmodified.noFraction$ Энергетического урона и снизив скорость движения и атаки врага на $param1.power.condition0.movementSpeedDecrPct.pct$% на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)."
+      "String": "$procChanceString$ шанс при вражеской атаке охладить противника, нанеся $param1.power.damageBaseUnmodified.noFraction$ Энергетического урона и снизив Скорость передвижения и атаки врага на $param1.power.condition0.movementSpeedDecrPct.pct$% на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)."
     },
     "2615976722765055248": {
       "Variants": [],
@@ -61048,7 +61048,7 @@
     "2897971317555201337": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#power#Бонус Скорости движения#/power#"
+      "String": "#power#Бонус Скорости передвижения#/power#"
     },
     "2898073035265082681": {
       "Variants": [],
@@ -65982,7 +65982,7 @@
     "3134220808404665722": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Если враг атаковал вас, ваши союзники получат +$param1.power.evalRegisterFloat0.pct$% Скорости движения на $param1.power.condition0.duration$"
+      "String": "Если враг атаковал вас, ваши союзники получат +$param1.power.evalRegisterFloat0.pct$% Скорости передвижения на $param1.power.condition0.duration$"
     },
     "3134372682662479154": {
       "Variants": [],
@@ -66613,7 +66613,7 @@
     "3158988278361294103": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Подобрав сферу здоровья, вы получаете +$param1.power.evalRegisterFloat0.pct$% Скорости атаки и движения на $param1.power.condition0.duration$"
+      "String": "Подобрав сферу Здоровья, вы получаете +$param1.power.evalRegisterFloat0.pct$% Скорости атаки и передвижения на $param1.power.condition0.duration$"
     },
     "3159046436627613044": {
       "Variants": [],
@@ -67394,7 +67394,7 @@
     "3194081215001331053": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Бонус к замедлениям: -$evalregisterfloat0.pct$% от скорости движения и атаки"
+      "String": "Бонус к замедлениям: -$evalregisterfloat0.pct$% от Скорости передвижения и атаки"
     },
     "3194526100537869628": {
       "Variants": [],
@@ -67900,7 +67900,7 @@
     "3216341721188599087": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#red#Испытание#/red#: \"Испытание тактики\" - Время перезарядки Рывка увеличено на 100%, но скорость передвижения и атаки увеличена на 50%"
+      "String": "#red#Испытание#/red#: \"Испытание тактики\" - Время перезарядки Рывка увеличено на 100%, но Скорость передвижения и атаки увеличена на 50%"
     },
     "3216465248819479924": {
       "Variants": [],
@@ -69504,7 +69504,7 @@
     "3286416225811694952": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Быстрая скорость атаки на расстоянии LT"
+      "String": "Быстрая Скорость атаки на расстоянии LT"
     },
     "3286506329936102764": {
       "Variants": [],
@@ -70270,7 +70270,7 @@
     "3323678923994301809": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#power#5% бонус Скорости атаки и движения#/power#\n\nКаждое дополнительно принятое зелье с этим эффектом увеличит его длительность."
+      "String": "#power#5% бонуса Скорости атаки и передвижения#/power#\n\nКаждое дополнительно принятое зелье с этим эффектом увеличит его длительность."
     },
     "3323809469522969968": {
       "Variants": [],
@@ -74756,7 +74756,7 @@
     "3526722828542477635": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Гравиметрический всплеск\nУвеличенная скорость передвижения, увеличенные энергетические и скоростные атрибуты"
+      "String": "Гравиметрический всплеск\nУвеличенная Скорость передвижения, увеличенные энергетические и скоростные атрибуты"
     },
     "3526756526854047039": {
       "Variants": [],
@@ -82956,7 +82956,7 @@
     "3896671391354979643": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Скорость движения: +$MovementSpeedIncrPct$%"
+      "String": "Скорость передвижения: +$MovementSpeedIncrPct$%"
     },
     "3896837855707071812": {
       "Variants": [],
@@ -87458,7 +87458,7 @@
     "4086956326809961783": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Урон и скорость атаки: +$evalRegisterFloat0.pct$%"
+      "String": "Урон и Скорость атаки: +$evalRegisterFloat0.pct$%"
     },
     "4087001106269210016": {
       "Variants": [],
@@ -88633,7 +88633,7 @@
     "4143782459289503037": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Праведная ярость\nСкорость атаки и урон в ближнем бою увеличены"
+      "String": "Праведная ярость\nСкорость атаки и Ближний урон увеличены"
     },
     "4144013288076346741": {
       "Variants": [],
@@ -90371,7 +90371,7 @@
     "4225442419143214444": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Работа в условиях повышенной секретности\nУвеличенная скорость атаки и передвижения, Шанс критического удара и сопротивление урону"
+      "String": "Работа в условиях повышенной секретности\nУвеличенная Скорость атаки и передвижения, Шанс критического удара и сопротивление урону"
     },
     "4225455020580472175": {
       "Variants": [],
@@ -92321,7 +92321,7 @@
     "4306700211031967042": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "После удачной атаки в с вероятностью $procChanceString$ теряете 2% от максимального уровня здоровья, и у вас начинается припадок \"ксерогенной ярости\". При этом вы получаете +$param1.power.condition0.castSpeedIncrPct$% Скорости атаки, +$param1.power.condition0.movementSpeedIncrPct$% Скорости движения и +$param1.power.evalRegisterFloat0.pct$% Базового урона на $param1.power.condition0.duration$ (перезарядка - $param1.power.cooldown$)"
+      "String": "После удачной атаки в с вероятностью $procChanceString$ теряете 2% от максимального уровня здоровья, и у вас начинается припадок \"ксерогенной ярости\". При этом вы получаете +$param1.power.condition0.castSpeedIncrPct$% Скорости атаки, +$param1.power.condition0.movementSpeedIncrPct$% Скорости передвижения и +$param1.power.evalRegisterFloat0.pct$% Базового урона на $param1.power.condition0.duration$ (перезарядка - $param1.power.cooldown$)"
     },
     "4306873409870890294": {
       "Variants": [],
@@ -94038,7 +94038,7 @@
     "4391244361555051778": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+200% Поиска Особых предметов\n+200% Поиска Редких предметов\n+100% Радиус сфер\n+10% Скорости движения\nПоказывает врагов на миникарте в радиусе 1800\n\nКаждое дополнительно принятое зелье с этим эффектом увеличит его длительность."
+      "String": "+200% Поиска Особых предметов\n+200% Поиска Редких предметов\n+100% Радиус сфер\n+10% Скорости передвижения\nПоказывает врагов на миникарте в радиусе 1800\n\nКаждое дополнительно принятое зелье с этим эффектом увеличит его длительность."
     },
     "4391602643503285571": {
       "Variants": [],
@@ -94273,7 +94273,7 @@
     "4402040908672533816": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при Критическом ударе развить невероятную суперскорость, получая +$param1.power.condition0.castSpeedIncrPct.pct.noFraction$% Скорости атаки и +$param1.power.condition0.movementSpeedIncrPct.pct.noFraction$% Скорости движения на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)."
+      "String": "$procchancestring$ шанс при Критическом ударе развить невероятную суперскорость, получая +$param1.power.condition0.castSpeedIncrPct.pct.noFraction$% Скорости атаки и +$param1.power.condition0.movementSpeedIncrPct.pct.noFraction$% Скорости передвижения на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)."
     },
     "4402513853294052671": {
       "Variants": [],
@@ -95235,7 +95235,7 @@
     "4449165315609789748": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рейтинг урона: +$DamageRatingBonusMvmtSpeed$ для скорости движения более 350"
+      "String": "Рейтинг урона: +$DamageRatingBonusMvmtSpeed$ для Скорости передвижения более 350"
     },
     "4449831740047820194": {
       "Variants": [],
@@ -97072,7 +97072,7 @@
     "4531002713396413756": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procChanceString$ шанс получить при вражеской атаке +$param1.power.condition0.MovementSpeedIncrPct.pct$ Скорости движения на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)."
+      "String": "$procChanceString$ шанс получить при вражеской атаке +$param1.power.condition0.MovementSpeedIncrPct.pct$ Скорости передвижения на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)."
     },
     "4531787180587222337": {
       "Variants": [],
@@ -98154,7 +98154,7 @@
     "4582066850892219712": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#arsenal#Подавляющий огонь:#/arsenal# Замедление: -$MovementSpeedDecrPct.pct$% скорость атаки/движения на $duration$"
+      "String": "#arsenal#Подавляющий огонь:#/arsenal# Замедление: -$MovementSpeedDecrPct.pct$% скорость атаки/передвижения на $duration$"
     },
     "4582440736442484076": {
       "Variants": [],
