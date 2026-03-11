@@ -2637,7 +2637,7 @@
     "9349283363196568882": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Возводит стену из муравьев, бокируя врагов и их атаки."
+      "String": "Возводит стену из муравьев, блокируя врагов и их атаки."
     },
     "9349387567704638784": {
       "Variants": [],
@@ -3258,7 +3258,7 @@
     "9379065156004152587": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Акт 01, Глава 01: Введение в Адскую Кухню"
+      "String": "Act01_CH01_ActOpener_IntroToHellsKitchen.bk2"
     },
     "9379321063104251204": {
       "Variants": [],
@@ -4029,7 +4029,7 @@
     "9411705889603126587": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.precision0$ к способностям #powertree#Огнестрельного оружия#/powertree# на $duration$ (независимо от длительности способности) при попадании способностью #powertree#Свирепого бойца#/powertree#"
+      "String": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.precision0$ к способностям #powertree#Огнестрельного оружия#/powertree# на $duration$ (независимо от Длительности) при попадании способностью #powertree#Свирепого бойца#/powertree#"
     },
     "9411706709939651895": {
       "Variants": [],
@@ -6879,7 +6879,7 @@
     "9552830036624213256": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность призыва: $lifespan$ (независимо от длительности способности)"
+      "String": "Длительность призыва: $lifespan$ (независимо от Длительности)"
     },
     "9553068617829909827": {
       "Variants": [],
@@ -7886,7 +7886,7 @@
     "9596194251294770486": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность оглушения: $duration$ при попадании в #mark#Помеченного#/mark# врага"
+      "String": "Оглушение: $duration$ при попадании в #mark#Помеченного#/mark# врага"
     },
     "9596379768114578746": {
       "Variants": [],
@@ -8742,7 +8742,7 @@
     "9636676706061321526": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powername$#/powername# наносит двойной урон врагам в центре своей области"
+      "String": "#powername#$powername$#/powername# наносит двойной урон врагам в центре области"
     },
     "9636865315264398659": {
       "Variants": [],
@@ -9053,7 +9053,7 @@
     "9648690399544214788": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType$ Урон:"
+      "String": "$damageType$ урон:"
     },
     "9648980116568605963": {
       "Variants": [],
@@ -9653,7 +9653,7 @@
     "9678339658372089159": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Нельзя сдержать Силу Новы, но ее можно направить в некий канал, овладеть которым смогут очень немногие. —Нова (Ричард Райдер)"
+      "String": "Силу Новы невозможно сдержать, но её можно направить в русло, с которым совладают лишь единицы. —Нова (Ричард Райдер)"
     },
     "9678465256089912633": {
       "Variants": [],
@@ -10504,7 +10504,7 @@
     "9716422544908682509": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Время канала: $Lifespan$"
+      "String": "Время поддержания: $Lifespan$"
     },
     "9716897319245972803": {
       "Variants": [],
@@ -11726,12 +11726,12 @@
     "9774089224017544514": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageMultVsKeyword.pct$% против #powermechanic#Горение#/powermechanic#"
+      "String": "+$damageMultVsKeyword.pct$% против #powermechanic#Горящих#/powermechanic#"
     },
     "9774154726561482046": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "-$damagePctWeakenVsKeyword$% урона, нанесенного #emphasis#$displayname$#/emphasis#"
+      "String": "-$damagePctWeakenVsKeyword$% урона по #emphasis#$displayname$#/emphasis#"
     },
     "9774160400216360258": {
       "Variants": [],
@@ -12742,7 +12742,7 @@
     "9819162560676103436": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность области: $lifespan$ (не подвержена длительности силы)"
+      "String": "Длительность области: $lifespan$ (независимо от Длительности)"
     },
     "9819224339482346761": {
       "Variants": [],
@@ -13422,7 +13422,7 @@
     "9847723332985160971": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Радиус сбора сфер: +$OrbAggroRangePctBonus.pct$% во время удержания"
+      "String": "Радиус сбора сфер: +$OrbAggroRangePctBonus.pct$% при поддержании"
     },
     "9847844678697157900": {
       "Variants": [],
@@ -14875,7 +14875,7 @@
     "9914631145275000082": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "(неподвержен длительности силы)"
+      "String": "(независимо от Длительности)"
     },
     "9914946872670618942": {
       "Variants": [],
@@ -14970,7 +14970,7 @@
     "9919338158897759543": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Исключить из друзей"
+      "String": "Удалить из друзей"
     },
     "9919795877860083001": {
       "Variants": [],
@@ -16132,7 +16132,7 @@
     "9973505259934975285": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность оглушения: $duration$"
+      "String": "Оглушение: $duration$"
     },
     "9973867218260264215": {
       "Variants": [],
@@ -16552,7 +16552,7 @@
     "9990502520005002561": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность устрашения: $duration$ (не блокируется)"
+      "String": "Устрашение: $duration$ (гарантировано)"
     },
     "9990670216995472698": {
       "Variants": [],
@@ -19418,7 +19418,7 @@
     "10123233244416443698": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность заморозки: $duration$ (непреодолима)"
+      "String": "Заморозка: $duration$ (гарантировано)"
     },
     "10123611845730043146": {
       "Variants": [],
@@ -19868,7 +19868,7 @@
     "10147235574605219076": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#$powername$#/emphasis# наносит +50% урона врагам в центре целевой области"
+      "String": "#emphasis#$powername$#/emphasis# наносит +50% урона врагам в центре области"
     },
     "10147464238725530940": {
       "Variants": [],
@@ -21476,7 +21476,7 @@
     "10224221184118752575": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#$powerReference0.powerName$#/emphasis# нейтрализует 50% входящего урона во время канала, наносит +$condition0.damagemultforpower.pct$% урона и получает $powerReference0.actionsTriggeredOnPowerEvent0.eventParam$s перезарядку"
+      "String": "#emphasis#$powerReference0.powerName$#/emphasis# нейтрализует 50% входящего урона при поддержании, наносит +$condition0.damagemultforpower.pct$% урона и получает $powerReference0.actionsTriggeredOnPowerEvent0.eventParam$s перезарядку"
     },
     "10224476219214202120": {
       "Variants": [],
@@ -24746,7 +24746,7 @@
     "10375319632476112141": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность оглушения: $duration$, если противник #powermechanic#замедлен#/powermechanic#"
+      "String": "Оглушение: $duration$, если противник #powermechanic#Замедлен#/powermechanic#"
     },
     "10375331727155660085": {
       "Variants": [],
@@ -28638,7 +28638,7 @@
     "10552289877316470078": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$powerreference2.damageType$ Урон:"
+      "String": "$powerreference2.damageType$ урон:"
     },
     "10552328033930970530": {
       "Variants": [],
@@ -29443,7 +29443,7 @@
     "10592929888665404737": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы меняете наконечники стрел в своем колчане, что делает вашу следующую базовую способность другой.\n\nСТРЕЛА ЛЬДА: Выпускает стрелу в одну цель, замораживая ее на месте и оглушая, нанося $cyclepower1.missilecollidepower.damage$ урона.\n\nВЗРЫВНАЯ СТРЕЛА: Выпускает взрывную стрелу, которая наносит $cyclepower1.missilecollidepower.damage$ урона в области.\n\nСТРЕЛА АНТ-МЭНА: Вы выпускаете стрелу с Ант-Мэном на ней в одну цель. Ант-Мэн наносит $cyclepower2.missilecollidepower.damage$ урона цели с течением времени."
+      "String": "Смена наконечников в колчане изменяет вашу следующую базовую способность.\n\nЗАМОРАЖИВАЮЩАЯ СТРЕЛА: поражает одну цель, замораживает и оглушает её, нанося $cyclepower1.missilecollidepower.damage$ урона.\n\nВЗРЫВНАЯ СТРЕЛА: наносит $cyclepower1.missilecollidepower.damage$ урона по области.\n\nСТРЕЛА С МУРАВЬЁМ: выпускает стрелу с Человеком-Муравьём, наносящую $cyclepower2.missilecollidepower.damage$ периодического урона цели."
     },
     "10592935983163245836": {
       "Variants": [],
@@ -30630,7 +30630,7 @@
     "10648473668399072527": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$channelTime$ (не подвержен длительности силы)"
+      "String": "$channelTime$ (независимо от Длительности)"
     },
     "10649151500200969541": {
       "Variants": [],
@@ -33252,7 +33252,7 @@
     "10777076774635046164": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Сопротивление урону во время канала:"
+      "String": "Сопротивление урону при Поддержании:"
     },
     "10777464597361722701": {
       "Variants": [],
@@ -34644,7 +34644,7 @@
     "10855886456750212417": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "onMissileHitPower.condition0"
+      "String": "missilecollidepower.condition0"
     },
     "10856100002536883537": {
       "Variants": [],
@@ -36261,7 +36261,7 @@
     "10932646588998550840": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность замешательства: $duration$ (не блокируется)"
+      "String": "Замешательство: $duration$ (гарантировано)"
     },
     "10932665022949098771": {
       "Variants": [],
@@ -36816,7 +36816,7 @@
     "10962081524600866114": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "OnPowerStartPower.призватьСущность"
+      "String": "OnPowerStartPower.summonEntity"
     },
     "10962625980477670763": {
       "Variants": [],
@@ -37701,7 +37701,7 @@
     "11010012500638958926": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Когда враги атакуют $displayname$:#/emphasis#"
+      "String": "#emphasis#Когда враги атакуют Насекомых-приманку:#/emphasis#"
     },
     "11010029160738260228": {
       "Variants": [],
@@ -38001,7 +38001,7 @@
     "11025233495360144707": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powername$#/powername# теперь мгновенно накладывает эффект без необходимости канала, и его щит длится максимальное время канала"
+      "String": "#powername#$powername$#/powername# применяется мгновенно без поддержания и щит действует макс. время поддержания"
     },
     "11025296133157291325": {
       "Variants": [],
@@ -40244,7 +40244,7 @@
     "11125562947788539155": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановление $EnduranceCOTPctBase.pct$% от максимума $primarymanabehaviorname.locflagG$ в сек во время применения магии"
+      "String": "Восстанавливает $EnduranceCOTPctBase.pct$% $primarymanabehaviorname.locflagG$ в сек при поддержании"
     },
     "11125682034455807335": {
       "Variants": [],
@@ -41582,7 +41582,7 @@
     "11196570229157397863": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы тратите #powermechanic#Фокус#/powermechanic#, вы и ваши союзники получаете #teambuff#Устойчивость#/teambuff#, увеличивая Рейтинг Защиты на $Defense.precision0$ и максимальное здоровье на $HealthAddBonus$ на $duration$ (не подвержено Длительности Силы)"
+      "String": "Когда вы тратите #powermechanic#Фокус#/powermechanic#, вы и ваши союзники получаете #teambuff#Устойчивость#/teambuff#, увеличивая Рейтинг Защиты на $Defense.precision0$ и максимальное здоровье на $HealthAddBonus$ на $duration$ (независимо от Длительности)"
     },
     "11196821622193259891": {
       "Variants": [],
@@ -41798,7 +41798,7 @@
     "11205418767915484434": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстанавливает $healingOverTimeBasePct$% максимального здоровья и духа в сек на протяжении $duration$ (не подвержено влиянию длительности силы)"
+      "String": "Восстанавливает $healingOverTimeBasePct$% максимального здоровья и духа в сек на протяжении $duration$ (независимо от Длительности)"
     },
     "11205562731047814522": {
       "Variants": [],
@@ -43710,7 +43710,7 @@
     "11297001158779733307": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "вы получаете $damageShieldPercent$% меньше урона во время канала"
+      "String": "Вы получаете $damageShieldPercent$% меньше урона при поддержании"
     },
     "11297530685300802879": {
       "Variants": [],
@@ -44055,7 +44055,7 @@
     "11313070001538729288": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Время канала:"
+      "String": "Время поддержания:"
     },
     "11313131011548054853": {
       "Variants": [],
@@ -45127,7 +45127,7 @@
     "11356518857011299603": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Супергруппа Демоция"
+      "String": "Понизить в СГ"
     },
     "11357079152669295882": {
       "Variants": [],
@@ -45814,7 +45814,7 @@
     "11384264255602033980": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность оглушения:"
+      "String": "Оглушение:"
     },
     "11384488410016122235": {
       "Variants": [],
@@ -49073,7 +49073,7 @@
     "11533641586002167040": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$PlayerName$ становится главой отряда."
+      "String": "$PlayerName$ теперь новый лидер отряда."
     },
     "11533972182528034059": {
       "Variants": [],
@@ -50985,7 +50985,7 @@
     "11627168171145037126": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$PowerName$#/powername# $damagetype$ Урон:"
+      "String": "#powername#$PowerName$#/powername# $damagetype$ урон:"
     },
     "11627270885336876394": {
       "Variants": [],
@@ -52413,7 +52413,7 @@
     "11690279043362587976": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Текущие герои Marvel Omega Время"
+      "String": "Текущее время Marvel Heroes Omega"
     },
     "11690283617562133877": {
       "Variants": [],
@@ -52638,7 +52638,7 @@
     "11697831124860339506": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вырасти до невероятных размеров и показать себя врагам в неожиданном ракурсе - снизу вверх."
+      "String": "Вырастите до титанических размеров и покажите врагам сторону, которую они еще не видели: твою подошву."
     },
     "11697849129308718342": {
       "Variants": [],
@@ -52933,7 +52933,7 @@
     "11714746467012445494": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рейтинг урона: +$damagerating$ #hidden#($damagerating.divbylevel$ за уровень) #/hidden#на $duration$ (независимо от длительности способности)"
+      "String": "Рейтинг урона: +$damagerating$ #hidden#($damagerating.divbylevel$ за уровень) #/hidden#на $duration$ (независимо от Длительности)"
     },
     "11714757827273753975": {
       "Variants": [
@@ -53319,7 +53319,7 @@
     "11730004518674826516": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Локхид $damageType$ Урон:"
+      "String": "Локхид $damageType$ урон:"
     },
     "11730039183468922223": {
       "Variants": [],
@@ -60614,7 +60614,7 @@
     "12060280288239289657": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Убрать из черного списка"
+      "String": "Не игнорировать"
     },
     "12060586158575781133": {
       "Variants": [],
@@ -60704,7 +60704,7 @@
     "12063752928155534601": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Усиление урона способности #powername#$powername$#/powername# после направления теперь будет накапливаться дополнительный раз, после направления в течение ещё 1 сек"
+      "String": "Усиление урона #powername#$powername$#/powername# может накопиться еще 1 раз, если поддерживать способность на 1 сек дольше"
     },
     "12064059369850930511": {
       "Variants": [],
@@ -62900,7 +62900,7 @@
     "12173965229244810513": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "PowerReference0.СоздатьСущность.ПрименяетСилы.Условие0"
+      "String": "PowerReference0.SummonEntity.AppliesPowers.Condition0"
     },
     "12174041589459715335": {
       "Variants": [],
@@ -64056,7 +64056,7 @@
     "12227075420565669243": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powername$#/powername# теперь использует обычное $primarymanabehaviorname$, и может быть использовано бесконечно, пока $primarymanabehaviorname$ доступно"
+      "String": "#powername#$powername$#/powername# теперь потребляет обычный $primarymanabehaviorname$, способность можно поддерживать бесконечно, пока есть $primarymanabehaviorname$"
     },
     "12227143139295626599": {
       "Variants": [],
@@ -64471,7 +64471,7 @@
     "12247572825427084545": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании Основной Силы, получаете +30 Рейтинг Урона на 3 сек. Этот эффект накапливается до 25 раз. (Не подвержен влиянию Длительности Силы)"
+      "String": "При попадании Основной Силы, получаете +30 Рейтинг Урона на 3 сек. Этот эффект накапливается до 25 раз. (независимо от Длительности)"
     },
     "12247630253568755061": {
       "Variants": [],
@@ -65112,7 +65112,7 @@
     "12278027304658863370": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Таймер бомбы: $lifespan$ (независимо от длительности способности)"
+      "String": "Таймер бомбы: $lifespan$ (независимо от Длительности)"
     },
     "12278326242979415315": {
       "Variants": [],
@@ -68162,7 +68162,7 @@
     "12424076920295064893": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.precision0$ к способностям #powertree#Свирепого бойца#/powertree# на $duration$ (независимо от длительности способности) при попадании способностью #powertree#Огнестрельного оружия#/powertree#"
+      "String": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.precision0$ к способностям #powertree#Свирепого бойца#/powertree# на $duration$ (независимо от Длительности) при попадании способностью #powertree#Огнестрельного оружия#/powertree#"
     },
     "12424078857323087161": {
       "Variants": [],
@@ -71620,7 +71620,7 @@
     "12587650844256109888": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powername$#/powername# наносит больше урона, имеет время перезарядки и может использоваться только в течение короткого времени"
+      "String": "#powername#$powername$#/powername# наносит больше урона, получает перезарядку и может поддерживаться лишь недолго"
     },
     "12587667878097192258": {
       "Variants": [],
@@ -72562,7 +72562,7 @@
     "12628801437011871029": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстанавливает $healingovertimebasepct$% максимального уровня здоровья в сек на $duration$ (независимо от длительности способности)"
+      "String": "Восстанавливает $healingovertimebasepct$% максимального уровня здоровья в сек на $duration$ (независимо от Длительности)"
     },
     "12629125870256522558": {
       "Variants": [],
@@ -75801,7 +75801,7 @@
     "12778624318802560317": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Искусство Роя"
+      "String": "Искусство роя"
     },
     "12778670416683337017": {
       "Variants": [],
@@ -76017,7 +76017,7 @@
     "12793175530561930556": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность оглушения:"
+      "String": "Оглушение:"
     },
     "12793298096045294914": {
       "Variants": [],
@@ -78964,7 +78964,7 @@
     "12928811147470898449": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Супергруппа Продвижение"
+      "String": "Повысить в СГ"
     },
     "12929603526049334600": {
       "Variants": [
@@ -80381,7 +80381,7 @@
     "12990667700318176577": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$duration$ (не подвержен длительности силы)"
+      "String": "$duration$ (независимо от Длительности)"
     },
     "12991238003191776522": {
       "Variants": [],
@@ -82606,7 +82606,7 @@
     "13084115575864690021": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы тратите #powermechanic#Фокус#/powermechanic#, создайте силовое поле, которое поглощает урон, равный $evalRegisterFloat0.pct$% от вашего максимального здоровья в течение следующих $duration$ (не подвержено длительности силы)"
+      "String": "Когда вы тратите #powermechanic#Фокус#/powermechanic#, создайте силовое поле, которое поглощает урон, равный $evalRegisterFloat0.pct$% от вашего максимального здоровья в течение следующих $duration$ (независимо от Длительности)"
     },
     "13084420677410161990": {
       "Variants": [],
@@ -86674,7 +86674,7 @@
     "13280283246311965967": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powername$#/powername#'s #powermechanic#Эффект обездвиживания#/powermechanic# становится неотразимым и получает следующие эффекты:"
+      "String": "#powermechanic#Обездвиживание#/powermechanic# от #powername#$powername$#/powername# становится гарантированным и получает следующие эффекты:"
     },
     "13280293386726409483": {
       "Variants": [],
@@ -87912,7 +87912,7 @@
     "13340043532995396927": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "НаСтартеСилы1.ПризватьСущность.ПрименяетИнтервальныеСилы"
+      "String": "OnPowerStartPower1.SummonEntity.AppliesIntervalPowers"
     },
     "13340045714778031371": {
       "Variants": [],
@@ -88157,7 +88157,7 @@
     "13351861612256232772": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Взрыв $damagetype$ Урон:"
+      "String": "$damagetype$ урон взрыва:"
     },
     "13351900331434706277": {
       "Variants": [],
@@ -90363,7 +90363,7 @@
     "13450706792702018828": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстанавливает $EnduranceCOTPctBase.pct$% $primarymanabehaviorname$ в сек во время канала (масштабируется с рангами в #powername#$PowerReference0.Powername$#/powername#)"
+      "String": "Восстанавливает $EnduranceCOTPctBase.pct$% $primarymanabehaviorname$ в сек при поддержании (масштабируется с рангами в #powername#$PowerReference0.Powername$#/powername#)"
     },
     "13450759384626365748": {
       "Variants": [],
@@ -93019,7 +93019,7 @@
     "13582086861581583633": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "КомбоСила.КомбоСила"
+      "String": "ComboPower.ComboPower"
     },
     "13582252213584594241": {
       "Variants": [],
@@ -96519,7 +96519,7 @@
     "13748072718965015863": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "КомбоСила.ПризватьСущность"
+      "String": "ComboPower.SummonEntity"
     },
     "13748454876635137394": {
       "Variants": [],
@@ -96945,7 +96945,7 @@
     "13766900644354196748": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Активировать #emphasis#$powerName$#/emphasis#: Призвать 3 ваших друзей из Корпуса Дэдпула на $lifespan$ (не подвержено длительности силы)"
+      "String": "Активировать #emphasis#$powerName$#/emphasis#: Призвать 3 ваших друзей из Корпуса Дэдпула на $lifespan$ (независимо от Длительности)"
     },
     "13767527460474193165": {
       "Variants": [],

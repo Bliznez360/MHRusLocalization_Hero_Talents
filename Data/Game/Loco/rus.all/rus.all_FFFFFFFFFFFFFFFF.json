@@ -838,7 +838,7 @@
     "13868312471553115407": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Выход из супергруппы"
+      "String": "Покинуть СГ"
     },
     "13868656159174755630": {
       "Variants": [],
@@ -4307,7 +4307,7 @@
     "14019710962147198270": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "(неподвержен длительности силы)"
+      "String": "(независимо от Длительности)"
     },
     "14019992488606827791": {
       "Variants": [],
@@ -5802,7 +5802,7 @@
     "14089186692420076851": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.precision2$%/с."
+      "String": "$propertyValueSign$$propertyValue.precision2$%/сек"
     },
     "14089274627586327864": {
       "Variants": [],
@@ -6517,7 +6517,7 @@
     "14124590644724368705": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "во время канализации"
+      "String": "при поддержании"
     },
     "14125107724415272245": {
       "Variants": [],
@@ -6887,7 +6887,7 @@
     "14139946840728274241": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "OnPowerStartPower.СозватьСущность"
+      "String": "OnPowerStartPower.SummonEntity"
     },
     "14140082346888267023": {
       "Variants": [],
@@ -10236,7 +10236,7 @@
     "14307483297268106595": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность оглушения: $duration$, если противник #powermechanic#Горит#/powermechanic#"
+      "String": "Оглушение: $duration$, если противник #powermechanic#Горит#/powermechanic#"
     },
     "14307653966399735162": {
       "Variants": [],
@@ -11257,7 +11257,7 @@
     "14357029494491055433": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#$powername$ Бонусный эффект во время канала#/emphasis#"
+      "String": "#emphasis#$powername$ Бонусный эффект при Поддержании#/emphasis#"
     },
     "14357658754382103826": {
       "Variants": [],
@@ -13300,7 +13300,7 @@
     "14456011469709706569": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$OrbAggroRangePctBonus.pct$% во время канала"
+      "String": "+$OrbAggroRangePctBonus.pct$% при поддержании"
     },
     "14456744131049358700": {
       "Variants": [],
@@ -19404,7 +19404,7 @@
     "14742998521475302664": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageTypeOverTime$ урон: $damageRangeOverTime$#hidden# ($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# дважды в сек в течение $duration$, детонирует взрыв, когда заканчивается действие или когда цель побеждена (независимо от длительности способности)"
+      "String": "$damageTypeOverTime$ урон: $damageRangeOverTime$#hidden# ($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# дважды в сек в течение $duration$, детонирует взрыв, когда заканчивается действие или когда цель побеждена (независимо от Длительности)"
     },
     "14743253565341435242": {
       "Variants": [],
@@ -20169,7 +20169,7 @@
     "14783909167300543751": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powername$#/powername# наносит увеличенный урон, тратит больше $primarymanabehaviorname$ и уменьшает входящий урон во время канала"
+      "String": "#powername#$powername$#/powername# наносит увеличенный урон, тратит больше $primarymanabehaviorname$ и уменьшает входящий урон при поддержании"
     },
     "14783945876449723710": {
       "Variants": [],
@@ -20799,7 +20799,7 @@
     "14812161045640971601": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность оглушения: $duration$"
+      "String": "Оглушение: $duration$"
     },
     "14812439694508164408": {
       "Variants": [],
@@ -25351,7 +25351,7 @@
     "15029953777729930553": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Каждый последующий залп увеличивает расход $primarymanabehaviorname.locflagG$ на $EnduranceCostChangePctKeywrd.abs$% и повышает базовый урон на $damagepctbonusforpower.pct$% в течение $duration$ (независимо от длительности способности)"
+      "String": "Каждый последующий залп увеличивает расход $primarymanabehaviorname.locflagG$ на $EnduranceCostChangePctKeywrd.abs$% и повышает базовый урон на $damagepctbonusforpower.pct$% в течение $duration$ (независимо от Длительности)"
     },
     "15030809421106971953": {
       "Variants": [],
@@ -26848,7 +26848,7 @@
     "15098698534645400892": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Активная длительность: $channelTime$ (независимо от длительности способности)"
+      "String": "Активная длительность: $channelTime$ (независимо от Длительности)"
     },
     "15098965737449456958": {
       "Variants": [],
@@ -27755,7 +27755,7 @@
     "15136618478727988498": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$dodgeChancePct.pct$% во время канала"
+      "String": "$dodgeChancePct.pct$% при поддержании"
     },
     "15136771890781095280": {
       "Variants": [],
@@ -28220,7 +28220,7 @@
     "15155555036839544133": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Приобретя неуязвимость к урону, испустить могучий рев, услышав который, все ближайшие враги бросятся на вас. Ваша решимость и храбрость воодушевит союзников."
+      "String": "Приобретя неуязвимость к урону, испустите могучий рев, услышав который, все ближайшие враги бросятся на вас. Ваша решимость и храбрость воодушевит союзников."
     },
     "15155667942991201644": {
       "Variants": [],
@@ -30455,7 +30455,7 @@
     "15263095872553551162": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "PowerReference0.СозватьСущность.БазоваяСилаМозга.condition0"
+      "String": "PowerReference0.SummonEntity.BrainPrimaryPower.condition0"
     },
     "15263186032560768355": {
       "Variants": [],
@@ -30610,7 +30610,7 @@
     "15274153781251671352": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damagePctWeaken$% урона, нанесенного за $duration$"
+      "String": "-$damagePctWeaken$% урона на $duration$ сек"
     },
     "15274169359152907619": {
       "Variants": [],
@@ -31111,7 +31111,7 @@
     "15296783491491366205": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "призватьсущность1.умственнаясила"
+      "String": "summonentity1.brainpower"
     },
     "15296846404166747448": {
       "Variants": [],
@@ -31963,7 +31963,7 @@
     "15332546129328145675": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Отключить/Включить звук"
+      "String": "Заглушить/Вернуть"
     },
     "15332577615800763721": {
       "Variants": [],
@@ -34295,7 +34295,7 @@
     "15435695653108188480": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Этот эффект сохраняется в течение $duration$ (не подвержен влиянию Длительности Силы) после прекращения канала"
+      "String": "Эффект длится $duration$ (не зависит от Длительности способностей) после окончания поддержания"
     },
     "15435999363192063345": {
       "Variants": [],
@@ -34400,7 +34400,7 @@
     "15439493855834080522": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Гм, мне не приходилось использовать эту способность..."
+      "String": "Хмм. К обузданию такой силы я не привык..."
     },
     "15439659349559936302": {
       "Variants": [],
@@ -37065,7 +37065,7 @@
     "15564573177680758076": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Превосходное отклонение: $blockChancePctAdd$% шанс отклонить весь входящий урон от атак за $duration$ (не подвержено влиянию длительности силы)"
+      "String": "Превосходное отклонение: $blockChancePctAdd$% шанс отклонить весь входящий урон от атак за $duration$ (независимо от Длительности)"
     },
     "15564846380497896720": {
       "Variants": [],
@@ -38194,7 +38194,13 @@
       "String": "Собрать Дух Ивальди"
     },
     "15610358538316416267": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709547519,
+          "FlagsProduced": 65535,
+          "String": "#ant#Муравьёв#/ant#"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "#ant#Муравьи#/ant#"
     },
@@ -38802,7 +38808,7 @@
     "15638904759273719047": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Расход $primaryManaBehaviorName.locflagG$ снижен на 50% на $duration$ после применения способности с перезарядкой (независимо от длительности способности)."
+      "String": "Расход $primaryManaBehaviorName.locflagG$ снижен на 50% на $duration$ после применения способности с перезарядкой (независимо от Длительности)."
     },
     "15638911167437079880": {
       "Variants": [],
@@ -39397,7 +39403,7 @@
     "15672009117353313540": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность: $lifespan$ (независимо от длительности способности)"
+      "String": "Длительность: $lifespan$ (независимо от Длительности)"
     },
     "15672185430116795705": {
       "Variants": [],
@@ -40139,7 +40145,7 @@
     "15708777009525949702": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.noFraction$#hidden# ($DamageRatingBonusForPowerKeyword.precision1.divByLevel$ за уровень)#/hidden# к #powerkeyword#Ближнему#/powerkeyword# бою на $duration$ (не подвержен длительности силы) при попадании #powerkeyword#Дальней#/powerkeyword# способностью"
+      "String": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.noFraction$#hidden# ($DamageRatingBonusForPowerKeyword.precision1.divByLevel$ за уровень)#/hidden# к #powerkeyword#Ближнему#/powerkeyword# бою на $duration$ (независимо от Длительности) при попадании #powerkeyword#Дальней#/powerkeyword# способностью"
     },
     "15708803062866773318": {
       "Variants": [],
@@ -40154,7 +40160,7 @@
     "15709762610033657098": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Каждый последующий рывок увеличивает расход космической силы на 25%, а также повышает общий урон на $damagemultforpower.pct$% (накапливается до 10 раз и не зависит от длительности способности)"
+      "String": "Каждый последующий рывок увеличивает расход космической силы на 25%, а также повышает общий урон на $damagemultforpower.pct$% (накапливается до 10 раз и независимо от Длительности)"
     },
     "15710307237729535309": {
       "Variants": [],
@@ -43680,7 +43686,7 @@
     "15878102573357860153": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+100% к врагам в центре целевой области"
+      "String": "+100% врагам в центре области"
     },
     "15878282309088773383": {
       "Variants": [],
@@ -45242,7 +45248,7 @@
     "15946887020006016264": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Удерживаемая"
+      "String": "Поддержание"
     },
     "15946975590881035579": {
       "Variants": [],
@@ -49233,7 +49239,7 @@
     "16123436108878447873": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность щита неуязвимости Сью: $duration$ (независимо от длительности способности)"
+      "String": "Длительность щита неуязвимости Сью: $duration$ (независимо от Длительности)"
     },
     "16123577275927430458": {
       "Variants": [],
@@ -49933,7 +49939,7 @@
     "16159735192502076696": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "ПризватьСущность.ПрименяетСилы"
+      "String": "SummonEntity.AppliesPowers"
     },
     "16159752273632036153": {
       "Variants": [],
@@ -52722,7 +52728,7 @@
     "16290202606644561210": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "След Великана\nБонусное здоровье"
+      "String": "След великана\nБонусное здоровье"
     },
     "16290678703714338060": {
       "Variants": [],
@@ -53022,7 +53028,7 @@
     "16304568194151744771": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "(Неотразимый)"
+      "String": "(Гарантировано)"
     },
     "16304658616100193543": {
       "Variants": [],
@@ -56535,7 +56541,7 @@
     "16480980067540731248": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Время направленного действия: $channeltime$"
+      "String": "Время поддержания: $channeltime$"
     },
     "16481195563172431171": {
       "Variants": [],
@@ -57336,7 +57342,7 @@
     "16522583586024916294": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Частицы Должны Течь"
+      "String": "Частицы должны течь"
     },
     "16522647293270295872": {
       "Variants": [],
@@ -58376,7 +58382,7 @@
     "16568928709793416501": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageMultVsKeyword.pct$% против врагов, находящихся под воздействием #emphasis#$powerReference0.powerName$#/emphasis#"
+      "String": "+$damageMultVsKeyword.pct$% против врагов, находящихся под воздействием #emphasis#$powerReference0.powerName$#/emphasis#"
     },
     "16568941397257618850": {
       "Variants": [],
@@ -62589,7 +62595,7 @@
     "16778194905279628569": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Замедление: -$MovementSpeedDecrPct$% Скорость Атаки/Передвижения на $duration$ (не подвержено длительности силы)"
+      "String": "Замедление: -$MovementSpeedDecrPct$% Скорость Атаки/Передвижения на $duration$ (независимо от Длительности)"
     },
     "16778740018407146911": {
       "Variants": [],
@@ -70352,7 +70358,7 @@
     "17134775073144702223": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "ПризывСущности.ПрименяетСилы.условие0"
+      "String": "SummonEntity.AppliesPowers.condition0"
     },
     "17134811679155684629": {
       "Variants": [],
@@ -71453,7 +71459,7 @@
     "17185749583259043085": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Супергрупповая атака"
+      "String": "Исключить из СГ"
     },
     "17185785532247311720": {
       "Variants": [],
@@ -72610,7 +72616,7 @@
     "17240229418105701694": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность оглушения: $duration$ (не подвержено влиянию Длительности силы), половина длительности против Боссов"
+      "String": "Оглушение: $duration$ (не зависит от Длительности), вдвое короче против Боссов"
     },
     "17240657621987493127": {
       "Variants": [],
@@ -76714,7 +76720,7 @@
     "17432859169494664524": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Призвать 1,000 $SecondaryManaBehaviorName$ при попадании не-#powerkeyword#Муравьиной#/powerkeyword# способностью"
+      "String": "Призывает 1 000 #ant#Муравьёв#/ant# при попадании не-#powerkeyword#Муравьиной#/powerkeyword# способностью"
     },
     "17432875876850009362": {
       "Variants": [],
@@ -77601,7 +77607,7 @@
     "17472905264159524157": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Максимальное время направленного действия: $channelTime$ (независимо от длительности способности)"
+      "String": "Макс. время Поддержания: $channelTime$ (не зависит от Длительности)"
     },
     "17474040754726176057": {
       "Variants": [],
@@ -77676,7 +77682,7 @@
     "17477183206203917626": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Собирайте Осколки Вечности с павших врагов, а затем разблокируйте новых героев через Реестр Героев."
+      "String": "Собирайте Осколки Вечности с павших врагов, а затем разблокируйте новых героев через Список Героев."
     },
     "17477542480215737655": {
       "Variants": [],
@@ -83019,7 +83025,7 @@
     "17719128162931180876": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageShieldPercent$% во время канала"
+      "String": "$damageShieldPercent$% при поддержании"
     },
     "17719460915507365181": {
       "Variants": [],
@@ -85488,7 +85494,7 @@
     "17836508266140075270": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Время направленного действия: $lifespan$ (независимо от длительности способности)"
+      "String": "Время поддержания: $lifespan$ (не зависит от Длительности)"
     },
     "17836742663981303047": {
       "Variants": [],
@@ -86656,7 +86662,7 @@
     "17889228916747928895": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Канализирование в течение 1.5 сек вызывает #emphasis#Глубокую заморозку#/emphasis#"
+      "String": "Поддержание в течение 1,5 сек вызывает #emphasis#Глубокую заморозку#/emphasis#"
     },
     "17889414218827433289": {
       "Variants": [],
@@ -87379,7 +87385,7 @@
     "17924524343809803586": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получает +$DamageMultForPower.pct$% Урона и +$EnduranceCostChangePctKeywrd.pct$% расхода $primaryManaBehaviorName$ после применения в течение 1 сек"
+      "String": "Получает +$DamageMultForPower.pct$% Урона и +$EnduranceCostChangePctKeywrd.pct$% расхода $primaryManaBehaviorName$ при поддержании 1 сек"
     },
     "17924756585635513711": {
       "Variants": [],
@@ -90045,7 +90051,7 @@
     "18053697259050435895": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powername$#/powername# накладывает неотразимый эффект смятения и вызывает #powername#$oncontacttimepower.summonentity.displayname$#/powername#"
+      "String": "#powername#$powername$#/powername# накладывает гарантированое замешательство и призывает #powername#$oncontacttimepower.summonentity.displayname$#/powername#"
     },
     "18053751040575145228": {
       "Variants": [],
@@ -90221,7 +90227,7 @@
     "18056539161541018885": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность оглушения: $duration$ (непреодолимо)"
+      "String": "Оглушение: $duration$ (гарантировано)"
     },
     "18056779580987934013": {
       "Variants": [],
@@ -91434,7 +91440,7 @@
     "18110014304753091897": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "След Великана"
+      "String": "След великана"
     },
     "18110257099329373562": {
       "Variants": [],
@@ -93784,7 +93790,7 @@
     "18218711925496415551": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Бонусн Здоровья:"
+      "String": "Бонус Здоровья:"
     },
     "18218957859622880579": {
       "Variants": [],
@@ -97843,7 +97849,7 @@
     "18410560057246614842": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность: $duration$ (независимо от длительности способности)"
+      "String": "Длительность: $duration$ (независимо от Длительности)"
     },
     "18410968508705670518": {
       "Variants": [],
@@ -98134,7 +98140,7 @@
     "18423551955361531196": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность сбивания с ног: $duration$ (непреодолимо, независимо от длительности способности)"
+      "String": "Сбивание с ног: $duration$ (гарантировано, независимо от Длительности)"
     },
     "18423842110414456081": {
       "Variants": [],
@@ -98294,7 +98300,7 @@
     "18431053442100167942": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+50% к врагам в центре целевой области"
+      "String": "+50% врагам в центре области"
     },
     "18431132705769063724": {
       "Variants": [],
