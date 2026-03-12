@@ -142,7 +142,7 @@
     "4618579695016412478": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс запутать их на $param1.power.condition0.duration$ при ударе силой"
+      "String": "$procchancestring$ шанс запутать их на $param1.power.condition0.duration$ при попадании способностью"
     },
     "4618674678287172982": {
       "Variants": [],
@@ -432,7 +432,7 @@
     "4633183709109749057": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Пока #red#Голодный#/red#, восстанавливайте $evalRegisterFloat0.pct$% вашего максимального здоровья, когда вы наносите удар врагу"
+      "String": "Восстанавливает $evalRegisterFloat0.pct$% от макс. Здоровья при попадании по врагу, пока вы #red#Голодны#/red#"
     },
     "4633464140340593925": {
       "Variants": [],
@@ -1679,7 +1679,7 @@
     "4694659749208655116": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powermechanic#Когда вы используете силу #powerkeyword#Загрузчик патронов#/powerkeyword##/powermechanic#"
+      "String": "#powermechanic#Когда вы используете #powerkeyword#Загрузчик патронов#/powerkeyword##/powermechanic#"
     },
     "4694780459386602865": {
       "Variants": [
@@ -3742,7 +3742,7 @@
     "4796413348429366543": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Урон: +$damageMultForPower.pct$% на $duration$ после использования #powermechanic#Откат#/powermechanic# способности (накапливается до 3 раз)"
+      "String": "Урон: +$damageMultForPower.pct$% на $duration$ после использования #powermechanic#Перезарядки#/powermechanic# способности (накапливается до 3 раз)"
     },
     "4797203931641283846": {
       "Variants": [],
@@ -4977,7 +4977,7 @@
     "4851165582990247237": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Если имеется хотя бы 1 ранг Омеги - Земля, то добавляет 5% шанс при попадании создать вокруг вас Защитную сферу, поглощающую $param1.power.evalRegisterFloat0.pct$% урона на $param1.power.condition.duration$ ($param1.power.cooldown$ восст. умения)"
+      "String": "Если имеется хотя бы 1 ранг Омеги - Земля, то добавляет 5% шанс при попадании создать вокруг вас Защитную сферу, поглощающую $param1.power.evalRegisterFloat0.pct$% урона на $param1.power.condition.duration$ (перезарядка $param1.power.cooldown$)"
     },
     "4851700284881962257": {
       "Variants": [],
@@ -5333,7 +5333,7 @@
     "4866917470033216832": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановление: $actionstriggeredonpowerevent1.eventParam$ (уменьшается на 4 сек, если у вас есть #emphasis#$powerreference0.powername$#/emphasis# в ячейке Украденных способностей)"
+      "String": "Перезарядка: $actionstriggeredonpowerevent1.eventParam$ (уменьшается на 4 сек, если у вас есть #emphasis#$powerreference0.powername$#/emphasis# в ячейке Украденных способностей)"
     },
     "4867296591037203731": {
       "Variants": [],
@@ -5488,7 +5488,7 @@
     "4875211180736775493": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powerkeyword#Гаджет#/powerkeyword# Способности получают эффект бонусного урона #powermechanic#Синергия перезарядки#/powermechanic#"
+      "String": "#powerkeyword#Гаджет#/powerkeyword# способности получают эффект бонусного урона #powermechanic#Синергии перезарядки#/powermechanic#"
     },
     "4875249341636543901": {
       "Variants": [],
@@ -10207,7 +10207,7 @@
     "5106566882699642188": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Время перезарядки уменьшается на 1 сек, если вы попадаете способностью #orange#Перемещения#/orange#"
+      "String": "Время перезарядки уменьшается на 1 сек, при попадании способностью #orange#Перемещения#/orange#"
     },
     "5106646365341549872": {
       "Variants": [],
@@ -11333,7 +11333,7 @@
     "5162837169023288586": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$condition0.duration$ (обновляется, когда вы используете силу #emphasis#Удар#/emphasis#)"
+      "String": "$condition0.duration$ (обновляется, когда вы используете способность #emphasis#Удар#/emphasis#)"
     },
     "5163135433092629827": {
       "Variants": [],
@@ -12456,7 +12456,7 @@
     "5215156639613519163": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы активируете #powername#$powername$#/powername#, уменьшите время перезарядки всех других #powerkeyword#Движение#/powerkeyword# способностей на 1 сек"
+      "String": "Когда вы активируете #powername#$powername$#/powername#, уменьшите время перезарядки всех других #powerkeyword#Передвижений#/powerkeyword# на 1 сек"
     },
     "5215837572439541143": {
       "Variants": [],
@@ -13799,7 +13799,7 @@
     "5276746728334427448": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Снижение урона: $damageReductionPctFromGear.pct$% на $duration$, когда вы наносите удар Физической способностью"
+      "String": "Снижение урона: $damageReductionPctFromGear.pct$% на $duration$, при попадании Физической способностью"
     },
     "5277191858687509766": {
       "Variants": [],
@@ -18924,7 +18924,7 @@
     "5515851217027401032": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Урон: +$DamagePctBonus.pct$% на $duration$, когда вы атакуете физической, энергетической или ментальной способностью. Эффект накапливается до 3 раз (1 раз для каждого вида урона). Эффект не работает, пока активна специализация (сейчас #red#не работает#/red#)"
+      "String": "Урон: +$DamagePctBonus.pct$% на $duration$ при попадании Физической, Энергетической или Ментальной способностью. Эффект накапливается до 3 раз (по одному для каждого типа урона). Эффект недоступен, пока активна Специализация (сейчас #red#отключено#/red#)"
     },
     "5515905909187413350": {
       "Variants": [],
@@ -19305,7 +19305,7 @@
     "5532419276758844776": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Если вас атаковали чем-либо, наносящим длительный урон, вы получаете +$param1.power.condition0.Defense.nofraction$ Рейтинг защиты и +$param1.power.condition0.MovementSpeedIncrPct.pct$% Скорости передвижения на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)."
+      "String": "При получении Длительного урона, вы получаете +$param1.power.condition0.Defense.nofraction$ Рейтинг защиты и +$param1.power.condition0.MovementSpeedIncrPct.pct$% Скорости передвижения на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)."
     },
     "5532422983319422317": {
       "Variants": [],
@@ -20082,7 +20082,7 @@
     "5571314367386092855": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Базовый урон: +$DamagePctBonusForPowerKeyword.pct$% на $duration$ при применении $DamagePctBonusForPowerKeyword.param0.powerKeyword.locflagP2G$ (независимо от Длительности)"
+      "String": "Базовый урон: +$DamagePctBonusForPowerKeyword.pct$% на $duration$ при применении $DamagePctBonusForPowerKeyword.param0.powerKeyword.locflagP2G$ (фиксировано)"
     },
     "5571383284380206351": {
       "Variants": [],
@@ -20092,7 +20092,7 @@
     "5571558506164716818": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Проблемный Решатель"
+      "String": "Решатель проблем"
     },
     "5571615637936407923": {
       "Variants": [],
@@ -21886,7 +21886,7 @@
     "5663158837107950909": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получите +1 Силы, когда вы используете силу, ваши дальние атаки дают вам +$param1.power.condition0.proceffect0.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг Ближнего урона, а ваши ближние атаки дают вам +$param1.power.condition0.proceffect1.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг Дальнего урона на $param1.power.proceffect0.condition0.duration$."
+      "String": "Получите +1 Силы, когда вы используете способность, ваши дальние атаки дают вам +$param1.power.condition0.proceffect0.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг Ближнего урона, а ваши ближние атаки дают вам +$param1.power.condition0.proceffect1.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг Дальнего урона на $param1.power.proceffect0.condition0.duration$."
     },
     "5663308950518236486": {
       "Variants": [],
@@ -25540,7 +25540,7 @@
     "5841990842841236801": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановление"
+      "String": "Перезарядка"
     },
     "5842510331959575821": {
       "Variants": [],
@@ -27242,7 +27242,7 @@
     "5909338627341682032": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procChanceString$ шанс при попадании вызвать поддержку с корабля Звёздного Лорда - Милано:\nКассетная бомбардировка:\n$param1.power.powerReference0.evalRegisterFloat0.precision0$ $param1.power.powerReference0.damageBaseUnmodified.param0.damageType$ урона\nУрон от догорания:\n$param1.power.powerReference1.evalRegisterFloat0.mulby5.precision0$ энергетического урона в течение $param1.power.powerReference0.lifespan$\nВосст. умения: $param1.power.cooldown$"
+      "String": "$procChanceString$ шанс при попадании вызвать поддержку с корабля Звёздного Лорда - Милано:\nКассетная бомбардировка:\n$param1.power.powerReference0.evalRegisterFloat0.precision0$ $param1.power.powerReference0.damageBaseUnmodified.param0.damageType$ урона\nУрон от догорания:\n$param1.power.powerReference1.evalRegisterFloat0.mulby5.precision0$ энергетического урона в течение $param1.power.powerReference0.lifespan$\nПерезарядка: $param1.power.cooldown$"
     },
     "5909356150746514753": {
       "Variants": [],
@@ -28573,7 +28573,7 @@
     "5980988418412119313": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$PowerName$#/powername# Продолжительность жизни: $lifespan$ (независимо от Длительности)"
+      "String": "#powername#$PowerName$#/powername# Время жизни: $lifespan$ (фиксировано)"
     },
     "5981093365988590906": {
       "Variants": [],
@@ -28738,7 +28738,7 @@
     "5989633118186177854": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получите +$param1.power.evalRegisterFloat0.pct$% Базового урона Энергетических атак на $param1.power.condition0.duration$ при Физическом ударе"
+      "String": "Получите +$param1.power.evalRegisterFloat0.pct$% Базового Энергетического урона на $param1.power.condition0.duration$ при попадании Физической способностью"
     },
     "5989878579860276540": {
       "Variants": [],
@@ -29000,7 +29000,7 @@
     "5999778294739174672": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность невидимости: $duration$ (независимо от Длительности)"
+      "String": "Длительность невидимости: $duration$ (фиксировано)"
     },
     "5999849007074837770": {
       "Variants": [],
@@ -33917,7 +33917,7 @@
     "6246313957307647243": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+$evalregisterfloat0.pct$% за каждый 1% недостающей $primaryManaBehaviorName$, пока любая способность #powerkeyword#Начальной стойки#/powerkeyword# восстанавливается"
+      "String": "+$evalregisterfloat0.pct$% за каждый 1% недостающей $primaryManaBehaviorName$, пока любая #powerkeyword#Начальная стойка#/powerkeyword# перезаряжается"
     },
     "6246389806427014409": {
       "Variants": [
@@ -35096,7 +35096,7 @@
     "6300194760112014590": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procChanceString$ шанс исцелить на $param1.power.evalRegisterFloat0.pct$% от базового уровня здоровья себя и союзников после вашей удачной атаки (Перезарядка $param1.power.cooldown$)"
+      "String": "$procChanceString$ шанс при попадании исцелить на $param1.power.evalRegisterFloat0.pct$% от базового уровня Здоровья себя и союзников (перезарядка $param1.power.cooldown$)"
     },
     "6300758612143179121": {
       "Variants": [],
@@ -35282,7 +35282,7 @@
     "6311864224918799625": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Аура Верховного Колдуна: \nПри попадании способностью Длительного урона, вы и ваши союзники получаете +$param1.power.condition0.damageratingbonusbytype.nofraction$ Рейтинг Ментального урона, +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг Длительного урона и +$param1.power.condition0.SuperCritRatingBonusadd.nofraction$ Рейтинг сокрушительного удара на $param1.power.condition0.duration$."
+      "String": "Аура Верховного Колдуна: \nПри попадании Длительной способностью, вы и ваши союзники получаете +$param1.power.condition0.damageratingbonusbytype.nofraction$ Рейтинг Ментального урона, +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг Длительного урона и +$param1.power.condition0.SuperCritRatingBonusadd.nofraction$ Рейтинг сокрушительного удара на $param1.power.condition0.duration$."
     },
     "6312147263322457403": {
       "Variants": [],
@@ -37970,7 +37970,7 @@
     "6429214087337477384": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Включите многопользовательский режим!#/emphasis# - Играйте с 3 своими лучшими друзьями, когда вы активируете #emphasis#$powerreference2.powername$#/emphasis#\nУрон от Корпуса Дэдпула $PowerReference0.damageType$: $PowerReference0.damage$ #hidden#($PowerReference0.damageRange.precision1.divByLevel$ за уровень)#/hidden#...иш\nДлительность: $PowerReference1.lifespan$ (независимо от Длительности)"
+      "String": "#emphasis#Включите многопользовательский режим!#/emphasis# - Играйте с 3 своими лучшими друзьями, когда вы активируете #emphasis#$powerreference2.powername$#/emphasis#\nУрон от Корпуса Дэдпула $PowerReference0.damageType$: $PowerReference0.damage$ #hidden#($PowerReference0.damageRange.precision1.divByLevel$ за уровень)#/hidden#...иш\nДлительность: $PowerReference1.lifespan$ (фиксировано)"
     },
     "6429265803178608001": {
       "Variants": [],
@@ -41401,7 +41401,7 @@
     "6587488227811263753": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Нанося удар любой способностью, получаете +$param1.power.condition0.critratingbonusadd.nofraction$ Рейтинг Критического удара и +$param1.power.condition0.critdamagerating.nofraction$ Рейтинг Критического урона. Этот эффект накапливается до 5 раз. Когда вы достигнете 5 стеков, станете #orange#Достойным#/orange#, получая +5 Силы и +5 Выносливости на 15 сек."
+      "String": "При попадании любой способностью вы получаете +$param1.power.condition0.critratingbonusadd.nofraction$ Рейтинга критического удара и +$param1.power.condition0.critdamagerating.nofraction$ Рейтинга критического урона. Эффект накапливается до 5 раз. При достижении 5 накоплений вы становитесь #orange#Достойным#/orange#, получая +5 Силы и +5 Выносливости на 15 сек."
     },
     "6587977501952902459": {
       "Variants": [],
@@ -41576,7 +41576,7 @@
     "6594760208746743059": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы используете 5 #powermechanic#Откат#/powermechanic# способностей в течение 5 сек друг за другом, активируется случайная #emphasis#Стойка#/emphasis# на $onpowerstartpower.condition0.duration$ и восстанавливается $EnduranceChangePct$% от вашего максимального $primarymanabehaviorname$"
+      "String": "При использовании 5 способностей с #powermechanic#Перезарядкой#/powermechanic# в течение 5 сек активируется случайная #emphasis#Стойка#/emphasis# на $onpowerstartpower.condition0.duration$ и восстанавливается $EnduranceChangePct$% от макс. $primarymanabehaviorname$"
     },
     "6595305235798754577": {
       "Variants": [],
@@ -47129,7 +47129,7 @@
     "6851762281411904781": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$PowerReference0.PowerName$#/powername# теперь предоставляет Рейтинг сокрушительного удара, и все рейтинги увеличиваются на $PowerReference0.EvalRegisterFloat0.pct$%\n#powername#$powerReference3.PowerName$#/powername# и #powername#$powerReference4.PowerName$#/powername# больше не имеют общего времени восстановления\n#emphasis#$powerReference6.PowerName$#/emphasis# восстанавливает большое количество $primaryManaBehaviorName$, когда вы наносите Критический удар или Сокруш. удар\n#powername#$PowerReference1.PowerName$#/powername# и #powername#$PowerReference7.PowerName$#/powername# получают $condition0.damageMultForPower.pct$% урона, сбивают врагов с ног (этот эффект #powermechanic#Гарантирован#/powermechanic#) и мгновенно обновляет перезарядку #powername#$PowerReference2.PowerName$#/powername#\n#powername#$PowerReference2.PowerName$#/powername# шанс украсть ценное предмет увеличен на 100%\n#powername#$powerReference5.PowerName$#/powername# отключен"
+      "String": "#powername#$PowerReference0.PowerName$#/powername# теперь предоставляет Рейтинг сокрушительного удара, и все рейтинги увеличиваются на $PowerReference0.EvalRegisterFloat0.pct$%\n#powername#$powerReference3.PowerName$#/powername# и #powername#$powerReference4.PowerName$#/powername# больше не имеют общую перезарядку\n#emphasis#$powerReference6.PowerName$#/emphasis# восстанавливает большое количество $primaryManaBehaviorName$, когда вы наносите Критический удар или Сокруш. удар\n#powername#$PowerReference1.PowerName$#/powername# и #powername#$PowerReference7.PowerName$#/powername# получают $condition0.damageMultForPower.pct$% урона, сбивают врагов с ног (этот эффект #powermechanic#Гарантирован#/powermechanic#) и мгновенно обновляет перезарядку #powername#$PowerReference2.PowerName$#/powername#\n#powername#$PowerReference2.PowerName$#/powername# шанс украсть ценное предмет увеличен на 100%\n#powername#$powerReference5.PowerName$#/powername# отключен"
     },
     "6851962491373880642": {
       "Variants": [],
@@ -52025,7 +52025,7 @@
     "7086877299577980218": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы используете свою Коронную способность, вы и ваши союзники получаете +$param1.power.condition0.statallmodifier$ ко всем Атрибутам на $param1.power.condition0.duration$. ($param1.power.condition0.cooldown$ Восстановление)"
+      "String": "Когда вы используете свою Коронную способность, вы и ваши союзники получаете +$param1.power.condition0.statallmodifier$ ко всем Атрибутам на $param1.power.condition0.duration$. (Перезарядка $param1.power.condition0.cooldown$)"
     },
     "7087463167414437122": {
       "Variants": [],
@@ -52551,7 +52551,7 @@
     "7108522281131771148": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageTypeOverTime$ урон: $damageRangeOverTime$#hidden# ($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden#дважды в сек в течение $duration$ (независимо от Длительности)"
+      "String": "$damageTypeOverTime$ урон: $damageRangeOverTime$#hidden# ($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden#дважды в сек в течение $duration$ (фиксировано)"
     },
     "7108840856158930288": {
       "Variants": [],
@@ -54023,7 +54023,7 @@
     "7178763159895999803": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Создайте вокруг вас щит, который отражает все входящие снаряды на $param1.power.lifespan$\nВсе эффекты имеют время восст. $param1.power.cooldown$"
+      "String": "Создайте вокруг вас щит, который отражает все входящие снаряды на $param1.power.lifespan$\nВсе эффекты имеют перезарядку $param1.power.cooldown$"
     },
     "7179044776606303545": {
       "Variants": [],
@@ -54053,7 +54053,7 @@
     "7179879610825508116": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Синяя Смуга"
+      "String": "Синий след"
     },
     "7179994982292784451": {
       "Variants": [],
@@ -54073,7 +54073,7 @@
     "7180814096972252473": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ошеломляет врага на 1,2 сек, затем взрывается, нанося дополнительно $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень) #/hidden#$damageType.locflagG$ урона (независимо от Длительности)"
+      "String": "Ошеломляет врага на 1,2 сек, затем взрывается, нанося дополнительно $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень) #/hidden#$damageType.locflagG$ урона (фиксировано)"
     },
     "7181155980665619772": {
       "Variants": [],
@@ -54208,7 +54208,7 @@
     "7186037812295959871": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рейтинги урона и критического урона: +$CritRatingBonusAdd.precision0$ #hidden# ($CritRatingBonusAdd.divbylevel$ за каждый уровень) #/hidden# на $duration$ при удачном применении способности Лучника или Паука"
+      "String": "Рейтинги урона и Критического урона: +$CritRatingBonusAdd.precision0$ #hidden# ($CritRatingBonusAdd.divbylevel$ за каждый уровень) #/hidden# на $duration$ при попадании способности Лучника или Паука"
     },
     "7186135660295488870": {
       "Variants": [],
@@ -54278,7 +54278,7 @@
     "7188629442804974907": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Когда вы используете силу #powerkeyword#Телепортация#/powerkeyword##/emphasis#:"
+      "String": "#emphasis#Когда вы используете способность #powerkeyword#Телепортация#/powerkeyword##/emphasis#:"
     },
     "7188936975291712781": {
       "Variants": [],
@@ -57286,7 +57286,7 @@
     "7338233989928846656": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при атаке Ближней способностью воспламенить противника, нанеся $param1.power.damage$ Энергетического урона сразу и $param1.power.condition0.damageovertimebaseUnmodified.mulby3.nofraction$ Энергетического урона в течение $param1.power.condition0.duration$."
+      "String": "$procchancestring$ шанс при попадании Ближней способностью воспламенить противника, нанеся $param1.power.damage$ Энергетического урона сразу и $param1.power.condition0.damageovertimebaseUnmodified.mulby3.nofraction$ Энергетического урона в течение $param1.power.condition0.duration$."
     },
     "7338328595229377898": {
       "Variants": [],
@@ -59190,7 +59190,7 @@
     "7422078842536592699": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powername$#/powername# полностью восстанавливает $primarymanabehaviorname$ и автоматически применяется (без активации времени восстановления), когда вы используете #powername#$powerreference2.powername$#/powername#"
+      "String": "#powername#$powername$#/powername# полностью восстанавливает $primarymanabehaviorname$ и автоматически применяется (без активации перезарядки), когда вы используете #powername#$powerreference2.powername$#/powername#"
     },
     "7422351740462171451": {
       "Variants": [],
@@ -59265,7 +59265,7 @@
     "7424436663559521547": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powerreference0.PowerName$#/powername# становится силой #powerkeyword#Движение#/powerkeyword#, и его эффект исцеления удваивается по силе"
+      "String": "#powername#$powerreference0.PowerName$#/powername# становится способностью #powerkeyword#Передвижения#/powerkeyword#, и его эффект исцеления удваивается по силе"
     },
     "7424867534735607099": {
       "Variants": [],
@@ -61389,7 +61389,7 @@
     "7520492537683051783": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы используете силу Фотоники, получаете +$param1.power.condition0.statenergyprojectionmodifier.nofraction$ Энергии на $param1.power.condition0.duration$. Этот эффект накапливается до 4 раз."
+      "String": "Когда вы используете способность Фотоники, получаете +$param1.power.condition0.statenergyprojectionmodifier.nofraction$ Энергии на $param1.power.condition0.duration$. Этот эффект накапливается до 4 раз."
     },
     "7520703987516769547": {
       "Variants": [],
@@ -67263,7 +67263,7 @@
     "7797698548889027897": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#highlight#Может быть активирован только в течение 4 сек после использования силы #powerkeyword#Движение#/powerkeyword##/highlight#"
+      "String": "#highlight#Может быть активирован только в течение 4 сек после использования #powerkeyword#Передвижения#/powerkeyword##/highlight#"
     },
     "7797817897378907394": {
       "Variants": [],
@@ -69847,7 +69847,7 @@
     "7913441217370064186": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Может быть активирован до $evalregisterfloat0$ раз перед тем, как перейти в режим ожидания"
+      "String": "Можно активировать до $evalregisterfloat0$ раз до ухода на Перезарядку"
     },
     "7914162381036782913": {
       "Variants": [],
@@ -76482,7 +76482,7 @@
     "8219814733608715519": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Здоровье восстанавливается на $param1.power.healing$ после применения $param2.keyword.locflagP2G$"
+      "String": "Здоровье восстанавливается на $param1.power.healing$ при попадании $param2.keyword.locflagP2G$"
     },
     "8219849604523164997": {
       "Variants": [],
@@ -76803,7 +76803,7 @@
     "8230437235779175751": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Каждый раз, когда вы наносите удар врагу под воздействием #emphasis#$powerreference0.powername$#/emphasis#, уменьшите его время перезарядки на 1 сек (время перезарядки 0.5 сек)"
+      "String": "Каждый раз, при попадании по врагу под воздействием #emphasis#$powerreference0.powername$#/emphasis#, уменьшите его время перезарядки на 1 сек (перезарядка 0.5 сек)"
     },
     "8230437656617092358": {
       "Variants": [],
@@ -77133,7 +77133,7 @@
     "8245183220013991241": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс сделать ваших врагов Уязвимыми на 10 сек при ударе Ментальной Силой"
+      "String": "$procchancestring$ шанс сделать ваших врагов Уязвимыми на 10 сек при попадании Ментальной способностью"
     },
     "8245208199601390968": {
       "Variants": [],
@@ -79977,7 +79977,7 @@
     "8383856379581498696": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы наносите урон горящему врагу, восстанавливается $param1.power.onPowerHitPower.evalRegisterInt0$ $primaryManaBehaviorName.locflagG$"
+      "String": "Восстанавливает $param1.power.onPowerHitPower.evalRegisterInt0$ $primaryManaBehaviorName.locflagG$ при попадании по Горящему врагу"
     },
     "8384178094220379549": {
       "Variants": [],
@@ -81645,7 +81645,7 @@
     "8463218067955582225": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powername$#/powername# — это мощная ближняя атака, которую можно активировать только после выполнения не-Коронной #powermechanic#Ожидающей#/powermechanic# способности"
+      "String": "#powername#$powername$#/powername# — мощная ближняя атака, которую можно активировать только после использования не-Коронной способности с #powermechanic#Перезарядкой#/powermechanic#"
     },
     "8463415988753270129": {
       "Variants": [],
@@ -86951,7 +86951,7 @@
     "8714412825211635015": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получите $secondaryresourceoverride.manabehaviorname$ метр. Моментум накапливается во время движения, накапливается быстрее при использовании #powerkeyword#Движение#/powerkeyword# способностей и уменьшается, когда вы не движетесь."
+      "String": "Получите $secondaryresourceoverride.manabehaviorname$ метр. Моментум накапливается во время движения, накапливается быстрее при использовании #powerkeyword#Передвижения#/powerkeyword# и уменьшается, когда вы не движетесь."
     },
     "8714460692667237732": {
       "Variants": [],
@@ -87944,7 +87944,7 @@
     "8761364170669950213": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при атаке использовать силу Убийцы Богов, нанося 50,000 физического урона окружающим врагам и превращая тех, кто не был повержен, в камень, что заставляет их получать +$param1.power.condition0.damagepctvulnerability.precision0.pct$% дополнительного урона в течение $param1.power.condition0.duration$. (перезарядка 5 сек)"
+      "String": "$procchancestring$ шанс при получении урона воззвать к силе Убийцы Богов, нанося 50 000 физического урона окружающим врагам и превращая выживших в камень, что увеличивает входящий по ним урон на +$param1.power.condition0.damagepctvulnerability.precision0.pct$% на $param1.power.condition0.duration$. (перезарядка 5 сек)"
     },
     "8761710933514716485": {
       "Variants": [],
@@ -89249,7 +89249,7 @@
     "8829530842234225989": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановление $endurancechangebase$ $primarymanabehaviorname.locflagG$ за попадание с #powerkeyword#дальней#/powerkeyword# способности"
+      "String": "Восстановление $endurancechangebase$ $primarymanabehaviorname.locflagG$ при попадании #powerkeyword#Дальней#/powerkeyword# способностью"
     },
     "8829830102669722946": {
       "Variants": [],
@@ -89529,7 +89529,7 @@
     "8843782638928069944": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстанавливает $healing.nofraction$ Здоровья, если вы успешно атакуете врага, пораженного #powermechanic#Адским пламенем#/powermechanic#"
+      "String": "Восстанавливает $healing.nofraction$ Здоровья при попадании по врагу, пораженному #powermechanic#Адским пламенем#/powermechanic#"
     },
     "8844852326253921554": {
       "Variants": [],
@@ -90040,7 +90040,7 @@
     "8870346307280766265": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "После #orange#Начального#/orange# удара вы получаете +$param1.power.condition0.defense.nofraction$ Рейтинг защиты на $param1.power.condition0.duration$. Эффект накапливается до 3 раз."
+      "String": "При попадании #orange#Начальным#/orange# ударом вы получаете +$param1.power.condition0.defense.nofraction$ Рейтинг защиты на $param1.power.condition0.duration$. Эффект накапливается до 3 раз."
     },
     "8870390528271058242": {
       "Variants": [],
@@ -91562,7 +91562,7 @@
     "8937518049607419198": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procChanceString$ шанс сделать врага уязвимым (уязвимые враги получают на 10% больше урона от всех атак) на $param1.power.condition0.duration$"
+      "String": "$procChanceString$ шанс при попадании сделать врага Уязвимым (уязвимые враги получают на 10% больше урона от всех атак) на $param1.power.condition0.duration$"
     },
     "8937720853661287737": {
       "Variants": [],
@@ -91777,7 +91777,7 @@
     "8949164690890229006": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Базовый урон: +$DamagePctBonus.pct$% на $duration$, когда вы атакуете физической, энергетической или ментальной способностью. Эффект накапливается до 3 раз (1 раз для каждого вида урона). Эффект не работает, пока активна специализация"
+      "String": "Базовый урон: +$DamagePctBonus.pct$% на $duration$ при попадании Физической, Энергетической или Ментальной способностью. Эффект накапливается до 3 раз (по одному для каждого типа урона). Эффект недоступен, пока активна Специализация"
     },
     "8949268272601236731": {
       "Variants": [],
@@ -91857,7 +91857,7 @@
     "8954962561792214336": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы используете #powername#$powername$#/powername#, ваши демонические миньоны наносят $onpowerstartpower0.condition0.damagemult.pct$% дополнительного урона в течение $onpowerstartpower0.condition0.duration$ (независимо от Длительности)"
+      "String": "Когда вы используете #powername#$powername$#/powername#, ваши демонические миньоны наносят $onpowerstartpower0.condition0.damagemult.pct$% дополнительного урона в течение $onpowerstartpower0.condition0.duration$ (фиксировано)"
     },
     "8955050569968125253": {
       "Variants": [],
@@ -94383,7 +94383,7 @@
     "9076606755797992723": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powermechanic#Невидимость#/powermechanic# Длительность: $duration$ (независимо от Длительности)"
+      "String": "#powermechanic#Невидимость#/powermechanic# Длительность: $duration$ (фиксировано)"
     },
     "9076827281010918772": {
       "Variants": [],
@@ -94398,7 +94398,7 @@
     "9077009692497675575": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность эффекта: $lifespan$ (независимо от Длительности)"
+      "String": "Длительность эффекта: $lifespan$ (фиксировано)"
     },
     "9077342767221769538": {
       "Variants": [],
@@ -96244,7 +96244,7 @@
     "9168963275859494202": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При ударе Дальней способностью, получите +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг Дальнего урона и $param1.power.condition0.blockRatingBonusAdd.nofraction$ Рейтинг Отражения на $param1.power.condition0.duration$."
+      "String": "При попадании Дальней способностью, получите +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг Дальнего урона и $param1.power.condition0.blockRatingBonusAdd.nofraction$ Рейтинг Отражения на $param1.power.condition0.duration$."
     },
     "9169315360038585606": {
       "Variants": [],
@@ -96881,7 +96881,7 @@
     "9195989069752173837": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Мускулистый"
+      "String": "Мускулы"
     },
     "9196191440077391164": {
       "Variants": [],
