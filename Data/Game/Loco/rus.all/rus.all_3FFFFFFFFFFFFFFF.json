@@ -1267,7 +1267,7 @@
     "58196043049993553": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы используете #powername#$powerreference1.powername$#/powername# или #powername#$powerreference2.powername$#/powername#, уменьшите время перезарядки #powername#$powerreference0.powername$#/powername# на 2 сек"
+      "String": "Когда вы используете #powername#$powerreference1.powername$#/powername# или #powername#$powerreference2.powername$#/powername#, уменьшите перезарядку #powername#$powerreference0.powername$#/powername# на 2 сек"
     },
     "58309219713484091": {
       "Variants": [],
@@ -1472,7 +1472,7 @@
     "67626064577955079": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$displayname$s Создано:"
+      "String": "$displayname$ Создано:"
     },
     "67803154785109352": {
       "Variants": [],
@@ -2340,7 +2340,7 @@
     "106239946576823560": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Время перезарядки вашей Аптечки уменьшено на 2 сек."
+      "String": "Перезарядка вашей Аптечки уменьшено на 2 сек."
     },
     "106557383313065221": {
       "Variants": [],
@@ -2470,7 +2470,7 @@
     "110964363418273085": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#waypointheader#Огонь и Лёд PvP#/waypointheader# #waypointlabel#ЛОКАЦИЯ:#/waypointlabel# #waypointlevels#Асгард#/waypointlevels##waypointlabel# ДИАПАЗОН УРОВНЕЙ:#/waypointlabel##waypointlevels#30-39#/waypointlevels#\n#waypointtext#Ваша задача - защищать племя асгардских гигантов и помочь им в бою с их древними врагами.\n- Присоединитесь к группе любого размера или сражайтесь в одиночку в бою 5v5.\n- Во время боя собирайте рунные камни, выпадающие из поверженных противников, чтобы получать усилители на время матча.\n- Получайте золотые короны за каждый матч и приобретайте уникальные кольца PvP у богов Асгарда.\n- Время перезарядки способностей в PvP может отличаться от обычного, но никаких других изменений нет. #/waypointtext#"
+      "String": "#waypointheader#Огонь и Лёд PvP#/waypointheader# #waypointlabel#ЛОКАЦИЯ:#/waypointlabel# #waypointlevels#Асгард#/waypointlevels##waypointlabel# ДИАПАЗОН УРОВНЕЙ:#/waypointlabel##waypointlevels#30-39#/waypointlevels#\n#waypointtext#Ваша задача - защищать племя асгардских гигантов и помочь им в бою с их древними врагами.\n- Присоединитесь к группе любого размера или сражайтесь в одиночку в бою 5v5.\n- Во время боя собирайте рунные камни, выпадающие из поверженных противников, чтобы получать усилители на время матча.\n- Получайте золотые короны за каждый матч и приобретайте уникальные кольца PvP у богов Асгарда.\n- Перезарядка способностей в PvP может отличаться от обычного, но никаких других изменений нет. #/waypointtext#"
     },
     "110990352343238017": {
       "Variants": [],
@@ -2811,7 +2811,7 @@
     "125073584440739168": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Наносите +200% урона и получайте перезарядку $actionsTriggeredOnPowerEvent1.eventParam$s (мгновенно сбрасывается, когда вы используете #powername#$powerReference0.powerName$#/powername#)"
+      "String": "Наносите +200% урона и получайте перезарядку $actionsTriggeredOnPowerEvent1.eventParam$ сек (мгновенно сбрасывается, когда вы используете #powername#$powerReference0.powerName$#/powername#)"
     },
     "125227889677763898": {
       "Variants": [],
@@ -5744,7 +5744,13 @@
       "String": "Это плохо. Я знаю, как это закончится..."
     },
     "267637168291513667": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709547519,
+          "FlagsProduced": 65535,
+          "String": "Робота"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "Робот"
     },
@@ -9285,7 +9291,7 @@
     "428154776274797835": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Урон, нанесенный врагам с помощью #solar#солнечных#/solar# способностей, при попадании уменьшает время их перезарядки на $dependentpassivepower0.condition0.proceffect0.actionsTriggeredOnPowerEvent.eventParam.abs$ с (перезарядка: $dependentpassivepower0.condition0.proceffect0.cooldown$)"
+      "String": "Урон, нанесенный врагам с помощью #solar#солнечных#/solar# способностей, при попадании уменьшает время их перезарядки на $dependentpassivepower0.condition0.proceffect0.actionsTriggeredOnPowerEvent.eventParam.abs$ сек (перезарядка: $dependentpassivepower0.condition0.proceffect0.cooldown$)"
     },
     "428347023370552641": {
       "Variants": [],
@@ -10341,7 +10347,7 @@
     "480576754791613703": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Время перезарядки: $actionsTriggeredOnPowerEvent2.eventParam$s #cyan#(добавлено $powerReference0.powerName$)#/cyan#"
+      "String": "Перезарядка: $actionsTriggeredOnPowerEvent2.eventParam$ сек #cyan#(добавлено $powerReference0.powerName$)#/cyan#"
     },
     "480729655686661433": {
       "Variants": [],
@@ -11053,7 +11059,7 @@
     "513222161322739008": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстанавливает 1 заряд каждые $cooldown$ (максимум зарядов: $PowerChargesMax$)"
+      "String": "Восстанавливает 1 Заряд каждые $cooldown$ (макс. Зарядов: $PowerChargesMax$)"
     },
     "513732283176650045": {
       "Variants": [],
@@ -12350,7 +12356,7 @@
     "576572516561585420": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$duration$, +0.5 сек за эффект Горения или поглощённую зону"
+      "String": "$duration$, +0,5 сек за эффект Горения или поглощённую зону"
     },
     "576938404878353718": {
       "Variants": [],
@@ -12825,7 +12831,7 @@
     "597352298486301969": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Время перезарядки: $CooldownModifierPctForPower.pct$%"
+      "String": "Перезарядка: $CooldownModifierPctForPower.pct$%"
     },
     "597494212860446024": {
       "Variants": [],
@@ -12840,7 +12846,7 @@
     "597853821936731502": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$PowerReference0.PowerName$#/powername# и #powername#$PowerReference1.PowerName$#/powername# имеют $EvalRegisterFloat0.pct$% шанс сбросить время перезарядки #powername#$PowerReference2.PowerName$#/powername# и #powername#$PowerReference3.PowerName$#/powername#"
+      "String": "#powername#$PowerReference0.PowerName$#/powername# и #powername#$PowerReference1.PowerName$#/powername# имеют $EvalRegisterFloat0.pct$% шанс сбросить перезарядку #powername#$PowerReference2.PowerName$#/powername# и #powername#$PowerReference3.PowerName$#/powername#"
     },
     "598257205139277063": {
       "Variants": [],
@@ -12940,7 +12946,7 @@
     "601223648971851108": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Общая перезарядка: $eventParam$s для всех #powerkeyword#Фантастических друзей#/powerkeyword# способностей"
+      "String": "Общая перезарядка: $eventParam$ сек для всех #powerkeyword#Фантастических друзей#/powerkeyword# способностей"
     },
     "601276644531504458": {
       "Variants": [],
@@ -13926,7 +13932,7 @@
     "653393568635880720": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Каждый раз, при попадании #powername#$powerreference0.powername$#/powername#, время перезарядки #powername#$powerreference1.powername$#/powername# уменьшается на 2 сек"
+      "String": "Каждый раз, при попадании #powername#$powerreference0.powername$#/powername#, перезарядка #powername#$powerreference1.powername$#/powername# уменьшается на 2 сек"
     },
     "653419076502881597": {
       "Variants": [],
@@ -16371,7 +16377,7 @@
     "769879244984943893": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановите 1 заряд, когда #mark#Помеченный#/mark# враг будет повержен"
+      "String": "Восстановите 1 Заряд, когда #mark#Помеченный#/mark# враг будет повержен"
     },
     "769924002890843455": {
       "Variants": [],
@@ -17508,7 +17514,7 @@
     "822554931567396155": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании время перезарядки #powername#$powerreference0.powername$#/powername#, #powername#$powerreference1.powername$#/powername# и #powername#$powerreference2.powername$#/powername# мгновенно сбрасывается"
+      "String": "При использовании перезарядка #powername#$powerreference0.powername$#/powername#, #powername#$powerreference1.powername$#/powername# и #powername#$powerreference2.powername$#/powername# мгновенно сбрасывается"
     },
     "822801093318346038": {
       "Variants": [],
@@ -17593,7 +17599,7 @@
     "827938123256956168": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При поражении вы вместо этого возрождаетесь с полным здоровьем. ($param1.power.cooldown$ время перезарядки)"
+      "String": "При поражении вы вместо этого возрождаетесь с полным здоровьем. (перезарядка $param1.power.cooldown$)"
     },
     "827981794545894717": {
       "Variants": [],
@@ -18985,7 +18991,7 @@
     "898451509116011845": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Сила Имплозии"
+      "String": "Силовая имплозия"
     },
     "898486397063988486": {
       "Variants": [],
@@ -20568,7 +20574,7 @@
     "970054661189534988": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powername$#/powername# уменьшает время перезарядки #powername#$powerreference0.powername$#/powername# на 1 сек за удар"
+      "String": "#powername#$powername$#/powername# уменьшает перезарядку #powername#$powerreference0.powername$#/powername# на 1 сек за удар"
     },
     "971427165297575237": {
       "Variants": [],
@@ -21409,7 +21415,7 @@
     "1009461359855076676": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Время перезарядки вашей Аптечки уменьшено на 1 сек"
+      "String": "Перезарядка вашей Аптечки уменьшено на 1 сек"
     },
     "1009514278141297981": {
       "Variants": [],
@@ -21639,7 +21645,7 @@
     "1020597509910627595": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Время перезарядки: $evalRegisterFloat0$s #cyan#(добавлено $powerReference0.powerName$)#/cyan#"
+      "String": "Перезарядка: $evalRegisterFloat0$ сек #cyan#(добавлено $powerReference0.powerName$)#/cyan#"
     },
     "1021414971100955974": {
       "Variants": [],
@@ -21944,7 +21950,7 @@
     "1038645997697238384": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+3% урона/очкам для других #emphasis#базовых способностей#/emphasis#"
+      "String": "+3% урона/очко от других #emphasis#базовых способностей#/emphasis#"
     },
     "1038773884587214151": {
       "Variants": [],
@@ -24037,7 +24043,7 @@
     "1136551245967066380": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#$powerName$#/emphasis# - время перезарядки уменьшается на 10 сек"
+      "String": "#emphasis#$powerName$#/emphasis# перезарядка уменьшается на 10 сек"
     },
     "1136938785225704775": {
       "Variants": [],
@@ -26585,7 +26591,7 @@
     "1253270349556286791": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда ваш $primarymanabehaviorname$ достигает максимума, время перезарядки #emphasis#$PowerName$#/emphasis# сбрасывается"
+      "String": "Когда ваш $primarymanabehaviorname$ достигает максимума, перезарядка #emphasis#$PowerName$#/emphasis# сбрасывается"
     },
     "1253472049801856316": {
       "Variants": [],
@@ -26756,7 +26762,7 @@
     "1260535213721978183": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы используете #powerkeyword#$procKeyword.param2.keyword$#/powerkeyword# способность, уменьшите время перезарядки #powername#$powerreference1.powername$#/powername# на $proceffect.actionsTriggeredOnPowerEvent.eventParam$s"
+      "String": "Когда вы используете #powerkeyword#$procKeyword.param2.keyword$#/powerkeyword# способность, уменьшите перезарядку #powername#$powerreference1.powername$#/powername# на $proceffect.actionsTriggeredOnPowerEvent.eventParam$ сек"
     },
     "1260662031212545339": {
       "Variants": [],
@@ -30449,7 +30455,7 @@
     "1442932450273133846": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powerReference0.PowerName$#/powername# время перезарядки уменьшается на 1 сек за каждого пораженного врага (Максимальное уменьшение: $evalRegisterFloat0$s)"
+      "String": "#powername#$powerReference0.PowerName$#/powername# перезарядка уменьшается на 1 сек за каждого пораженного врага (Максимальное уменьшение: $evalRegisterFloat0$s)"
     },
     "1442968059900855620": {
       "Variants": [
@@ -32160,7 +32166,7 @@
     "1521126319911863563": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powerreference0.powername$#/powername# время перезарядки сокращается на 1 сек за каждое $secondarymanabehaviorname$, потраченное на это"
+      "String": "#powername#$powerreference0.powername$#/powername# перезарядка сокращается на 1 сек за каждое $secondarymanabehaviorname$, потраченное на это"
     },
     "1521646148399924499": {
       "Variants": [],
@@ -32769,7 +32775,7 @@
     "1549058966204646726": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Эффект бонуса урона всегда применяется"
+      "String": "Бонусный эффект урона всегда применяется"
     },
     "1549302477892748546": {
       "Variants": [],
@@ -33330,7 +33336,7 @@
     "1577525116027667728": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#$powername$ Бонусный эффект (Алмазная форма)#/emphasis#"
+      "String": "#emphasis#Бонусный эффект $powername$ (Алмазная форма)#/emphasis#"
     },
     "1577825248397100349": {
       "Variants": [],
@@ -35597,7 +35603,7 @@
     "1685820302678099259": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#OmegaBlue#Мастерство Разума#/OmegaBlue# - $GemPointsSpent$ Очков Разума потрачено\n50+ Очков: При Критическом ударе восстанавливает 0.5% Макс. Здоровья\n100+ Очков: Снижение затрат на +10%\n150+ Очков: +1 ко всем Атрибутам"
+      "String": "#OmegaBlue#Мастерство Разума#/OmegaBlue# - $GemPointsSpent$ Очков Разума потрачено\n50+ Очков: При Критическом ударе восстанавливает 0,5% Макс. Здоровья\n100+ Очков: Снижение затрат на +10%\n150+ Очков: +1 ко всем Атрибутам"
     },
     "1685850775540663671": {
       "Variants": [],
@@ -35987,7 +35993,7 @@
     "1703243713690273085": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#за удар (перезарядка 0.25 сек)"
+      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#за удар (перезарядка 0,25 сек)"
     },
     "1703374770327848264": {
       "Variants": [],
@@ -37431,7 +37437,7 @@
     "1766603178615899455": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Перезарядка сокращается на $eventparam$s, когда вы полностью расходуете свой $PrimaryManaBehaviorName$"
+      "String": "Перезарядка сокращается на $eventparam$ сек, когда вы полностью расходуете свой $PrimaryManaBehaviorName$"
     },
     "1766682803018073410": {
       "Variants": [],
@@ -38312,7 +38318,7 @@
     "1806150438552470796": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании #powername#$powerreference0.powername$#/powername#, время перезарядки #powername#$powername$#/powername# сокращается на 3 сек\n"
+      "String": "При попадании #powername#$powerreference0.powername$#/powername#, перезарядка #powername#$powername$#/powername# сокращается на 3 сек\n"
     },
     "1806307746140783977": {
       "Variants": [],
@@ -38407,7 +38413,7 @@
     "1808376429963117879": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Силы, которые могут потратить весь $PrimaryManaBehaviorName$, имеют перезарядку $CooldownModifierMSForPower.divby1000$ с"
+      "String": "Силы, которые могут потратить весь $PrimaryManaBehaviorName$, имеют перезарядку $CooldownModifierMSForPower.divby1000$ сек"
     },
     "1808422399066506611": {
       "Variants": [],
@@ -38783,7 +38789,7 @@
     "1824584464022963527": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden# каждые 2.5 сек"
+      "String": "$damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden# каждые 2,5 сек"
     },
     "1825452210564760849": {
       "Variants": [],
@@ -40681,7 +40687,7 @@
     "1912839389045916991": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Время перезарядки: $cooldown$ #cyan#(уменьшено на $powerReference0.powerName$)#/cyan#"
+      "String": "Перезарядка: $cooldown$ #cyan#(уменьшено на $powerReference0.powerName$)#/cyan#"
     },
     "1913200320921208130": {
       "Variants": [],
@@ -40871,7 +40877,7 @@
     "1922459973990810887": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$PowerReference1.PowerName$#/powername# время перезарядки увеличено на $condition0.CooldownModifierMSForPower.divby1000$s"
+      "String": "#powername#$PowerReference1.PowerName$#/powername# перезарядка увеличена на $condition0.CooldownModifierMSForPower.divby1000$ сек"
     },
     "1922672854100215092": {
       "Variants": [],
@@ -42718,7 +42724,7 @@
     "2003181839974663481": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Перезарядка: $actionsTriggeredOnPowerEvent.eventParam$s #cyan#(добавлено $powerReference1.powerName$)#/cyan#"
+      "String": "Перезарядка: $actionsTriggeredOnPowerEvent.eventParam$ сек #cyan#(добавлено $powerReference1.powerName$)#/cyan#"
     },
     "2003233310923883884": {
       "Variants": [],
@@ -43623,7 +43629,7 @@
     "2047593996558796109": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powerreference0.powername$#/powername# мгновенно обновляет время перезарядки любой способности, которая активирует #powername#$powerreference1.powername$#/powername#"
+      "String": "#powername#$powerreference0.powername$#/powername# мгновенно обновляет перезарядку любой способности, которая активирует #powername#$powerreference1.powername$#/powername#"
     },
     "2047627355561461059": {
       "Variants": [],
@@ -46223,7 +46229,7 @@
     "2167637494947579193": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$primarymanabehaviorname1$:"
+      "String": "$primarymanabehaviorname1$ Расход:"
     },
     "2167798564812948795": {
       "Variants": [],
@@ -48445,7 +48451,7 @@
     "2274968104913012034": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Время перезарядки уменьшается на $evalregisterfloat0$ с, если вы тратите очко комбо"
+      "String": "Перезарядка уменьшается на $evalregisterfloat0$ сек, если вы тратите очко комбо"
     },
     "2275082763350443320": {
       "Variants": [],
@@ -49867,7 +49873,7 @@
     "2349800995207382386": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+3% урона/очкам для #power#$SynergyPowerName$#/power#"
+      "String": "+3% урона/очко от #power#$SynergyPowerName$#/power#"
     },
     "2349858513350821189": {
       "Variants": [],
@@ -50225,7 +50231,7 @@
     "2364360719528101182": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+$damagePctBonusMovement$% Базового урона способностей Передвижения (0.5% за ранг)"
+      "String": "+$damagePctBonusMovement$% Базового урона способностей Передвижения (0,5% за ранг)"
     },
     "2364375249462232426": {
       "Variants": [],
@@ -50720,7 +50726,7 @@
     "2391903086369113402": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Использование вашей #powerkeyword#Коронной#/powerkeyword# способности восстанавливает 1 заряд Рывка. (Перезарядка 15 сек)"
+      "String": "Использование вашей #powerkeyword#Коронной#/powerkeyword# способности восстанавливает 1 Заряд Рывка. (Перезарядка 15 сек)"
     },
     "2392141452756649270": {
       "Variants": [],
@@ -51707,7 +51713,7 @@
     "2439535897189025091": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$PowerReference0.PowerName$#/powername# и #powername#$PowerReference1.PowerName$#/powername# восстановят 1 заряд #powername#$PowerReference2.PowerName$#/powername# пока #powername#$PowerReference3.PowerName$#/powername# активен"
+      "String": "#powername#$PowerReference0.PowerName$#/powername# и #powername#$PowerReference1.PowerName$#/powername# восстановят 1 Заряд #powername#$PowerReference2.PowerName$#/powername# пока #powername#$PowerReference3.PowerName$#/powername# активен"
     },
     "2439793363356943730": {
       "Variants": [],
@@ -54491,7 +54497,7 @@
     "2570705061621990656": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уменьшает время перезарядки #emphasis#Дэви Крокет#/emphasis# на 2 сек"
+      "String": "Уменьшает перезарядку #emphasis#Дэви Крокет#/emphasis# на 2 сек"
     },
     "2570745503166104945": {
       "Variants": [],
@@ -54942,7 +54948,7 @@
     "2594543397200921920": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ для создания щита урона, который поглощает $param1.power.condition0.damageaccumulationlimit.nofraction$ урона в течение $param1.power.condition0.duration$ при атаке ($param1.power.cooldown$ время перезарядки)"
+      "String": "$procchancestring$ для создания щита урона, который поглощает $param1.power.condition0.damageaccumulationlimit.nofraction$ урона в течение $param1.power.condition0.duration$ при атаке (перезарядка $param1.power.cooldown$)"
     },
     "2594588932380230920": {
       "Variants": [],
@@ -55572,7 +55578,7 @@
     "2623735113087780159": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#$powerReference0.powerName$#/emphasis# наносит +$condition0.damagemultforpower.pct$% урона и получает $powerReference0.actionsTriggeredOnPowerEvent1.eventParam$ с перезарядки"
+      "String": "#emphasis#$powerReference0.powerName$#/emphasis# наносит +$condition0.damagemultforpower.pct$% урона и получает $powerReference0.actionsTriggeredOnPowerEvent1.eventParam$ сек перезарядки"
     },
     "2623848611898983745": {
       "Variants": [],
@@ -55677,7 +55683,7 @@
     "2629012648645690688": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powername$#/powername# всегда наносит Критический удар, наносит больше урона, имеет время перезарядки и стоит больше $primarymanabehaviorname$"
+      "String": "#powername#$powername$#/powername# всегда наносит Критический удар, наносит больше урона, имеет перезарядку и стоит больше $primarymanabehaviorname$"
     },
     "2629286616082613621": {
       "Variants": [],
@@ -58266,7 +58272,7 @@
     "2756694213748917515": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powerkeyword#$CooldownModifierPctForKeyword.param0.powerkeyword$#/powerkeyword# Способности имеют $CooldownModifierPctForKeyword.pct.abs$% уменьшенное время перезарядки, но делят время перезарядки с другими #powerkeyword#$CooldownModifierPctForKeyword.param0.powerkeyword$#/powerkeyword# Способностями"
+      "String": "Перезарядка #powerkeyword#$CooldownModifierPctForKeyword.param0.powerkeyword$#/powerkeyword# способностей сокращена на $CooldownModifierPctForKeyword.pct.abs$%, но является общей для всех #powerkeyword#$CooldownModifierPctForKeyword.param0.powerkeyword$#/powerkeyword# способностей"
     },
     "2756951808703137029": {
       "Variants": [],
@@ -58336,7 +58342,7 @@
     "2759352098490680645": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Время перезарядки уменьшается на $actionsTriggeredOnPowerEvent.eventParam.abs$ с, если вы удачно применяете эту способность против #emphasis#истекающего кровью#/emphasis# врага"
+      "String": "Перезарядка уменьшается на $actionsTriggeredOnPowerEvent.eventParam.abs$ сек, если вы удачно применяете эту способность против #emphasis#истекающего кровью#/emphasis# врага"
     },
     "2759371138014446858": {
       "Variants": [],
@@ -59841,7 +59847,7 @@
     "2834800977221453116": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Время перезарядки уменьшается на 1 сек при попадании способностью #powertree#Мести#/powertree#"
+      "String": "Перезарядка уменьшается на 1 сек при попадании способностью #powertree#Мести#/powertree#"
     },
     "2834942255931655526": {
       "Variants": [],
@@ -60377,7 +60383,7 @@
     "2864844024297227537": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Удар с помощью #powerkeyword#Серум#/powerkeyword# уменьшает время перезарядки #emphasis#$powerReference0.powername$#/emphasis# на $eventParam.abs$"
+      "String": "Удар с помощью #powerkeyword#Серум#/powerkeyword# уменьшает перезарядку #emphasis#$powerReference0.powername$#/emphasis# на $eventParam.abs$ сек"
     },
     "2865012168025965884": {
       "Variants": [],
@@ -61428,7 +61434,7 @@
     "2915688628819526915": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при критическом ударе нанести противнику $param1.power.onpowerhitpower.damagebaseunmodified.nofraction$ Энергетического урона. Ударяет максимум по 8 целям. ($param1.power.cooldown$ время перезарядки)"
+      "String": "$procchancestring$ шанс при критическом ударе нанести противнику $param1.power.onpowerhitpower.damagebaseunmodified.nofraction$ Энергетического урона. Ударяет максимум по 8 целям. (перезарядка $param1.power.cooldown$)"
     },
     "2915847525442848020": {
       "Variants": [],
@@ -61633,7 +61639,7 @@
     "2927563285683176710": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#$PowerReference0.PowerName$#/emphasis# теперь стреляет взрывными пулями\n#emphasis#$PowerReference1.PowerName$#/emphasis# также бросает взрывные гранаты случайным образом\n#emphasis#$PowerReference2.PowerName$#/emphasis# вызывает взрыв при ударе (Область)\n#emphasis#$PowerReference3.PowerName$#/emphasis# получает бонусный урон, большую область действия, перезарядку $PowerReference3.ActionsTriggeredOnPowerEvent.EventParam$s и взрывается мгновенно\n#emphasis#$PowerReference4.PowerName$#/emphasis# получает бонусный урон от взрыва\n#emphasis#$PowerReference5.PowerName$#/emphasis# заставляет вас взорваться и получает перезарядку\n#emphasis#$PowerReference6.PowerName$#/emphasis# всегда наносит Критический удар"
+      "String": "#emphasis#$PowerReference0.PowerName$#/emphasis# теперь стреляет взрывными пулями\n#emphasis#$PowerReference1.PowerName$#/emphasis# также бросает взрывные гранаты случайным образом\n#emphasis#$PowerReference2.PowerName$#/emphasis# вызывает взрыв при ударе (Область)\n#emphasis#$PowerReference3.PowerName$#/emphasis# получает бонусный урон, большую область действия, перезарядку $PowerReference3.ActionsTriggeredOnPowerEvent.EventParam$ сек и взрывается мгновенно\n#emphasis#$PowerReference4.PowerName$#/emphasis# получает бонусный урон от взрыва\n#emphasis#$PowerReference5.PowerName$#/emphasis# заставляет вас взорваться и получает перезарядку\n#emphasis#$PowerReference6.PowerName$#/emphasis# всегда наносит Критический удар"
     },
     "2927599986238686522": {
       "Variants": [],
@@ -63585,7 +63591,7 @@
     "3020081708848514370": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстанавливает 1 заряд каждые $cooldown$ (максимум зарядов: $PowerReference1.condition0.PowerChargesMax$)"
+      "String": "Восстанавливает 1 Заряд каждые $cooldown$ (макс. Зарядов: $PowerReference1.condition0.PowerChargesMax$)"
     },
     "3020564308555728198": {
       "Variants": [],
@@ -63750,7 +63756,7 @@
     "3031143229607642425": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powerreference0.powername$#/powername# Урон: +$DamageMultForPower.pct$% если активировано в течение $duration$ после использования этой способности, вызывая $powerreference1.actionsTriggeredOnPowerEvent2.eventParam$s перезарядку на обеих способностях"
+      "String": "#powername#$powerreference0.powername$#/powername# Урон: +$DamageMultForPower.pct$% если активировано в течение $duration$ после использования этой способности, вызывая $powerreference1.actionsTriggeredOnPowerEvent2.eventParam$ сек перезарядку на обеих способностях"
     },
     "3032418057505015093": {
       "Variants": [],
@@ -64891,7 +64897,7 @@
     "3085782931623118102": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powerreference0.powername$#/powername#'s время перезарядки уменьшено на $condition0.cooldownModifierMSForPower.divby1000.abs$s и может держать $condition0.PowerChargesMaxBonus$ зарядов"
+      "String": "#powername#$powerreference0.powername$#/powername# перезарядка уменьшена на $condition0.cooldownModifierMSForPower.divby1000.abs$ сек и может держать $condition0.PowerChargesMaxBonus$ Зарядов"
     },
     "3085896726830581052": {
       "Variants": [],
@@ -67479,7 +67485,7 @@
     "3199257771525211459": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$PowerName$#/powername# Эффект Бонуса Урона:"
+      "String": "Бонусный эффект урона #powername#$PowerName$#/powername#:"
     },
     "3199436605423027560": {
       "Variants": [],
@@ -67900,7 +67906,7 @@
     "3216341721188599087": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#red#Испытание#/red#: \"Испытание тактики\" - Время перезарядки Рывка увеличено на 100%, но Скорость передвижения и атаки увеличена на 50%"
+      "String": "#red#Испытание#/red#: \"Испытание тактики\" - Перезарядка Рывка увеличено на 100%, но Скорость передвижения и атаки увеличена на 50%"
     },
     "3216465248819479924": {
       "Variants": [],
@@ -68847,7 +68853,7 @@
     "3258745087210292547": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Пока #green#Очень зол#/green#, #powername#$powerreference0.PowerName$#/powername# имеет сокращенное время перезарядки на $evalregisterfloat0.pct$%"
+      "String": "Пока #green#Очень зол#/green#, #powername#$powerreference0.PowerName$#/powername# имеет сокращенную перезарядку на $evalregisterfloat0.pct$%"
     },
     "3258973618125145412": {
       "Variants": [],
@@ -69705,7 +69711,7 @@
     "3296343694708114695": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Перезарядка: $eventParam$ с. (после действия способности)"
+      "String": "Перезарядка: $eventParam$ сек (после действия способности)"
     },
     "3296466393336513802": {
       "Variants": [],
@@ -70575,7 +70581,7 @@
     "3339185800206353665": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#$powerReference0.powerName$#/emphasis# и #emphasis#$powerReference1.powerName$#/emphasis# получают +$condition0.DamageMultForPower.pct$% Урона и перезарядку $powerReference0.actionsTriggeredOnPowerEvent0.EventParam$ с"
+      "String": "#emphasis#$powerReference0.powerName$#/emphasis# и #emphasis#$powerReference1.powerName$#/emphasis# получают +$condition0.DamageMultForPower.pct$% Урона и перезарядку $powerReference0.actionsTriggeredOnPowerEvent0.EventParam$ сек"
     },
     "3339210487694230804": {
       "Variants": [],
@@ -71380,7 +71386,7 @@
     "3373581573362418960": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powerreference0.powername$#/powername# может быть активирован, чтобы стать Невосприимчивым на 0.3-1.8 сек"
+      "String": "#powername#$powerreference0.powername$#/powername# может быть активирован, чтобы стать Невосприимчивым на 0,3-1,8 сек"
     },
     "3374288379076543866": {
       "Variants": [],
@@ -72541,7 +72547,7 @@
     "3421628535039067455": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#waypointheader#Огонь и Лёд PvP#/waypointheader# #waypointlabel#ЛОКАЦИЯ:#/waypointlabel# #waypointlevels#Асгард#/waypointlevels##waypointlabel# ДИАПАЗОН УРОВНЕЙ:#/waypointlabel##waypointlevels#40-49#/waypointlevels#\n#waypointtext#Ваша задача - защищать племя асгардских гигантов и помочь им в бою с их древними врагами.\n- Присоединитесь к группе любого размера или сражайтесь в одиночку в бою 5v5.\n- Во время боя собирайте рунные камни, выпадающие из поверженных противников, чтобы получать усилители на время матча.\n- Получайте золотые короны за каждый матч и приобретайте уникальные кольца PvP у богов Асгарда.\n- Время перезарядки способностей в PvP может отличаться от обычного, но никаких других изменений нет.#/waypointtext#"
+      "String": "#waypointheader#Огонь и Лёд PvP#/waypointheader# #waypointlabel#ЛОКАЦИЯ:#/waypointlabel# #waypointlevels#Асгард#/waypointlevels##waypointlabel# ДИАПАЗОН УРОВНЕЙ:#/waypointlabel##waypointlevels#40-49#/waypointlevels#\n#waypointtext#Ваша задача - защищать племя асгардских гигантов и помочь им в бою с их древними врагами.\n- Присоединитесь к группе любого размера или сражайтесь в одиночку в бою 5v5.\n- Во время боя собирайте рунные камни, выпадающие из поверженных противников, чтобы получать усилители на время матча.\n- Получайте золотые короны за каждый матч и приобретайте уникальные кольца PvP у богов Асгарда.\n- Перезарядка способностей в PvP может отличаться от обычного, но никаких других изменений нет.#/waypointtext#"
     },
     "3421743567226013059": {
       "Variants": [],
@@ -74156,7 +74162,7 @@
     "3500499669498266949": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powerreference0.powername$#/powername# получает $cooldownModifierMSForPower.divby1000$s времени перезарядки, может использоваться без #heat#Тепла#/heat#, и рассматривается так, как будто вы #heat#Перегреты#/heat#"
+      "String": "#powername#$powerreference0.powername$#/powername# получает $cooldownModifierMSForPower.divby1000$ сек времени перезарядки, может использоваться без #heat#Тепла#/heat#, и рассматривается так, как будто вы #heat#Перегреты#/heat#"
     },
     "3500683073195672909": {
       "Variants": [],
@@ -74361,7 +74367,7 @@
     "3509548916411729157": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уменьшает время перезарядки вашей Аптечки на 1 сек"
+      "String": "Уменьшает перезарядку вашей Аптечки на 1 сек"
     },
     "3509652811738645826": {
       "Variants": [],
@@ -74766,7 +74772,7 @@
     "3526835425420445011": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powerreference0.powername$#/powername# наносит $condition0.damageMultVsKeywordforPowerKwd.pct$% больше урона врагам, находящимся под эффектом #emphasis#Кровотечение#/emphasis#, вызывая $powerreference0.actionstriggeredonpowerevent0.eventParam$s Перезарядку"
+      "String": "#powername#$powerreference0.powername$#/powername# наносит $condition0.damageMultVsKeywordforPowerKwd.pct$% больше урона врагам, находящимся под эффектом #emphasis#Кровотечение#/emphasis#, вызывая $powerreference0.actionstriggeredonpowerevent0.eventParam$ сек Перезарядку"
     },
     "3527008637202728304": {
       "Variants": [],
@@ -75237,7 +75243,7 @@
     "3549401101972014397": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powername$#/powername#'s время перезарядки убрано"
+      "String": "#powername#$powername$#/powername# перезарядка убрана"
     },
     "3550677059446900032": {
       "Variants": [],
@@ -75352,7 +75358,7 @@
     "3556628028701148487": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Синий Разгром"
+      "String": "Синий разгром"
     },
     "3556918097836311817": {
       "Variants": [],
@@ -75387,7 +75393,7 @@
     "3558503421863396664": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Каждый раз, когда вы используете способность #powerkeyword#Удар#/powerkeyword#, есть 10% шанс, что время перезарядки всех сил #powerkeyword#Удар#/powerkeyword# будет мгновенно обновлено"
+      "String": "Каждый раз, когда вы используете способность #powerkeyword#Удар#/powerkeyword#, есть 10% шанс, что перезарядка всех сил #powerkeyword#Удар#/powerkeyword# будет мгновенно обновлено"
     },
     "3558795574192899438": {
       "Variants": [],
@@ -75789,7 +75795,7 @@
     "3573923295063508294": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powername$#/powername# Максимальное количество зарядов:"
+      "String": "#powername#$powername$#/powername# макс. Зарядов:"
     },
     "3573924617841739011": {
       "Variants": [],
@@ -76259,7 +76265,7 @@
     "3593129765979096335": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.noFraction$ Восстановление здоровья в сек (0.2% от вашего Базового Здоровья в сек за ранг)"
+      "String": "$propertyValueSign$$propertyValue.noFraction$ Восстановление здоровья в сек (0,2% от вашего базового Здоровья в сек за ранг)"
     },
     "3593217825745863995": {
       "Variants": [],
@@ -80204,7 +80210,7 @@
     "3766807093693646095": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$eventParam$s (уменьшено с $evalregisterint1$s)"
+      "String": "$eventParam$ сек (уменьшено с $evalregisterint1$ сек)"
     },
     "3767007140559914392": {
       "Variants": [],
@@ -80812,7 +80818,7 @@
     "3792473625036064059": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Если использовать в пределах $EvalRegisterFloat0$s из #powername#$PowerReference0.PowerName$#/powername#"
+      "String": "Если использовать в пределах $EvalRegisterFloat0$ сек из #powername#$PowerReference0.PowerName$#/powername#"
     },
     "3792731460452091144": {
       "Variants": [],
@@ -80932,7 +80938,7 @@
     "3798385106289362179": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#OmegaLightOrange#Мастерство Времени#/OmegaLightOrange# - $GemPointsSpent$ Очков Времени потрачено\n50+ Очков: При использовании Аптечки Рывок получает заряд\n100+ Очков: +1 заряд для Рывка\n150+ Очков: +1 ко всем Атрибутам"
+      "String": "#OmegaLightOrange#Мастерство Времени#/OmegaLightOrange# - $GemPointsSpent$ Очков Времени потрачено\n50+ Очков: При использовании Аптечки Рывок получает заряд\n100+ Очков: +1 Заряд для Рывка\n150+ Очков: +1 ко всем Атрибутам"
     },
     "3798436598782952820": {
       "Variants": [],
@@ -84356,7 +84362,7 @@
     "3956427855469872452": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#$powerName$#/emphasis# наносит +$evalRegisterFloat1.pct$% урона и получает перезарядку $onPowerHitPower.actionsTriggeredOnPowerEvent0.eventParam$ с. при попадании в кровоточащих врагов"
+      "String": "#emphasis#$powerName$#/emphasis# наносит +$evalRegisterFloat1.pct$% урона и получает перезарядку $onPowerHitPower.actionsTriggeredOnPowerEvent0.eventParam$ сек при попадании в кровоточащих врагов"
     },
     "3956452809277572455": {
       "Variants": [],
@@ -85663,7 +85669,7 @@
     "4012892390283216135": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$blockDamageReductionPctMod.pct$% уменьшение урона от отраженных атак (-0.1% за ранг, -10% максимум)"
+      "String": "$blockDamageReductionPctMod.pct$% уменьшение урона от Отраженных атак (-0,1% за ранг, -10% максимум)"
     },
     "4012920204482643196": {
       "Variants": [],
@@ -86065,7 +86071,7 @@
     "4027498375827162434": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Снижает время перезарядки #emphasis#$powerreference1.PowerName$#/emphasis# и #emphasis#$powerreference2.PowerName$#/emphasis# на 2 сек"
+      "String": "Снижает перезарядку #emphasis#$powerreference1.PowerName$#/emphasis# и #emphasis#$powerreference2.PowerName$#/emphasis# на 2 сек"
     },
     "4027631987966739781": {
       "Variants": [],
@@ -87348,7 +87354,7 @@
     "4082408351530485007": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы наносите #red#Урон Хаоса#/red#, время перезарядки #powername#$powerreference0.powername$#/powername# уменьшается на $actionstriggeredonpowerevent.eventparam.abs$s"
+      "String": "Когда вы наносите #red#Урон Хаоса#/red#, перезарядка #powername#$powerreference0.powername$#/powername# уменьшается на $actionstriggeredonpowerevent.eventparam.abs$ сек"
     },
     "4082854186368959803": {
       "Variants": [],
@@ -87858,7 +87864,7 @@
     "4107571370971366717": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#arsenal#Быстрая перезарядка:#/arsenal# Время перезарядки уменьшается на $powerreference1.condition0.cooldownModifierMSForPower.divby1000.abs$s, а активация мгновенно обновляет время перезарядки #powername#$powerreference0.powername$#/powername#"
+      "String": "#arsenal#Быстрая перезарядка:#/arsenal# Перезарядка уменьшается на $powerreference1.condition0.cooldownModifierMSForPower.divby1000.abs$ сек, а активация мгновенно обновляет перезарядку #powername#$powerreference0.powername$#/powername#"
     },
     "4107871842587116859": {
       "Variants": [],
@@ -87923,7 +87929,7 @@
     "4110420944272622857": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность эффекта области: $evalRegisterFloat3$ c"
+      "String": "Длительность эффекта области: $evalRegisterFloat3$ сек"
     },
     "4110493915893859699": {
       "Variants": [],
@@ -91173,7 +91179,7 @@
     "4256559405547652366": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#$powername$ Бонусный эффект (Обычная форма)#/emphasis#"
+      "String": "#emphasis#Бонусный эффект $powername$ (Обычная форма)#/emphasis#"
     },
     "4256929906663621951": {
       "Variants": [],
@@ -91243,7 +91249,7 @@
     "4261460852339115317": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Способность сыворотки - тратится 1 сыворотка при наличии, чтобы снизить время перезарядки на 4 сек.  Тратится дополнительно 3 сыворотки при наличии, чтобы увеличить урон на 100%"
+      "String": "Способность сыворотки - тратится 1 сыворотка при наличии, чтобы снизить перезарядку на 4 сек.  Тратится дополнительно 3 сыворотки при наличии, чтобы увеличить урон на 100%"
     },
     "4261848292693247238": {
       "Variants": [],
@@ -92121,7 +92127,7 @@
     "4296369723763393859": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powername$#/powername# мгновенно сбрасывает время перезарядки всех не-#powername#Ультимативных#/powername#, не-#powername#Коронных#/powername# способностей"
+      "String": "#powername#$powername$#/powername# мгновенно сбрасывает перезарядку всех не-#powername#Ультимативных#/powername#, не-#powername#Коронных#/powername# способностей"
     },
     "4297142255175140624": {
       "Variants": [],
@@ -92391,7 +92397,7 @@
     "4308890326523970881": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Босс Аффикс: Имплозия"
+      "String": "Аффикс Босса: Имплозия"
     },
     "4309371616261244222": {
       "Variants": [],
@@ -93493,7 +93499,7 @@
     "4364966261352105280": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Снижает время перезарядки #emphasis#$powerreference0.powerName$#/emphasis# на 20%"
+      "String": "Снижает перезарядку #emphasis#$powerreference0.powerName$#/emphasis# на 20%"
     },
     "4365617326852277564": {
       "Variants": [],
@@ -93888,7 +93894,7 @@
     "4385165329274766602": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procChanceString$ при попадании, чтобы высвободить Руку Славы, нанося Энергетический Урон, равный вашему Здоровью ($param1.power.cooldown$ время перезарядки)"
+      "String": "$procChanceString$ при попадании, чтобы высвободить Руку Славы, нанося Энергетический урон, равный вашему Здоровью (перезарядка $param1.power.cooldown$)"
     },
     "4385517469346235655": {
       "Variants": [],
@@ -93968,7 +93974,7 @@
     "4389235751442253114": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#$powerReference0.powerName$#/emphasis#'s #emphasis#$powerReference1.powerName$#/emphasis# эффект вызывает #emphasis#$powerReference2.powerName$#/emphasis# для нанесения двух дополнительных ударов с Хеликэрриера для его продолжительности и уменьшает время перезарядки на $evalregisterfloat0.divby1000$s"
+      "String": "#emphasis#$powerReference0.powerName$#/emphasis#'s #emphasis#$powerReference1.powerName$#/emphasis# эффект вызывает #emphasis#$powerReference2.powerName$#/emphasis# для нанесения двух дополнительных ударов с Хеликэрриера для его продолжительности и уменьшает перезарядку на $evalregisterfloat0.divby1000$ сек"
     },
     "4389513927957284216": {
       "Variants": [],
@@ -94413,7 +94419,7 @@
     "4409892826153616701": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Снижает время перезарядки #blue#Восстановление Перегрузки#/blue# на 2 сек."
+      "String": "Снижает перезарядку #blue#Восстановление Перегрузки#/blue# на 2 сек."
     },
     "4409998684209284410": {
       "Variants": [],
@@ -95070,7 +95076,7 @@
     "4443674865665967441": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$primaryManaBehaviorName$:"
+      "String": "$primaryManaBehaviorName$ Расход:"
     },
     "4443681183605785966": {
       "Variants": [],
@@ -95675,7 +95681,7 @@
     "4467044963764274445": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Потратьте $evalregisterfloat0$ $primarymanabehaviorname$, чтобы мгновенно восстановить время перезарядки этой способности"
+      "String": "Потратьте $evalregisterfloat0$ $primarymanabehaviorname$, чтобы мгновенно восстановить перезарядку этой способности"
     },
     "4467210521991316849": {
       "Variants": [],
@@ -96157,7 +96163,7 @@
     "4486395578138887435": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Дополнительный #highlight#$primaryManaBehaviorName$#/highlight# восстанавливается каждую секунду.\nЕсли ваш герой использует #highlight#$primaryManaBehaviorName$#/highlight#, он восстанавливает базовую скорость 16 в сек.\nВсе восстановление останавливается на 1.2 сек после использования силы, которая стоит #highlight#$primaryManaBehaviorName$#/highlight#."
+      "String": "Дополнительный #highlight#$primaryManaBehaviorName$#/highlight# восстанавливается каждую секунду.\nЕсли ваш герой использует #highlight#$primaryManaBehaviorName$#/highlight#, он восстанавливает базовую скорость 16 в сек.\nВсе восстановление останавливается на 1,2 сек после использования силы, которая стоит #highlight#$primaryManaBehaviorName$#/highlight#."
     },
     "4486616429710869820": {
       "Variants": [],
@@ -97122,7 +97128,7 @@
     "4532752693461320963": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powername$#/powername# уменьшает оставшееся время перезарядки ваших способностей на 12 сек"
+      "String": "#powername#$powername$#/powername# сокращает текущую перезарядку способностей на 12 сек"
     },
     "4533280274363516168": {
       "Variants": [],
