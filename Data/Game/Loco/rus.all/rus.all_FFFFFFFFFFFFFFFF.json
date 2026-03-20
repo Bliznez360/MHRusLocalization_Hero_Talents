@@ -1210,7 +1210,7 @@
     "13883882449555293456": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Щёлкните ПКМ, чтобы получить секретный приз!\n\n#QualityEpic# Эпические предметы: #/QualityEpic#\n* Случайный артефакт (уровень 35-50)\n\n#RarityRare# Редкие предметы: #/RarityRare#\n* Случайный медальон (уровень 35-50)\n\n#rarityuncommon# Обычные предметы: #/rarityuncommon#\n* Случайное эпическое снаряжение для вашего героя (уровень 25-35)"
+      "String": "Щёлкните ПКМ, чтобы получить секретный приз!\n\n#QualityEpic# Эпические предметы: #/QualityEpic#\n* Случайный артефакт (уровень 35-50)\n\n#RarityRare# Редкие предметы: #/RarityRare#\n* Случайный медальон (уровень 35-50)\n\n#RarityUncommon# Обычные предметы: #/RarityUncommon#\n* Случайное эпическое снаряжение для вашего героя (уровень 25-35)"
     },
     "13884646507117806915": {
       "Variants": [],
@@ -1720,7 +1720,7 @@
     "13902973604958242066": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Откройте подарок от Агента Коулсона, чтобы получить случайный предмет 80 уровня Легендарный предмет"
+      "String": "Откройте подарок от Агента Колсона, чтобы получить случайный предмет 80 уровня Легендарный предмет"
     },
     "13903017108740900163": {
       "Variants": [],
@@ -1995,7 +1995,7 @@
     "13913276445511976197": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда ваше здоровье опускается ниже 50%, ваш рейтинг уклонения увеличивается на $param1.power.condition0.dodgeratingbonusadd.nofraction$"
+      "String": "Когда ваше здоровье опускается ниже 50%, ваш Рейтинг Уклонения увеличивается на $param1.power.condition0.dodgeratingbonusadd.nofraction$"
     },
     "13913389626550322488": {
       "Variants": [],
@@ -3281,7 +3281,7 @@
     "13973372757500757261": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "О боже, Коулсон. Сколько ты заплатил за них на eBay?"
+      "String": "О боже, Колсон. Сколько ты заплатил за них на eBay?"
     },
     "13973424477622764920": {
       "Variants": [],
@@ -3621,7 +3621,7 @@
     "13987812441900385594": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Благословение Фандраля"
+      "String": "Благословение Фандрала"
     },
     "13988258903689135366": {
       "Variants": [],
@@ -5256,7 +5256,7 @@
     "14062775005798794567": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "1% за $evalRegisterFloat0.noFraction$ Рейтинг защиты"
+      "String": "1% за $evalRegisterFloat0.noFraction$ Рейтинг Защиты"
     },
     "14063047925195081025": {
       "Variants": [],
@@ -5351,7 +5351,7 @@
     "14066977807445263728": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Лаборатория Очищающего гнева"
+      "String": "Лаб. Очищающего гнева"
     },
     "14067050422388065588": {
       "Variants": [],
@@ -5666,7 +5666,7 @@
     "14080468269672826239": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы поглотили #stolenpower#воспоминания Агента Коулсона#/stolenpower#, открыв доступ к важной информации о тактиках ЩИТа, что позволяет максимально эффективно синхронизироваться с ударной группой."
+      "String": "Вы поглотили #stolenpower#воспоминания Агента Колсона#/stolenpower#, открыв доступ к важной информации о тактиках ЩИТа, что позволяет максимально эффективно синхронизироваться с ударной группой."
     },
     "14080475759960261900": {
       "Variants": [
@@ -6782,7 +6782,7 @@
     "14136167767653745921": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Страж, за которым следил ЩИТ, пропал где-то в охотничьих угодьях. Если Страйкер узнает, что мы следим за программой Стража, операция ЩИТа окажется под угрозой.\n\nДиректор Фьюри просит найти и уничтожить #mission#фрагмент Стража#/mission#, в котором находится датчик."
+      "String": "Страж, за которым следил ЩИТ, пропал где-то в Охотничьих угодьях. Если Страйкер узнает, что мы следим за программой Стража, операция ЩИТа окажется под угрозой.\n\nДиректор Фьюри просит вас найти и уничтожить #mission#фрагмент Стража#/mission#, в котором находится их датчик."
     },
     "14136191042151843135": {
       "Variants": [],
@@ -6932,7 +6932,7 @@
     "14142372045502481691": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Корвет Коулсона"
+      "String": "Корвет Колсона"
     },
     "14142574179536667915": {
       "Variants": [],
@@ -8233,7 +8233,7 @@
     "14199818882401371456": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Сладкое Рождество!\nУвеличены Сокрушимый удар, Критический удар, Урон и Рейтинг защиты"
+      "String": "Сладкое Рождество!\nУвеличены Сокрушимый удар, Критический удар, Урон и Рейтинг Защиты"
     },
     "14199951291879851264": {
       "Variants": [],
@@ -9279,7 +9279,7 @@
     "14258754428005188986": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Мария Хилл, заместитель директора ЩИТа, нуждается в вашей помощи по поимке некоторых суперзлодеев, которые сбежали с Рафта во время нападения ГИДРЫ.\n\nНачните с путешествия в #mission#Адской кухне#/mission#, чтобы встретиться с #mission#агентом Коулсоном#/mission#, который руководит операциями в этом районе."
+      "String": "Мария Хилл, заместитель директора ЩИТа, нуждается в вашей помощи по поимке некоторых суперзлодеев, которые сбежали с Рафта во время нападения ГИДРЫ.\n\nНачните с путешествия в #mission#Адской кухне#/mission#, чтобы встретиться с #mission#агентом Колсоном#/mission#, который руководит операциями в этом районе."
     },
     "14258879475969557874": {
       "Variants": [],
@@ -10777,7 +10777,7 @@
     "14335805784801609072": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Привет, я Агент Коулсон из ЩИТ.\nМы хорошие парни."
+      "String": "Привет, я Агент Колсон из ЩИТ.\nМы хорошие парни."
     },
     "14336856514128512316": {
       "Variants": [],
@@ -11417,7 +11417,7 @@
     "14366694064190784780": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "ОБНОВЛЕНИЕ: Мэджик рассказала вам об одержимости и волшебной силе Доктора Дума. Теперь вернитесь к #mission#Сью Шторм#/mission#, чтобы закончить урок о Латверии."
+      "String": "ОБНОВЛЕНИЕ: Мэджик рассказала вам об одержимости и волшебной силе Доктора Дума. Теперь вернитесь к #mission#Серебряному Соболю#/mission#, чтобы закончить урок о Латверии."
     },
     "14367142957051479357": {
       "Variants": [],
@@ -11973,7 +11973,7 @@
     "14390971276697339197": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "После контроля толпы получите +$param1.power.condition0.defense$ Рейтинг защиты на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)"
+      "String": "После контроля толпы получите +$param1.power.condition0.defense$ Рейтинг Защиты на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)"
     },
     "14391129039427732787": {
       "Variants": [],
@@ -12225,7 +12225,7 @@
     "14400438196371195203": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "«Вам не нужно называть меня сэр, Коулсон. Посмотрите на меня. Я одет так, будто живу под мостом.» — Ник Фьюри"
+      "String": "«Вам не нужно называть меня сэр, Колсон. Посмотрите на меня. Я одет так, будто живу под мостом.» — Ник Фьюри"
     },
     "14400888356178625846": {
       "Variants": [],
@@ -12880,7 +12880,7 @@
     "14433648025905595665": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Сенинел B Виджет"
+      "String": "Страж B Виджет"
     },
     "14433721457017947458": {
       "Variants": [],
@@ -13240,7 +13240,7 @@
     "14452906358605874441": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Агент Коулсон"
+      "String": "Агент Колсон"
     },
     "14452920897075610895": {
       "Variants": [],
@@ -13880,7 +13880,7 @@
     "14491078378666853642": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Перехваченное сообщение показало, что Очистители работают с безумными учёными А.И.М. Вам было выдано разрешение от ЩИТа на вторжение в #mission#Форт Страйкер#/mission# (учебный лагерь Очистителей) и извлечение лидера группы, #mission#Уильяма Страйкера#/mission#, из его Командного Бункера.\n\nОднако, Сенинел, за которым ЩИТ вёл наблюдение, пропал где-то в Охотничьих Угодьях. Если Страйкер узнает, что его программа Сенинелов находилась под наблюдением, миссия ЩИТа будет скомпрометирована.\n\nДиректор Фьюри просит вас найти и уничтожить #mission#фрагмент Сенинела#/mission#, в котором находится их трекер."
+      "String": "Перехваченное сообщение показало, что Очистители работают с безумными учёными А.И.М. Вам было выдано разрешение от ЩИТа на вторжение в #mission#Форт Страйкер#/mission# (учебный лагерь Очистителей) и извлечение лидера группы, #mission#Уильяма Страйкера#/mission#, из его Командного Бункера.\n\nОднако, Страж, за которым ЩИТ вёл наблюдение, пропал где-то в Охотничьих Угодьях. Если Страйкер узнает, что его программа Стражей находилась под наблюдением, миссия ЩИТа будет скомпрометирована.\n\nДиректор Фьюри просит вас найти и уничтожить #mission#фрагмент Стража#/mission#, в котором находится их датчик."
     },
     "14491204564865058109": {
       "Variants": [],
@@ -14030,7 +14030,7 @@
     "14496466024418575728": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Его поступь грандиознее, чем у самого Вольштагга Громкоголосого.\n—Фандраль Неотразимый"
+      "String": "Его поступь грандиознее, чем у самого Вольштагга Громкоголосого.\n—Фандрал Лихой"
     },
     "14496509549621413237": {
       "Variants": [],
@@ -14537,7 +14537,7 @@
     "14519337949210281219": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Конец игры: +$param1.power.evalRegisterFloat0.pct$% Общий рейтинг уклонения"
+      "String": "Конец игры: +$param1.power.evalRegisterFloat0.pct$% Общий Рейтинг Уклонения"
     },
     "14519474121268135274": {
       "Variants": [],
@@ -15835,7 +15835,7 @@
     "14569130110793418099": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.abs.noFraction$ Рейтинг защиты ($propertyValue.divByLevel.precision1$ за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.abs.noFraction$ Рейтинг Защиты ($propertyValue.divByLevel.precision1$ за каждый уровень)"
     },
     "14569205693620815210": {
       "Variants": [],
@@ -16615,7 +16615,7 @@
     "14606827927734846772": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Поговорите с Леди Сиф в Дворце Одина"
+      "String": "Поговорите с Леди Сиф во Дворце Одина"
     },
     "14606888082998035727": {
       "Variants": [],
@@ -17322,7 +17322,7 @@
     "14640447514332431620": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рейтинг уклонения: +$DodgeRatingBonusAdd.precision0$ #hidden#($DodgeRatingBonusAdd.divByLevel$ за уровень)#/hidden#"
+      "String": "Рейтинг Уклонения: +$DodgeRatingBonusAdd.precision0$ #hidden#($DodgeRatingBonusAdd.divByLevel$ за уровень)#/hidden#"
     },
     "14640518342762759534": {
       "Variants": [],
@@ -18387,12 +18387,12 @@
     "14692262468008543552": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+$dodgeRatingBonusMult.pct$% Рейтинг уклонения (1% за ранг)"
+      "String": "+$dodgeRatingBonusMult.pct$% Рейтинг Уклонения (1% за ранг)"
     },
     "14692411743825954051": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда ваше здоровье падает ниже $param2$%, получите +$param1.power.condition0.statintelligencemodifier.nofraction$ Интеллекта, +$param1.power.condition0.defense.noFraction$ Рейтинг защиты и +$param1.power.condition0.ccresistscoreall.nofraction$ Упорства на $param1.power.condition0.duration$. (перезарядка $param1.power.cooldown$)"
+      "String": "Когда ваше здоровье падает ниже $param2$%, получите +$param1.power.condition0.statintelligencemodifier.nofraction$ Интеллекта, +$param1.power.condition0.defense.noFraction$ Рейтинг Защиты и +$param1.power.condition0.ccresistscoreall.nofraction$ Упорства на $param1.power.condition0.duration$. (перезарядка $param1.power.cooldown$)"
     },
     "14692532836249830756": {
       "Variants": [],
@@ -18743,7 +18743,7 @@
     "14710000158895506700": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procChanceString$ шанс при входящем уроне получить +$param1.power.condition0.defense.nofraction$ Рейтинг защиты на $param1.power.condition0.duration$."
+      "String": "$procChanceString$ шанс при входящем уроне получить +$param1.power.condition0.defense.nofraction$ Рейтинг Защиты на $param1.power.condition0.duration$."
     },
     "14710114697138406714": {
       "Variants": [],
@@ -19469,7 +19469,7 @@
     "14746058496700581134": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда ваша #orange#Мистическая энергия#/orange# достигает максимума, получите +$param1.power.condition0.Dodgeratingbonusadd.nofraction$ Рейтинг уклонения, +1 Выносливости и получайте на $param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше урона от Враждебных Областных Сил на протяжении $param1.power.condition0.duration$."
+      "String": "Когда ваша #orange#Мистическая энергия#/orange# достигает максимума, получите +$param1.power.condition0.Dodgeratingbonusadd.nofraction$ Рейтинг Уклонения, +1 Выносливости и получайте на $param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше урона от Враждебных Областных Сил на протяжении $param1.power.condition0.duration$."
     },
     "14746449729564902667": {
       "Variants": [],
@@ -20619,7 +20619,7 @@
     "14805885333897413946": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#teambuff#Ловкость#/teambuff# - увеличатся рейтинг уклонения и шанс на отражение снарядов"
+      "String": "#teambuff#Ловкость#/teambuff# - увеличатся Рейтинг Уклонения и шанс на отражение снарядов"
     },
     "14805912018538530116": {
       "Variants": [],
@@ -21704,7 +21704,7 @@
     "14856370166150399250": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет заклинание #emphasis#Улучшение здоровья АРМОР#/emphasis# к любой ячейке снаряжения (2, 3 или 4) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания даёт:\n#emphasis#+300 к здоровью/emphasis#"
+      "String": "Добавляет заклинание #emphasis#Улучшение здоровья АРМОР#/emphasis# к любой ячейке снаряжения (2, 3 или 4) эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания. Это заклинание можно использовать для предметов уровня 63 и выше.\n\nУровень 60 этого заклинания даёт:\n#emphasis#+300 Здоровья/emphasis#"
     },
     "14856510126315341132": {
       "Variants": [],
@@ -22255,7 +22255,7 @@
     "14883464108330190079": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#При попадании вы спонтанно создаёте новые личности. Активным может быть любое количество; длительность - одна минута.#/emphasis#\nКонец игры: +$param1.power.onContactTimepower0.evalRegisterFloat0.pct$% шанс блокировки\nСинди Холлер: +$param1.power.onContactTimepower1.evalRegisterFloat0.pct$% Базового Энергетического урона \nДжек Уэйн: +$param1.power.onContactTimepower2.evalRegisterFloat0.pct$% Базового Физического и Ментального урона\nЛегион: +$param1.power.onContactTimepower3.evalRegisterFloat0$ ко всем параметрам\nСалли: +$param1.power.onContactTimepower4.evalRegisterFloat0$ Силы и Выносливости\nМойра: +$param1.power.onContactTimepower5.evalRegisterFloat0$ Интеллекта\nСкинсмит: +$param1.power.onContactTimepower6.evalRegisterFloat0.pct$% Рейтинг защиты\nКирксбакс Краклар: +$param1.power.onContactTimepower7.evalRegisterFloat0.pct$% Скорости передвижения\nКсения Надежда Панова: +$param1.power.onContactTimepower8.evalRegisterFloat0.pct$% Рейтинг Сокрушительного удара\nНе-ньютоновская Энни: +$param1.power.onContactTimepower9.evalRegisterFloat0.pct$% к отклонению снаряда\nКлоун: +$param1.power.onContactTimepower10.evalRegisterFloat0.pct$% Рейтинг Критического удара\nФиндль Искатель: +$param1.power.onContactTimepower11.evalRegisterFloat0.pct$% Поиска Особых предметов\nПожиратель времени: +$param1.power.onContactTimepower12.evalRegisterFloat0.pct$% бонуса Опыта\nДрексл: +$param1.power.onContactTimepower13.evalRegisterFloat0.pct$% Базового урона в ближнем бою"
+      "String": "#emphasis#При попадании вы спонтанно создаёте новые личности. Активным может быть любое количество; длительность - одна минута.#/emphasis#\nКонец игры: +$param1.power.onContactTimepower0.evalRegisterFloat0.pct$% шанс блокировки\nСинди Холлер: +$param1.power.onContactTimepower1.evalRegisterFloat0.pct$% Базового Энергетического урона \nДжек Уэйн: +$param1.power.onContactTimepower2.evalRegisterFloat0.pct$% Базового Физического и Ментального урона\nЛегион: +$param1.power.onContactTimepower3.evalRegisterFloat0$ ко всем параметрам\nСалли: +$param1.power.onContactTimepower4.evalRegisterFloat0$ Силы и Выносливости\nМойра: +$param1.power.onContactTimepower5.evalRegisterFloat0$ Интеллекта\nСкинсмит: +$param1.power.onContactTimepower6.evalRegisterFloat0.pct$% Рейтинг Защиты\nКирксбакс Краклар: +$param1.power.onContactTimepower7.evalRegisterFloat0.pct$% Скорости передвижения\nКсения Надежда Панова: +$param1.power.onContactTimepower8.evalRegisterFloat0.pct$% Рейтинг Сокрушительного удара\nНе-ньютоновская Энни: +$param1.power.onContactTimepower9.evalRegisterFloat0.pct$% к отклонению снаряда\nКлоун: +$param1.power.onContactTimepower10.evalRegisterFloat0.pct$% Рейтинг Критического удара\nФиндль Искатель: +$param1.power.onContactTimepower11.evalRegisterFloat0.pct$% Поиска Особых предметов\nПожиратель времени: +$param1.power.onContactTimepower12.evalRegisterFloat0.pct$% бонуса Опыта\nДрексл: +$param1.power.onContactTimepower13.evalRegisterFloat0.pct$% Базового урона в ближнем бою"
     },
     "14883474639666611528": {
       "Variants": [],
@@ -22822,7 +22822,7 @@
     "14912724294594004230": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Агент Коулсон"
+      "String": "Агент Колсон"
     },
     "14912875206916048183": {
       "Variants": [],
@@ -23627,7 +23627,7 @@
     "14952361405370664254": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Ужасная меткость:#/emphasis#\nРейтинг уклонения: +$DodgeRatingBonusAdd.precision0$ #hidden#($DodgeRatingBonusAdd.divByLevel$ за уровень)#/hidden#\nМножитель рейтинга уклонения: +$DodgeRatingBonusMult.pct$%\n#emphasis#Открытая слабость:#/emphasis#\nРейтинг Критического удара: +$CritRatingBonusAdd.precision0$#hidden# ($CritRatingBonusAdd.divByLevel$ за уровень)#/hidden#\nРейтинг Критического урона: +$CritDamageRating.precision0$#hidden# ($CritDamageRating.divByLevel$ за уровень)#/hidden#"
+      "String": "#emphasis#Ужасная меткость:#/emphasis#\nРейтинг Уклонения: +$DodgeRatingBonusAdd.precision0$ #hidden#($DodgeRatingBonusAdd.divByLevel$ за уровень)#/hidden#\nМножитель рейтинга уклонения: +$DodgeRatingBonusMult.pct$%\n#emphasis#Открытая слабость:#/emphasis#\nРейтинг Критического удара: +$CritRatingBonusAdd.precision0$#hidden# ($CritRatingBonusAdd.divByLevel$ за уровень)#/hidden#\nРейтинг Критического урона: +$CritDamageRating.precision0$#hidden# ($CritDamageRating.divByLevel$ за уровень)#/hidden#"
     },
     "14952464153876432192": {
       "Variants": [],
@@ -24768,7 +24768,7 @@
     "15006617266261132649": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Поговорите с Вольштаггом в Дворце Одина"
+      "String": "Поговорите с Вольштаггом во Дворце Одина"
     },
     "15006717519389328747": {
       "Variants": [],
@@ -25852,7 +25852,7 @@
     "15053468912656909630": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Меня зовут Серебряная Сабля. \nЯ открываю новые способности для героев с высокой точностью."
+      "String": "Меня зовут Серебряный Соболь. \nЯ открываю новые способности для героев с высокой точностью."
     },
     "15053525000704230775": {
       "Variants": [],
@@ -26272,7 +26272,7 @@
     "15070353571553346871": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "коллекция редких карточек агента Коулсона"
+      "String": "коллекция редких карточек агента Колсона"
     },
     "15070362243112305999": {
       "Variants": [],
@@ -26282,7 +26282,7 @@
     "15070547871538480411": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Во время движения получите 500 Рейтинг уклонения на 10 сек"
+      "String": "Во время движения получите 500 Рейтинг Уклонения на 10 сек"
     },
     "15070588652420859291": {
       "Variants": [],
@@ -26738,7 +26738,7 @@
     "15093718094930314609": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Ультимативный Страж#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учётной записи.\n\nУльтимативный Страж 50 уровня даёт:\n#emphasis#+2000 Рейтинг защиты#/emphasis#\n#emphasis#+2 к рангу Ультимативной способности#/emphasis#\n#emphasis#Мгновенное восстановление 100% здоровья при использовании Ультимативной способности#/emphasis#\n\nПредметы 25 уровня получают половинный бонус Рейтинга урона."
+      "String": "Добавляет рунное слово #emphasis#Ультимативный Страж#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учётной записи.\n\nУльтимативный Страж 50 уровня даёт:\n#emphasis#+2000 Рейтинг Защиты#/emphasis#\n#emphasis#+2 к рангу Ультимативной способности#/emphasis#\n#emphasis#Мгновенное восстановление 100% здоровья при использовании Ультимативной способности#/emphasis#\n\nПредметы 25 уровня получают половинный бонус Рейтинга урона."
     },
     "15093721706869556486": {
       "Variants": [],
@@ -27234,7 +27234,7 @@
     "15115920765036987663": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Патрульный Артифайсер"
+      "String": "Патрульный артефактор"
     },
     "15115962890126624055": {
       "Variants": [],
@@ -27710,7 +27710,7 @@
     "15134729861341971723": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании Ближней способностью вы получаете +$param1.power.condition0.defense.nofraction$ Рейтинг защиты и +$param1.power.condition0.statdurabilitymodifier.nofraction$ Выносливости на $param1.power.condition0.duration$"
+      "String": "При попадании Ближней способностью вы получаете +$param1.power.condition0.defense.nofraction$ Рейтинг Защиты и +$param1.power.condition0.statdurabilitymodifier.nofraction$ Выносливости на $param1.power.condition0.duration$"
     },
     "15135010700721718587": {
       "Variants": [],
@@ -29518,7 +29518,7 @@
     "15219842773028570415": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#waypointheader#Глава 6#/waypointheader# #waypointlabel#ЛОКАЦИЯ (Общая):#/waypointlabel# #waypointlevels#Места Охоты#/waypointlevels##waypointlabel# ДИАПАЗОН УРОВНЕЙ: #/waypointlabel##waypointlevels#$MinLevel$-$MaxLevel$#/waypointlevels#\n#waypointtext#Эта потайная хижина, служащая аванпостом ЩИТа, расположена глубоко в лесах штата Нью-Йорк, неподалёку от штаб-квартиры Очистителей.#/waypointtext#\n#waypointlabel#Суперзлодейское противостояние: #/waypointlabel##waypointtext#Цирковое представление Пузыря и Жабы#/waypointtext#"
+      "String": "#waypointheader#Глава 6#/waypointheader# #waypointlabel#ЛОКАЦИЯ (Общая):#/waypointlabel# #waypointlevels#Охотничьи угодья#/waypointlevels##waypointlabel# ДИАПАЗОН УРОВНЕЙ: #/waypointlabel##waypointlevels#$MinLevel$-$MaxLevel$#/waypointlevels#\n#waypointtext#Это скрытое убежище служит аванпостом ЩИТа, оно расположено глубоко в лесах штата Нью-Йорк, неподалёку от штаб-квартиры Очистителей.#/waypointtext#\n#waypointlabel#Суперзлодейское противостояние: #/waypointlabel##waypointtext#Цирковое представление Пузыря и Жабы#/waypointtext#"
     },
     "15219899479489316153": {
       "Variants": [],
@@ -29844,7 +29844,7 @@
     "15234862986576921864": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Найдите агента Коулсона"
+      "String": "Найдите агента Колсона"
     },
     "15234944818601526552": {
       "Variants": [],
@@ -31476,7 +31476,7 @@
     "15315668329538258228": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Используйте путевую точку главы 6, чтобы добраться до #mission#Скрытого лагеря#/mission# в #mission#Форте Страйкера#/mission#.\n\n#mission#Большой Рекс#/mission# можно найти в #mission#Охотничьих угодьях#/mission#, #mission#Падший Пёс#/mission# в #mission#Учебном лагере#/mission#, а #mission#Генерал Тред#/mission# находится в #mission#Внешнем комплексе#/mission#.\n\nЧтобы задание было зачтено, убедитесь, что вы играете на #mission#Супергеройском#/mission# режиме сложности."
+      "String": "Используйте путевую точку главы 6, чтобы добраться до #mission#Скрытого убежища#/mission# в #mission#форте Страйкера#/mission#.\n\n#mission#Большой Рекс#/mission# можно найти в #mission#Охотничьих угодьях#/mission#, #mission#Падший Пёс#/mission# в #mission#Учебном лагере#/mission#, а #mission#Генерал Тред#/mission# находится в #mission#Внешнем комплексе#/mission#.\n\nЧтобы задание было зачтено, убедитесь, что вы играете на #mission#Супергеройском#/mission# режиме сложности."
     },
     "15315713761649296647": {
       "Variants": [],
@@ -32163,7 +32163,7 @@
     "15340487193148327183": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Агент ЩИТа Ричард Флеминг находится в #mission#Скрытой хижине#/mission# Охотничьих угодий в Форт Страйкере."
+      "String": "Агент ЩИТа Ричард Флеминг находится в #mission#Скрытом убежище#/mission# на территории Охотничьих угодий в форте Страйкере."
     },
     "15340786470815466807": {
       "Variants": [],
@@ -32538,7 +32538,7 @@
     "15355111861788542268": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Вдохновение Дупа#/emphasis# на любой #emphasis#Уру-кованый предмет#/emphasis#, заменяя существующее рунное слово и привязывая предмет к вашей учётной записи.\n\nПредметы 50 уровня получают бонусы:\n#emphasis#+500 Урон Призванных союзников#/emphasis#\n#emphasis#+20-30 Дух#/emphasis#\n#emphasis#+200-300 Рейтинг Критического удара#/emphasis#\n#emphasis#+200-300 Рейтинг Сокрушительного удара#/emphasis#\n#emphasis#+200-300 Здоровье#/emphasis#\n#emphasis#+200-300 Рейтинг защиты#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы Здоровья, Урона Призванных союзников, Рейтингов Критического, Сокрушительного ударов и Защиты."
+      "String": "Добавляет рунное слово #emphasis#Вдохновение Дупа#/emphasis# на любой #emphasis#Уру-кованый предмет#/emphasis#, заменяя существующее рунное слово и привязывая предмет к вашей учётной записи.\n\nПредметы 50 уровня получают бонусы:\n#emphasis#+500 Урон Призванных союзников#/emphasis#\n#emphasis#+20-30 Дух#/emphasis#\n#emphasis#+200-300 Рейтинг Критического удара#/emphasis#\n#emphasis#+200-300 Рейтинг Сокрушительного удара#/emphasis#\n#emphasis#+200-300 Здоровье#/emphasis#\n#emphasis#+200-300 Рейтинг Защиты#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы Здоровья, Урона Призванных союзников, Рейтингов Критического, Сокрушительного ударов и Защиты."
     },
     "15355431055283783058": {
       "Variants": [],
@@ -33085,7 +33085,7 @@
     "15377124389524079936": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#blue#Бафф Ударного отряда - Человек-Лёд#/blue# даёт вам $param1.power.condition0.defense.nofraction$ Рейтинг защиты и $param1.power.condition0.critdamagerating.nofraction$ Рейтинг Критического урона на $param1.power.condition0.duration$"
+      "String": "#blue#Бафф Ударного отряда - Человек-Лёд#/blue# даёт вам $param1.power.condition0.defense.nofraction$ Рейтинг Защиты и $param1.power.condition0.critdamagerating.nofraction$ Рейтинг Критического урона на $param1.power.condition0.duration$"
     },
     "15377503003711309064": {
       "Variants": [],
@@ -33195,7 +33195,7 @@
     "15379965656421893446": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Лунное затмение#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учётной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+1000 Рейтинг защиты#/emphasis#\n#emphasis#+100 Рейтинг уклонения#/emphasis#\n#emphasis#При уклонении получите 1000 Рейтинг Критического удара на 2 сек (перезарядка 10 сек)#/emphasis#\n#emphasis#Восстановление 10 Духа при критическом попадании (перезарядка 2 сек)#/emphasis#\n#emphasis#Ваш герой становится невидимым на 5 сек, если уровень здоровья падает ниже 20% (перезарядка 20 сек)#/emphasis#\n\nПредметы 25 уровня получают половину бонуса к рейтингам защиты, уклонения и крит. удара."
+      "String": "Добавляет рунное слово #emphasis#Лунное затмение#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учётной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+1000 Рейтинг Защиты#/emphasis#\n#emphasis#+100 Рейтинг Уклонения#/emphasis#\n#emphasis#При уклонении получите 1000 Рейтинг Критического удара на 2 сек (перезарядка 10 сек)#/emphasis#\n#emphasis#Восстановление 10 Духа при критическом попадании (перезарядка 2 сек)#/emphasis#\n#emphasis#Ваш герой становится невидимым на 5 сек, если уровень здоровья падает ниже 20% (перезарядка 20 сек)#/emphasis#\n\nПредметы 25 уровня получают половину бонуса к рейтингам защиты, уклонения и крит. удара."
     },
     "15380191305343304964": {
       "Variants": [],
@@ -36325,7 +36325,7 @@
     "15530754605134710027": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рейтинг уклонения: +$evalregisterfloat0.precision0$ #hidden#($evalregisterfloat0.precision1.divbylevel$ за каждый уровень)#/hidden# для каждой белки"
+      "String": "Рейтинг Уклонения: +$evalregisterfloat0.precision0$ #hidden#($evalregisterfloat0.precision1.divbylevel$ за каждый уровень)#/hidden# для каждой белки"
     },
     "15531072479958467849": {
       "Variants": [],
@@ -36835,7 +36835,7 @@
     "15553760069172856072": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании Длительной способностью, вы восстанавливаете  +$param1.power.onpowerstartpower.enduranceChangeBase$ $primaryManaBehaviorName.locflagG$ и получаете +$param1.power.condition0.DamageRatingBonusByType.noFraction$ Рейтинг ментального урона на $param1.power.condition0.duration$. Эффект накапливается до 3 раз."
+      "String": "При попадании Длительной способностью, вы восстанавливаете  +$param1.power.onpowerstartpower.enduranceChangeBase$ $primaryManaBehaviorName.locflagG$ и получаете +$param1.power.condition0.DamageRatingBonusByType.noFraction$ Рейтинг Ментального урона на $param1.power.condition0.duration$. Эффект накапливается до 3 раз."
     },
     "15554139379331368302": {
       "Variants": [],
@@ -37741,7 +37741,7 @@
     "15592282520030676334": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Смертоносный рывок\nУвеличенный рейтинг уклонения"
+      "String": "Смертоносный рывок\nУвеличенный Рейтинг Уклонения"
     },
     "15592381677880935742": {
       "Variants": [],
@@ -38388,7 +38388,7 @@
     "15618500056911512897": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании с использованием физической способности получите +$param1.power.condition0.defense.noFraction$ Рейтинг защиты и +$param1.power.condition0.ccResistScoreAll.noFraction$ к воле на $param1.power.condition0.duration$ (накапливается до $param1.power.condition0.maxNumStacks$ раз)."
+      "String": "При попадании с использованием физической способности получите +$param1.power.condition0.defense.noFraction$ Рейтинг Защиты и +$param1.power.condition0.ccResistScoreAll.noFraction$ к воле на $param1.power.condition0.duration$ (накапливается до $param1.power.condition0.maxNumStacks$ раз)."
     },
     "15618564133525259583": {
       "Variants": [],
@@ -39573,7 +39573,7 @@
     "15681331356754511108": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Использовать в чрезвычайной ситуации\n—Агент ЩИТа Коулсон"
+      "String": "Использовать в чрезвычайной ситуации\n—Агент ЩИТа Колсон"
     },
     "15681575203647980912": {
       "Variants": [],
@@ -44214,7 +44214,7 @@
     "15903682608237184261": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Доложиться агенту ЩИТа Коулсону в Башне Мстителей"
+      "String": "Доложиться агенту ЩИТа Колсону в Башне Мстителей"
     },
     "15903790747054900600": {
       "Variants": [],
@@ -44665,7 +44665,7 @@
     "15920003445309768967": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании способностью вы получаете +$param1.power.condition0.dodgeRatingBonusAdd.noFraction$ Рейтинг уклонения и +$param1.power.condition0.DamagePctResistVsPowerKeyword.pct$% Нейтрализации урона проти атак по Области на $param1.power.condition0.duration$ (накапливается до $param1.power.condition0.maxNumStacks$ раз)"
+      "String": "При попадании способностью вы получаете +$param1.power.condition0.dodgeRatingBonusAdd.noFraction$ Рейтинг Уклонения и +$param1.power.condition0.DamagePctResistVsPowerKeyword.pct$% Нейтрализации урона проти атак по Области на $param1.power.condition0.duration$ (накапливается до $param1.power.condition0.maxNumStacks$ раз)"
     },
     "15920265764846175587": {
       "Variants": [],
@@ -47391,7 +47391,7 @@
     "16037883663181088014": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Толпа была настолько неуправляемой, что мы не просто пытались пробраться сквозь толпу... мы шли по ним. Люди падали, а все просто продолжали идти — и в этот момент я потерял grip на руке своей сестры."
+      "String": "Толпа была настолько безумной, что мы уже не просто продирались сквозь неё... мы шли прямо по людям. Кто-то падал, но остальные продолжали бежать — именно тогда рука сестры выскользнула из моей ладони."
     },
     "16037971641350489409": {
       "Variants": [],
@@ -47471,7 +47471,7 @@
     "16040672084797228299": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+$usepower.condition0.defense.nofraction$ Рейтинг защиты\n\n#red#Действует до конца PvP-матча и продолжается после поражения#/red#"
+      "String": "+$usepower.condition0.defense.nofraction$ Рейтинг Защиты\n\n#red#Действует до конца PvP-матча и продолжается после поражения#/red#"
     },
     "16040833635692709127": {
       "Variants": [],
@@ -48386,7 +48386,7 @@
     "16084301135743812924": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#mission#Сиф#/mission# можно найти в Дворце Одина, разговаривающей с Валькирией. Мы слышали, что ей действительно нравятся кредиты."
+      "String": "#mission#Сиф#/mission# можно найти во Дворце Одина, разговаривающей с Валькирией. Мы слышали, что ей действительно нравятся кредиты."
     },
     "16084427880229045566": {
       "Variants": [],
@@ -49174,7 +49174,7 @@
     "16120405408222741824": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при входящем уроне увеличить Рейтинг уклонения на $param1.power.condition0.Dodgeratingbonusadd$ на $param1.power.condition0.duration$"
+      "String": "$procchancestring$ шанс при входящем уроне увеличить Рейтинг Уклонения на $param1.power.condition0.Dodgeratingbonusadd$ на $param1.power.condition0.duration$"
     },
     "16120421578711106821": {
       "Variants": [],
@@ -49609,7 +49609,7 @@
     "16141617096286733572": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Агент Коулсон - Напарник!"
+      "String": "Агент Колсон - Напарник!"
     },
     "16141750416422733109": {
       "Variants": [],
@@ -50209,7 +50209,7 @@
     "16173693952231081284": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании с помощью физической способности получите Ловкость Дупа: +$param1.power.condition0.DodgeRatingBonusAdd.noFraction$ Рейтинг уклонения на $param1.power.condition0.duration$."
+      "String": "При попадании с помощью физической способности получите Ловкость Дупа: +$param1.power.condition0.DodgeRatingBonusAdd.noFraction$ Рейтинг Уклонения на $param1.power.condition0.duration$."
     },
     "16174222598275597628": {
       "Variants": [],
@@ -51351,7 +51351,7 @@
     "16229066431546787135": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы встретились с Агентом Коулсоном на #mission#Юге Адской Кухни#/mission#. Он направил вас к #mission#15-му Полицейскому участку#/mission#, где #mission#Агент ЩИТа Шейла Рейнольдс#/mission# установила оцепление, чтобы задержать Венома."
+      "String": "Вы встретились с Агентом Колсоном на #mission#Юге Адской Кухни#/mission#. Он направил вас к #mission#15-му Полицейскому участку#/mission#, где #mission#Агент ЩИТа Шейла Рейнольдс#/mission# установила оцепление, чтобы задержать Венома."
     },
     "16229080153972213062": {
       "Variants": [],
@@ -52223,7 +52223,7 @@
     "16270326683352958220": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при входящем уроне увеличить на $param1.power.condition0.Dodgeratingbonusadd.nofraction$ Рейтинг уклонения на $param1.power.condition0.duration$"
+      "String": "$procchancestring$ шанс при входящем уроне увеличить на $param1.power.condition0.Dodgeratingbonusadd.nofraction$ Рейтинг Уклонения на $param1.power.condition0.duration$"
     },
     "16270478171205731646": {
       "Variants": [],
@@ -52603,7 +52603,7 @@
     "16285786306513208623": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Так вот что делает эта штука.\n—Агент Фил Коулсон"
+      "String": "Так вот что делает эта штука.\n—Агент Фил Колсон"
     },
     "16285863865046533439": {
       "Variants": [],
@@ -54349,7 +54349,7 @@
     "16374646972205892875": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Этот рецепт требует: (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 Кредитов, чтобы создать предмет. \n\nСоздаёт шкуру Лорда Серы — Уникальный предмет 2 ячейки 60 уровня для любого героя\n\n#emphasis#Шкура Лорда Серы#/emphasis#\n#emphasis#+ Рейтинг защиты#/emphasis#\n#emphasis#+ Урон Ближнего боя#/emphasis#\n#emphasis#+ Здоровье#/emphasis#\n#emphasis#+ Воли#/emphasis#\n#emphasis#+ Восстановление Здоровья#/emphasis#\n#emphasis#Когда уровень здоровья падает ниже 30%, вы получите \"Выносливость\"#/emphasis#\n#emphasis#При попадании Длительной способностью, повышается Рейтинг защиты и Скорости передвижения#/emphasis#"
+      "String": "Этот рецепт требует: (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 Кредитов, чтобы создать предмет. \n\nСоздаёт шкуру Лорда Серы — Уникальный предмет 2 ячейки 60 уровня для любого героя\n\n#emphasis#Шкура Лорда Серы#/emphasis#\n#emphasis#+ Рейтинг Защиты#/emphasis#\n#emphasis#+ Урон Ближнего боя#/emphasis#\n#emphasis#+ Здоровье#/emphasis#\n#emphasis#+ Воли#/emphasis#\n#emphasis#+ Восстановление Здоровья#/emphasis#\n#emphasis#Когда уровень здоровья падает ниже 30%, вы получите \"Выносливость\"#/emphasis#\n#emphasis#При попадании Длительной способностью, повышается Рейтинг Защиты и Скорости передвижения#/emphasis#"
     },
     "16374717547114136849": {
       "Variants": [],
@@ -55085,7 +55085,7 @@
     "16402425377695794549": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы и ваши союзники получаете +$param1.power.evalRegisterFloat0$ Рейтинг защиты ($param1.power.evalRegisterFloat0.divByLevel.precision1$ за уровень) на $param1.power.condition0.duration$ при попадании"
+      "String": "Вы и ваши союзники получаете +$param1.power.evalRegisterFloat0$ Рейтинг Защиты ($param1.power.evalRegisterFloat0.divByLevel.precision1$ за уровень) на $param1.power.condition0.duration$ при попадании"
     },
     "16402773244211955010": {
       "Variants": [],
@@ -56651,7 +56651,7 @@
     "16487689772755518775": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Двер уничтожена!"
+      "String": "Дверь уничтожена!"
     },
     "16487895591899235658": {
       "Variants": [],
@@ -56842,7 +56842,7 @@
     "16496279428242670957": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Аура Циркового Сильного Человека:\nПри попадании с помощью любой способности, вы и ваши союзники получаете +$param1.power.condition0.statstrengthmodifier$ Силы на $param1.power.condition0.duration$."
+      "String": "Аура Циркового Силача:\nПри попадании с помощью любой способности, вы и ваши союзники получаете +$param1.power.condition0.statstrengthmodifier$ Силы на $param1.power.condition0.duration$."
     },
     "16496434953243591998": {
       "Variants": [],
@@ -57362,7 +57362,7 @@
     "16523572283204306250": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Гений провидца#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учётной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+1000 Здоровья#/emphasis#\n#emphasis#+100 опыта за каждого убитого врага#/emphasis#\n#emphasis#+1 Интеллекта#/emphasis#\n#emphasis#Восстановление 10 Духа при подборе любой сферы#/emphasis#\n\nПредметы 25 уровня получают половину бонуса к здоровью."
+      "String": "Добавляет рунное слово #emphasis#Гений провидца#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, удаляя любые присутствующие рунные слова с предмета и привязывая его к вашей учётной записи.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+1000 Здоровья#/emphasis#\n#emphasis#+100 опыта за каждого убитого врага#/emphasis#\n#emphasis#+1 Интеллекта#/emphasis#\n#emphasis#Восстановление 10 Духа при подборе любой сферы#/emphasis#\n\nПредметы 25 уровня получают половину бонуса Здоровья."
     },
     "16523690313238840669": {
       "Variants": [],
@@ -58693,7 +58693,7 @@
     "16586097820157150579": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Должен признать, у Локи есть чувство стиля.\n—Фандраль Неотразимый"
+      "String": "Должен признать, у Локи есть чувство стиля.\n—Фандрал Лихой"
     },
     "16586277422746240330": {
       "Variants": [],
@@ -58873,7 +58873,7 @@
     "16596600183356327223": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Наши союзники из ЩИТа только что перехватили закодированное сообщение вожака Очистителей преподобного Уильяма Страйкера, отправленное МОДОКу, руководителю Центра Инновационных Идей. В нем говорится о новом оружии для войны, которую Страйкер ведёт против мутантов.\n\nЩИТ проследил путь этого сообщения до базы подготовки Очистителей, которую называют #mission#фортом Страйкера#/mission#, и которая находится на заброшенной военной базе к северу от Нью-Йорка. \n\nДиректор ЩИТа Фьюри попросил нас задержать #mission#Уильяма Страйкера#/mission#, поскольку он связан с А.И.М. Мы должны использовать эту возможность, чтобы устранить вожака Очистителей и покончить с этой угрозой для выживания мутантов.\n\nПоговорите с #mission#Мэдисоном Джеффрисом#/mission# и отправьте \"Чёрную птицу\" в форт Страйкера."
+      "String": "Наши союзники из ЩИТа только что перехватили закодированное сообщение вожака Очистителей преподобного Уильяма Страйкера, отправленное МОДОКу, руководителю Агентства Инновационной Механики. В нем говорится о новом оружии для войны, которую Страйкер ведёт против мутантов.\n\nЩИТ проследил путь этого сообщения до базы подготовки Очистителей, которую называют #mission#фортом Страйкера#/mission#, и которая находится на заброшенной военной базе к северу от Нью-Йорка. \n\nДиректор ЩИТа Фьюри попросил нас задержать #mission#Уильяма Страйкера#/mission#, поскольку он связан с А.И.М. Мы должны использовать эту возможность, чтобы устранить вожака Очистителей и покончить с этой угрозой для выживания мутантов.\n\nПоговорите с #mission#Мэдисоном Джеффрисом#/mission# и отправьте \"Чёрную птицу\" в форт Страйкера."
     },
     "16596645061473928510": {
       "Variants": [],
@@ -60311,7 +60311,7 @@
     "16666401910318957945": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы успешно уничтожили всех Скруллов в Школе Ксавье для одарённых подростков.\n\nМножество учеников оказались в беде, и вы сыграли решающую роль в их спасении прежде, чем до них добрались войска нападавших Скруллов. И этим вы заставили лидеров-скруллов сбросить маски.\n\nСкруллы-самозванцы, выдававшие себя за Циклопа, Псайлок и Икс-23, пытались остановить вас, но вы показали им, на что способны настоящие герои.\n\nИ ещё вы смогли получить крайне важные сведения, которые пригодятся Абигейл Бранд, чтобы обнаружить местонахождение главных войск вторжения Скруллов."
+      "String": "Вы успешно уничтожили всех Скруллов в Школе Ксавье для одарённой молодёжи.\n\nМножество учеников оказались в беде, и вы сыграли решающую роль в их спасении прежде, чем до них добрались войска нападавших Скруллов. И этим вы заставили лидеров-скруллов сбросить маски.\n\nСкруллы-самозванцы, выдававшие себя за Циклопа, Псайлок и Икс-23, пытались остановить вас, но вы показали им, на что способны настоящие герои.\n\nИ ещё вы смогли получить крайне важные сведения, которые пригодятся Абигейл Бранд, чтобы обнаружить местонахождение главных войск вторжения Скруллов."
     },
     "16666606088698725690": {
       "Variants": [],
@@ -61113,7 +61113,7 @@
     "16701240580496688508": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы всё ещё здесь? \n\nСбежавшие суперзлодеи сами себя не поймают. Мой пилот доставит вас на #mission#Юг Адской Кухни#/mission#, где Агент Коулсон введёт вас в курс дела."
+      "String": "Вы всё ещё здесь? \n\nСбежавшие суперзлодеи сами себя не поймают. Мой пилот доставит вас на #mission#Юг Адской Кухни#/mission#, где Агент Колсон введёт вас в курс дела."
     },
     "16701278011124417907": {
       "Variants": [],
@@ -61900,7 +61900,7 @@
     "16739347261135521075": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании ближней способностью вы получаете $param1.power.condition0.DodgeRatingBonusAdd.precision0$ Рейтинг уклонения на $param1.power.condition0.duration$ (перезарядка 5 сек)"
+      "String": "При попадании ближней способностью вы получаете $param1.power.condition0.DodgeRatingBonusAdd.precision0$ Рейтинг Уклонения на $param1.power.condition0.duration$ (перезарядка 5 сек)"
     },
     "16739391679643911445": {
       "Variants": [],
@@ -66237,7 +66237,7 @@
     "16940128495451309436": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы все ещё здесь? \n\nЭти сбежавшие суперзлодеи сами себя не поймают. Поговорите с моим агентом вон там, чтобы добраться до Адской Кухни, где Агент Коулсон сможет вас приступить к делу."
+      "String": "Вы все ещё здесь? \n\nЭти сбежавшие суперзлодеи сами себя не поймают. Поговорите с моим агентом вон там, чтобы добраться до Адской Кухни, где Агент Колсон сможет вас приступить к делу."
     },
     "16940184239821030768": {
       "Variants": [],
@@ -66923,7 +66923,7 @@
     "16974823992803198258": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Скинсмит: +$param1.power.evalRegisterFloat0.pct$% Рейтинг защиты"
+      "String": "Скинсмит: +$param1.power.evalRegisterFloat0.pct$% Рейтинг Защиты"
     },
     "16974848783361770812": {
       "Variants": [],
@@ -67483,7 +67483,7 @@
     "17003143791690843461": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рейтинг защиты:"
+      "String": "Рейтинг Защиты:"
     },
     "17003423123532875116": {
       "Variants": [],
@@ -69902,7 +69902,7 @@
     "17112938999850468622": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Если ваш уровень здоровья падает ниже $param2$%, вы получаете +$param1.power.condition0.defense.noFraction$ Рейтинг защиты на $param1.power.condition0.duration$. Пока действует этот эффект, каждая подобранная Сфера Обломков восстанавливает $param1.power.condition0.procEffect0.OnPowerStartPower.healing$ Здоровья, и вы получаете дополнительно +$param1.power.condition0.procEffect0.condition0.defense.noFraction$ Рейтинг защиты на $param1.power.condition0.procEffect0.condition0.duration$ (накапливается до $param1.power.condition0.procEffect0.condition0.maxNumStacks$ раз) (Перезарядка $param1.power.cooldown$)"
+      "String": "Если ваш уровень здоровья падает ниже $param2$%, вы получаете +$param1.power.condition0.defense.noFraction$ Рейтинг Защиты на $param1.power.condition0.duration$. Пока действует этот эффект, каждая подобранная Сфера Обломков восстанавливает $param1.power.condition0.procEffect0.OnPowerStartPower.healing$ Здоровья, и вы получаете дополнительно +$param1.power.condition0.procEffect0.condition0.defense.noFraction$ Рейтинг Защиты на $param1.power.condition0.procEffect0.condition0.duration$ (накапливается до $param1.power.condition0.procEffect0.condition0.maxNumStacks$ раз) (Перезарядка $param1.power.cooldown$)"
     },
     "17113346450577425735": {
       "Variants": [],
@@ -70308,7 +70308,7 @@
     "17132213391558051182": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Лаборатория Очищающего гнева"
+      "String": "Лаб. Очищающего гнева"
     },
     "17132306789929452926": {
       "Variants": [],
@@ -70979,7 +70979,7 @@
     "17163255529698624895": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы все ещё здесь? \n\nЭти сбежавшие суперзлодеи сами себя не поймают. Поговорите с моим агентом вон там, чтобы добраться до Адской Кухни, где Агент Коулсон сможет вас пристроить."
+      "String": "Вы все ещё здесь? \n\nЭти сбежавшие суперзлодеи сами себя не поймают. Поговорите с моим агентом вон там, чтобы добраться до Адской Кухни, где Агент Колсон сможет вас пристроить."
     },
     "17163410066838652222": {
       "Variants": [],
@@ -71864,7 +71864,7 @@
     "17206408010881959183": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Если ваш уровень здоровья падает ниже $param2$%, вы получаете $param1.power.evalRegisterFloat0.precision0$ Рейтинг защиты ($param1.power.evalRegisterFloat0.divByLevel.precision1$ за каждый уровень)"
+      "String": "Если ваш уровень здоровья падает ниже $param2$%, вы получаете $param1.power.evalRegisterFloat0.precision0$ Рейтинг Защиты ($param1.power.evalRegisterFloat0.divByLevel.precision1$ за каждый уровень)"
     },
     "17206801850851984704": {
       "Variants": [],
@@ -72170,7 +72170,7 @@
     "17221096567159719227": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Плюс к здоровью и восстановлению здоровья\nКаждое дополнительно принятое зелье с этим эффектом увеличит его длительность."
+      "String": "Бонус Здоровья и Восстановления Здоровья\nКаждое дополнительно принятое зелье с этим эффектом увеличит его длительность."
     },
     "17221492769303233853": {
       "Variants": [],
@@ -74372,7 +74372,7 @@
     "17324540858774979894": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Этот рецепт требует: (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 Кредитов каждый раз, когда вы хотите создать этот предмет.\n\nСоздаёт Рога Огненного Великана — Уникальный предмет 5 ячейки 60 уровня для любого героя\n\n#emphasis#Рога Огненного Великана#/emphasis#\n#emphasis#+Рейтинг защиты#/emphasis#\n#emphasis#+Рейтинг физической защиты#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#+Рейтинг Критического удара#/emphasis#\n#emphasis#+Рейтинг Сокрушительного удара#/emphasis#\n#emphasis#+Битва#/emphasis#\n#emphasis#+Интеллект#/emphasis#\n#emphasis#+Урон Призванных союзников#/emphasis#\n#emphasis#+Длительность Призванных союзников#/emphasis#\n#emphasis#При попадании вы получаете Скорость атаки и Снижение расхода (накапливается до 2 раз)#/emphasis#\n"
+      "String": "Этот рецепт требует: (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 Кредитов каждый раз, когда вы хотите создать этот предмет.\n\nСоздаёт Рога Огненного Великана — Уникальный предмет 5 ячейки 60 уровня для любого героя\n\n#emphasis#Рога Огненного Великана#/emphasis#\n#emphasis#+Рейтинг Защиты#/emphasis#\n#emphasis#+Рейтинг физической защиты#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#+Рейтинг Критического удара#/emphasis#\n#emphasis#+Рейтинг Сокрушительного удара#/emphasis#\n#emphasis#+Битва#/emphasis#\n#emphasis#+Интеллект#/emphasis#\n#emphasis#+Урон Призванных союзников#/emphasis#\n#emphasis#+Длительность Призванных союзников#/emphasis#\n#emphasis#При попадании вы получаете Скорость атаки и Снижение расхода (накапливается до 2 раз)#/emphasis#\n"
     },
     "17324605764265444617": {
       "Variants": [],
@@ -74958,7 +74958,7 @@
     "17353180456623473978": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Используйте путевую точку из главы 6, чтобы попасть к #mission#потайной хижине#/mission# в #mission#форте Страйкера#/mission#.\n\n#mission#Элитные#/mission# враги обладают синей или жёлтой аурой. Все задачи необходимо выполнить в #mission#охотничьих угодьях#/mission# #mission#форта Страйкера#/mission#."
+      "String": "Используйте путевую точку из главы 6, чтобы добраться до #mission#Скрытого убежища#/mission# в #mission#форте Страйкера#/mission#.\n\n#mission#Элитные#/mission# враги обладают синей или жёлтой аурой. Все задачи необходимо выполнить в #mission#охотничьих угодьях#/mission# #mission#форта Страйкера#/mission#."
     },
     "17353202850517943554": {
       "Variants": [],
@@ -75919,7 +75919,7 @@
     "17393563615985730831": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#listheader#КОНСОЛЬНАЯ ВЕРСИЯ KL'RT ЭТО ТОЛЬКО НАЧАЛО!#/listheader#\nПобеда над Kl'rt знаменует конец основной истории, но для героя все ещё много работы!\n<IMG SRC='imgps://marveluiicons_hd.Armor_GhostRider_Jacket'>\n\nНа протяжении вашего путешествия вы получили доступ ко многим игровым режимам. В этих режимах вы можете сражаться с опасными Суперзлодеями и находить лучшее снаряжение.\n\nСуществует несколько различных видов PvE контента, каждый из которых имеет разнообразные карты и уровни сложности:\n\n#listheader#Терминалы#/listheader#\nВ #emphasis#Терминале#/emphasis# вам нужно пройти локацию, чтобы победить Суперзлодея-босса, который скрывается внутри. Терминалы можно проходить в одиночку или в группе. Они масштабируются по сложности (и наградам) в зависимости от количества игроков в вашей группе. Терминалы открываются на 20 уровне.\n\nТерминалы можно получить доступ из вкладки Терминалы после взаимодействия с Путевой точкой.\n\n#red#Осколки Куба#/red#\nОдин раз в день, когда вы завершаете Терминал, босс будет сбрасывать более ценные награды, включая #emphasis#Осколок Куба#/emphasis#. \n\nНапример, когда вы побеждаете Шокера в Терминале Заброшенного метро, он сбрасывает лучшие награды (включая Осколок Куба). Если вы завершите ту же миссию снова в тот же день, его награды вернутся к норме. \n\nКогда вы соберёте достаточно Осколков Куба, вы можете обменять их на предметы, такие как #emphasis#Карта удачи#/emphasis#! Вы можете передать свои Осколки Куба любому Коллектору Осколков Куба в любом Штабе.\n\n#listheader#Ваншоты#/listheader#\nКак и в Терминалах, в #emphasis#Ваншоте#/emphasis# вам предстоит пройти подземелье и победить босса — суперзлодея. Однако Ваншоты значительно больше по размерам, и игрокам придётся выполнить дополнительные цели. Ваншоты можно проходить как в одиночку, так и в группе.\n\nНа прохождение ваншотов требуется больше времени, чем на Терминалы, а боссы могут оказаться сложнее. Ваншоты открываются после достижения 20-го уровня.\n\n#red#Награды#/red#\nПервый раз за день, когда вы завершите ваншот, босс(ы) внутри будут оставлять Награды, если вы ещё не достигли недельного лимита. Игроки могут получать Награды за каждый ваншот ежедневно.\n\nДля получения дополнительной информации о Благодарностях см. раздел «Рейды».\n\n#listheader#Эра Альтрона#/listheader#\n#emphasis#Эра Альтрона#/emphasis# доступна из вкладки #emphasis#Испытания#/emphasis# меню M.A.P. (это меню, которое появляется при нажатии на Путевую точку).\n\nГерои сталкиваются с четырьмя испытаниями в #emphasis#Эре Альтрона#/emphasis#. Им нужно спасти гражданских, полицию и агентов ЩИТа от юнитов Альтрона, защитить и активировать ЭМП, чтобы остановить юнитов, победить Железную Легию Альтрона, а затем сразиться с Альтроном Прайм.\n\nКаждое из испытаний в Эре Альтрона имеет ограничение по времени как отдельная фаза, и игроки могут заработать Золотой, Серебряный или Бронзовый ранг за каждое испытание в зависимости от того, как быстро группа сможет завершить каждую фазу.\n\nИспытание Эры Альтрона предназначено для группы из пяти игроков с героями 60 уровня. Это будет сложно для меньших групп и может быть невозможно для одиночных игроков.\n\nГерои входят в Центральный Парк в разных местах и, если будут побеждены, начнут снова с их начального местоположения.\n\nДобыча в испытании Эры Альтрона выдаётся после победы над Альтроном Прайм и основана на рейтинге группы в каждой фазе. Игроки могут играть в этот режим и зарабатывать добычу так часто, как захотят, даже на одном и том же герое.\n\n#red#СОВЕТ – Помогите Падшим Союзникам!#/red#\nВремя имеет значение в Эре Альтрона. Воскрешайте своих падших союзников, когда это возможно. Центральный Парк имеет много территории, и время, необходимое для пробежки от стартовой зоны к цели после поражения, может означать разницу между одним рангом и следующим.\n\n#listheader#Рейды#/listheader#\n#emphasis#Рейды#/emphasis# являются одними из самых сложных испытаний.\n\nНа 60 уровне вы можете участвовать в Рейдах. Во время Рейдов группа игроков сталкивается с несколькими Рейд Боссами. Рейд Боссы гораздо сложнее других Суперзлодеев и требуют больше стратегии для победы. Игроки также могут иметь другие задачи во время столкновения с Рейд Боссами, такие как защита НПС.\n\nПри столкновении с Рейд Боссом герои в группе могут быть побеждены только ограниченное количество раз. Если общее количество поражений героев во время встречи с Рейд Боссом достигает или превышает это число, весь прогресс в этой встрече с Рейд Боссом будет сброшен, и игроки должны будут попробовать снова.\n\nРейды предназначены для групп из 10 хорошо экипированных игроков. Игроки, которые впервые участвуют в рейдах, должны начать с попытки Рейда Муспельхейма на самом лёгком уровне.\n\nДобыча из Рейдов ограничена по героям. После того, как игрок завершит рейд как определённый герой в течение недели, он не сможет получить добычу, выполняя ту же встречу как этот герой в течение оставшейся части недели.\n\n#red#Награды#/red#\nВ дополнение к снаряжению, артефактам и аналогичной добыче, игроки также могут зарабатывать Награды (Героя, Защитника и Чемпиона) из рейда раз в неделю. Обычно игроки могут заработать 25 Награды от Рейд Босса, с дополнительными 25 Наградами от последнего Рейд Босса.\n\nНаграды являются валютой конца игры, используемой для покупки рецептов улучшения предметов, уникальных рецептов Рейда и других предметов, чтобы сделать героев 60 уровня ещё более мощными. Игроки могут тратить Награды у Хогуна (Торговец жетонов Рейда) в Дворце Одина. После того, как игрок заработает достаточно Влияния с G.L.F в Хаммер Бэй, Мэдисон Джеффрис (Квартирмейстер G.L.F.) также будет иметь некоторые предметы, доступные для покупки за Награды.\nСуществует недельный лимит на количество Награды, которые игрок может заработать. Этот лимит применяется к каждому типу Награды индивидуально. После достижения недельного лимита для конкретного типа Награды, больше Награды этого типа не будет выпадать, пока этот лимит не будет сброшен.\n\n#listheader#Режимы \"Патруль\"#/listheader#\nРежимы \"Патруль\", включая Патруль Промышленного района, Мидтауна и Хайтауна, доступны из раздела \"Испытания\" интерфейса M.A.P.\n\nВ #emphasis#Режимах \"Патруль\"#/emphasis# игроки сталкиваются с множеством различных типов врагов и суперзлодеев.\n\nМидтаун – это большая, открытая среда, где бесконечные засады врагов и несколько суперзлодеев разрушают город. Побеждайте засады и команды суперзлодеев за специальные награды. Команды суперзлодеев будут появляться каждые несколько минут, в то время как некоторые Суперзлодеи (Чёрная Кошка, Человек-Улитка и Человек-Обезьяна) будут появляться по всему городу и возвращаться вскоре после поражения.\n\nПатруль Мидтауна доступен на 1 уровне.\n\nПромышленный район – это меньшая, более быстрая среда, чем Мидтаун. Похожим образом на Мидтаун, некоторые Суперзлодеи (Батрок, Мистер Хайд и Кириги) будут появляться по всему городу и возвращаться вскоре после поражения. Игрокам предлагаются различные задачи, называемые \"фазами\", пока они находятся в Промышленном Городе. Игроки работают вместе, чтобы завершить каждую фазу, зарабатывая Коробку Наград Промышленного района за каждую фазу, в которой они участвуют и которая успешно завершается.\n\nПатруль Промышленного района становится доступен на 10 уровне.\n\nХайтаун – это большая среда, где Армия Скруллов захватила власть и хочет расшириться, начиная с города. Побеждайте захватчиков и Суперзлодеев за специальные награды. Скруллы-захватчики будут появляться каждые несколько минут, в то время как некоторые Суперзлодеи (Кириги, Кингпин и Горгон) будут появляться по всему городу и возвращаться вскоре после поражения.\n\nПатруль Хайтауна доступен после того, как вы впервые победите Kl'rt в Режиме Истории.\n\nНа 60 уровне Космические версии Патруля Мидтауна, Промышленного района и Хайтауна становятся доступными для игроков. Эти области гораздо сложнее своих обычных аналогов, но предлагают лучшую добычу (включая лучшие шансы на артефакты и уникальные предметы, специфичные для боссов). Будьте осторожны, Космические \"Режимы Патруль\" являются одними из самых сложных областей вне Рейдов.\n\n#red#СОВЕТ – Космическое Испытание!#/red#\nЧтобы войти в Космические версии Патрулей, вы сначала должны завершить Космическое Испытание!\n\n#listheader#Защита Икс и Холо-Сим#/listheader#\n\nЗащита Икс и Холо-Сим – это игровые режимы на основе волн. В конце сессии в одном из этих режимов появляется сундук, который содержит добычу в зависимости от того, сколько волн было успешно завершено.\n\nОба режима Защита Икс и Холо-Сим доступны с 1 уровня.\n\nВ Защите Икс вы и ещё четыре героя будете сражаться с врагами и Суперзлодеями с быстро увеличивающейся сложностью и наборами наград. Защищайте захваченных учеников Икс (обозначенных зелёной стрелкой) одновременно, побеждая атакующие волны врагов и боссов. С каждой волной сложность будет увеличиваться. Когда ученики Икс наконец будут побеждены, игровой режим завершится.\n\nВ Холо-Сим вы (и партнёр, если хотите) столкнётесь с различными волнами с быстро увеличивающейся сложностью и наборами наград. Выживайте как можно дольше, побеждая орды врагов, защищая НПС и сталкиваясь с сложными Суперзлодеями. После двух поражений героев игровой режим завершится.\n\n#listheader#Комната опасности#/listheader#\n\nКомната опасности – это область в Школе Ксавье, которая открывается, как только вы достигнете 60 уровня.\n\nВнутри Комнаты опасности вы и до четырёх других героев столкнётесь с несколькими различными испытаниями, ведущими к боссу, основанному на качестве #red#Чипа Сценария#/red# который вы использовали.\n\nЧипы Сценария можно получить, либо создавая их с использованием необходимых материалов, либо находя у многих врагов в игре. Некоторые специальные можно даже купить у торговца Комнаты опасности во время определённых событий.\n\nТочно так же, как и ваше снаряжение, Чипы Сценария также бывают нескольких качеств, которые увеличивают их сложность и награды. Чипы Сценария варьируются от #gray#Обычного#/gray# до #gold#Уникального#/gold#\n\n#red#СОВЕТ – Присоединение к этим игровым режимам#/red#\nВышеупомянутые игровые режимы (Эра Альтрона, Рейды, Режимы \"Патруль\", X-Защита и Холо-Сим) можно найти во вкладке Испытания меню К.А.Р.Т.Ы."
+      "String": "#listheader#КОНСОЛЬНАЯ ВЕРСИЯ KL'RT ЭТО ТОЛЬКО НАЧАЛО!#/listheader#\nПобеда над Kl'rt знаменует конец основной истории, но для героя все ещё много работы!\n<IMG SRC='imgps://marveluiicons_hd.Armor_GhostRider_Jacket'>\n\nНа протяжении вашего путешествия вы получили доступ ко многим игровым режимам. В этих режимах вы можете сражаться с опасными Суперзлодеями и находить лучшее снаряжение.\n\nСуществует несколько различных видов PvE контента, каждый из которых имеет разнообразные карты и уровни сложности:\n\n#listheader#Терминалы#/listheader#\nВ #emphasis#Терминале#/emphasis# вам нужно пройти локацию, чтобы победить Суперзлодея-босса, который скрывается внутри. Терминалы можно проходить в одиночку или в группе. Они масштабируются по сложности (и наградам) в зависимости от количества игроков в вашей группе. Терминалы открываются на 20 уровне.\n\nТерминалы можно получить доступ из вкладки Терминалы после взаимодействия с Путевой точкой.\n\n#red#Осколки Куба#/red#\nОдин раз в день, когда вы завершаете Терминал, босс будет сбрасывать более ценные награды, включая #emphasis#Осколок Куба#/emphasis#. \n\nНапример, когда вы побеждаете Шокера в Терминале Заброшенного метро, он сбрасывает лучшие награды (включая Осколок Куба). Если вы завершите ту же миссию снова в тот же день, его награды вернутся к норме. \n\nКогда вы соберёте достаточно Осколков Куба, вы можете обменять их на предметы, такие как #emphasis#Карта удачи#/emphasis#! Вы можете передать свои Осколки Куба любому Коллектору Осколков Куба в любом Штабе.\n\n#listheader#Ваншоты#/listheader#\nКак и в Терминалах, в #emphasis#Ваншоте#/emphasis# вам предстоит пройти подземелье и победить босса — суперзлодея. Однако Ваншоты значительно больше по размерам, и игрокам придётся выполнить дополнительные цели. Ваншоты можно проходить как в одиночку, так и в группе.\n\nНа прохождение ваншотов требуется больше времени, чем на Терминалы, а боссы могут оказаться сложнее. Ваншоты открываются после достижения 20-го уровня.\n\n#red#Награды#/red#\nПервый раз за день, когда вы завершите ваншот, босс(ы) внутри будут оставлять Награды, если вы ещё не достигли недельного лимита. Игроки могут получать Награды за каждый ваншот ежедневно.\n\nДля получения дополнительной информации о Благодарностях см. раздел «Рейды».\n\n#listheader#Эра Альтрона#/listheader#\n#emphasis#Эра Альтрона#/emphasis# доступна из вкладки #emphasis#Испытания#/emphasis# меню M.A.P. (это меню, которое появляется при нажатии на Путевую точку).\n\nГерои сталкиваются с четырьмя испытаниями в #emphasis#Эре Альтрона#/emphasis#. Им нужно спасти гражданских, полицию и агентов ЩИТа от юнитов Альтрона, защитить и активировать ЭМП, чтобы остановить юнитов, победить Железную Легию Альтрона, а затем сразиться с Альтроном Прайм.\n\nКаждое из испытаний в Эре Альтрона имеет ограничение по времени как отдельная фаза, и игроки могут заработать Золотой, Серебряный или Бронзовый ранг за каждое испытание в зависимости от того, как быстро группа сможет завершить каждую фазу.\n\nИспытание Эры Альтрона предназначено для группы из пяти игроков с героями 60 уровня. Это будет сложно для меньших групп и может быть невозможно для одиночных игроков.\n\nГерои входят в Центральный Парк в разных местах и, если будут побеждены, начнут снова с их начального местоположения.\n\nДобыча в испытании Эры Альтрона выдаётся после победы над Альтроном Прайм и основана на рейтинге группы в каждой фазе. Игроки могут играть в этот режим и зарабатывать добычу так часто, как захотят, даже на одном и том же герое.\n\n#red#СОВЕТ – Помогите Падшим Союзникам!#/red#\nВремя имеет значение в Эре Альтрона. Воскрешайте своих падших союзников, когда это возможно. Центральный Парк имеет много территории, и время, необходимое для пробежки от стартовой зоны к цели после поражения, может означать разницу между одним рангом и следующим.\n\n#listheader#Рейды#/listheader#\n#emphasis#Рейды#/emphasis# являются одними из самых сложных испытаний.\n\nНа 60 уровне вы можете участвовать в Рейдах. Во время Рейдов группа игроков сталкивается с несколькими Рейд Боссами. Рейд Боссы гораздо сложнее других Суперзлодеев и требуют больше стратегии для победы. Игроки также могут иметь другие задачи во время столкновения с Рейд Боссами, такие как защита НПС.\n\nПри столкновении с Рейд Боссом герои в группе могут быть побеждены только ограниченное количество раз. Если общее количество поражений героев во время встречи с Рейд Боссом достигает или превышает это число, весь прогресс в этой встрече с Рейд Боссом будет сброшен, и игроки должны будут попробовать снова.\n\nРейды предназначены для групп из 10 хорошо экипированных игроков. Игроки, которые впервые участвуют в рейдах, должны начать с попытки Рейда Муспельхейма на самом лёгком уровне.\n\nДобыча из Рейдов ограничена по героям. После того, как игрок завершит рейд как определённый герой в течение недели, он не сможет получить добычу, выполняя ту же встречу как этот герой в течение оставшейся части недели.\n\n#red#Награды#/red#\nВ дополнение к снаряжению, артефактам и аналогичной добыче, игроки также могут зарабатывать Награды (Героя, Защитника и Чемпиона) из рейда раз в неделю. Обычно игроки могут заработать 25 Награды от Рейд Босса, с дополнительными 25 Наградами от последнего Рейд Босса.\n\nНаграды являются валютой конца игры, используемой для покупки рецептов улучшения предметов, уникальных рецептов Рейда и других предметов, чтобы сделать героев 60 уровня ещё более мощными. Игроки могут тратить Награды у Хогуна (Торговец жетонов Рейда) во Дворце Одина. После того, как игрок заработает достаточно Влияния с G.L.F в Хаммер Бэй, Мэдисон Джеффрис (Квартирмейстер G.L.F.) также будет иметь некоторые предметы, доступные для покупки за Награды.\nСуществует недельный лимит на количество Награды, которые игрок может заработать. Этот лимит применяется к каждому типу Награды индивидуально. После достижения недельного лимита для конкретного типа Награды, больше Награды этого типа не будет выпадать, пока этот лимит не будет сброшен.\n\n#listheader#Режимы \"Патруль\"#/listheader#\nРежимы \"Патруль\", включая Патруль Промышленного района, Мидтауна и Хайтауна, доступны из раздела \"Испытания\" интерфейса M.A.P.\n\nВ #emphasis#Режимах \"Патруль\"#/emphasis# игроки сталкиваются с множеством различных типов врагов и суперзлодеев.\n\nМидтаун – это большая, открытая среда, где бесконечные засады врагов и несколько суперзлодеев разрушают город. Побеждайте засады и команды суперзлодеев за специальные награды. Команды суперзлодеев будут появляться каждые несколько минут, в то время как некоторые Суперзлодеи (Чёрная Кошка, Человек-Улитка и Человек-Обезьяна) будут появляться по всему городу и возвращаться вскоре после поражения.\n\nПатруль Мидтауна доступен на 1 уровне.\n\nПромышленный район – это меньшая, более быстрая среда, чем Мидтаун. Похожим образом на Мидтаун, некоторые Суперзлодеи (Батрок, Мистер Хайд и Кириги) будут появляться по всему городу и возвращаться вскоре после поражения. Игрокам предлагаются различные задачи, называемые \"фазами\", пока они находятся в Промышленном Городе. Игроки работают вместе, чтобы завершить каждую фазу, зарабатывая Коробку Наград Промышленного района за каждую фазу, в которой они участвуют и которая успешно завершается.\n\nПатруль Промышленного района становится доступен на 10 уровне.\n\nХайтаун – это большая среда, где Армия Скруллов захватила власть и хочет расшириться, начиная с города. Побеждайте захватчиков и Суперзлодеев за специальные награды. Скруллы-захватчики будут появляться каждые несколько минут, в то время как некоторые Суперзлодеи (Кириги, Кингпин и Горгон) будут появляться по всему городу и возвращаться вскоре после поражения.\n\nПатруль Хайтауна доступен после того, как вы впервые победите Kl'rt в Режиме Истории.\n\nНа 60 уровне Космические версии Патруля Мидтауна, Промышленного района и Хайтауна становятся доступными для игроков. Эти области гораздо сложнее своих обычных аналогов, но предлагают лучшую добычу (включая лучшие шансы на артефакты и уникальные предметы, специфичные для боссов). Будьте осторожны, Космические \"Режимы Патруль\" являются одними из самых сложных областей вне Рейдов.\n\n#red#СОВЕТ – Космическое Испытание!#/red#\nЧтобы войти в Космические версии Патрулей, вы сначала должны завершить Космическое Испытание!\n\n#listheader#Защита Икс и Холо-Сим#/listheader#\n\nЗащита Икс и Холо-Сим – это игровые режимы на основе волн. В конце сессии в одном из этих режимов появляется сундук, который содержит добычу в зависимости от того, сколько волн было успешно завершено.\n\nОба режима Защита Икс и Холо-Сим доступны с 1 уровня.\n\nВ Защите Икс вы и ещё четыре героя будете сражаться с врагами и Суперзлодеями с быстро увеличивающейся сложностью и наборами наград. Защищайте захваченных учеников Икс (обозначенных зелёной стрелкой) одновременно, побеждая атакующие волны врагов и боссов. С каждой волной сложность будет увеличиваться. Когда ученики Икс наконец будут побеждены, игровой режим завершится.\n\nВ Холо-Сим вы (и партнёр, если хотите) столкнётесь с различными волнами с быстро увеличивающейся сложностью и наборами наград. Выживайте как можно дольше, побеждая орды врагов, защищая НПС и сталкиваясь с сложными Суперзлодеями. После двух поражений героев игровой режим завершится.\n\n#listheader#Комната опасности#/listheader#\n\nКомната опасности – это область в Школе Ксавье, которая открывается, как только вы достигнете 60 уровня.\n\nВнутри Комнаты опасности вы и до четырёх других героев столкнётесь с несколькими различными испытаниями, ведущими к боссу, основанному на качестве #red#Чипа Сценария#/red# который вы использовали.\n\nЧипы Сценария можно получить, либо создавая их с использованием необходимых материалов, либо находя у многих врагов в игре. Некоторые специальные можно даже купить у торговца Комнаты опасности во время определённых событий.\n\nТочно так же, как и ваше снаряжение, Чипы Сценария также бывают нескольких качеств, которые увеличивают их сложность и награды. Чипы Сценария варьируются от #gray#Обычного#/gray# до #gold#Уникального#/gold#\n\n#red#СОВЕТ – Присоединение к этим игровым режимам#/red#\nВышеупомянутые игровые режимы (Эра Альтрона, Рейды, Режимы \"Патруль\", X-Защита и Холо-Сим) можно найти во вкладке Испытания меню К.А.Р.Т.Ы."
     },
     "17393835758050739511": {
       "Variants": [],
@@ -77440,7 +77440,7 @@
     "17464277194552247609": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы используете $param2.keyword$ Силу, получаете +$param1.power.condition0.dodgeRatingBonusAdd.precision0$ Рейтинг уклонения на $param1.power.condition0.duration$ (эффект накапливается до $param1.power.condition0.maxNumStacks$ раз) \nКогда вы достигнете $param1.power.condition0.maxNumStacks$ стеков, вы получите +$param1.power.onpowerstartpower.OnStackCountPower.condition0.damageRatingBonusForPowerKeyword.noFraction$ Рейтинг урона для Ближних атак и +$param1.power.onpowerstartpower.OnStackCountPower.condition0.defense.noFraction$ Рейтинг защиты на $param1.power.condition0.duration$"
+      "String": "Когда вы используете $param2.keyword$ Силу, получаете +$param1.power.condition0.dodgeRatingBonusAdd.precision0$ Рейтинг Уклонения на $param1.power.condition0.duration$ (эффект накапливается до $param1.power.condition0.maxNumStacks$ раз) \nКогда вы достигнете $param1.power.condition0.maxNumStacks$ стеков, вы получите +$param1.power.onpowerstartpower.OnStackCountPower.condition0.damageRatingBonusForPowerKeyword.noFraction$ Рейтинг урона для Ближних атак и +$param1.power.onpowerstartpower.OnStackCountPower.condition0.defense.noFraction$ Рейтинг Защиты на $param1.power.condition0.duration$"
     },
     "17464764407111943532": {
       "Variants": [],
@@ -78895,7 +78895,7 @@
     "17529658322116740456": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+$usepower.condition0.DodgeRatingBonusAdd$ Рейтинг уклонения\n\n#red#Действует до конца PvP-матча и продолжается после поражения#/red#"
+      "String": "+$usepower.condition0.DodgeRatingBonusAdd$ Рейтинг Уклонения\n\n#red#Действует до конца PvP-матча и продолжается после поражения#/red#"
     },
     "17529907563309106498": {
       "Variants": [],
@@ -80892,7 +80892,7 @@
     "17625103370227418420": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Этот рецепт требует: (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 Кредитов.\n\nСоздаёт Эгиду Огненного гиганта — Уникальный предмет 2 ячейки 60 уровня для любого героя\n\n#emphasis#Эгида Огненного гиганта#/emphasis#\n#emphasis#+Рейтинг защиты#/emphasis#\n#emphasis#+Рейтинг физической защиты#/emphasis#\n#emphasis#+Рейтинг урона по горящим целям#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#Снижение расхода#/emphasis#\n#emphasis#+Сила#/emphasis#\n#emphasis#+Энергия#/emphasis#\n#emphasis#+Рейтинг уклонения#/emphasis#\n#emphasis#+Шанс блока#/emphasis#\n#emphasis#Сниженный урон от атак ближнего боя#/emphasis#\n#emphasis#Шанс поджечь цель при попадании#/emphasis#"
+      "String": "Этот рецепт требует: (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 Кредитов.\n\nСоздаёт Эгиду Огненного гиганта — Уникальный предмет 2 ячейки 60 уровня для любого героя\n\n#emphasis#Эгида Огненного гиганта#/emphasis#\n#emphasis#+Рейтинг Защиты#/emphasis#\n#emphasis#+Рейтинг физической защиты#/emphasis#\n#emphasis#+Рейтинг урона по горящим целям#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#Снижение расхода#/emphasis#\n#emphasis#+Сила#/emphasis#\n#emphasis#+Энергия#/emphasis#\n#emphasis#+Рейтинг Уклонения#/emphasis#\n#emphasis#+Шанс блока#/emphasis#\n#emphasis#Сниженный урон от атак ближнего боя#/emphasis#\n#emphasis#Шанс поджечь цель при попадании#/emphasis#"
     },
     "17625801422618232073": {
       "Variants": [],
@@ -81569,7 +81569,7 @@
     "17657474238101652804": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при входящем уроне получить +$param1.power.condition0.defense.nofraction$ Рейтинг защиты и +$param1.power.condition0.statIntelligenceModifier$ Интеллекта на $param1.power.condition0.duration$"
+      "String": "$procchancestring$ шанс при входящем уроне получить +$param1.power.condition0.defense.nofraction$ Рейтинг Защиты и +$param1.power.condition0.statIntelligenceModifier$ Интеллекта на $param1.power.condition0.duration$"
     },
     "17657792984866489718": {
       "Variants": [],
@@ -83165,7 +83165,7 @@
     "17727865642521593150": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Стойка Дракона - Рейтинг уклонения увеличен"
+      "String": "Стойка Дракона - Рейтинг Уклонения увеличен"
     },
     "17728024573473326375": {
       "Variants": [],
@@ -83205,7 +83205,7 @@
     "17729194990733034811": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда ваше здоровье ниже 40%, получите $param1.power.condition0.defense.nofraction$ Рейтинг защиты"
+      "String": "Когда ваше здоровье ниже 40%, получите $param1.power.condition0.defense.nofraction$ Рейтинг Защиты"
     },
     "17729386125317047574": {
       "Variants": [],
@@ -84643,7 +84643,7 @@
     "17793054922423928120": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#teambuff#Стойкость#/teambuff# — Рейтинг защиты и макс. Здоровья увеличены"
+      "String": "#teambuff#Стойкость#/teambuff# — Рейтинг Защиты и макс. Здоровья увеличены"
     },
     "17793070092255495489": {
       "Variants": [],
@@ -85048,7 +85048,7 @@
     "17815934831693464898": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Это может пригодиться в полевой работе...\n—Агент Фил Коулсон"
+      "String": "Это может пригодиться в полевой работе...\n—Агент Фил Колсон"
     },
     "17816299951162656072": {
       "Variants": [],
@@ -85344,7 +85344,7 @@
     "17829740570279937353": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда ваше здоровье снижается до $param2$%, вы получаете +$param1.power.condition0.damagepctresistvspowerkeyword.pct$% Снижение урона по Области и +$param1.power.condition0.defense.nofraction$ Рейтинг защиты на $param1.power.condition0.duration$ (Перезарядка $param1.power.cooldown$)"
+      "String": "Когда ваше здоровье снижается до $param2$%, вы получаете +$param1.power.condition0.damagepctresistvspowerkeyword.pct$% Снижение урона по Области и +$param1.power.condition0.defense.nofraction$ Рейтинг Защиты на $param1.power.condition0.duration$ (Перезарядка $param1.power.cooldown$)"
     },
     "17829869002739549553": {
       "Variants": [],
@@ -86080,7 +86080,7 @@
     "17865299205816649029": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.abs.noFraction$ Рейтинг уклонения ($propertyValue.divByLevel.precision1$ за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.abs.noFraction$ Рейтинг Уклонения ($propertyValue.divByLevel.precision1$ за каждый уровень)"
     },
     "17865416402528044306": {
       "Variants": [],
@@ -86296,7 +86296,7 @@
     "17872892793830114573": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ледяные великаны-шаманы:\n#metacount#$CurrentCount$/$TotalCount$#/metacount#"
+      "String": "Ледяные великаны-шаманы: #metacount#$CurrentCount$/$TotalCount$#/metacount#"
     },
     "17872997672693204283": {
       "Variants": [],
@@ -86497,7 +86497,7 @@
     "17882433793163986252": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет заклинание #emphasis#руны Факела#/emphasis# к любой ячейке 1 или 5 снаряжения эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания.\n\nУровень 50-60 этого заклинания даёт:\n#emphasis#+50 Рейтинг ментального урона#/emphasis#\n\nУровень 35-49 этого заклинания даёт:\n#emphasis#+40 Рейтинг ментального урона#/emphasis#\n\nУровень 20-34 этого заклинания даёт:\n#emphasis#+30 Рейтинг ментального урона#/emphasis#\n\nУровень 1-19 этого заклинания даёт:\n#emphasis#+20 Рейтинг ментального урона#/emphasis#"
+      "String": "Добавляет заклинание #emphasis#руны Факела#/emphasis# к любой ячейке 1 или 5 снаряжения эпической редкости или выше, удаляя любые уже наложенные на предмет заклинания.\n\nУровень 50-60 этого заклинания даёт:\n#emphasis#+50 Рейтинг Ментального урона#/emphasis#\n\nУровень 35-49 этого заклинания даёт:\n#emphasis#+40 Рейтинг Ментального урона#/emphasis#\n\nУровень 20-34 этого заклинания даёт:\n#emphasis#+30 Рейтинг Ментального урона#/emphasis#\n\nУровень 1-19 этого заклинания даёт:\n#emphasis#+20 Рейтинг Ментального урона#/emphasis#"
     },
     "17882450899945719046": {
       "Variants": [],
@@ -89384,7 +89384,7 @@
     "18019591868592358669": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "ОБНОВЛЕНО: Найдите и поговорите с Агентом ЩИТа Ричардом Флемингом в Скрытой Хижине для получения дальнейших инструкций."
+      "String": "ОБНОВЛЕНО: Найдите и поговорите с Агентом ЩИТа Ричардом Флемингом в Скрытом убежище для получения дальнейших инструкций."
     },
     "18019926553967068469": {
       "Variants": [],
@@ -89499,7 +89499,7 @@
     "18026253002091136270": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при критическом ударе Физической способностью получить +$param1.power.condition0.defense.nofraction$ Рейтинг защиты на 6 сек. Этот эффект накапливается до $param1.power.condition0.maxnumstacks$ раз."
+      "String": "$procchancestring$ шанс при критическом ударе Физической способностью получить +$param1.power.condition0.defense.nofraction$ Рейтинг Защиты на 6 сек. Этот эффект накапливается до $param1.power.condition0.maxnumstacks$ раз."
     },
     "18026314231136847107": {
       "Variants": [],
@@ -90292,7 +90292,7 @@
     "18059004146412946747": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Перстень Фандраля"
+      "String": "Перстень Фандрала"
     },
     "18059423532786779446": {
       "Variants": [],
@@ -90412,7 +90412,7 @@
     "18064856696543970667": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyvaluesign$$propertyvalue.pct.nofraction% Рейтинг уклонения от вражеских $param0.entitykeyword.locflagP2G$"
+      "String": "$propertyvaluesign$$propertyvalue.pct.nofraction% Рейтинг Уклонения от вражеских $param0.entitykeyword.locflagP2G$"
     },
     "18064887328185713973": {
       "Variants": [],
@@ -91110,7 +91110,7 @@
     "18093343062782510400": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Поток - Увеличенная Скорость атаки и передвижения, Рейтинг уклонения"
+      "String": "Поток - Увеличенная Скорость атаки и передвижения, Рейтинг Уклонения"
     },
     "18093466775005037869": {
       "Variants": [],
@@ -91470,7 +91470,7 @@
     "18111012236107973942": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Приветствую вас, $AvatarName$!\n\nЯ вижу, что вы собрали огромное количество Знаков Одина. Несомненно, вы сражались с множеством врагов, чтобы достичь этого успеха.\n\nПосетите меня в Дворце Одина и обменяйте их на мощный Легендарный предмет! Вы сделали великое дело для Девяти Миров, и ваши подвиги не должны остаться без награды."
+      "String": "Приветствую вас, $AvatarName$!\n\nЯ вижу, что вы собрали огромное количество Знаков Одина. Несомненно, вы сражались с множеством врагов, чтобы достичь этого успеха.\n\nПосетите меня во Дворце Одина и обменяйте их на мощный Легендарный предмет! Вы сделали великое дело для Девяти Миров, и ваши подвиги не должны остаться без награды."
     },
     "18111202331309245708": {
       "Variants": [],
@@ -91596,7 +91596,7 @@
     "18119195265571947893": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Храбрость Асгарда#/emphasis# на любой #emphasis#Уру-кованый предмет#/emphasis#, заменяя существующее рунное слово и привязывая предмет к вашей учётной записи.\n\nПредметы 50 уровня получают бонусы:\n#emphasis#+1000 Рейтинг защиты#/emphasis#\n#emphasis#+1000 Здоровье#/emphasis#\n#emphasis#+100 Рейтинг Критического удара#/emphasis#\n#emphasis#+100 Рейтинг Сокрушительного удара#/emphasis#\n#emphasis#10% Снижение от урона по Области#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы Здоровья, Защиты, Рейтингов критического и Сокрушительного ударов."
+      "String": "Добавляет рунное слово #emphasis#Храбрость Асгарда#/emphasis# на любой #emphasis#Уру-кованый предмет#/emphasis#, заменяя существующее рунное слово и привязывая предмет к вашей учётной записи.\n\nПредметы 50 уровня получают бонусы:\n#emphasis#+1000 Рейтинг Защиты#/emphasis#\n#emphasis#+1000 Здоровье#/emphasis#\n#emphasis#+100 Рейтинг Критического удара#/emphasis#\n#emphasis#+100 Рейтинг Сокрушительного удара#/emphasis#\n#emphasis#10% Снижение от урона по Области#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы Здоровья, Защиты, Рейтингов критического и Сокрушительного ударов."
     },
     "18119235779936978245": {
       "Variants": [],
@@ -91922,7 +91922,7 @@
     "18135516398865679623": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Не думал, что когда-нибудь скажу это, но я рад, что ты здесь.\n\nМеня тошнит от того, во что превратился Центр Инновационных Идей. У нас были свои принципы, но МОДОК вбил в свою огромную голову, что А.И.М. существует лишь затем, чтобы выполнять его распоряжения. В прошлом месяце нам пришлось конструировать из деталей, которые стащили у этого чудика Тони Старка, какое-то приспособление для передачи энергии. А чем мы занимаемся теперь? Боевой броней? Эти детсадовские проекты отбросили наши планы по научному захвату мира на много месяцев назад!\n\nА разве он поставил меня, ведущего учёного А.И.М., во главе этих проектов? Нет, он привёл двух других так называемых \"злых гениев\", чтобы они помогали ему в работе. Они называют себя #mission#Интеллигенцией#/mission#. Откуда у них такое самомнение?\n\nЧто хуже всего, при этой новой организации я становлюсь всего лишь их личным помощником. Я не буду терпеть это издевательство!\n\nТы из героев, вот и поступи по-геройски. Разберись с #mission#Доктором Осьминогом#/mission#, #mission#Чародеем#/mission# и, конечно же, с самим #mission#МОДОК#/mission#, чтобы А.И.М. снова мог заняться тем, что у него получается лучше всего...\n\n...То есть попытками захватить мир."
+      "String": "Не думал, что когда-нибудь скажу это, но я рад, что ты здесь.\n\nМеня тошнит от того, во что превратилось Агентство Инновационной Механики. У нас были свои принципы, но МОДОК вбил в свою огромную голову, что А.И.М. существует лишь затем, чтобы выполнять его распоряжения. В прошлом месяце нам пришлось конструировать из деталей, которые стащили у этого чудика Тони Старка, какое-то приспособление для передачи энергии. А чем мы занимаемся теперь? Боевой броней? Эти детсадовские проекты отбросили наши планы по научному захвату мира на много месяцев назад!\n\nА разве он поставил меня, ведущего учёного А.И.М., во главе этих проектов? Нет, он привёл двух других так называемых \"злых гениев\", чтобы они помогали ему в работе. Они называют себя #mission#Интеллигенцией#/mission#. Откуда у них такое самомнение?\n\nЧто хуже всего, при этой новой организации я становлюсь всего лишь их личным помощником. Я не буду терпеть это издевательство!\n\nТы из героев, вот и поступи по-геройски. Разберись с #mission#Доктором Осьминогом#/mission#, #mission#Чародеем#/mission# и, конечно же, с самим #mission#МОДОК#/mission#, чтобы А.И.М. снова мог заняться тем, что у него получается лучше всего...\n\n...То есть попытками захватить мир."
     },
     "18135720203727603021": {
       "Variants": [],
@@ -92148,7 +92148,7 @@
     "18145940241663985003": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда погибает союзник, вас посещает вдохновение, и вы получаете +$equipPower.summonEntity0.appliesPowers0.condition0.procEffect0.condition0.Defense.noFraction$ Рейтинг защиты, +$equipPower.summonEntity0.appliesPowers0.condition0.procEffect0.condition0.CastSpeedIncrPct.noFraction$% Скорости атаки и +$equipPower.summonEntity0.appliesPowers0.condition0.procEffect0.condition0.MovementSpeedIncrPct.noFraction$% Скорости передвижения на $equipPower.summonEntity0.appliesPowers0.condition0.procEffect0.condition0.duration$ (перезарядка $equipPower.summonEntity0.appliesPowers0.condition0.procEffect0.cooldown$)."
+      "String": "Когда погибает союзник, вас посещает вдохновение, и вы получаете +$equipPower.summonEntity0.appliesPowers0.condition0.procEffect0.condition0.Defense.noFraction$ Рейтинг Защиты, +$equipPower.summonEntity0.appliesPowers0.condition0.procEffect0.condition0.CastSpeedIncrPct.noFraction$% Скорости атаки и +$equipPower.summonEntity0.appliesPowers0.condition0.procEffect0.condition0.MovementSpeedIncrPct.noFraction$% Скорости передвижения на $equipPower.summonEntity0.appliesPowers0.condition0.procEffect0.condition0.duration$ (перезарядка $equipPower.summonEntity0.appliesPowers0.condition0.procEffect0.cooldown$)."
     },
     "18146252584448558340": {
       "Variants": [],
@@ -93830,7 +93830,7 @@
     "18220997973323613455": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет руническое слово #emphasis#Сила Льва#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, заменяя любое существующее руническое слово на предмете и привязывая его к вашему аккаунту.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+500 Рейтинг защиты#/emphasis#\n#emphasis#+500 Здоровье#/emphasis#\n#emphasis#+8 Регенерация здоровья в сек#/emphasis#\n\nПредметы 25 уровня получают половину бонуса Рейтинг защиты, Здоровью и Регенерации здоровья."
+      "String": "Добавляет руническое слово #emphasis#Сила Льва#/emphasis# к любому #emphasis#Уру-кованому предмету#/emphasis#, заменяя любое существующее руническое слово на предмете и привязывая его к вашему аккаунту.\n\nПредметы 50 уровня получают следующие бонусы:\n#emphasis#+500 Рейтинг Защиты#/emphasis#\n#emphasis#+500 Здоровье#/emphasis#\n#emphasis#+8 Регенерация здоровья в сек#/emphasis#\n\nПредметы 25 уровня получают половину бонуса Рейтинг Защиты, Здоровью и Регенерации здоровья."
     },
     "18221015359409423680": {
       "Variants": [],
@@ -93910,7 +93910,7 @@
     "18223847353461835062": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Значит, Сьюзан Шторм посоветовала расспросить меня о #emphasis#Латверии#/emphasis#? Похоже, кто-то и впрямь прочитал тот доклад по безопасности, который я написала в прошлом месяце!\n\nЛатверия - крошечное королевство в Центральной Европе. Представь себе Трансильванию, но без туризма. Горы, тёмные леса, очаровательные деревушки и все такое прочее.\n\nНа самом деле это вполне процветающая страна, и ей удалось избежать многих междоусобиц, от которых так пострадали её соседи. Кто-то даже может сказать, что это одно из самых безопасных в мире мест для проживания.\n\nСамо собой, при этом они не станут упоминать, что спокойствие поддерживается #emphasis#армией роботов#/emphasis#, верных лишь тому человеку, который правит этой стороной в буквальном смысле железной рукой: её монарху, #emphasis#Виктору фон Думу#/emphasis#. Все было бы уже достаточно плохо, даже если бы Дум был просто ещё одним до зубов вооружённым суперзлодеем, однако в его распоряжении есть волшебные силы, которые, честно говоря, выходят далеко за рамки моего понимания.\n\nЗнаешь, кто может быть лучше знаком с этой темой? #mission#Мэджик#/mission# в #mission#школе Ксавье#/mission#. Воспользуйся этой путевой точкой, чтобы отправиться туда и выяснить, что она может рассказать."
+      "String": "Значит, Серебряный Соболь посоветовала расспросить меня о #emphasis#Латверии#/emphasis#? Похоже, кто-то и впрямь прочитал тот доклад по безопасности, который я написал в прошлом месяце!\n\nЛатверия - крошечное королевство в Центральной Европе. Представь себе Трансильванию, но без туризма. Горы, тёмные леса, очаровательные деревушки и все такое прочее.\n\nНа самом деле это вполне процветающая страна, и ей удалось избежать многих междоусобиц, от которых так пострадали её соседи. Кто-то даже может сказать, что это одно из самых безопасных в мире мест для проживания.\n\nСамо собой, при этом они не станут упоминать, что спокойствие поддерживается #emphasis#армией роботов#/emphasis#, верных лишь тому человеку, который правит этой стороной в буквальном смысле железной рукой: её монарху, #emphasis#Виктору фон Думу#/emphasis#. Все было бы уже достаточно плохо, даже если бы Дум был просто ещё одним до зубов вооружённым суперзлодеем, однако в его распоряжении есть волшебные силы, которые, честно говоря, выходят далеко за рамки моего понимания.\n\nЗнаешь, кто может быть лучше знаком с этой темой? #mission#Мэджик#/mission# в #mission#школе Ксавье#/mission#. Воспользуйся этой путевой точкой, чтобы отправиться туда и выяснить, что она может рассказать."
     },
     "18223977662772282680": {
       "Variants": [],
@@ -94125,7 +94125,7 @@
     "18237298954755310860": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Создаёт шкуру Лорда Серы — Уникальный предмет 2 ячейки 60 уровня для любого героя\n\n#emphasis#Шкура Лорда Серы#/emphasis#\n#emphasis#+ Рейтинг защиты#/emphasis#\n#emphasis#+ Ближнего урона#/emphasis#\n#emphasis#+ Здоровья#/emphasis#\n#emphasis#+ Воли#/emphasis#\n#emphasis#+ Восстановление Здоровья#/emphasis#\n#emphasis#Когда уровень здоровья падает ниже 30%, вы получите \"Выносливость\"#/emphasis#\n#emphasis#При попадании Длительной способностью, повышается Рейтинг защиты и Скорости передвижения#/emphasis#"
+      "String": "Создаёт шкуру Лорда Серы — Уникальный предмет 2 ячейки 60 уровня для любого героя\n\n#emphasis#Шкура Лорда Серы#/emphasis#\n#emphasis#+ Рейтинг Защиты#/emphasis#\n#emphasis#+ Ближнего урона#/emphasis#\n#emphasis#+ Здоровья#/emphasis#\n#emphasis#+ Воли#/emphasis#\n#emphasis#+ Восстановление Здоровья#/emphasis#\n#emphasis#Когда уровень здоровья падает ниже 30%, вы получите \"Выносливость\"#/emphasis#\n#emphasis#При попадании Длительной способностью, повышается Рейтинг Защиты и Скорости передвижения#/emphasis#"
     },
     "18237776267413292347": {
       "Variants": [],
@@ -96993,7 +96993,7 @@
     "18375637308868986232": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Агент Коулсон сказал, что у тебя есть данные, где искать Шокера.\n\nТебе лучше вернуться в Адскую Кухню."
+      "String": "Агент Колсон сказал, что у тебя есть данные, где искать Шокера.\n\nТебе лучше вернуться в Адскую Кухню."
     },
     "18375708669619275018": {
       "Variants": [],
