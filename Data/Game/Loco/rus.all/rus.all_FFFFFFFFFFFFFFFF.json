@@ -5446,7 +5446,7 @@
     "14071541983230100798": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$displayname$ может оказать свою помощь, находясь вдали, телепортируясь и призывая разрушительную бурю Фалтинов, чтобы опустошить ваших врагов."
+      "String": "$displayname$ может помогать вам, пока он вдали, телепортируясь и призывая разрушительную бурю Фалтинов, опустошая ряды ваших врагов.."
     },
     "14071838993098278200": {
       "Variants": [],
@@ -9029,7 +9029,7 @@
     "14243380665514263874": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Заменить на силу 14 уровня"
+      "String": "Заменить на способность 14 ранга"
     },
     "14244159403267982701": {
       "Variants": [],
@@ -9154,7 +9154,7 @@
     "14250607613637559552": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Выбирая этот талант, $displayname$ предоставляет вам дополнительную силу, пока он не участвует в бою.#/emphasis#"
+      "String": "#emphasis#При выборе этого таланта, $displayname$ даёт вам усиление, пока он вдали от боя.#/emphasis#"
     },
     "14250834065925277045": {
       "Variants": [],
@@ -12048,7 +12048,7 @@
     "14392933608602010944": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$displayname$ может защитить вас силой Серафимов, даже когда он отсутствует."
+      "String": "$displayname$ может защитить вас силой Серафимов, даже пока он вдали."
     },
     "14393261602429797742": {
       "Variants": [],
@@ -18883,7 +18883,7 @@
     "14718053003592271166": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Заменить на уровень 02 силы"
+      "String": "Заменить на способность 02 ранга"
     },
     "14718195166997120304": {
       "Variants": [],
@@ -18923,7 +18923,7 @@
     "14720145533078799634": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Выбирая этот талант, $displayname$ предоставляет вам дополнительную силу, пока она не участвует в бою.#/emphasis#"
+      "String": "#emphasis#При выборе этого таланта, $displayname$ даёт вам усиление, пока она вдали от боя.#/emphasis#"
     },
     "14720588073684108614": {
       "Variants": [],
@@ -20954,7 +20954,7 @@
     "14819345722753942847": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Заработайте $powerreference1.secondaryResourceChangeBase$ #hardknocks#Жёсткие удары#/hardknocks# при попадании и $powerreference2.secondaryResourceChangeBase$ #hardknocks#Жёсткие удары#/hardknocks# при входящем уроне"
+      "String": "Накапливайте $powerreference1.secondaryResourceChangeBase$ #hardknocks#Жёсткие удары#/hardknocks# при попадании и $powerreference2.secondaryResourceChangeBase$ #hardknocks#Жёсткие удары#/hardknocks# при входящем уроне"
     },
     "14819398842902185271": {
       "Variants": [],
@@ -24713,7 +24713,7 @@
     "15003102664347944211": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$evalregisterfloat0.pct$% от максимума"
+      "String": "$evalregisterfloat0.pct$% от макс."
     },
     "15003375484962735375": {
       "Variants": [],
@@ -31171,7 +31171,7 @@
     "15300092231211615543": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы получаете #blue#Заряд#/blue#, когда получаете удар от силы #powerkeyword#Генератор#/powerkeyword#"
+      "String": "Получайте #blue#Заряд#/blue# при попадании #powerkeyword#Генератором#/powerkeyword#"
     },
     "15300319658335929677": {
       "Variants": [],
@@ -34140,7 +34140,7 @@
     "15428800680061175061": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$PowerName$#/powername# предоставляет #powermechanic#Неуязвимость#/powermechanic# и расширяет эффект исцеления на всехNearby allies"
+      "String": "#powername#$PowerName$#/powername# предоставляет #powermechanic#Неуязвимость#/powermechanic# и расширяет эффект исцеления на всех ближних союзников"
     },
     "15429101405131703612": {
       "Variants": [],
@@ -35930,7 +35930,7 @@
     "15512915162179568958": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#stolenpower#Тип краденой способности - #teambuff#основная#/teambuff# (разрешается любое краденых количество основных способностей)#/stolenpower#"
+      "String": "#stolenpower#Тип украденной способности — #teambuff#Основная#/teambuff# (можно иметь любое количество Основных украденных способностей)#/stolenpower#"
     },
     "15512952309296792852": {
       "Variants": [],
@@ -39780,7 +39780,7 @@
     "15689274039852664141": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Клеа может защитить вас силой Серафима даже когда она не рядом с вами."
+      "String": "Клеа может защитить вас силой Серафима даже пока она вдали."
     },
     "15689566432630605129": {
       "Variants": [],
@@ -41717,7 +41717,7 @@
     "15790423998640162154": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Убийство#/emphasis#: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden#, +1% урона за каждый недостающий 1% Здоровья противника"
+      "String": "#emphasis#$PowerReference0.PowerName$#/emphasis#: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden#, +1% урона за каждый недостающий 1% Здоровья противника"
     },
     "15790426214724273415": {
       "Variants": [],
@@ -42630,7 +42630,7 @@
     "15833127243442226443": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#orange#Добро пожаловать в Панель управления вашим напарником!#/orange#\n\n#emphasis#Уровень#/emphasis#\nУровень вашего напарника. По мере повышения уровня ваш напарник получает способности.\n\n#emphasis#Стиль#/emphasis#\nОпределяет, как вы хотите, чтобы ваш напарник себя вёл.\n\n#emphasis#Способности#/emphasis#\nОпределяет, какие способности вы хотите, чтобы ваш напарник использовал. Некоторые способности влияют на другие способности, а некоторые активны, пока ваш напарник отсутствует.\n\nКроме того, напарников можно оснастить специальными предметами в верхнем левом углу рядом с их портретом.\n\n- Вы можете свободно изменять свой выбор, пока ваш напарник не присутствует и вы не находитесь в бою.\n"
+      "String": "#orange#Добро пожаловать в Панель управления вашим Напарником!#/orange#\n\n#emphasis#Уровень#/emphasis#\nУровень вашего Напарника. По мере повышения уровня ваш Напарник получает способности.\n\n#emphasis#Стиль#/emphasis#\nОпределяет, как вы хотите, чтобы ваш Напарник себя вёл.\n\n#emphasis#Способности#/emphasis#\nОпределяет, какие способности вы хотите, чтобы ваш Напарник использовал. Некоторые способности влияют на другие способности, а некоторые активны, пока ваш Напарник вдали.\n\nКроме того, Напарников можно оснастить специальными предметами в верхнем левом углу рядом с их портретом.\n\n- Вы можете свободно изменять свой выбор, пока ваш Напарник не присутствует и вы не находитесь в бою.\n"
     },
     "15833221840154985790": {
       "Variants": [],
@@ -44445,7 +44445,7 @@
     "15912986482426053953": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Отличная работа, $AvatarName$! \n\nВозвращайся ко мне в #mission#Башню Мстителей#/mission#, и мы обсудим твои результаты."
+      "String": "Браво, мон ами!\n\nЖду тебя в #mission#Башне Мстителей#/mission# со всеми дарами. У меня припрятан козырь в рукаве специально для тебя."
     },
     "15913397794267202885": {
       "Variants": [],
@@ -48692,7 +48692,7 @@
         }
       ],
       "FlagsProduced": 65535,
-      "String": "#fury#Получите 500 очков ярости при воскрешении#/fury#"
+      "String": "Получите 500 #fury#$PrimaryManaBehaviorName$#/fury# при воскрешении"
     },
     "16100227604677789035": {
       "Variants": [],
@@ -49674,7 +49674,7 @@
     "16144195695869887752": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procChanceString$ шанс нанести находящимся рядом врагам $param1.power.evalRegisterFloat0.precision0$ Физического урона в течение $param1.power.condition0.duration$, если враг нанёс урон вам (Перезарядка $param1.power.cooldown$)"
+      "String": "$procChanceString$ шанс при входящем уроне нанести рядом стоящим врагам $param1.power.evalRegisterFloat0.mulby5.precision0$ Физического урона в течение $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)"
     },
     "16144547277596263687": {
       "Variants": [],
@@ -50299,7 +50299,7 @@
     "16177116766227268878": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Выбирая этот талант, $displayname$ предоставляет вам дополнительную силу, пока она не участвует в бою.#/emphasis#"
+      "String": "#emphasis#При выборе этого таланта, $displayname$ даёт вам усиление, пока она вдали от боя.#/emphasis#"
     },
     "16177230299390346506": {
       "Variants": [],
@@ -53413,7 +53413,7 @@
     "16323172953217303913": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс спровоцировать и разозлитьNearby врагов на $param1.power.condition0.duration$ при попадании"
+      "String": "$procchancestring$ шанс при попадании спровоцировать и разозлить ближних врагов на $param1.power.condition0.duration$"
     },
     "16323219570732238136": {
       "Variants": [],
@@ -58803,7 +58803,7 @@
     "16592104907383964994": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Заменить на уровень 08 Силы"
+      "String": "Заменить на способность 08 ранга"
     },
     "16592711335224083719": {
       "Variants": [],
@@ -61249,7 +61249,7 @@
     "16706278319366210882": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Выбирая этот талант, $displayname$ предоставляет вам дополнительную силу, пока он не участвует в бою.#/emphasis#"
+      "String": "#emphasis#При выборе этого таланта, $displayname$ даёт вам усиление, пока он вдали от боя.#/emphasis#"
     },
     "16706597456970974581": {
       "Variants": [],
@@ -62165,7 +62165,7 @@
     "16753737239776855313": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Выбирая этот талант, $displayname$ предоставляет вам дополнительную силу, пока она не участвует в бою.#/emphasis#"
+      "String": "#emphasis#Выбрав этот талант, $displayname$ даёт вам усиление, пока она вдали от боя.#/emphasis#"
     },
     "16754102247747880348": {
       "Variants": [],
@@ -64825,7 +64825,7 @@
     "16878647155233850695": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы критически попадаете с любой силой, получаете +$param1.power.condition0.statfightingskillsmodifier$ Битвы и +$param1.power.condition0.statintelligencemodifier$ Интеллекта на $param1.power.condition0.duration$"
+      "String": "При Критическом ударе любой способностью получаете +$param1.power.condition0.statfightingskillsmodifier$ Битвы и +$param1.power.condition0.statintelligencemodifier$ Интеллекта на $param1.power.condition0.duration$"
     },
     "16878666538406446390": {
       "Variants": [],
@@ -65230,7 +65230,7 @@
     "16895999072150947083": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получите бесконечную Ярость на $equippower.summonentity.appliespowers0.condition0.proceffect0.condition0.duration$ всякий раз, когда умираетNearby ally (перезарядка $equippower.summonentity.appliespowers0.condition0.proceffect0.cooldown$)"
+      "String": "Получите бесконечную Ярость на $equippower.summonentity.appliespowers0.condition0.proceffect0.condition0.duration$ всякий раз, когда умирает ближний союзник (перезарядка $equippower.summonentity.appliespowers0.condition0.proceffect0.cooldown$)"
     },
     "16896085590023603510": {
       "Variants": [],
@@ -67974,7 +67974,7 @@
     "17020677664911066393": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Выбирая этот талант, $displayname$ предоставляет вам дополнительную силу, пока она не участвует в бою.#/emphasis#"
+      "String": "#emphasis#При выборе этого таланта, $displayname$ даёт вам усиление, пока она вдали от боя.#/emphasis#"
     },
     "17021083414760654097": {
       "Variants": [],
@@ -71749,7 +71749,7 @@
     "17200942196914849099": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Коллекция украденных сил"
+      "String": "Коллекция украденных способностей"
     },
     "17201038490018448663": {
       "Variants": [],
@@ -71859,7 +71859,7 @@
     "17205845524852966733": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстанавливает $secondaryresourcecotpct.pct$% от максимального уровня Псионического барьера в сек"
+      "String": "Восстанавливает $secondaryresourcecotpct.pct$% макс. Псионического барьера в сек"
     },
     "17206408010881959183": {
       "Variants": [],
@@ -72616,7 +72616,7 @@
     "17240229418105701694": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Оглушение: $duration$ (не зависит от Длительности), вдвое короче против Боссов"
+      "String": "Оглушение: $duration$ (фиксировано), вдвое короче против Боссов"
     },
     "17240657621987493127": {
       "Variants": [],
@@ -72796,7 +72796,7 @@
     "17250625051374781702": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы критически попадаете с любой силой, получите силу Империи Скруллов, +$param1.power.condition0.damagerating.nofraction$ Рейтинг урона, +$param1.power.condition0.statstrengthmodifier$ Силы, +$param1.power.condition0.statfightingskillsmodifier$ Битвы и +$param1.power.condition0.statintelligencemodifier$ Интеллекта на $param1.power.condition0.duration$"
+      "String": "При Критическом ударе любой способностью получаете силу Империи Скруллов, +$param1.power.condition0.damagerating.nofraction$ Рейтинг урона, +$param1.power.condition0.statstrengthmodifier$ Силы, +$param1.power.condition0.statfightingskillsmodifier$ Битвы и +$param1.power.condition0.statintelligencemodifier$ Интеллекта на $param1.power.condition0.duration$"
     },
     "17250782414740653370": {
       "Variants": [],
@@ -77607,7 +77607,7 @@
     "17472905264159524157": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Макс. время поддержания: $channelTime$ (не зависит от Длительности)"
+      "String": "Макс. время поддержания: $channelTime$ (фиксировано)"
     },
     "17474040754726176057": {
       "Variants": [],
@@ -82920,7 +82920,7 @@
     "17714049802235413868": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Удар падающего лотоса#/emphasis#: $damage$#hidden# ($damagerange.precision1.divbylevel$ за уровень)#/hidden#; $oncontacttimepower.condition0.DamageRangeOverTime$ 2 раза в сек в течение $oncontacttimepower.condition0.duration$"
+      "String": "#emphasis#$PowerReference0.PowerName$#/emphasis#: $damage$#hidden# ($damagerange.precision1.divbylevel$ за уровень)#/hidden#; $oncontacttimepower.condition0.DamageRangeOverTime$ 2 раза в сек в течение $oncontacttimepower.condition0.duration$"
     },
     "17714142642261591418": {
       "Variants": [],
@@ -84883,7 +84883,7 @@
     "17807545016809227586": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Выбирая этот талант, $displayname$ предоставляет вам дополнительную силу, пока она не участвует в бою.#/emphasis#"
+      "String": "#emphasis#При выборе этого таланта, $displayname$ даёт вам усиление, пока она вдали от боя.#/emphasis#"
     },
     "17807608122689848576": {
       "Variants": [],
@@ -85114,7 +85114,7 @@
     "17819452701962208574": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$powername$#/powername# перезарядка сбрасывается, если он побеждает врага"
+      "String": "Перезарядка #powername#$powername$#/powername# сбрасывается при победе над врагом"
     },
     "17819458293942387969": {
       "Variants": [],
@@ -85494,7 +85494,7 @@
     "17836508266140075270": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Время поддержания: $lifespan$ (не зависит от Длительности)"
+      "String": "Время поддержания: $lifespan$ (фиксировано)"
     },
     "17836742663981303047": {
       "Variants": [],
@@ -87355,7 +87355,7 @@
     "17923070660596467018": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$displayname$ посылает свои астральные появления, чтобы поразить ваших врагов, когда он отсутствует."
+      "String": "$displayname$ посылает свои астральные проекции, чтобы поразить ваших врагов, когда он вдали."
     },
     "17923189180331328929": {
       "Variants": [],
@@ -88928,7 +88928,7 @@
     "17996061542429099328": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#stolenpower#Тип краденой способности - #teambuff#истощение#/teambuff# (разрешается не более 2 краденых способностей истощения)#/stolenpower#"
+      "String": "#stolenpower#Тип украденной способности — #teambuff#Истощение#/teambuff# (можно иметь не более 2 Истощающих украденных способностей)#/stolenpower#"
     },
     "17996203559808599350": {
       "Variants": [],
@@ -89274,7 +89274,7 @@
     "18014900274065835370": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Аура Наставлений Ксавье:\nПри победе вами или союзником над врагом есть $equippower.summonentity.appliespowers0.condition0.procvaluepercent$% шанс призвать профессора Чарльза Ксавье. Профессор Икс проводит сокрушительные дальние Ментальные атаки в течение $equippower.summonentity.appliespowers0.condition0.proceffect0.lifespan$ (перезарядка $equippower.summonentity.appliespowers0.condition0.proceffect0.cooldown$)"
+      "String": "Аура Наставлений Ксавье:\nПри победе над врагом вами или союзником есть $equippower.summonentity.appliespowers0.condition0.procvaluepercent$% шанс призвать профессора Чарльза Ксавье. Профессор Икс проводит сокрушительные дальние Ментальные атаки в течение $equippower.summonentity.appliespowers0.condition0.proceffect0.lifespan$ (перезарядка $equippower.summonentity.appliespowers0.condition0.proceffect0.cooldown$)"
     },
     "18015149785776391431": {
       "Variants": [],
@@ -89704,7 +89704,7 @@
     "18037804209330128205": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Пока Клеа нет с вами, она помогает вам издали, телепортируясь и призывая разрушительную бурю Фалтинов, опоустошая ряды ваших врагов."
+      "String": "Клеа может помогать вам, пока она вдали, телепортируясь и призывая разрушительную бурю Фалтинов, опустошая ряды ваших врагов."
     },
     "18037996726922970421": {
       "Variants": [],
@@ -91576,7 +91576,7 @@
     "18117167568487318835": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Охладите воздух вокруг вас, мгновенно заключая всехNearby врагов в твёрдом льду."
+      "String": "Охладите воздух вокруг вас, мгновенно заключая всех ближних врагов в твёрдом льду."
     },
     "18117459600561145197": {
       "Variants": [],
@@ -93655,7 +93655,7 @@
     "18213829771688871181": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстанавливает $enduranceChangeBase$ $primaryManaBehaviorName.locflagG$, если вы отражаете снаряд"
+      "String": "$enduranceChangeBase$ за каждый отражённый снаряд"
     },
     "18213949425236247866": {
       "Variants": [],
@@ -96767,7 +96767,7 @@
     "18365006444408866118": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Восстановление 100% максимального уровня силы Феникса"
+      "String": "Восстановливает 100% #darkphoenix#Силы Феникса#/darkphoenix#"
     },
     "18365788953087706434": {
       "Variants": [],
