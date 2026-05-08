@@ -20785,14 +20785,14 @@
     "10188276632888608068": {
       "Variants": [
         {
+          "FlagsConsumed": 18446744073709547512,
+          "FlagsProduced": 65535,
+          "String": "Энергетических способностей"
+        },
+        {
           "FlagsConsumed": 18446744073709547519,
           "FlagsProduced": 65535,
           "String": "Энергетического"
-        },
-        {
-          "FlagsConsumed": 18446744073709547512,
-          "FlagsProduced": 65535,
-          "String": "Энергетических"
         }
       ],
       "FlagsProduced": 65535,
@@ -47348,7 +47348,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "Способностей Капитана"
+          "String": "способностей Капитана"
         }
       ],
       "FlagsProduced": 65535,
@@ -61148,7 +61148,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "Преимуществ, когда напарник не рядом"
+          "String": "Преимуществ, пока Напарник вдали"
         }
       ],
       "FlagsProduced": 65535,
@@ -73927,7 +73927,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "Способностей Паука"
+          "String": "способностей Паука"
         }
       ],
       "FlagsProduced": 65535,
@@ -80725,7 +80725,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "Способностей Муравья"
+          "String": "способностей Муравья"
         }
       ],
       "FlagsProduced": 65535,
