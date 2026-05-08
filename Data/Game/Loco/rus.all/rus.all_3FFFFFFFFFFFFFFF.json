@@ -5240,7 +5240,7 @@
     "241899430739641665": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.noFraction.abs$ Рейтинг урона от $param0.powerKeyword.locflagP2G$"
+      "String": "$propertyValueSign$$propertyValue.noFraction.abs$ Рейтинг урона $param0.powerKeyword.locflagP2G$"
     },
     "242132054694233353": {
       "Variants": [],
@@ -29894,14 +29894,14 @@
     "1414839752139015484": {
       "Variants": [
         {
+          "FlagsConsumed": 18446744073709547512,
+          "FlagsProduced": 65535,
+          "String": "Дальних способностей"
+        },
+        {
           "FlagsConsumed": 18446744073709547519,
           "FlagsProduced": 65535,
           "String": "Дальней"
-        },
-        {
-          "FlagsConsumed": 18446744073709547512,
-          "FlagsProduced": 65535,
-          "String": "Дальних"
         }
       ],
       "FlagsProduced": 65535,

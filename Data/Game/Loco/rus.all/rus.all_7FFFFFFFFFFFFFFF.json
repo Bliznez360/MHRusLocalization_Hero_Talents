@@ -16085,14 +16085,14 @@
     "5384902672097281342": {
       "Variants": [
         {
+          "FlagsConsumed": 18446744073709547512,
+          "FlagsProduced": 65535,
+          "String": "Ближних способностей"
+        },
+        {
           "FlagsConsumed": 18446744073709547519,
           "FlagsProduced": 65535,
           "String": "Ближней"
-        },
-        {
-          "FlagsConsumed": 18446744073709547512,
-          "FlagsProduced": 65535,
-          "String": "Ближних"
         }
       ],
       "FlagsProduced": 65535,
