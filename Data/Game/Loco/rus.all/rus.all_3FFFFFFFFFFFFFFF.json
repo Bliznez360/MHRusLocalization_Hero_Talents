@@ -3712,7 +3712,7 @@
     "170377702600410445": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword.locflagP2G$ вы получаете +$param1.power.evalRegisterFloat0$ Рейтинг урона от критических ударов ($param1.power.evalRegisterFloat0.divByLevel.precision0$ за каждый уровень) на $param1.power.condition0.duration$"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получаете +$param1.power.evalRegisterFloat0$ Рейтинг Критического урона ($param1.power.evalRegisterFloat0.divByLevel.precision0$ за уровень) на $param1.power.condition0.duration$"
     },
     "170657996459214157": {
       "Variants": [],
@@ -6234,7 +6234,7 @@
     "287436336164111681": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Снижает урон от Дальних целей на 5% на 6 сек, когда вы используете свою Аптечку"
+      "String": "Снижает урон от Дальних целей на 5% на 6 сек, при использовании Аптечки"
     },
     "287910174136403266": {
       "Variants": [],
@@ -11300,7 +11300,7 @@
     "521710060319606032": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Станьте невидимым на $param1.power.condition0.duration$, когда вы используете свою Аптечку"
+      "String": "Станьте невидимым на $param1.power.condition0.duration$ при использовании Аптечки"
     },
     "522210892152046853": {
       "Variants": [],
@@ -28704,7 +28704,7 @@
     "1358225318602540348": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword$ способностью, получаете +$param1.power.condition0.critRatingBonusAdd.noFraction$ Рейтинг Критического удара на $param1.power.condition0.duration$"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получаете +$param1.power.condition0.critRatingBonusAdd.noFraction$ Рейтинг Критического удара на $param1.power.condition0.duration$"
     },
     "1358463929752421647": {
       "Variants": [],
@@ -29894,9 +29894,14 @@
     "1414839752139015484": {
       "Variants": [
         {
+          "FlagsConsumed": 18446744073709547519,
+          "FlagsProduced": 65535,
+          "String": "Дальней"
+        },
+        {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "Дальних способностей"
+          "String": "Дальних"
         }
       ],
       "FlagsProduced": 65535,
@@ -48997,7 +49002,7 @@
     "2304448116128417040": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получите Щит Урона, равный 50% вашего здоровья, когда вы используете свою Аптечку."
+      "String": "Получите Щит Урона, равный 50% вашего здоровья при использовании Аптечки."
     },
     "2304586452839499112": {
       "Variants": [],
@@ -55148,7 +55153,7 @@
     "2602116489699984711": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою Аптечку, вы и ближайшие союзники восстанавливаете $param1.power.healing.nofraction$ Здоровья"
+      "String": "При использовании Аптечки, вы и ближайшие союзники восстанавливаете $param1.power.healing.nofraction$ Здоровья"
     },
     "2602391079834617147": {
       "Variants": [],
@@ -57486,7 +57491,7 @@
     "2717971415737435460": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword.locflagP2G$ рейтинг защиты в ближнем бою увеличивается на +$param1.power.condition0.DamageRatingBonusForPowerKeyword.noFraction$ на $param1.power.condition0.duration$"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получаете +$param1.power.condition0.DamageRatingBonusForPowerKeyword.noFraction$ Рейтинг Ближнего урона на $param1.power.condition0.duration$"
     },
     "2718084433439819016": {
       "Variants": [],
@@ -61429,7 +61434,7 @@
     "2915354115357476156": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword$ способностью вы получаете 1% Базового урона к $param2.keyword$ способностям за каждые 50 очков Макс. $primaryManaBehaviorName$ на 5 сек"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получаете 1% Базового урона для $param2.keyword.locflagP2G$ способностей за каждые 50 очков Макс. $primaryManaBehaviorName$ на 5 сек"
     },
     "2915688628819526915": {
       "Variants": [],
@@ -64887,7 +64892,7 @@
     "3085581527708075269": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword.locflagP2G$ вы получаете +$param1.power.condition0.superCritRatingBonusAdd.noFraction$ Рейтинг сокрушающего удара, а стоимость Дальних способностей снижается на $param1.power.condition0.endurancecostchangepctkeywrd.pct$% на $param1.power.condition0.duration$"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получаете +$param1.power.condition0.superCritRatingBonusAdd.noFraction$ Рейтинг Сокрушающего удара и стоимость Дальних способностей снижается на $param1.power.condition0.endurancecostchangepctkeywrd.pct$% на $param1.power.condition0.duration$"
     },
     "3085739500958582070": {
       "Variants": [],
@@ -68532,7 +68537,7 @@
     "3245693819760936255": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою Аптечку, получаете 200 Рейтинг Критического удара на 12 сек"
+      "String": "При использовании Аптечки, получаете 200 Рейтинг Критического удара на 12 сек"
     },
     "3246227349193360712": {
       "Variants": [],
@@ -79303,7 +79308,7 @@
     "3728223877761271056": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою Аптечку, получаете 675 Рейтинг Защиты на 10 сек"
+      "String": "При использовании Аптечки, получаете 675 Рейтинг Защиты на 10 сек"
     },
     "3728749865280275773": {
       "Variants": [],
@@ -83068,7 +83073,7 @@
     "3901021656363566401": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Станьте неуязвимым на $param1.power.condition0.duration$, когда вы используете свою Аптечку"
+      "String": "Станьте неуязвимым на $param1.power.condition0.duration$ при использовании Аптечки"
     },
     "3901252493751420294": {
       "Variants": [],
@@ -85930,7 +85935,7 @@
     "4022042680668259591": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою Аптечку, есть 10% шанс на критический успех, что приводит к 50% более эффективному исцелению"
+      "String": "При использовании Аптечки, есть 10% шанс на критический успех, что приводит к 50% более эффективному исцелению"
     },
     "4022178444632589612": {
       "Variants": [],
@@ -87569,7 +87574,7 @@
     "4091417251646211389": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword$ способностью, получаете +$param1.power.condition0.superCritRatingBonusAdd.noFraction$ Рейтинг Сокрушительного удара на $param1.power.condition0.duration$"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получаете +$param1.power.condition0.superCritRatingBonusAdd.noFraction$ Рейтинг Сокрушительного удара на $param1.power.condition0.duration$"
     },
     "4091429569610188088": {
       "Variants": [],
@@ -89590,7 +89595,7 @@
     "4190217227627267390": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword$ способности, восстанавливается +$param1.power.onpowerstartpower.healing$ Здоровья. Вы также получаете +$param1.power.condition0.DamageRatingBonusByType.noFraction$ Рейтинг Физического урона и +$param1.power.condition0.statdurabilitymodifier$ Выносливости на $param1.power.condition0.duration$."
+      "String": "При попадании $param2.keyword.locflagG$ способностью, восстанавливается +$param1.power.onpowerstartpower.healing$ Здоровья. Вы также получаете +$param1.power.condition0.DamageRatingBonusByType.noFraction$ Рейтинг Физического урона и +$param1.power.condition0.statdurabilitymodifier$ Выносливости на $param1.power.condition0.duration$."
     },
     "4190658256283108618": {
       "Variants": [],
@@ -92973,7 +92978,7 @@
     "4336766592708576570": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword$ способностью, получаете +$param1.power.condition0.critRatingBonusAdd.noFraction$ Рейтинг Критического удара на $param1.power.condition0.duration$"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получаете +$param1.power.condition0.critRatingBonusAdd.noFraction$ Рейтинг Критического удара на $param1.power.condition0.duration$"
     },
     "4337279549310043505": {
       "Variants": [],
@@ -94004,7 +94009,7 @@
     "4390161175116317977": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою Аптечку, получаете дополнительно 3% вашего здоровья"
+      "String": "При использовании Аптечки, получаете дополнительно 3% вашего здоровья"
     },
     "4390319522083636597": {
       "Variants": [],

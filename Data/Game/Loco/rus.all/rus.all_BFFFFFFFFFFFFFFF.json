@@ -28614,7 +28614,7 @@
     "10551234505072772420": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword.locflagP2G$ получаете +$param1.power.evalRegisterFloat0.pct$% Базового Энерегетического урона на $param1.power.condition0.duration$"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получаете +$param1.power.evalRegisterFloat0.pct$% Базового Энерегетического урона на $param1.power.condition0.duration$"
     },
     "10551348738258240785": {
       "Variants": [],
@@ -59414,7 +59414,7 @@
     "12003154324051789078": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою Аптечку, получаете 250 Рейтинг Критического удара на 12 сек"
+      "String": "При использовании Аптечки, получаете 250 Рейтинг Критического удара на 12 сек"
     },
     "12003409625541117236": {
       "Variants": [],
@@ -60870,7 +60870,7 @@
     "12071414814809130255": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою Аптечку, она наполняется силой Тотема Кровавого камня, получая 150 Рейтинг Критического удара на 10 сек (перезарядка $param1.power.cooldown$)"
+      "String": "При использовании Аптечки, она наполняется силой Тотема Кровавого камня, получая 150 Рейтинг Критического удара на 10 сек (перезарядка $param1.power.cooldown$)"
     },
     "12071487494294603062": {
       "Variants": [],
@@ -63947,7 +63947,7 @@
     "12221192367574353224": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою Аптечку, примените защитный слой, дающий вам 1 Выносливости на 15 сек"
+      "String": "При использовании Аптечки, примените защитный слой, дающий вам 1 Выносливости на 15 сек"
     },
     "12221262714827113782": {
       "Variants": [],
@@ -67082,7 +67082,7 @@
     "12374093220478911802": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword$, получите +$param1.power.condition0.damageRatingBonusForPowerKeyword.noFraction$ Рейтинг Ближнего урона, +$param1.power.condition0.BlockRatingBonusMult.pct$% Множитель Рейтинга Отражения и +$param1.power.condition0.defense.noFraction$ Рейтинг Защиты на $param1.power.condition0.duration$"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получите +$param1.power.condition0.damageRatingBonusForPowerKeyword.noFraction$ Рейтинг Ближнего урона, +$param1.power.condition0.BlockRatingBonusMult.pct$% Множитель Рейтинга Отражения и +$param1.power.condition0.defense.noFraction$ Рейтинг Защиты на $param1.power.condition0.duration$"
     },
     "12374171848446838075": {
       "Variants": [],
@@ -74292,7 +74292,7 @@
     "12707092811015980353": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword$ способностью, получайте 1% базового урона для сил $param2.keyword$ за каждые 50 очков максимального $primaryManaBehaviorName$ на 5 сек"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получайте 1% базового урона для сил $param2.keyword$ за каждые 50 очков максимального $primaryManaBehaviorName$ на 5 сек"
     },
     "12707461976274765064": {
       "Variants": [],
@@ -94368,7 +94368,7 @@
     "13644404071143572798": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword.locflagP2G$ следующие ваши атаки - $param1.power.condition0.procEffect.condition0.maxNumStacks.decrementBy1$ - получают +$param1.power.condition0.statSpeedModifier$ Скорости и +$param1.power.condition0.DamageRating.noFraction$ Рейтинг урона (перезарядка $param1.power.cooldown$)."
+      "String": "При попадании $param2.keyword.locflagG$ способностью, ваши следующие атаки $param1.power.condition0.procEffect.condition0.maxNumStacks.decrementBy1$ получают +$param1.power.condition0.statSpeedModifier$ Скорости и +$param1.power.condition0.DamageRating.noFraction$ Рейтинг урона (перезарядка $param1.power.cooldown$)."
     },
     "13646073606530336055": {
       "Variants": [],

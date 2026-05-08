@@ -973,7 +973,7 @@
     "4658752087451567378": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получите 350 Рейтинг Защиты на 10 сек, когда вы используете свою Аптечку"
+      "String": "Получите 350 Рейтинг Защиты на 10 сек при использовании Аптечки"
     },
     "4658901689812845896": {
       "Variants": [],
@@ -3057,7 +3057,7 @@
     "4762374457006949652": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получите Щит урона, равный 50% макс. здоровья, когда вы используете свою Аптечку."
+      "String": "Получите Щит урона, равный 50% макс. здоровья при использовании Аптечки."
     },
     "4762512793718031724": {
       "Variants": [],
@@ -9321,7 +9321,7 @@
     "5063750302170416441": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword$ способностью, получаете +$param1.power.condition0.SuperCritDamageRating.noFraction$ Рейтинг Сокрушительного Урона и 1 Интеллекта на $param1.power.condition0.duration$"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получаете +$param1.power.condition0.SuperCritDamageRating.noFraction$ Рейтинг Сокрушительного урона и 1 Интеллекта на $param1.power.condition0.duration$"
     },
     "5064155377725801797": {
       "Variants": [],
@@ -11856,7 +11856,7 @@
     "5187284256079676740": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword.locflagG$, ваши следующие $param1.power.condition0.procEffect.condition0.maxNumStacks.decrementBy1$ атак получают +$param1.power.condition0.DamageRatingBonusByType.noFraction$ Рейтинг Энергетического урона."
+      "String": "При попадании $param2.keyword.locflagG$ способностью, ваши следующие $param1.power.condition0.procEffect.condition0.maxNumStacks.decrementBy1$ атак получают +$param1.power.condition0.DamageRatingBonusByType.noFraction$ Рейтинг Энергетического урона."
     },
     "5187409162304554289": {
       "Variants": [],
@@ -12311,7 +12311,7 @@
     "5208636428294096196": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $Param2.keyword.locflagP2G$ вы с вероятностью $procChanceString$ увеличиваетесь на 5%, и у вас начинается припадок ярости, который длится $param1.power.condition0.duration$. При этом вы получаете +$param1.power.evalRegisterFloat1.pct$% шанс сокрушительного удара, но вероятность критического удара уменьшается на -$param1.power.evalRegisterFloat0.pct$%"
+      "String": "$procChanceString$ шанс при попадании $param2.keyword.locflagG$ способностью  увеличиться на 5% и впасть в ярость на $param1.power.condition0.duration$, получая +$param1.power.evalRegisterFloat1.pct$% шанс Сокрушительного удара, но -$param1.power.evalRegisterFloat0.pct$% шанс Критического удара"
     },
     "5208683196193441093": {
       "Variants": [],
@@ -16087,7 +16087,12 @@
         {
           "FlagsConsumed": 18446744073709547519,
           "FlagsProduced": 65535,
-          "String": "Ближнего боя"
+          "String": "Ближней"
+        },
+        {
+          "FlagsConsumed": 18446744073709547512,
+          "FlagsProduced": 65535,
+          "String": "Ближних"
         }
       ],
       "FlagsProduced": 65535,
@@ -22903,7 +22908,7 @@
     "5707524964506862904": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword$ способностью, получаете +$param1.power.condition0.superCritRatingBonusAdd.noFraction$ Рейтинг Сокрушительного удара на $param1.power.condition0.duration$"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получаете +$param1.power.condition0.superCritRatingBonusAdd.noFraction$ Рейтинг Сокрушительного удара на $param1.power.condition0.duration$"
     },
     "5707851966212277628": {
       "Variants": [],
@@ -25076,7 +25081,7 @@
     "5817704894374479123": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$healingovertimebase.nofraction$ в сек на протяжении $duration$, когда вы используете свою Аптечку"
+      "String": "$healingovertimebase.nofraction$ в сек на протяжении $duration$ при использовании Аптечки"
     },
     "5817953521502848330": {
       "Variants": [],
@@ -29286,7 +29291,7 @@
     "6012911785039955216": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword$ способностью, получаете +$param1.power.condition0.damageRatingBonusForPowerKeyword.noFraction$ Рейтинг Урона для Дальних Атак, +$param1.power.condition0.BlockRatingBonusAdd.noFraction$ Рейтинг Уклонения и +$param1.power.condition0.BlockRatingBonusAdd.nofraction$ Рейтинг Отражения на $param1.power.condition0.duration$"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получаете +$param1.power.condition0.damageRatingBonusForPowerKeyword.noFraction$ Рейтинг Дальнего урона, +$param1.power.condition0.BlockRatingBonusAdd.noFraction$ Рейтинг Уклонения и +$param1.power.condition0.BlockRatingBonusAdd.nofraction$ Рейтинг Отражения на $param1.power.condition0.duration$"
     },
     "6012963032645174591": {
       "Variants": [],
@@ -36690,7 +36695,7 @@
     "6369361673792456052": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $Param2.keyword.locflagP2G$ вы получаете +$param1.power.evalRegisterFloat0.precision0$ Рейтинг Критического урона ($param1.power.evalRegisterFloat0.divByLevel.precision1$ за уровень) и +$param1.power.evalRegisterFloat1.precision0$ Рейтинг урона от критических ударов ($param1.power.evalRegisterFloat1.divByLevel.precision1$ за уровень) на $param1.power.condition0.duration$"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получаете +$param1.power.evalRegisterFloat0.precision0$ Рейтинг Критического удара ($param1.power.evalRegisterFloat0.divByLevel.precision1$ за уровень) и +$param1.power.evalRegisterFloat1.precision0$ Рейтинг Критического урона ($param1.power.evalRegisterFloat1.divByLevel.precision1$ за уровень) на $param1.power.condition0.duration$"
     },
     "6369399001225233672": {
       "Variants": [],
@@ -47500,7 +47505,7 @@
     "6866199590705890631": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword$ способностью, получаете 200 Рейтинг урона на 12 сек"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получаете 200 Рейтинг урона на 12 сек"
     },
     "6866552933301224715": {
       "Variants": [],
@@ -48651,7 +48656,7 @@
     "6922587370155214087": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою Аптечку, получаете #orange#Смелость Скруллов#/orange#, что даёт +$param1.power.condition0.statallmodifier$ ко всем Атрибутам и +$param1.power.condition0.damagerating.nofraction$ Рейтинг Урона на $param1.power.condition0.duration$."
+      "String": "При использовании Аптечки, получаете #orange#Смелость Скруллов#/orange#, что даёт +$param1.power.condition0.statallmodifier$ ко всем Атрибутам и +$param1.power.condition0.damagerating.nofraction$ Рейтинг Урона на $param1.power.condition0.duration$."
     },
     "6922702638557234505": {
       "Variants": [],
@@ -51174,7 +51179,7 @@
     "7044504140076614966": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword$ способностью, получаете +$param1.power.condition0.superCritRatingBonusAdd.noFraction$ Рейтинг Сокрушительного удара на $param1.power.condition0.duration$"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получаете +$param1.power.condition0.superCritRatingBonusAdd.noFraction$ Рейтинг Сокрушительного удара на $param1.power.condition0.duration$"
     },
     "7045403437576815981": {
       "Variants": [],
@@ -53002,7 +53007,7 @@
     "7134172087882155332": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $Param2.keyword.locflagP2G$ вы получаете +$param1.power.condition0.critRatingBonusAddPowerKeyword$ Рейтинг критических ударов при атаках в ближнем бою, +$param1.power.condition0.defense.noFraction$ Рейтинг физической защиты, а атаки по Области наносят вам на $param1.power.condition0.damagePctResistVsPowerKeyword.pct$% меньше урона в течение $param1.power.condition0.duration$ (накапливается до $param1.power.condition0.maxNumStacks$ раз)"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получаете +$param1.power.condition0.critRatingBonusAddPowerKeyword$ Рейтинг Критического удара Ближнего урона, +$param1.power.condition0.defense.noFraction$ Рейтинг Физической защиты и -$param1.power.condition0.damagePctResistVsPowerKeyword.pct$% урона от атак врага по Области на $param1.power.condition0.duration$ (накапливается до $param1.power.condition0.maxNumStacks$ раз)"
     },
     "7134320895607964988": {
       "Variants": [],
@@ -62005,7 +62010,7 @@
     "7543571793614931255": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword$ способностью, получаете +$param1.power.condition0.CritDamageRating.noFraction$ Рейтинг Критического урона и 1 Энергии на $param1.power.condition0.duration$"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получаете +$param1.power.condition0.CritDamageRating.noFraction$ Рейтинг Критического урона и 1 Энергии на $param1.power.condition0.duration$"
     },
     "7544085630558864646": {
       "Variants": [],
@@ -69702,7 +69707,7 @@
     "7903837949681403208": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою Аптечку, восстанавливаете дополнительно 5000 здоровья"
+      "String": "При использовании Аптечки, восстанавливаете дополнительно 5000 здоровья"
     },
     "7904604111648130316": {
       "Variants": [],
@@ -70599,7 +70604,7 @@
     "7949168700907259156": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою Аптечку, получаете 675 Рейтинг Защиты на 10 сек"
+      "String": "При использовании Аптечки, получаете 675 Рейтинг Защиты на 10 сек"
     },
     "7949212797395731781": {
       "Variants": [],
@@ -74660,7 +74665,7 @@
     "8135563993779275075": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою Аптечку, получаете 250 Рейтинг Критического удара на 12 сек"
+      "String": "При использовании Аптечки, получаете 250 Рейтинг Критического удара на 12 сек"
     },
     "8135765462161360239": {
       "Variants": [],
@@ -79562,7 +79567,7 @@
     "8363652900601005326": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword.locflagP2G$ $primaryManaBehaviorName$ восстанавливается на +$param1.power.onpowerstartpower.enduranceChangeBase$ Вы также получаете +$param1.power.condition0.DamageRatingBonusByType.noFraction$ Рейтинг энергетического урона и +$param1.power.condition0.statenergyprojectionmodifier$ Энергии на $param1.power.condition0.duration$."
+      "String": "При попадании $param2.keyword.locflagG$ способностью, $primaryManaBehaviorName$ восстанавливается на +$param1.power.onpowerstartpower.enduranceChangeBase$. Вы также получаете +$param1.power.condition0.DamageRatingBonusByType.noFraction$ Рейтинг Энергетического урона и +$param1.power.condition0.statenergyprojectionmodifier$ Энергии на $param1.power.condition0.duration$."
     },
     "8365615709240558857": {
       "Variants": [],
@@ -81515,7 +81520,7 @@
     "8455285654257141053": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword.locflagP2G$ получаете +$param1.power.condition0.DamageRatingBonusForPowerKeyword.noFraction$ Рейтинга Дальнего урона на $param1.power.condition0.duration$"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получаете +$param1.power.condition0.DamageRatingBonusForPowerKeyword.noFraction$ Рейтинг Дальнего урона на $param1.power.condition0.duration$"
     },
     "8455334045717497203": {
       "Variants": [
@@ -84919,7 +84924,7 @@
     "8611931937634583812": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword$ способностью, восстановите +$param1.power.onpowerstartpower.healing$ Здоровья. Вы также получаете +$param1.power.condition0.DamageRatingBonusByType.noFraction$ Рейтинг Физического урона и +$param1.power.condition0.statfightingskillsmodifier$ Битвы на $param1.power.condition0.duration$."
+      "String": "При попадании $param2.keyword.locflagG$ способностью, восстановите +$param1.power.onpowerstartpower.healing$ Здоровья. Вы также получаете +$param1.power.condition0.DamageRatingBonusByType.noFraction$ Рейтинг Физического урона и +$param1.power.condition0.statfightingskillsmodifier$ Битвы на $param1.power.condition0.duration$."
     },
     "8611959511329473803": {
       "Variants": [
