@@ -16092,7 +16092,7 @@
         {
           "FlagsConsumed": 18446744073709547519,
           "FlagsProduced": 65535,
-          "String": "Ближней"
+          "String": "Ближнего"
         }
       ],
       "FlagsProduced": 65535,
@@ -28154,7 +28154,7 @@
     "5958479499828790537": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% - расход $primaryManaBehaviorName.locflagG$ на использование $param1.powerKeyword.locflagG$"
+      "String": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% расхода $primaryManaBehaviorName.locflagG$ для $param1.powerKeyword.locflagP2G$"
     },
     "5958645367229515066": {
       "Variants": [],
@@ -53172,7 +53172,7 @@
     "7140039352507172161": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% - расход $primaryManaBehaviorName.locflagG$ на использование $param1.powerKeyword.locflagG$"
+      "String": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% расхода $primaryManaBehaviorName.locflagG$ для $param1.powerKeyword.locflagP2G$"
     },
     "7140781720483661166": {
       "Variants": [],
@@ -68701,7 +68701,7 @@
     "7857734065560225041": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% - расход $primaryManaBehaviorName.locflagG$ на использование $param1.powerKeyword.locflagG$"
+      "String": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% расхода $primaryManaBehaviorName.locflagG$ для $param1.powerKeyword.locflagP2G$"
     },
     "7857823701646312819": {
       "Variants": [],
@@ -84931,7 +84931,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "Призывания"
+          "String": "Призванных"
         }
       ],
       "FlagsProduced": 65535,

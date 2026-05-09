@@ -29901,7 +29901,7 @@
         {
           "FlagsConsumed": 18446744073709547519,
           "FlagsProduced": 65535,
-          "String": "Дальней"
+          "String": "Дальнего"
         }
       ],
       "FlagsProduced": 65535,
@@ -35693,7 +35693,7 @@
     "1688510713136153907": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% - расход $primaryManaBehaviorName.locflagG$ на использование $param1.powerKeyword.locflagG$"
+      "String": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% расхода $primaryManaBehaviorName.locflagG$ для $param1.powerKeyword.locflagP2G$"
     },
     "1688527794167022856": {
       "Variants": [],
@@ -53141,7 +53141,13 @@
       "String": "Огненная пещера"
     },
     "2505195269862982990": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709547512,
+          "FlagsProduced": 65535,
+          "String": "#powername#Огнемёта#/powername#"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "#powername#Огнемёт#/powername#"
     },
@@ -72209,7 +72215,13 @@
       "String": "Победите Халка"
     },
     "3409023901188687122": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709547512,
+          "FlagsProduced": 65535,
+          "String": "Добивания"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "Добивание"
     },
@@ -72923,7 +72935,7 @@
     "3439782442616030472": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Урон: +$DamageMultVsKeywordForPowerKwd.pct$% при использовании #powerkeyword#$DamageMultVsKeywordForPowerKwd.param1.powerKeyword.locflagG$#/powerkeyword# на $DamageMultVsKeywordForPowerKwd.param0.Keyword$ сек"
+      "String": "Урон: +$DamageMultVsKeywordForPowerKwd.pct$% к #powerkeyword#$DamageMultVsKeywordForPowerKwd.param1.powerKeyword.locflagP2G$#/powerkeyword# против $DamageMultVsKeywordForPowerKwd.param0.Keyword$"
     },
     "3440125292743886152": {
       "Variants": [],
@@ -94274,7 +94286,7 @@
     "4401751741471917422": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Урон: +$DamageMultForPowerKeyword.pct$% к #powerkeyword#$DamageMultForPowerKeyword.param0.powerKeyword.locflagG$#/powerkeyword# способностям на $duration$"
+      "String": "Урон: +$DamageMultForPowerKeyword.pct$% к #powerkeyword#$DamageMultForPowerKeyword.param0.powerKeyword.locflagP2G$#/powerkeyword# на $duration$"
     },
     "4401929050608239981": {
       "Variants": [],

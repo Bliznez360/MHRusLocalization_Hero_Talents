@@ -20723,7 +20723,13 @@
       "String": "Эмоция (\"Спасибо\")"
     },
     "10185692166377702720": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709547512,
+          "FlagsProduced": 65535,
+          "String": "Мести"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "Месть"
     },
@@ -20796,7 +20802,7 @@
         }
       ],
       "FlagsProduced": 65535,
-      "String": "Энергетические"
+      "String": "Энергетическая"
     },
     "10188471353753928969": {
       "Variants": [],
@@ -23604,7 +23610,7 @@
     "10323104688616768826": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% - расход $primaryManaBehaviorName.locflagG$ на использование $param1.powerKeyword.locflagG$"
+      "String": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% расхода $primaryManaBehaviorName.locflagG$ для $param1.powerKeyword.locflagP2G$"
     },
     "10323565903742895467": {
       "Variants": [],
@@ -25132,7 +25138,7 @@
     "10392092656583378182": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% - расход $primaryManaBehaviorName.locflagG$ на использование $param1.powerKeyword.locflagG$"
+      "String": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% расхода $primaryManaBehaviorName.locflagG$ для $param1.powerKeyword.locflagP2G$"
     },
     "10392753609231369588": {
       "Variants": [],
@@ -96540,7 +96546,7 @@
     "13748937364542784776": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% - расход $primaryManaBehaviorName.locflagG$ на использование $param1.powerKeyword.locflagG$"
+      "String": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% расхода $primaryManaBehaviorName.locflagG$ для $param1.powerKeyword.locflagP2G$"
     },
     "13749022606821098813": {
       "Variants": [],

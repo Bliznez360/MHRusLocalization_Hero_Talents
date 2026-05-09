@@ -21254,7 +21254,7 @@
     "14831602867859948802": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% - расход $primaryManaBehaviorName.locflagG$ на использование $param1.powerKeyword.locflagG$"
+      "String": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% расхода $primaryManaBehaviorName.locflagG$ для $param1.powerKeyword.locflagP2G$"
     },
     "14831972630196192529": {
       "Variants": [],
@@ -28767,7 +28767,7 @@
     "15181449665238795574": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% - расход $primaryManaBehaviorName.locflagG$ на использование $param1.powerKeyword.locflagG$"
+      "String": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% расхода $primaryManaBehaviorName.locflagG$ для $param1.powerKeyword.locflagP2G$"
     },
     "15181677405893100871": {
       "Variants": [
@@ -79805,11 +79805,6 @@
     "17570007924840858892": {
       "Variants": [
         {
-          "FlagsConsumed": 18446744073709547519,
-          "FlagsProduced": 65535,
-          "String": "Гнева"
-        },
-        {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
           "String": "Гнева"
@@ -92964,7 +92959,7 @@
     "18183688730638157108": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% - расход $primaryManaBehaviorName.locflagG$ на использование $param1.powerKeyword.locflagG$"
+      "String": "$propertyValueSign$$propertyValue.pct.abs.noFraction$% расхода $primaryManaBehaviorName.locflagG$ для $param1.powerKeyword.locflagP2G$"
     },
     "18184004114394580293": {
       "Variants": [],
