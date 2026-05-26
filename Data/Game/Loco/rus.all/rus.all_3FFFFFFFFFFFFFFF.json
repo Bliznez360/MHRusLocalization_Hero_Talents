@@ -17099,7 +17099,7 @@
     "801252228733535506": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании #orange#Удар Налёта#/orange#, получите +$param1.power.condition0.Blockratingbonusadd.nofraction$ Рейтинг Отражения, а при входящем уроне получайте на $param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше урона по Области от врагов на $param1.power.condition0.duration$."
+      "String": "При использовании #orange#Удар Налёта#/orange# получите +$param1.power.condition0.Blockratingbonusadd.nofraction$ Рейтинг Отражения, на $param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше входящего урона по Области на $param1.power.condition0.duration$."
     },
     "801981462747284835": {
       "Variants": [],
@@ -18486,7 +18486,7 @@
     "873261547394303293": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда ваше Здоровье опускается ниже $param2$%, вы получаете на $param1.power.condition0.damagepctresist.pct$% меньше урона от всех источников и получаете +$param1.power.condition0.healingOverTimeBase.noFraction$ Регенерации здоровья в сек и +$param1.power.condition0.statdurabilitymodifier$ Выносливости на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)"
+      "String": "Когда ваше Здоровье опускается ниже $param2$%, вы получаете на $param1.power.condition0.damagepctresist.pct$% меньше входящего урона и получаете +$param1.power.condition0.healingOverTimeBase.noFraction$ Регенерации здоровья в сек и +$param1.power.condition0.statdurabilitymodifier$ Выносливости на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)"
     },
     "873950975547082050": {
       "Variants": [],
@@ -27408,7 +27408,7 @@
     "1291071056745334033": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Увеличивает базовый урон противникам, в данный момент не атакующим вас."
+      "String": "Увеличивает базовый урон по не атакующим вас врагам."
     },
     "1291266993212753219": {
       "Variants": [],
@@ -34147,7 +34147,7 @@
     "1616757516320113981": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании Ближней способностью, получите +$param1.power.condition0.critratingbonusadd.nofraction$ Рейтинг Критического удара, а при входящем уроне получайте на $param1.power.condition0.damagepctresistvspowerkeyword$% меньше урона по Области от врагов на $param1.power.condition0.duration$"
+      "String": "При попадании Ближней способностью, получите +$param1.power.condition0.critratingbonusadd.nofraction$ Рейтинг Критического удара и на $param1.power.condition0.damagepctresistvspowerkeyword$% меньше входящего урона по Области на $param1.power.condition0.duration$"
     },
     "1617100078616741178": {
       "Variants": [],
@@ -50121,11 +50121,11 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "Спецприемов напарника"
+          "String": "Особых способностей"
         }
       ],
       "FlagsProduced": 65535,
-      "String": "Спецприём Напарника"
+      "String": "Особая Напарника"
     },
     "2360241291850417481": {
       "Variants": [],
@@ -57982,7 +57982,7 @@
     "2744007507469206834": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании способностью по Области, вы получаете +$param1.power.condition0.damageratingbonusbytype.nofraction$ Рейтинг Энергетического урона. Кроме того, враги наносят вам на +$param1.power.condition0.damagepctresistvspowerkeyword.nofraction$% меньше урона по Области, в течение $param1.power.condition0.duration$. Накапливается до $param1.power.condition0.maxNumStacks.nofraction$ раз."
+      "String": "При попадании способностью по Области получите +$param1.power.condition0.damageratingbonusbytype.nofraction$ Рейтинг Энергетического урона и на $param1.power.condition0.damagepctresistvspowerkeyword.nofraction$% меньше входящего урона по Области на $param1.power.condition0.duration$. Накапливается до $param1.power.condition0.maxNumStacks.nofraction$ раз."
     },
     "2744157668133373253": {
       "Variants": [],
@@ -65774,7 +65774,7 @@
     "3120960917147419967": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procChanceString$ шанс при входящем уроне адаптироваться к атаке сбросив кожу, получить $param1.power.evalRegisterFloat0.pct$% снижения Физического, Энергетического и Ментального урона на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)"
+      "String": "$procChanceString$ шанс при входящем уроне адаптироваться к атаке сбросив кожу и получить $param1.power.evalRegisterFloat0.pct$% меньше входящего Физического, Энергетического и Ментального урона на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)"
     },
     "3121118254685553986": {
       "Variants": [],
@@ -75360,7 +75360,7 @@
     "3555980751345157431": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Этот рецепт требует: (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 Кредитов, чтобы создать предмет. \n\nСоздаёт Булаву Надзирателя — Уникальный предмет 1 ячейки 60 уровня для любого героя\n\n#emphasis#Булава Надзирателя#/emphasis#\n#emphasis#+ Рейтинг урона#/emphasis#\n#emphasis#+ Рейтинг физической защиты#/emphasis#\n#emphasis#+ Рейтинг Ближнего урона#/emphasis#\n#emphasis#+ Рейтинг Критического урона#/emphasis#\n#emphasis#Снижение урона по Области#/emphasis#\n#emphasis#+ Здоровья#/emphasis#\n#emphasis#При попадании Ближней способностью вы получите +1 Силы на 10 сек (накапливается до 3 раз)#/emphasis#\n#emphasis#Нанеся Критический удар, вы можете получить + Рейтинг Защиты на 5 сек (перезарядка 30 сек)#/emphasis#\n#emphasis#Пгогибая, союзник наносит врагам физический урон и ослабляет их#/emphasis#"
+      "String": "Этот рецепт требует: (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 Кредитов, чтобы создать предмет. \n\nСоздаёт Булаву Надзирателя — Уникальный предмет 1 ячейки 60 уровня для любого героя\n\n#emphasis#Булава Надзирателя#/emphasis#\n#emphasis#+ Рейтинг урона#/emphasis#\n#emphasis#+ Рейтинг физической защиты#/emphasis#\n#emphasis#+ Рейтинг Ближнего урона#/emphasis#\n#emphasis#+ Рейтинг Критического урона#/emphasis#\n#emphasis#Меньше входящего урона по Области#/emphasis#\n#emphasis#+ Здоровья#/emphasis#\n#emphasis#При попадании Ближней способностью вы получите +1 Силы на 10 сек (накапливается до 3 раз)#/emphasis#\n#emphasis#Нанеся Критический удар, вы можете получить + Рейтинг Защиты на 5 сек (перезарядка 30 сек)#/emphasis#\n#emphasis#Пгогибая, союзник наносит врагам физический урон и ослабляет их#/emphasis#"
     },
     "3556466104207476099": {
       "Variants": [],
@@ -84649,7 +84649,7 @@
     "3968133501016737047": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Адаптируйтесь к атакам ваших врагов, получая на 10% меньше урона от их типа урона в течение 15 сек."
+      "String": "Адаптируйтесь к атакам ваших врагов, получая на 10% меньше входящего урона их типа в течение 15 сек."
     },
     "3969054638536000932": {
       "Variants": [],

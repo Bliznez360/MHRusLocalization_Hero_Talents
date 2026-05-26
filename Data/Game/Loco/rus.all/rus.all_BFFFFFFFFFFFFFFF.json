@@ -16602,7 +16602,7 @@
     "9992021379342796083": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При нанесении Критического удара Дальней способностью, получите +$param1.power.condition0.supercritratingbonusaddpowerkeyword.nofraction$ Рейтинг Сокрушительного удара Физических способностей, а при входящем уроне получайте на $param1.power.condition0.damagepctresistvspowerkeyword$% меньше Дальнего урона от врагов на $param1.power.condition0.duration$."
+      "String": "При нанесении Критического удара Дальней способностью, получите +$param1.power.condition0.supercritratingbonusaddpowerkeyword.nofraction$ Рейтинг Сокрушительного удара Физических способностей и на $param1.power.condition0.damagepctresistvspowerkeyword$% меньше входящего Дальнего урона на $param1.power.condition0.duration$."
     },
     "9992215885591414122": {
       "Variants": [],
@@ -18661,7 +18661,7 @@
     "10091160309860074819": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Создайте Медальон Красного Натиска - уникальный медальон 60-го уровня для любого героя\n\n#emphasis#Медальон Красного Натиска#/emphasis#\n#emphasis#При критическом попадании по рейдовому боссу восстанавливает здоровье и увеличивает рейтинг урона на 8 сек#/emphasis#\n#emphasis#+Энергия#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#Вы получаете на % меньше урона от вражеских атак по области#/emphasis#\n#emphasis#+Сила#/emphasis#\n#emphasis#+Рейтинг Критического урона#/emphasis#\n#emphasis#+Рейтинг Сокрушительного урона#/emphasis#\n#emphasis#Создаёт поле усиления урона при поражении врага, увеличивая урон всех, кто находится внутри.#/emphasis#"
+      "String": "Создайте Медальон Красного Натиска - уникальный медальон 60-го уровня для любого героя\n\n#emphasis#Медальон Красного Натиска#/emphasis#\n#emphasis#При критическом попадании по рейдовому боссу восстанавливает здоровье и увеличивает рейтинг урона на 8 сек#/emphasis#\n#emphasis#+Энергия#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#Вы получаете на % меньше входящего урона по Области#/emphasis#\n#emphasis#+Сила#/emphasis#\n#emphasis#+Рейтинг Критического урона#/emphasis#\n#emphasis#+Рейтинг Сокрушительного урона#/emphasis#\n#emphasis#Создаёт поле усиления урона при поражении врага, увеличивая урон всех, кто находится внутри.#/emphasis#"
     },
     "10091493831177995521": {
       "Variants": [],
@@ -37333,7 +37333,7 @@
     "10988581017488590094": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ваши Дальние способности наносят вам +$param1.power.condition0.DamageRatingBonusForPowerKeyword.noFraction$ Рейтинг урона при Дальних атаках, +$param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше урона от Дальних атак врагов и $param1.power.condition0.BlockRatingBonusAdd.nofraction$ Рейтинг Отражения на $param1.power.condition0.duration$"
+      "String": "Ваши Дальние способности наносят вам +$param1.power.condition0.DamageRatingBonusForPowerKeyword.noFraction$ Рейтинг урона при Дальних атаках, +$param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше входящего Дальнего урона и $param1.power.condition0.BlockRatingBonusAdd.nofraction$ Рейтинг Отражения на $param1.power.condition0.duration$"
     },
     "10988881635187033400": {
       "Variants": [],
@@ -37873,7 +37873,7 @@
     "11017878016026346859": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "В этой коробке содержится предмет Идеальная Волна.\n#emphasis#+Дух#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#Вы получаете меньше урона от областных способностей врагов#/emphasis#\n#emphasis#Снижение расхода на способности передвижения#/emphasis#\n#emphasis#При снижении здоровья ниже 50% вы используете «Повисни на доске» и получаете Защиту и Волю на 5 сек#/emphasis#\n#emphasis#+Скорость#/emphasis#\n#emphasis#+Выносливость#/emphasis#\n#emphasis#+Битва#/emphasis#\n#emphasis#+Уровни ко всем способностям#/emphasis#\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#"
+      "String": "В этой коробке содержится предмет Идеальная Волна.\n#emphasis#+Дух#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#Вы получаете меньше входящего урона по Области#/emphasis#\n#emphasis#Снижение расхода Передвижения#/emphasis#\n#emphasis#При снижении Здоровья ниже 50% вы используете «Повисни на доске» и получаете Защиту и Волю на 5 сек#/emphasis#\n#emphasis#+Скорость#/emphasis#\n#emphasis#+Выносливость#/emphasis#\n#emphasis#+Битва#/emphasis#\n#emphasis#+Уровни ко всем способностям#/emphasis#\n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#"
     },
     "11017894238001497357": {
       "Variants": [],
@@ -46307,7 +46307,7 @@
     "11406184948272596221": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании Дальней Способностью, получите +$param1.power.condition0.damageratingbonusbytype.nofraction$ Рейтинг Энергетического урона, +$param1.power.condition0.statenergyprojectionmodifier$ Энергии и получайте на $param1.power.condition0.damagepctresistvspowerkeyword.nofraction$% меньше Урона от Энергетических способностей на $param1.power.condition0.duration$. Эффект накапливается до 2 раз."
+      "String": "При попадании Дальней способностью получаете +$param1.power.condition0.damageratingbonusbytype.nofraction$ Рейтинг Энергетического урона, +$param1.power.condition0.statenergyprojectionmodifier$ Энергии и получаете на +$param1.power.condition0.damagepctresistvspowerkeyword.nofraction$% меньше входящего Энергетического урона на $param1.power.condition0.duration$. Эффект накапливается до 2 раз."
     },
     "11406535675363067187": {
       "Variants": [],
@@ -56011,7 +56011,7 @@
     "11843589640437368113": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При нанесении Сокрушительного удара Ближней способностью, получите +$param1.power.condition0.damageratingbonusbytype.nofraction$ Рейтинг Физического урона, а при входящем уроне получайте на $param1.power.condition0.damagepctresistvspowerkeyword$% меньше урона по Области от врагов на $param1.power.condition0.duration$."
+      "String": "При нанесении Сокрушительного удара Ближней способностью, получите +$param1.power.condition0.damageratingbonusbytype.nofraction$ Рейтинг Физического урона и на $param1.power.condition0.damagepctresistvspowerkeyword$% меньше входящего урона по Области на $param1.power.condition0.duration$."
     },
     "11844126992329868546": {
       "Variants": [],
@@ -56186,7 +56186,7 @@
     "11851199575169959229": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Этот рецепт требует: (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 Кредитов при каждом создании этого предмета.\n\nСоздаёт Поножи Огненного гиганта — Уникальный предмет 4 ячейки 60 уровня для любого героя\n\n#emphasis#Поножи Огненного гиганта#/emphasis#\n#emphasis#+Рейтинг Защиты#/emphasis#\n#emphasis#+Рейтинга энергетического урона#/emphasis#\n#emphasis#+Рейтинга ментального урона#/emphasis#\n#emphasis#+Здоровья#/emphasis#\n#emphasis#+1 ко всем Атрибутам#/emphasis#\n#emphasis#+Рейтинг Критического удара#/emphasis#\n#emphasis#+Длительности#/emphasis#\n#emphasis#+Скорости передвижения#/emphasis#\n#emphasis#Получайте меньше урона от Энергетических способностей#/emphasis#\n#emphasis#Шанс поджечь и Замедлить врагов, которые наносят вам удар#/emphasis#"
+      "String": "Этот рецепт требует: (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 Кредитов при каждом создании этого предмета.\n\nСоздаёт Поножи Огненного гиганта — Уникальный предмет 4 ячейки 60 уровня для любого героя\n\n#emphasis#Поножи Огненного гиганта#/emphasis#\n#emphasis#+Рейтинг Защиты#/emphasis#\n#emphasis#+Рейтинга энергетического урона#/emphasis#\n#emphasis#+Рейтинга ментального урона#/emphasis#\n#emphasis#+Здоровья#/emphasis#\n#emphasis#+1 ко всем Атрибутам#/emphasis#\n#emphasis#+Рейтинг Критического удара#/emphasis#\n#emphasis#+Длительности#/emphasis#\n#emphasis#+Скорости передвижения#/emphasis#\n#emphasis#Меньше входящего Энергетического урона#/emphasis#\n#emphasis#Шанс поджечь и Замедлить врагов, которые наносят вам удар#/emphasis#"
     },
     "11851455383419618617": {
       "Variants": [],
@@ -63773,7 +63773,7 @@
     "12210563908344612152": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Создаёт Эгиду Огненного гиганта — Уникальный предмет 2 ячейки 60 уровня для любого героя\n\n#emphasis#Эгида Огненного гиганта#/emphasis#\n#emphasis#+Рейтинг Защиты#/emphasis#\n#emphasis#+Рейтинг Физической защиты#/emphasis#\n#emphasis#+Рейтинг урона по Горящим#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#Снижение расхода#/emphasis#\n#emphasis#+Сила#/emphasis#\n#emphasis#+Энергия#/emphasis#\n#emphasis#+Рейтинг Уклонения#/emphasis#\n#emphasis#+Шанс блока#/emphasis#\n#emphasis#Сниженный урон от Ближних атак#/emphasis#\n#emphasis#Шанс при попадании Поджечь цель#/emphasis#"
+      "String": "Создаёт Эгиду Огненного гиганта — Уникальный предмет 2 ячейки 60 уровня для любого героя\n\n#emphasis#Эгида Огненного гиганта#/emphasis#\n#emphasis#+Рейтинг Защиты#/emphasis#\n#emphasis#+Рейтинг Физической защиты#/emphasis#\n#emphasis#+Рейтинг урона по Горящим#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#Снижение расхода#/emphasis#\n#emphasis#+Сила#/emphasis#\n#emphasis#+Энергия#/emphasis#\n#emphasis#+Рейтинг Уклонения#/emphasis#\n#emphasis#+Шанс блока#/emphasis#\n#emphasis#Меньше входящего Ближнего урона#/emphasis#\n#emphasis#Шанс при попадании Поджечь цель#/emphasis#"
     },
     "12210784746924279059": {
       "Variants": [],
@@ -74298,7 +74298,7 @@
     "12707092811015980353": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword.locflagG$ способностью, получайте 1% базового урона для сил $param2.keyword$ за каждые 50 очков максимального $primaryManaBehaviorName$ на 5 сек"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получайте 1% базового урона для $param2.keyword.locflagG$ за каждые 50 очков от Макс. $primaryManaBehaviorName$ на 5 сек"
     },
     "12707461976274765064": {
       "Variants": [],
@@ -87899,7 +87899,7 @@
     "13337706989173540148": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получает на $teamupdefenseenergy.pct$% меньше урона от энергетических атак."
+      "String": "Получает на $teamupdefenseenergy.pct$% меньше входящего Энергетического урона."
     },
     "13337812430572553488": {
       "Variants": [],
@@ -88364,7 +88364,7 @@
     "13362243402902275387": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValue.pct$% меньше урона от $param0.damageType.locflagP2G$"
+      "String": "$propertyValue.pct$% меньше входящего $param0.damageType.locflagG$ урона"
     },
     "13362595349633369341": {
       "Variants": [],
@@ -94664,7 +94664,7 @@
     "13657976627360040252": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Аура Квантовой энергии:\nПри попадании Энергетической способностью вы и ваши союзники получаете +$param1.power.condition0.damageratingbonusbytype.nofraction$ Рейтинг Энергетического урона, +$param1.power.condition0.critdamagerating.nofraction$ Рейтинг Критического урона и +$param1.power.condition0.damagepctresistvspowerkeyword.pct$% Сопротивление урону от Энергетических способностей на $param1.power.condition0.duration$"
+      "String": "Аура Квантовой энергии:\nПри попадании Энергетической способностью вы и ваши союзники получаете +$param1.power.condition0.damageratingbonusbytype.nofraction$ Рейтинг Энергетического урона, +$param1.power.condition0.critdamagerating.nofraction$ Рейтинг Критического урона и +$param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше входящего Энергетического урона на $param1.power.condition0.duration$"
     },
     "13658117094271026501": {
       "Variants": [],

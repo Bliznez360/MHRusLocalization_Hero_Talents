@@ -3347,7 +3347,7 @@
     "4774686612168639801": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Создаёт Булаву Надзирателя — Уникальный предмет 1 ячейки 60 уровня для любого героя\n\n#emphasis#Булава Надзирателя#/emphasis#\n#emphasis#+Рейтинг урона#/emphasis#\n#emphasis#+Рейтинг физической защиты#/emphasis#\n#emphasis#+Рейтинг Ближнего урона#/emphasis#\n#emphasis#+Рейтинг Критического урона#/emphasis#\n#emphasis#Сниженный урон от атак по области#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#При попадании Ближней способностью: +1 Силы на 10 сек (накапливается до 3 раз)#/emphasis#\n#emphasis#Шанс при критическом ударе: +Рейтинг Защиты на 5 сек (перезарядка 30 сек)#/emphasis#\n#emphasis#При смерти союзника: наносит физический урон и ослабляет всех врагов вокруг#/emphasis#"
+      "String": "Создаёт Булаву Надзирателя — Уникальный предмет 1 ячейки 60 уровня для любого героя\n\n#emphasis#Булава Надзирателя#/emphasis#\n#emphasis#+Рейтинг урона#/emphasis#\n#emphasis#+Рейтинг физической защиты#/emphasis#\n#emphasis#+Рейтинг Ближнего урона#/emphasis#\n#emphasis#+Рейтинг Критического урона#/emphasis#\n#emphasis#Меньше входящего урона по Области#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#При попадании Ближней способностью: +1 Силы на 10 сек (накапливается до 3 раз)#/emphasis#\n#emphasis#Шанс при критическом ударе: +Рейтинг Защиты на 5 сек (перезарядка 30 сек)#/emphasis#\n#emphasis#При смерти союзника: наносит физический урон и ослабляет всех врагов вокруг#/emphasis#"
     },
     "4775225046458303812": {
       "Variants": [],
@@ -15019,7 +15019,7 @@
     "5329470767618852166": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "После использования #orange#Телепорта#/orange#, в течение следующих $param1.power.condition0.duration$ вы получаете на $param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше урона по Области от врагов, а ваши Физические удары восстанавливают $param1.power.condition0.proceffect.healing.nofraction$ Здоровья (перезарядка $param1.power.cooldown$)."
+      "String": "После использования #orange#Телепорта#/orange#, в течение следующих $param1.power.condition0.duration$ вы получаете на $param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше входящего урона по Области, а ваши Физические удары восстанавливают $param1.power.condition0.proceffect.healing.nofraction$ Здоровья (перезарядка $param1.power.cooldown$)."
     },
     "5329520584881472782": {
       "Variants": [],
@@ -33788,7 +33788,7 @@
     "6237252967883474190": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При Критическом ударе Дальней способностью, получаете +$param1.power.condition0.supercritratingbonusadd.nofraction$ Рейтинг Сокрушительного удара, +$Param1.power.condition0.supercritdamagerating.nofraction$ Рейтинг Сокрушительного урона, +$param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше урона по Области от врагов и +$param1.power.condition0.Dodgeratingbonusadd.nofraction$ Рейтинг Уклонения на $param1.power.condition0.duration$"
+      "String": "При Критическом ударе Дальней способностью, получаете +$param1.power.condition0.supercritratingbonusadd.nofraction$ Рейтинг Сокрушительного удара, +$Param1.power.condition0.supercritdamagerating.nofraction$ Рейтинг Сокрушительного урона, +$param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше входящего урона по Области и +$param1.power.condition0.Dodgeratingbonusadd.nofraction$ Рейтинг Уклонения на $param1.power.condition0.duration$"
     },
     "6237683757456033085": {
       "Variants": [],
@@ -34482,7 +34482,7 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "Любых"
+          "String": "Любых способностей"
         }
       ],
       "FlagsProduced": 65535,
@@ -38048,11 +38048,11 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "Стандартных способностей Напарника"
+          "String": "Основных способностей"
         }
       ],
       "FlagsProduced": 65535,
-      "String": "Стандартная способность Напарника"
+      "String": "Основная Напарника"
     },
     "6431600225192445237": {
       "Variants": [],
@@ -39658,7 +39658,7 @@
     "6505202431148492039": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получает на $teamupdefensephysical.pct$% меньше урона от физических атак."
+      "String": "Получает на $teamupdefensephysical.pct$% меньше входящего Физического урона."
     },
     "6505229055713346877": {
       "Variants": [],
@@ -52942,7 +52942,7 @@
     "7129400258895152399": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Увеличивает базовый урон противникам, в данный момент атакующим вас."
+      "String": "Увеличивает базовый урон по атакующим вас врагам."
     },
     "7129753541418026240": {
       "Variants": [],
@@ -53007,7 +53007,7 @@
     "7134172087882155332": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании $param2.keyword.locflagG$ способностью, получаете +$param1.power.condition0.critRatingBonusAddPowerKeyword$ Рейтинг Критического удара Ближнего урона, +$param1.power.condition0.defense.noFraction$ Рейтинг Физической защиты и -$param1.power.condition0.damagePctResistVsPowerKeyword.pct$% урона от атак врага по Области на $param1.power.condition0.duration$ (накапливается до $param1.power.condition0.maxNumStacks$ раз)"
+      "String": "При попадании $param2.keyword.locflagG$ способностью, получаете +$param1.power.condition0.critRatingBonusAddPowerKeyword$ Рейтинг Критического удара Ближнего урона, +$param1.power.condition0.defense.noFraction$ Рейтинг Физической защиты и $param1.power.condition0.damagePctResistVsPowerKeyword.pct$% меньше входящего урона по Области на $param1.power.condition0.duration$ (накапливается до $param1.power.condition0.maxNumStacks$ раз)"
     },
     "7134320895607964988": {
       "Variants": [],
@@ -58160,11 +58160,11 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "Пассивных способностей Напарника"
+          "String": "Пассивных способностей"
         }
       ],
       "FlagsProduced": 65535,
-      "String": "Пассивная способность Напарника"
+      "String": "Пассивная Напарника"
     },
     "7376696873758033208": {
       "Variants": [],
@@ -73321,7 +73321,7 @@
     "8072238403258877248": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "После использования Телепортации, при входящем уроне получайте на $param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше урона по Области на $param1.power.condition0.duration$ (накапливается до 5 раз)"
+      "String": "После использования Телепортации получайте на $param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше входящего урона по Области на $param1.power.condition0.duration$ (накапливается до 5 раз)"
     },
     "8072487545717261627": {
       "Variants": [],
@@ -78290,7 +78290,7 @@
     "8297522142439081270": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Этот рецепт требует: 20 каждого элемента, 4 Нестабильные Молекулы, 1 Руны Психического Отпечатка и 500,000 Кредитов каждый раз, когда вы хотите создать этот предмет. \n\nСоздайте Медальон Красного Наступления, уникальный медальон 60 уровня, который может использовать любой герой\n\n#emphasis#Медальон Красного Наступления#/emphasis#\n#emphasis#При Критическом ударе по боссу рейда, восстанавливаете здоровье и получаете рейтинг урона на 8 сек#/emphasis#\n#emphasis#+Энергия#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#Вы получаете % меньше урона от вражеских областных способностей#/emphasis#\n#emphasis#+Сила#/emphasis#\n#emphasis#+Рейтинг Критического урона#/emphasis#\n#emphasis#+Рейт. сокруш. урона#/emphasis#\n#emphasis#+2 Ранга ко всем способностям#/emphasis#"
+      "String": "Этот рецепт требует: 20 каждого элемента, 4 Нестабильные Молекулы, 1 Руны Психического Отпечатка и 500,000 Кредитов каждый раз, когда вы хотите создать этот предмет. \n\nСоздайте Медальон Красного Наступления, уникальный медальон 60 уровня, который может использовать любой герой\n\n#emphasis#Медальон Красного Наступления#/emphasis#\n#emphasis#При Критическом ударе по боссу рейда, восстанавливаете здоровье и получаете рейтинг урона на 8 сек#/emphasis#\n#emphasis#+Энергия#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#Вы получаете на % меньше входящего урона по Области#/emphasis#\n#emphasis#+Сила#/emphasis#\n#emphasis#+Рейтинг Критического урона#/emphasis#\n#emphasis#+Рейтинг Сокрушительного урона#/emphasis#\n#emphasis#+2 Ранга ко всем способностям#/emphasis#"
     },
     "8297662334468031800": {
       "Variants": [],
@@ -82647,7 +82647,7 @@
     "8507550608705455365": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Создаёт Поножи Огненного гиганта — Уникальный предмет 4 ячейки 60 уровня для любого героя\n\n#emphasis#Поножи Огненного гиганта#/emphasis#\n#emphasis#+Рейтинг Защиты#/emphasis#\n#emphasis#+Рейтинг Энергетического урона#/emphasis#\n#emphasis#+Рейтинг Ментального урона#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#+1 ко всем Атрибутам#/emphasis#\n#emphasis#+Рейтинг Критического Удара#/emphasis#\n#emphasis#+Длительность способностей#/emphasis#\n#emphasis#+Скорость передвижения#/emphasis#\n#emphasis#Меньше Урона от Энергетических способностей#/emphasis#\n#emphasis#Шанс Поджечь и Замедлить врагов, которые наносят вам удар#/emphasis#"
+      "String": "Создаёт Поножи Огненного гиганта — Уникальный предмет 4 ячейки 60 уровня для любого героя\n\n#emphasis#Поножи Огненного гиганта#/emphasis#\n#emphasis#+Рейтинг Защиты#/emphasis#\n#emphasis#+Рейтинг Энергетического урона#/emphasis#\n#emphasis#+Рейтинг Ментального урона#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#+1 ко всем Атрибутам#/emphasis#\n#emphasis#+Рейтинг Критического Удара#/emphasis#\n#emphasis#+Длительность способностей#/emphasis#\n#emphasis#+Скорость передвижения#/emphasis#\n#emphasis#Меньше входящего Энергетического урона#/emphasis#\n#emphasis#Шанс Поджечь и Замедлить врагов, которые наносят вам удар#/emphasis#"
     },
     "8507909955926361507": {
       "Variants": [],
@@ -87037,7 +87037,7 @@
     "8718301943863313728": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.pct$% Базового урона от $param0.keyword.locflagP2G$"
+      "String": "$propertyValueSign$$propertyValue.pct$% Базового урона $param0.keyword.locflagP2G$"
     },
     "8718870387007030526": {
       "Variants": [],
@@ -92753,7 +92753,7 @@
     "8996114331366524211": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получает на $teamupdefensemental.pct$% меньше урона от ментальных атак."
+      "String": "Получает на $teamupdefensemental.pct$% меньше входящего Ментального урона."
     },
     "8996380627940083009": {
       "Variants": [],

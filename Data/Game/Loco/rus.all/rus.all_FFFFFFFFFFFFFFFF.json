@@ -9419,7 +9419,7 @@
     "14267371768710038845": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда вы призываете #blue#Сьюзи#/blue#, вы получаете +$param1.power.condition0.movementspeedincrpct.pct$% Скорость передвижения, +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг урона Передвижения и получаете на $param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше Ближнего урона от врагов на $param1.power.condition0.duration$"
+      "String": "Когда вы призываете #blue#Сьюзи#/blue#, вы получаете +$param1.power.condition0.movementspeedincrpct.pct$% Скорость передвижения, +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг урона Передвижения и на $param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше входящего Ближнего урона на $param1.power.condition0.duration$"
     },
     "14267418248903918954": {
       "Variants": [],
@@ -17161,7 +17161,7 @@
     "14636073970676794687": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Все вражеские атаки наносят на $teamupdefense.pct$% меньший урон."
+      "String": "Получает на $teamupdefense.pct$% меньше входящего урона."
     },
     "14636137549087180109": {
       "Variants": [],
@@ -19469,7 +19469,7 @@
     "14746058496700581134": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Когда ваша #orange#Мистическая энергия#/orange# достигает максимума, получите +$param1.power.condition0.Dodgeratingbonusadd.nofraction$ Рейтинг Уклонения, +1 Выносливости, а при входящем уроне получайте на $param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше урона по Области от врагов на $param1.power.condition0.duration$."
+      "String": "Когда ваша #orange#Мистическая энергия#/orange# достигает максимума, получите +$param1.power.condition0.Dodgeratingbonusadd.nofraction$ Рейтинг Уклонения, +1 Выносливости и на $param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше входящего урона по Области на $param1.power.condition0.duration$."
     },
     "14746449729564902667": {
       "Variants": [],
@@ -21479,7 +21479,7 @@
     "14841277625291900165": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании Физической способностью действует #red#Сыворотка Голиафа#/red#: вы получаете +$param1.power.condition0.defense$ Рейтинг Защиты, +$param1.power.condition0.ccresistscoreall.nofraction$ Воли и на $param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше урона по Области от врагов на $param1.power.condition0.duration$"
+      "String": "При попадании Физической способностью действует #red#Сыворотка Голиафа#/red#: вы получаете +$param1.power.condition0.defense$ Рейтинг Защиты, +$param1.power.condition0.ccresistscoreall.nofraction$ Воли и на $param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше входящего урона по Области на $param1.power.condition0.duration$"
     },
     "14841550944242632036": {
       "Variants": [],
@@ -33355,7 +33355,7 @@
     "15388092722327454994": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "После #red#Передвижения#/red# в течение следующих $param1.power.condition0.duration$ при входящем уроне получайте на $param1.power.condition0.damagepctresist.pct$% меньше урона по Области от врагов, а ваши Физические удары восстанавливают $param1.power.condition0.proceffect.healing.nofraction$ Здоровья (перезарядка $param1.power.cooldown$)."
+      "String": "После #red#Передвижения#/red# в течение следующих $param1.power.condition0.duration$ получайте на $param1.power.condition0.damagepctresist.pct$% меньше входящего урона по Области, а ваши Физические удары восстанавливают $param1.power.condition0.proceffect.healing.nofraction$ Здоровья (перезарядка $param1.power.cooldown$)."
     },
     "15388230543593047363": {
       "Variants": [],
@@ -37961,7 +37961,7 @@
     "15599671620298081542": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы получаете на 3% меньше урона от Дальних способностей врага"
+      "String": "Вы получаете на 3% меньше входящего Дальнего урона"
     },
     "15599865022744823108": {
       "Variants": [],
@@ -44143,7 +44143,7 @@
     "15901008596021806395": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получайте на $propertyValue.pct$% меньше урона от обычных врагов"
+      "String": "Получайте на $propertyValue.pct$% меньше урона от Обычных врагов"
     },
     "15901359928647943492": {
       "Variants": [],
@@ -47236,7 +47236,7 @@
     "16031359994460439866": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ при входящем уроне получить +$param1.power.condition0.defense.nofraction$ Защиты и получать на $param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше урона по Области от врагов на $param1.power.condition0.duration$"
+      "String": "$procchancestring$ при входящем уроне получить +$param1.power.condition0.defense.nofraction$ Защиты и на $param1.power.condition0.damagepctresistvspowerkeyword.pct$% меньше входящего урона по Области на $param1.power.condition0.duration$"
     },
     "16031500452772840761": {
       "Variants": [],
@@ -47986,7 +47986,7 @@
     "16065384751152039231": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Взорваться фонтаном космической энергии, получая меньше урона от вражеских атак и создав вокруг себя на некоторое время силовое поле, которое #emphasis#обжигает#/emphasis# противников."
+      "String": "Взорваться фонтаном космической энергии, получая меньше входящего урона и создав вокруг себя на некоторое время силовое поле, которое #emphasis#обжигает#/emphasis# противников."
     },
     "16065440551307773195": {
       "Variants": [],
@@ -80887,7 +80887,7 @@
     "17625103370227418420": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Этот рецепт требует: (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 Кредитов.\n\nСоздаёт Эгиду Огненного гиганта — Уникальный предмет 2 ячейки 60 уровня для любого героя\n\n#emphasis#Эгида Огненного гиганта#/emphasis#\n#emphasis#+Рейтинг Защиты#/emphasis#\n#emphasis#+Рейтинг физической защиты#/emphasis#\n#emphasis#+Рейтинг урона по Горящим целям#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#Снижение расхода#/emphasis#\n#emphasis#+Сила#/emphasis#\n#emphasis#+Энергия#/emphasis#\n#emphasis#+Рейтинг Уклонения#/emphasis#\n#emphasis#+Шанс блока#/emphasis#\n#emphasis#Сниженный урон от Ближних атак#/emphasis#\n#emphasis#Шанспри попадании Поджечь цель#/emphasis#"
+      "String": "Этот рецепт требует: (1) #emphasis#Асгардский кованый слиток#/emphasis# и 100 000 Кредитов.\n\nСоздаёт Эгиду Огненного гиганта — Уникальный предмет 2 ячейки 60 уровня для любого героя\n\n#emphasis#Эгида Огненного гиганта#/emphasis#\n#emphasis#+Рейтинг Защиты#/emphasis#\n#emphasis#+Рейтинг физической защиты#/emphasis#\n#emphasis#+Рейтинг урона по Горящим целям#/emphasis#\n#emphasis#+Здоровье#/emphasis#\n#emphasis#Снижение расхода#/emphasis#\n#emphasis#+Сила#/emphasis#\n#emphasis#+Энергия#/emphasis#\n#emphasis#+Рейтинг Уклонения#/emphasis#\n#emphasis#+Шанс блока#/emphasis#\n#emphasis#Меньше входящего Ближнего урона#/emphasis#\n#emphasis#Шанспри попадании Поджечь цель#/emphasis#"
     },
     "17625801422618232073": {
       "Variants": [],
@@ -85214,7 +85214,7 @@
     "17823845203732530544": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы получаете на $DamagePctResistVsPowerKeyword.pct$% меньше урона от атак врага типа $DamagePctResistVsPowerKeyword.param0.powerkeyword$"
+      "String": "Вы получаете на $DamagePctResistVsPowerKeyword.pct$% меньше входящего урона от $DamagePctResistVsPowerKeyword.param0.powerkeyword$"
     },
     "17824272381121594690": {
       "Variants": [],
