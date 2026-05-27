@@ -4664,7 +4664,7 @@
     "9446889475646752000": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$DamageTypeOverTime.capitalize$ урон: $DamageRangeOverTime$#hidden# ($DamageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# дважды в сек в течение $duration$ "
+      "String": "$DamageTypeOverTime$ урон: $DamageRangeOverTime$#hidden# ($DamageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# дважды в сек в течение $duration$ "
     },
     "9446987340847056199": {
       "Variants": [],
@@ -8627,7 +8627,7 @@
     "9631318339282601319": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$DamageTypeOverTime.capitalize$ урон: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень) #/hidden# 2 раза в сек"
+      "String": "$DamageTypeOverTime$ урон: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень) #/hidden# 2 раза в сек"
     },
     "9631337176953193789": {
       "Variants": [],
@@ -24051,7 +24051,7 @@
     "10344453519349974332": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.divByLevel$ за каждый уровень)#/hidden# за выстрел"
+      "String": "$damageType$ урон: $damage$ #hidden#($damageRange.divByLevel$ за каждый уровень)#/hidden# за выстрел"
     },
     "10344532447965021501": {
       "Variants": [],
@@ -33644,7 +33644,7 @@
     "10802875118522467645": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ #hidden# ($damageRange.divByLevel.precision1$ за каждый уровень)#/hidden# в начале рывка"
+      "String": "$damageType$ урон: $damage$ #hidden# ($damageRange.divByLevel.precision1$ за каждый уровень)#/hidden# в начале рывка"
     },
     "10803197971214501183": {
       "Variants": [],
@@ -40181,7 +40181,7 @@
     "11122952574148805990": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damagetype.capitalize$ урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden# за каждый залп, оглушает на 0,5 сек"
+      "String": "$damagetype$ урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden# за каждый залп, оглушает на 0,5 сек"
     },
     "11123000952603215164": {
       "Variants": [],
@@ -45515,7 +45515,7 @@
     "11370631638556280118": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$itemcategory.capitalize$"
+      "String": "$itemcategory$"
     },
     "11371613459498665281": {
       "Variants": [],
@@ -51247,7 +51247,7 @@
     "11635270833098917178": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за каждый уровень)#/hidden# за каждую ракету"
+      "String": "$damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за каждый уровень)#/hidden# за каждую ракету"
     },
     "11635333251862037823": {
       "Variants": [],
@@ -78285,7 +78285,7 @@
     "12900744919159997699": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damagetype.capitalize$ урон: $DamageRange$ $DamageOverTimeDuration$"
+      "String": "$damagetype$ урон: $DamageRange$ $DamageOverTimeDuration$"
     },
     "12900887026803017016": {
       "Variants": [],

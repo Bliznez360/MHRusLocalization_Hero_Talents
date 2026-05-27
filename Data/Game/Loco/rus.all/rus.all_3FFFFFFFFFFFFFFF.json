@@ -3291,7 +3291,7 @@
     "147625504188400970": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyvaluesign$$propertyvalue.pct$% Отражение снарядов"
+      "String": "$propertyValueSign$$propertyValue.pct$% Отражение снарядов"
     },
     "148117750329509141": {
       "Variants": [],
@@ -4068,7 +4068,7 @@
     "185209749433812333": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Воля: +$ccresistscoreall$#hidden# ($ccresistscoreall.divbylevel$ за каждый уровень) #/hidden#"
+      "String": "Воля: +$ccResistScoreAll$#hidden# ($ccResistScoreAll.divByLevel$ за уровень) #/hidden#"
     },
     "185331477346649419": {
       "Variants": [],
@@ -6209,7 +6209,7 @@
     "286054868522370368": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Шанс на активацию: $procvaluepercent$% при нанесении Энергетического урона"
+      "String": "Шанс на активацию: $procValuePercent$% при нанесении Энергетического урона"
     },
     "286081613268845870": {
       "Variants": [],
@@ -13046,7 +13046,7 @@
     "607019028632831259": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.noFraction$#hidden# ($DamageRatingBonusForPowerKeyword.precision1.divbylevel$ за каждый уровень)#/hidden# к разрушающим способностям в течение $duration$"
+      "String": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.noFraction$#hidden# ($DamageRatingBonusForPowerKeyword.precision1.divByLevel$ за уровень)#/hidden# к разрушающим способностям в течение $duration$"
     },
     "607192764394636596": {
       "Variants": [],
@@ -13752,7 +13752,7 @@
     "643385350000870719": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damagetype.capitalize$ урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden#"
+      "String": "$damageType$ урон: $damage$ #hidden#($damagerange.precision1.divByLevel$ за уровень)#/hidden#"
     },
     "643623136624444776": {
       "Variants": [],
@@ -13982,7 +13982,7 @@
     "655386764166825223": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden# за удар ($evalregisterfloat0$ ударов в сек)"
+      "String": "$damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden# за удар ($evalregisterfloat0$ ударов в сек)"
     },
     "655599317803599112": {
       "Variants": [],
@@ -16137,7 +16137,7 @@
     "758567005557491009": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.divByLevel$ за уровень) #/hidden#за взрыв"
+      "String": "$damageType$ урон: $damage$ #hidden#($damageRange.divByLevel$ за уровень) #/hidden#за взрыв"
     },
     "759050447004566784": {
       "Variants": [],
@@ -17039,7 +17039,7 @@
     "798217031170262277": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Пинок - $damagetype$ урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden#"
+      "String": "Пинок - $damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#"
     },
     "798421256987280749": {
       "Variants": [],
@@ -18521,7 +18521,7 @@
     "875046394065782076": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Аура Эскадрона смерти Силы Икс: вы и ваши союзники получаете +$equipPower.summonEntity.appliesPowers.condition0.CritRatingBonusAdd.nofraction$ Рейтинг Критического удара, +$equipPower.summonEntity.appliesPowers.condition0.DamageRating.nofraction$ Рейтинг урона, +$equipPower.summonEntity.appliesPowers.condition0.CastSpeedIncrPct.pct$% Скорость атаки и +$equipPower.summonEntity.appliesPowers.condition0.DodgeRatingBonusAdd.nofraction$ Рейтинг Отражения"
+      "String": "Аура Эскадрона смерти Силы Икс: вы и ваши союзники получаете +$equipPower.summonEntity.appliesPowers.condition0.CritRatingBonusAdd.nofraction$ Рейтинг Критического удара, +$equipPower.summonEntity.appliesPowers.condition0.DamageRating.nofraction$ Рейтинг урона, +$equipPower.summonEntity.appliesPowers.condition0.CastSpeedIncrPct.pct$% Скорость атаки и +$equipPower.summonEntity.appliesPowers.condition0.BlockRatingBonusAdd.nofraction$ Рейтинг Отражения"
     },
     "875207957789148423": {
       "Variants": [],
@@ -19792,7 +19792,7 @@
     "933016619872814351": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Здоровье: $evalregisterfloat1.pct$% от вашего уровня здоровья"
+      "String": "Здоровье: $evalRegisterFloat1.pct$% от вашего Здоровья"
     },
     "933050129209296145": {
       "Variants": [],
@@ -20277,7 +20277,7 @@
     "957768228690068794": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Союзники призываются в ранге $evalregisterfloat0.precision0$"
+      "String": "Союзники призываются в ранге $evalRegisterFloat0.precision0$"
     },
     "957971488014599479": {
       "Variants": [],
@@ -23718,7 +23718,7 @@
     "1121272123269383535": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Шанс нанести длительный урон: $procvaluepercent$%"
+      "String": "Шанс нанести длительный урон: $procValuePercent$%"
     },
     "1121555268985423212": {
       "Variants": [],
@@ -29634,7 +29634,7 @@
     "1401572271740552504": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$powerReference0.damageType.capitalize$ урон от сжатия: $powerReference0.damage$ #hidden#($powerReference0.damageRange.precision1.divByLevel$ за уровень)#/hidden#\n$powerReference1.damageType.capitalize$ урон от взрыва: $powerReference1.damage$ #hidden#($powerReference1.damageRange.precision1.divByLevel$ за уровень)#/hidden#"
+      "String": "$powerReference0.damageType$ урон от сжатия: $powerReference0.damage$ #hidden#($powerReference0.damageRange.precision1.divByLevel$ за уровень)#/hidden#\n$powerReference1.damageType$ урон от взрыва: $powerReference1.damage$ #hidden#($powerReference1.damageRange.precision1.divByLevel$ за уровень)#/hidden#"
     },
     "1401596443883341169": {
       "Variants": [],
@@ -35998,7 +35998,7 @@
     "1703243713690273085": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#за удар (перезарядка 0,25 сек)"
+      "String": "$damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#за удар (перезарядка 0,25 сек)"
     },
     "1703374770327848264": {
       "Variants": [],
@@ -37727,7 +37727,7 @@
     "1780411704627365180": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#arsenal#Зазубренное лезвие - #/arsenal#$DamageTypeOverTime$ урон: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень)#/hidden# 2 раза в сек в течение $duration$"
+      "String": "#arsenal#Зазубренное лезвие - #/arsenal#$damageTypeOverTime$ урон: $damageRangeOverTime$ #hidden# ($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# 2 раза в сек в течение $duration$"
     },
     "1780501022759388465": {
       "Variants": [],
@@ -38643,7 +38643,7 @@
     "1817865331275138360": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden# в пределах #orange#области#/orange#"
+      "String": "$damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden# в пределах #orange#области#/orange#"
     },
     "1817885242745161022": {
       "Variants": [],
@@ -41859,7 +41859,7 @@
     "1964102757255939450": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyvaluesign$$propertyvalue.pct.precision1$% Скорость передвижения"
+      "String": "$propertyValueSign$$propertyValue.pct.precision1$% Скорость передвижения"
     },
     "1964109251241706867": {
       "Variants": [],
@@ -43194,7 +43194,7 @@
     "2028809866891691335": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон от гранаты: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden# (только если есть $primaryManaBehaviorName$)"
+      "String": "$damageType$ урон от гранаты: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden# (только если есть $primaryManaBehaviorName$)"
     },
     "2028875060252116335": {
       "Variants": [],
@@ -43454,7 +43454,7 @@
     "2039913246400775484": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyvaluesign$$propertyvalue.nofraction.abs$ Рейтинг Критического удара"
+      "String": "$propertyValueSign$$propertyValue.nofraction.abs$ Рейтинг Критического удара"
     },
     "2039977756812510529": {
       "Variants": [],
@@ -53118,7 +53118,7 @@
     "2504653025997489521": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden# за попадание ($evalRegisterInt0$ раз)"
+      "String": "$damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden# за попадание ($evalRegisterInt0$ раз)"
     },
     "2504708461134742891": {
       "Variants": [],
@@ -55649,7 +55649,7 @@
     "2625827462243943743": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень) #/hidden#за дрона"
+      "String": "$damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень) #/hidden#за дрона"
     },
     "2626486134062318846": {
       "Variants": [],
@@ -59353,7 +59353,7 @@
     "2806434260124566844": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$itemcategory.capitalize$ — $itemsubcategory$"
+      "String": "$itemcategory$ — $itemsubcategory$"
     },
     "2806473078102623600": {
       "Variants": [],
@@ -61425,7 +61425,7 @@
     "2914550638702626153": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damagetype.capitalize$ урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden# при поломке турели"
+      "String": "$damagetype$ урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden# при поломке турели"
     },
     "2914617038776173828": {
       "Variants": [],
@@ -66780,7 +66780,7 @@
     "3165884290727478537": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$DamageTypeOverTime.capitalize$ урон: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень)#/hidden# 2 раза в сек в течение $duration$ при попадании Дальней способностью"
+      "String": "$DamageTypeOverTime$ урон: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень)#/hidden# 2 раза в сек в течение $duration$ при попадании Дальней способностью"
     },
     "3165940146775196934": {
       "Variants": [],
@@ -85907,7 +85907,7 @@
     "4020714346127099194": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden# в пределах #orange#области#/orange# за удар ($evalRegisterInt0$ ударов)"
+      "String": "$damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden# в пределах #orange#области#/orange# за удар ($evalRegisterInt0$ ударов)"
     },
     "4020743650625914117": {
       "Variants": [],

@@ -2526,7 +2526,7 @@
     "4732379625228535094": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$DamageTypeOverTime.capitalize$ урон: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень) #/hidden# 2 раза в сек"
+      "String": "$DamageTypeOverTime$ урон: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень) #/hidden# 2 раза в сек"
     },
     "4732520461505922363": {
       "Variants": [],
@@ -15494,7 +15494,7 @@
     "5354624024536745273": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за каждый уровень)#/hidden# за каждый удар молнии"
+      "String": "$damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за каждый уровень)#/hidden# за каждый удар молнии"
     },
     "5354704215814112524": {
       "Variants": [],
@@ -21505,7 +21505,7 @@
     "5642865859601040647": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#$powerName$#/emphasis# $damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#за удар ($evalRegisterInt0$ ударов)"
+      "String": "#emphasis#$powerName$#/emphasis# $damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#за удар ($evalRegisterInt0$ ударов)"
     },
     "5642908985369822475": {
       "Variants": [],
@@ -32848,7 +32848,7 @@
     "6190211556941235510": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$itemcategorywithsubcategory.capitalize$"
+      "String": "$itemcategorywithsubcategory$"
     },
     "6190342686665999735": {
       "Variants": [],
@@ -34478,11 +34478,6 @@
           "FlagsConsumed": 18446744073709547519,
           "FlagsProduced": 65535,
           "String": "Любого"
-        },
-        {
-          "FlagsConsumed": 18446744073709547512,
-          "FlagsProduced": 65535,
-          "String": "Любых способностей"
         }
       ],
       "FlagsProduced": 65535,
@@ -35051,7 +35046,7 @@
     "6299033534174201157": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень) #/hidden#за гранату"
+      "String": "$damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень) #/hidden#за гранату"
     },
     "6299328903361201465": {
       "Variants": [],
@@ -37201,7 +37196,7 @@
     "6392060425493021952": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$titleaffixed.capitalize$"
+      "String": "$titleaffixed$"
     },
     "6392304229373969719": {
       "Variants": [],
@@ -50138,7 +50133,7 @@
     "6995616382714184965": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень) #/hidden#при воскрешении"
+      "String": "$damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень) #/hidden#при воскрешении"
     },
     "6995633373679781196": {
       "Variants": [],
@@ -55617,7 +55612,7 @@
     "7257931952762324283": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень) #/hidden#за молнию ($evalRegisterInt0$ ударов)"
+      "String": "$damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень) #/hidden#за молнию ($evalRegisterInt0$ ударов)"
     },
     "7257943909886723333": {
       "Variants": [],
@@ -66503,7 +66498,7 @@
     "7759476247646504246": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$DamageTypeOverTime.capitalize$ урон: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень) #/hidden# 2 раза в сек в течение $duration$"
+      "String": "$DamageTypeOverTime$ урон: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень) #/hidden# 2 раза в сек в течение $duration$"
     },
     "7759697021860644164": {
       "Variants": [],
@@ -72815,7 +72810,7 @@
     "8050256906606675214": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#red#Хаос#/red# - $damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden# за удар"
+      "String": "#red#Хаос#/red# - $damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden# за удар"
     },
     "8050595899903968619": {
       "Variants": [],
@@ -81661,7 +81656,7 @@
     "8462566809176704271": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон от взрыва: $damage$ #hidden#($damagerange.precision1.divbylevel$ за уровень)#/hidden# (каждый пятый бросок)"
+      "String": "$damageType$ урон от взрыва: $damage$ #hidden#($damagerange.precision1.divbylevel$ за уровень)#/hidden# (каждый пятый бросок)"
     },
     "8463218067955582225": {
       "Variants": [],
@@ -83038,7 +83033,7 @@
     "8521656642807923970": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$titlenonaffixed.capitalize$"
+      "String": "$titlenonaffixed$"
     },
     "8522691072802030857": {
       "Variants": [],
@@ -88005,7 +88000,7 @@
     "8763020975846982979": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.divByLevel$ за уровень) #/hidden#за огненный шар"
+      "String": "$damageType$ урон: $damage$ #hidden#($damageRange.divByLevel$ за уровень) #/hidden#за огненный шар"
     },
     "8763106157928383807": {
       "Variants": [],
@@ -90081,7 +90076,7 @@
     "8871568015021442360": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$itemcategory.capitalize$ — $itemavatarrestriction$"
+      "String": "$itemcategory$ — $itemavatarrestriction$"
     },
     "8871626907684242803": {
       "Variants": [],

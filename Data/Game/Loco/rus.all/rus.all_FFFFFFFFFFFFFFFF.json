@@ -8589,7 +8589,7 @@
     "14217205580027331899": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Даёт #fury#силу Одина#/fury#: $secondaryResourceChangeBase.divby60.precision1$#/emphasis#"
+      "String": "#emphasis#Даёт #fury#силу Одина#/fury#: $secondaryResourceChangeBase.precision1$#/emphasis#"
     },
     "14217774104843912502": {
       "Variants": [],
@@ -17687,7 +17687,7 @@
     "14658402607991817527": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Бруд-гибрид, техник"
+      "String": "Техник Бруд-гибрид"
     },
     "14658441580593022319": {
       "Variants": [],
@@ -22386,7 +22386,7 @@
     "14888777373786703167": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании Дальней способностью получите +$param1.power.condition0.StatFightingSkillsModifier$ Битвы и +$param1.power.condition0.missileAbsorbChancePct.pct$% Рейтинг Отражения на $param1.power.condition0.duration$."
+      "String": "При попадании Дальней способностью получите +$param1.power.condition0.StatFightingSkillsModifier$ Битвы и +$param1.power.condition0.BlockRatingBonusAdd.nofraction$% Рейтинг Отражения на $param1.power.condition0.duration$."
     },
     "14889491558202541439": {
       "Variants": [],
@@ -25696,7 +25696,7 @@
     "15047145754374243598": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.divByLevel$ за уровень) #/hidden#при уклонении в ближнем бою"
+      "String": "$damageType$ урон: $damage$ #hidden#($damageRange.divByLevel$ за уровень) #/hidden#при уклонении в ближнем бою"
     },
     "15047286676601374013": {
       "Variants": [],
@@ -31611,7 +31611,7 @@
     "15321097481739765051": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$DamageTypeOverTime.capitalize$ урон: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень)#/hidden# 2 раза в сек в течение $duration$ при попадании Ближней способностью"
+      "String": "$DamageTypeOverTime$ урон: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень)#/hidden# 2 раза в сек в течение $duration$ при попадании Ближней способностью"
     },
     "15321493469141534020": {
       "Variants": [],
@@ -37175,7 +37175,7 @@
     "15568408841174582587": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#при блокировании"
+      "String": "$damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#при блокировании"
     },
     "15568586700137760122": {
       "Variants": [],
@@ -51451,7 +51451,7 @@
     "16233969647751529736": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyvaluesign$$propertyvalue.pct.abs$% Скорость атаки"
+      "String": "$propertyvaluesign$$propertyvalue.pct.precision1$% Скорость атаки"
     },
     "16234160146790614332": {
       "Variants": [],
@@ -53848,7 +53848,7 @@
     "16350051794735793411": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$affixedtitlenamenostackcountlayout.capitalize$"
+      "String": "$affixedtitlenamenostackcountlayout$"
     },
     "16351042806907143437": {
       "Variants": [],
@@ -60832,7 +60832,7 @@
     "16691129321098446077": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон от соударения: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#"
+      "String": "$damageType$ урон от соударения: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#"
     },
     "16691151294290789753": {
       "Variants": [],
@@ -61900,7 +61900,7 @@
     "16739347261135521075": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании ближней способностью вы получаете $param1.power.condition0.DodgeRatingBonusAdd.precision0$ Рейтинг Уклонения на $param1.power.condition0.duration$ (перезарядка 5 сек)"
+      "String": "При попадании Ближней способностью вы получаете $param1.power.condition0.DodgeRatingBonusAdd.precision0$ Рейтинг Уклонения на $param1.power.condition0.duration$ (перезарядка 5 сек)"
     },
     "16739391679643911445": {
       "Variants": [],
@@ -68495,7 +68495,7 @@
     "17049261565605643527": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#red#Способность недоступна, поскольку вы владеете способностью \"$powerName$\" или \"$powerReference3.powerName$\"#/red#"
+      "String": "#red#Способность недоступна, поскольку вы владеете способностью $powerReference2.powerName$ или $powerReference3.powerName$#/red#"
     },
     "17049434755933537600": {
       "Variants": [],
@@ -70984,7 +70984,7 @@
     "17163410066838652222": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$itemcategory.capitalize$"
+      "String": "$itemcategory$"
     },
     "17163869263207204103": {
       "Variants": [],
@@ -85324,7 +85324,7 @@
     "17828811160766514446": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за каждый уровень)#/hidden# при попадании"
+      "String": "$damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за каждый уровень)#/hidden# при попадании"
     },
     "17828862898006721864": {
       "Variants": [],
@@ -86035,7 +86035,7 @@
     "17863745312340968700": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$affixedtitlenamelayout.capitalize$"
+      "String": "$affixedtitlenamelayout$"
     },
     "17864194170845070641": {
       "Variants": [],
@@ -90407,7 +90407,7 @@
     "18064856696543970667": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyvaluesign$$propertyvalue% Рейтинг Уклонения от $param0.entitykeyword.locflagP2G$"
+      "String": "$propertyvaluesign$$propertyvalue$% Рейтинг Уклонения от $param0.entitykeyword.locflagP2G$"
     },
     "18064887328185713973": {
       "Variants": [],
@@ -93595,7 +93595,7 @@
     "18212188909488768257": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$DamageTypeOverTime.capitalize$ урон: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень) #/hidden# четыре раза в сек"
+      "String": "$DamageTypeOverTime$ урон: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень) #/hidden# четыре раза в сек"
     },
     "18212277540442801420": {
       "Variants": [],
@@ -95643,7 +95643,7 @@
     "18312792569877038348": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType.capitalize$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень) #/hidden#один раз в сек"
+      "String": "$damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень) #/hidden#один раз в сек"
     },
     "18313180186375947528": {
       "Variants": [],
@@ -95990,7 +95990,7 @@
     "18330556284085208379": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damagetype.capitalize$ урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden# при попадании в #powermechanic#пылающую#/powermechanic# цель"
+      "String": "$damagetype$ урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden# при попадании в #powermechanic#пылающую#/powermechanic# цель"
     },
     "18330933468182349171": {
       "Variants": [],
