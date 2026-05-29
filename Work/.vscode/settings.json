@@ -1,5 +1,5 @@
 {
-  "workbench.colorTheme": "Default Dark+",
+  "workbench.colorTheme": "Dark+",
   "highlight.regexes": {
     "(\\$[a-zA-Z_][a-zA-Z0-9_ .]*\\$)": {
       "filterLanguageRegex": "json",
