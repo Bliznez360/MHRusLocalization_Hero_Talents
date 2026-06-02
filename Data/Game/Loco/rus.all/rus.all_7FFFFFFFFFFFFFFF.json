@@ -77,7 +77,7 @@
     "4614690172638856513": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получены данные о disturbance: Победите Джаггернаута!"
+      "String": "Получены Разведданные о беспорядках: Победите Джаггернаута!"
     },
     "4615725972725499208": {
       "Variants": [],
@@ -1805,7 +1805,7 @@
     "4698838765341705548": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.noFraction.abs$ Рейтинг Критического удара ($propertyValue.divByLevel.precision1$ за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.noFraction.abs$ Рейтинг Критического удара ($propertyValue.divByLevel.precision1$ за уровень)"
     },
     "4698969937924588858": {
       "Variants": [],
@@ -2526,7 +2526,7 @@
     "4732379625228535094": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$DamageTypeOverTime$ урон: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень) #/hidden# 2 раза в сек"
+      "String": "$DamageTypeOverTime$ урон: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за уровень) #/hidden# дважды в сек"
     },
     "4732520461505922363": {
       "Variants": [],
@@ -3587,7 +3587,7 @@
     "4787483982705788289": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Таинственная Синяя Коробка содержит Уникальные предметы от некоторых из самых мощных суперзлодеев.\n\n#emphasis#Коробка имеет равные шансы содержать:#/emphasis#\nСават-ботинки Батрога\nКапюшон Кобры\nПлащ Черепа\nКресло Судного дня\nПыль Смерти\nШлем Дума\nКатана Кириги\nПоцелуй Гадюки\nЛьвиный жилет Крэйвена\nПлащ монарха Латверии\nМаска Алгрима\nМаска Ксорна\nСапоги Нисанти\nКонтроллер Октобота\nШкура священной Белой гориллы\nТрость с рубиновым навершием\nСандзяку-Тэнугуи\nБиоинженерный Кирас Зловещего\nКопьё племени Белой гориллы\nВиброударные перчатки\n\nВсе эти Уникальные предметы будут иметь Бонус испытания."
+      "String": "Таинственная Синяя Коробка содержит Уникальные предметы от некоторых из самых мощных суперзлодеев.\n\n#emphasis#Коробка имеет равные шансы содержать:#/emphasis#\nСават-ботинки Батрока\nКапюшон Кобры\nПлащ Черепа\nКресло Судного дня\nПыль Смерти\nШлем Дума\nКатана Кириги\nПоцелуй Гадюки\nЛьвиный жилет Крэйвена\nПлащ монарха Латверии\nМаска Алгрима\nМаска Ксорна\nСапоги Нисанти\nКонтроллер Октобота\nШкура священной Белой гориллы\nТрость с рубиновым навершием\nСандзяку-Тэнугуи\nБиоинженерный Кирас Зловещего\nКопьё племени Белой гориллы\nВиброударные перчатки\n\nВсе эти Уникальные предметы будут иметь Бонус испытания."
     },
     "4787649712461448447": {
       "Variants": [],
@@ -3832,7 +3832,7 @@
     "4801718466253358339": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Человек-Паук: Возвращение домой Самодельный костюм"
+      "String": "Костюм \"Человек-паук: Возвращение домой\" (самодельный)"
     },
     "4801850867277497664": {
       "Variants": [],
@@ -4262,7 +4262,7 @@
     "4818268113471538488": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#Кувырок Демпси:#/powername# +$damagerating$ #hidden#($damagerating.divbylevel.precision1$ за каждый уровень)#/hidden# Рейтинг урона"
+      "String": "#powername#Кувырок Демпси:#/powername# +$damagerating$ #hidden#($damagerating.divbylevel.precision1$ за уровень)#/hidden# Рейтинг урона"
     },
     "4818670474546513167": {
       "Variants": [],
@@ -4582,7 +4582,7 @@
     "4831314136707368200": {
       "Variants": [],
       "FlagsProduced": 62706,
-      "String": "Удивительный костюм Человека-Паука"
+      "String": "Костюм Человека-Паука \"Удивительный\""
     },
     "4831904157841622283": {
       "Variants": [],
@@ -4857,7 +4857,7 @@
     "4844801506546025741": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Соревнование Сорвиголовы против Клана Ниндзя - Награды за места"
+      "String": "Соревнование Сорвиголовы против Руки - Награды за места"
     },
     "4844835252104332559": {
       "Variants": [],
@@ -5453,7 +5453,7 @@
     "4873364099976529211": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Сектант"
+      "String": "Культист"
     },
     "4873384909098583364": {
       "Variants": [],
@@ -5853,7 +5853,7 @@
     "4892252971007673660": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Найдите зону посадки ЩИТа"
+      "String": "Найдите зону высадки ЩИТа"
     },
     "4892255096960713998": {
       "Variants": [],
@@ -5893,7 +5893,7 @@
     "4894029816158946621": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Пламя души\nУвеличенный урон от ближнего боя"
+      "String": "Пламя души\nУвеличенный Ближний урон"
     },
     "4894198556851766609": {
       "Variants": [],
@@ -6293,7 +6293,7 @@
     "4918257404485567743": {
       "Variants": [],
       "FlagsProduced": 62706,
-      "String": "Костюм Железного Человека, модель 43 - фильм \"Эра Альтрона\""
+      "String": "Костюм Железного Человека Марк 43 \"Эра Альтрона\" (фильм)"
     },
     "4918318307249948010": {
       "Variants": [],
@@ -7650,7 +7650,7 @@
     "4982791147827954943": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Лауфей"
+      "String": "Лафей"
     },
     "4983384377367790906": {
       "Variants": [],
@@ -7915,7 +7915,7 @@
     "4997053913944229176": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageTypeOverTime$ урон: $damageRangeOverTime$ #hidden#($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# 2 раза в сек на $duration$ (накапливается до $maxNumStacks$ раз)"
+      "String": "$damageTypeOverTime$ урон: $damageRangeOverTime$ #hidden#($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# дважды в сек на $duration$ (накапливается до $maxNumStacks$ раз)"
     },
     "4998077778312365368": {
       "Variants": [],
@@ -9807,7 +9807,7 @@
     "5084378037963130178": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рейтинг Критического удара: +$CritRatingBonusAdd.precision0$#hidden# ($CritRatingBonusAdd.divByLevel$ за каждый уровень)#/hidden# для этой способности"
+      "String": "Рейтинг Критического удара: +$CritRatingBonusAdd.precision0$#hidden# ($CritRatingBonusAdd.divByLevel$ за уровень)#/hidden# для этой способности"
     },
     "5084652254386717968": {
       "Variants": [],
@@ -10173,7 +10173,7 @@
     "5104447041393526030": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Зверь Удивительный Костюм"
+      "String": "Костюм Зверя \"Удивительный\""
     },
     "5104501042064000307": {
       "Variants": [],
@@ -10358,7 +10358,7 @@
     "5114402973145957638": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Защита и Воля: +$Defense.precision0$ #hidden#($Defense.divByLevel$ за каждый уровень)#/hidden#"
+      "String": "Защита и Воля: +$Defense.precision0$ #hidden#($Defense.divByLevel$ за уровень)#/hidden#"
     },
     "5114404115670304062": {
       "Variants": [],
@@ -10743,7 +10743,7 @@
     "5133083375053505795": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageTypeOverTime$ урон: $damageRangeOverTime$ #hidden# ($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# 2 раза в сек (действует ещё $duration$ после того, как враг покинет зону поражения)"
+      "String": "$damageTypeOverTime$ урон: $damageRangeOverTime$ #hidden# ($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# дважды в сек (действует ещё $duration$ после того, как враг покинет зону поражения)"
     },
     "5133222733861684489": {
       "Variants": [],
@@ -13024,7 +13024,7 @@
     "5238192378879411515": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.noFraction$ Рейтинг урона при атаках $param0.damageType.locflagG$ типа ($propertyValue.divByLevel.precision1$ за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.noFraction$ Рейтинг урона при атаках $param0.damageType.locflagG$ типа ($propertyValue.divByLevel.precision1$ за уровень)"
     },
     "5238237398729819457": {
       "Variants": [],
@@ -13134,7 +13134,7 @@
     "5244159737661818121": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Победите врагов Кулака"
+      "String": "Победите врагов Руки"
     },
     "5244363233268204855": {
       "Variants": [],
@@ -13440,7 +13440,7 @@
     "5259217034007872776": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Победите Адского Боевого Скрулла #metacount#$CurrentCount$/$TotalCount$#/metacount#"
+      "String": "Победите Боевого Инферно-Скрулла #metacount#$CurrentCount$/$TotalCount$#/metacount#"
     },
     "5259229953326646585": {
       "Variants": [],
@@ -13705,7 +13705,7 @@
     "5272286941616932110": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Победите Войну-Скруллов"
+      "String": "Победите Боевых Скруллов"
     },
     "5272557881041880337": {
       "Variants": [],
@@ -14693,7 +14693,7 @@
     "5316635322270287162": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рейтинг урона: +$damageRating$#hidden# ($damageRating.divByLevel$ за каждый уровень)#/hidden# на $duration$ при попадании Дальней способностью"
+      "String": "Рейтинг урона: +$damageRating$#hidden# ($damageRating.divByLevel$ за уровень)#/hidden# на $duration$ при попадании Дальней способностью"
     },
     "5317146552221566260": {
       "Variants": [],
@@ -15494,7 +15494,7 @@
     "5354624024536745273": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за каждый уровень)#/hidden# за каждый удар молнии"
+      "String": "$damageType$ урон: $damage$ #hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden# за каждый удар молнии"
     },
     "5354704215814112524": {
       "Variants": [],
@@ -16010,7 +16010,7 @@
     "5379554475681907980": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Красный испепелитель ГИДРЫ"
+      "String": "Испепелитель Красной ГИДРЫ"
     },
     "5379730728311784764": {
       "Variants": [],
@@ -16356,7 +16356,7 @@
     "5400248577354499383": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получите $param1.power.endurancechangebase$ $primarymanabehaviorname$, когда подберёте глифостон"
+      "String": "Получите $param1.power.endurancechangebase$ $primarymanabehaviorname$, когда подберёте глифовый камень"
     },
     "5400266049287619900": {
       "Variants": [],
@@ -17524,7 +17524,7 @@
     "5447395343830549756": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При критическом ударе с помощью Ментальной способности, то поджигаете врагов, нанося $param1.power.condition0.damageOverTimeBaseUnmodified.divby2.noFraction$ Энергетического урона 2 раза в сек в течение $param1.power.condition0.duration$ (этот эффект накапливается до $param1.power.condition0.maxnumstacks$ раз). Когда эффект суммируется $param1.power.condition0.maxnumstacks$ раз, вы получаете +$param1.power.onPowerStartPower.onStackCountPower.condition0.StatEnergyProjectionModifier$ Энергии на $param1.power.onPowerStartPower.onStackCountPower.condition0.duration$"
+      "String": "При критическом ударе с помощью Ментальной способности, то поджигаете врагов, нанося $param1.power.condition0.damageOverTimeBaseUnmodified.divby2.noFraction$ Энергетического урона дважды в сек в течение $param1.power.condition0.duration$ (этот эффект накапливается до $param1.power.condition0.maxnumstacks$ раз). Когда эффект суммируется $param1.power.condition0.maxnumstacks$ раз, вы получаете +$param1.power.onPowerStartPower.onStackCountPower.condition0.StatEnergyProjectionModifier$ Энергии на $param1.power.onPowerStartPower.onStackCountPower.condition0.duration$"
     },
     "5447427633457005876": {
       "Variants": [],
@@ -17794,7 +17794,7 @@
     "5459484792067982643": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Бронированный костюм Тора \"Разрушитель\""
+      "String": "Костюм Тора \"Броня Разрушителя\""
     },
     "5459905462645818682": {
       "Variants": [],
@@ -17839,7 +17839,7 @@
     "5462747975026279693": {
       "Variants": [],
       "FlagsProduced": 62706,
-      "String": "костюм Соколиного Глаза \"Сокол\" (лиловая майка)"
+      "String": "Домашний костюм Соколиного Глаза (лиловая майка)"
     },
     "5462772903069353272": {
       "Variants": [],
@@ -18354,7 +18354,7 @@
     "5487029516853445943": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рейтинг Сокрушительного удара: +$SuperCritRatingBonusAdd.precision0$ #hidden# ($SuperCritRatingBonusAdd.divbylevel$ за каждый уровень) #/hidden# для данной способности"
+      "String": "Рейтинг Сокрушительного удара: +$SuperCritRatingBonusAdd.precision0$ #hidden# ($SuperCritRatingBonusAdd.divbylevel$ за уровень) #/hidden# для данной способности"
     },
     "5487099889910285646": {
       "Variants": [],
@@ -21556,7 +21556,7 @@
     "5644588519510902085": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "После использования способности передвижения, получите $param1.power.condition0.DamageRating.nofraction$ Рейтинг ближнего боя на $param1.power.condition0.duration$ (перезарядка 15 сек)"
+      "String": "После использования способности Передвижения, получите $param1.power.condition0.DamageRating.nofraction$ Рейтинг Ближнего урона на $param1.power.condition0.duration$ (перезарядка 15 сек)"
     },
     "5644791259154220365": {
       "Variants": [],
@@ -21616,7 +21616,7 @@
     "5648038928725181755": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#ОМОН#/emphasis# урон Разгрома: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden#"
+      "String": "#emphasis#ОМОН#/emphasis# урон Разгрома: $damage$ #hidden#($damagerange.precision1.divbylevel$ за уровень)#/hidden#"
     },
     "5648140848241050891": {
       "Variants": [],
@@ -22798,7 +22798,7 @@
     "5702172855507551603": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Победите Мийоши"
+      "String": "Победите Миёши"
     },
     "5702335681887995150": {
       "Variants": [],
@@ -23869,7 +23869,7 @@
     "5758042279647839544": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Глифостоны"
+      "String": "Помощь"
     },
     "5758190262695232785": {
       "Variants": [],
@@ -24286,7 +24286,7 @@
     "5775636192219956498": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Резервный электрический генератор"
+      "String": "Резервный электрогенератор"
     },
     "5776044205514294536": {
       "Variants": [],
@@ -24596,7 +24596,7 @@
     "5792557384111359248": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ниндзя Кулака на подходе!"
+      "String": "Ниндзя Руки на подходе!"
     },
     "5792784991604770058": {
       "Variants": [],
@@ -26361,7 +26361,7 @@
     "5876246088946812221": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#EnhancedKeywordColor#УЛУЧШЕННЫЙ#/EnhancedKeywordColor# костюм Человека-Паука \"Девушка-Паук\""
+      "String": "#EnhancedKeywordColor#УЛУЧШЕННЫЙ#/EnhancedKeywordColor# костюм \"Девушка-Паук\""
     },
     "5876416023676519785": {
       "Variants": [],
@@ -26586,7 +26586,7 @@
     "5883899746509981049": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Родившись на Утином мире, странной планете в альтернативном измерении, Говард Утка оказался в ловушке на Земле после прибытия через Нексус всех Реальностей. Ховард объединялся со многими супергероями Земли и также сталкивался с суперзлодеями. Хотя у него нет суперспособностей, Говард Утка хорошо разбирается в искусстве Квак Фу и его никогда не следует недооценивать или списывать со счетов."
+      "String": "Родившись на Утином мире, странной планете в альтернативном измерении, Говард Утка оказался в ловушке на Земле после прибытия через Нексус всех Реальностей. Говард объединялся со многими супергероями Земли и также сталкивался с суперзлодеями. Хотя у него нет суперспособностей, Говард Утка хорошо разбирается в искусстве Квак Фу и его никогда не следует недооценивать или списывать со счетов."
     },
     "5884182539978671432": {
       "Variants": [],
@@ -27784,7 +27784,7 @@
     "5936832834711913835": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$evalregisterfloat0.pct$% шанс нанести $condition0.DamageRangeOverTime$ урона #hidden# ($condition0.DamageRangeOverTime.precision1.divbylevel$ за каждый уровень)#/hidden# 2 раза в сек в течение $condition0.duration$"
+      "String": "$evalregisterfloat0.pct$% шанс нанести $condition0.DamageRangeOverTime$ урона #hidden# ($condition0.DamageRangeOverTime.precision1.divbylevel$ за уровень)#/hidden# дважды в сек в течение $condition0.duration$"
     },
     "5937024407318037773": {
       "Variants": [],
@@ -28875,7 +28875,7 @@
     "5993725264233432371": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Эта способность наносит $evalRegisterFloat5.pct$% от #power#$powerReference0.powerName.locflagG$#/power# урона 2 раза в сек"
+      "String": "Эта способность наносит $evalRegisterFloat5.pct$% от #power#$powerReference0.powerName.locflagG$#/power# урона дважды в сек"
     },
     "5994349971466159366": {
       "Variants": [],
@@ -28946,7 +28946,7 @@
     "5996381649982195017": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "От группы логистики ЩИТа – упаковка с 10 Осколками Вечности (остатками Космического Куба). Осколки используются как альтернативный способ бесплатного получения героев, жетонов абсолютного улучшения и многих других полезных вещей для начинающих героев. \n#emphasis#Щёлкните ПКМ для получения награды.#/emphasis#"
+      "String": "Спасибо за игру в Marvel Heroes Omega! \n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#"
     },
     "5997453514954442089": {
       "Variants": [],
@@ -29627,7 +29627,7 @@
     "6029106826804397316": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Доберитесь до #mission#Мадрипура#/mission#, чтобы найти Скрижаль Жизни и Времени.\n\nИщите #mission#Нижний город#/mission# по красно-белой полосатой парикмахерской стойке. Затем поднимитесь на верхний этаж и поговорите с парикмахером, чтобы войти в Разведпост.\n\n#mission#Агент Джеймс Ву#/mission# управляет нашей операцией в Мадрипуре внутри города. Найдите его в #mission#Разведпосте ЩИТа#/mission# и я попрошу его отметить любую информацию о Таблетке для вас.\n\nБудьте осторожны. Город контролируется Кланом, но ГИДРА хочет это изменить. Ожидайте сильного сопротивления с обеих сторон."
+      "String": "Доберитесь до #mission#Мадрипура#/mission#, чтобы найти Скрижаль Жизни и Времени.\n\nИщите #mission#Нижний город#/mission# по красно-белой полосатой парикмахерской стойке. Затем поднимитесь на верхний этаж и поговорите с парикмахером, чтобы войти в Разведпост.\n\n#mission#Агент Джеймс Ву#/mission# управляет нашей операцией в Мадрипуре внутри города. Найдите его в #mission#Разведпосте ЩИТа#/mission# и я попрошу его отметить любую информацию о Скрижали для вас.\n\nБудьте осторожны. Город контролируется Рукой, но ГИДРА хочет это изменить. Ожидайте сильного сопротивления с обеих сторон."
     },
     "6029360191281038649": {
       "Variants": [],
@@ -30987,7 +30987,7 @@
     "6097422988942837011": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Хлопок в ладоши"
+      "String": "Удар ладонью"
     },
     "6097710721689912598": {
       "Variants": [],
@@ -30997,7 +30997,7 @@
     "6098043577419695433": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.noFraction.abs$ $param0.resistanceType$ ($propertyValue.divByLevel.precision1$ за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.noFraction.abs$ $param0.resistanceType$ ($propertyValue.divByLevel.precision1$ за уровень)"
     },
     "6098202529795278091": {
       "Variants": [],
@@ -31943,7 +31943,7 @@
     "6143919261271393605": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получены данные о disturbance: Победите Мандарина!"
+      "String": "Получены Разведданные о беспорядках: Победите Мандарина!"
     },
     "6144086928150955289": {
       "Variants": [],
@@ -32023,7 +32023,7 @@
     "6147881093725619526": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получены данные о disturbance: Победите Человека-Обезьяну!"
+      "String": "Получены Разведданные о беспорядках: Победите Человека-Обезьяну!"
     },
     "6147958012286666046": {
       "Variants": [],
@@ -32188,7 +32188,7 @@
     "6157193325843121467": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Аура Твёрдой скалы:\nПри нанесении Критического удара вы и ваши союзники получаете +$param1.power.condition0.defense.nofraction$ Рейтинг Защиты, +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг Ближнего урона и +1 Скорость на $param1.power.condition0.duration$"
+      "String": "Аура Твёрдой скалы:\nПри нанесении Критического удара вы и ваши союзники получаете +$param1.power.condition0.defense.nofraction$ Рейтинг Защиты, +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг Ближнего урона и +1 Скорости на $param1.power.condition0.duration$"
     },
     "6157204990915249418": {
       "Variants": [],
@@ -33413,7 +33413,7 @@
     "6218587405069780215": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Общий счёт команды"
+      "String": "Общий"
     },
     "6218666325185398099": {
       "Variants": [],
@@ -34320,7 +34320,7 @@
     "6266723770868565358": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+$param1.power.evalRegisterFloat0$ Рейтинг Ментального удара ($param1.power.evalRegisterFloat0.divByLevel.precision1$ за каждый уровень) на $param1.power.condition0.duration$ при попадании способностей $param2.keyword$"
+      "String": "+$param1.power.evalRegisterFloat0$ Рейтинг Ментального удара ($param1.power.evalRegisterFloat0.divByLevel.precision1$ за уровень) на $param1.power.condition0.duration$ при попадании способностей $param2.keyword$"
     },
     "6267065813355791633": {
       "Variants": [],
@@ -34360,7 +34360,7 @@
     "6269111656659289406": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#mission#Скруллы-имитаторы#/mission# некоторых из самых уважаемых героев Адской Кухни приближаются к нашей позиции. Вам нужно игнорировать то, как они выглядят, и доверять мне, что они именно то, чем являются.\n\nУдачи. Я рассчитываю на вас."
+      "String": "#mission#Скруллы-самозванцы#/mission# некоторых из самых уважаемых героев Адской Кухни приближаются к нашей позиции. Вам нужно игнорировать то, как они выглядят, и доверять мне, что они именно то, чем являются.\n\nУдачи. Я рассчитываю на вас."
     },
     "6269681542978798906": {
       "Variants": [],
@@ -34621,7 +34621,7 @@
     "6279676404264142084": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Активатор портала Ручной Башни"
+      "String": "Активатор портала Башни Руки"
     },
     "6279746880384468231": {
       "Variants": [],
@@ -37666,7 +37666,7 @@
     "6412486886296913218": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рейтинг урона: +$damagerating$ #hidden#($damagerating.divbylevel$ за каждый уровень)#/hidden# в течение $duration$"
+      "String": "Рейтинг урона: +$damagerating$ #hidden#($damagerating.divbylevel$ за уровень)#/hidden# в течение $duration$"
     },
     "6412574237338502462": {
       "Variants": [],
@@ -39033,7 +39033,7 @@
     "6476765469936977228": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#$PowerName$#/powername# теперь восстанавливает $onpowerhitpower.enduranceChangeBase$ $primarymanabehaviorname$ при попадании"
+      "String": "#powername#$PowerName$#/powername# теперь восстанавливает $onpowerhitpower.enduranceChangeBase$ $primarymanabehaviorname.locflagG$ за удар"
     },
     "6477424644317775157": {
       "Variants": [],
@@ -40148,7 +40148,7 @@
     "6525645723929347400": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Сапоги Кулака"
+      "String": "Сапоги Руки"
     },
     "6525679400774468945": {
       "Variants": [],
@@ -40815,7 +40815,7 @@
     "6560532819789546763": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$primaryManaBehaviorName$ при ударе"
+      "String": "$primaryManaBehaviorName$ за удар"
     },
     "6560661247887803641": {
       "Variants": [],
@@ -40880,7 +40880,7 @@
     "6563426549775205700": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.noFraction$ Рейтинг урона сокрушительного удара ($propertyValue.divByLevel.precision1$ за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.noFraction$ Рейтинг урона сокрушительного удара ($propertyValue.divByLevel.precision1$ за уровень)"
     },
     "6563435019443504445": {
       "Variants": [],
@@ -41447,7 +41447,7 @@
     "6590017830474679624": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Дело кредитов"
+      "String": "Кейс с Кредитами"
     },
     "6590028138396124490": {
       "Variants": [],
@@ -42053,7 +42053,7 @@
     "6620979253215429904": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Домашний костюм Соколиного Глаза (с тренировочными штанами)"
+      "String": "Домашний костюм Соколиного Глаза (треники)"
     },
     "6621805626463159624": {
       "Variants": [],
@@ -42969,7 +42969,7 @@
     "6658018591728272749": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Кулак и Змеелюди, работающие вместе, чтобы собрать магическую силу?\n\nЭтот союз не сулит ничего хорошего для ЩИТ."
+      "String": "Рука и Змеелюди, работающие вместе, чтобы собрать магическую силу?\n\nЭтот союз не сулит ничего хорошего для ЩИТ."
     },
     "6658040229778031987": {
       "Variants": [],
@@ -42979,7 +42979,7 @@
     "6658124050291885369": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#waypointheader#Огонь и Лёд PvP#/waypointheader# #waypointlabel#ЛОКАЦИЯ:#/waypointlabel# #waypointlevels#Асгард#/waypointlevels##waypointlabel# УРОВЕНЬ:#/waypointlabel##waypointlevels#60#/waypointlevels#\n#waypointtext#Ваша задача - защищать племя асгардских гигантов и помочь им в бою с их древними врагами.\n- Присоединитесь к группе любого размера или сражайтесь в одиночку в бою 5v5.\n- Во время боя собирайте рунные камни, выпадающие из поверженных противников, чтобы получать усилители на время матча.\n- Получайте золотые короны за каждый матч и приобретайте уникальные кольца PvP у богов Асгарда.\n- Перезарядка способностей в PvP может отличаться от обычного, но никаких других изменений нет.#/waypointtext#"
+      "String": "#waypointheader#Огонь и Лёд PvP#/waypointheader# #waypointlabel#ЛОКАЦИЯ:#/waypointlabel# #waypointlevels#Асгард#/waypointlevels##waypointlabel# УРОВЕНЬ:#/waypointlabel##waypointlevels#60#/waypointlevels#\n#waypointtext#Ваша задача - защищать племя асгардских гигантов и помочь им в бою с их древними врагами.\n- Присоединитесь к группе любого размера или сражайтесь в одиночку в бою 5v5.\n- Во время боя собирайте глифовые камни, выпадающие из поверженных противников, чтобы получать усилители на время матча.\n- Получайте золотые короны за каждый матч и приобретайте уникальные кольца PvP у богов Асгарда.\n- Перезарядка способностей в PvP может отличаться от обычного, но никаких других изменений нет.#/waypointtext#"
     },
     "6658132343940580720": {
       "Variants": [],
@@ -43549,7 +43549,7 @@
     "6683263447307257105": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Победите культистов"
+      "String": "Победите Культистов"
     },
     "6683390148896097596": {
       "Variants": [],
@@ -45056,7 +45056,7 @@
     "6754999786371679491": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Костюм Легендарного Звёздного Лорда"
+      "String": "Костюм Звёздного Лорда \"Легендарный\""
     },
     "6755008784514745756": {
       "Variants": [],
@@ -45471,7 +45471,7 @@
     "6774306806900852040": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Удар#/emphasis# робота - урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden#"
+      "String": "#emphasis#Удар#/emphasis# робота - урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за уровень)#/hidden#"
     },
     "6774308838363366681": {
       "Variants": [],
@@ -47595,7 +47595,7 @@
     "6870616788472825159": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Мы сказали, что подождём до их встречи с Кланом, и именно это мы и сделаем."
+      "String": "Мы сказали, что подождём до их встречи с Рукой, и именно это мы и сделаем."
     },
     "6870669698173306178": {
       "Variants": [],
@@ -48361,7 +48361,7 @@
     "6910648705408632087": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получены данные о disturbance: Победите Мандарина!"
+      "String": "Получены Разведданные о беспорядках: Победите Мандарина!"
     },
     "6910878915701835065": {
       "Variants": [],
@@ -49396,7 +49396,7 @@
     "6960302216776254781": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Стрелок#/emphasis# Урон от обстрела: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень) #/hidden# 2 раза в сек"
+      "String": "#emphasis#Стрелок#/emphasis# Урон от обстрела: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за уровень) #/hidden# дважды в сек"
     },
     "6960845491487900994": {
       "Variants": [],
@@ -50218,7 +50218,7 @@
     "6998176505405179194": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рунные камни:"
+      "String": "Глифовые камни:"
     },
     "6998387766202270989": {
       "Variants": [],
@@ -50364,7 +50364,7 @@
     "7003970871503029521": {
       "Variants": [],
       "FlagsProduced": 62706,
-      "String": "Костюм Дэдпула с завязанными глазами"
+      "String": "Костюм Дэдпула \"Дзэнпул\" (повязка)"
     },
     "7004621833971565874": {
       "Variants": [],
@@ -50919,7 +50919,7 @@
     "7031156730405127531": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Добавляет рунное слово #emphasis#Ярость Всеотца#/emphasis# на любой #emphasis#Уру-кованый предмет#/emphasis#, заменяя существующее рунное слово и привязывая предмет к вашей учётной записи.\n\nПредметы 50 уровня получают бонусы:\n#emphasis#+300 Здоровье#/emphasis#\n#emphasis#+300 Рейтинг Ближнего урона#/emphasis#\n#emphasis#+300 Рейтинг крит. удара Ближнего боя#/emphasis#\n#emphasis#3% Снижение от урона по Области#/emphasis#\n#emphasis#3% Снижение урона от Дальних способностей#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы Здоровья, Рейтинга урона и крит. удара."
+      "String": "Добавляет рунное слово #emphasis#Ярость Всеотца#/emphasis# на любой #emphasis#Уру-кованый предмет#/emphasis#, заменяя существующее рунное слово и привязывая предмет к вашей учётной записи.\n\nПредметы 50 уровня получают бонусы:\n#emphasis#+300 Здоровье#/emphasis#\n#emphasis#+300 Рейтинг Ближнего урона#/emphasis#\n#emphasis#+300 Рейтинг Критического удара Ближней способностью#/emphasis#\n#emphasis#3% Снижение от урона по Области#/emphasis#\n#emphasis#3% Снижение урона от Дальних способностей#/emphasis#\n\nПредметы 25 уровня получают половинные бонусы Здоровья, Рейтинга урона и крит. удара."
     },
     "7031612585287222586": {
       "Variants": [],
@@ -53052,7 +53052,7 @@
     "7136082674018813253": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "От группы логистики ЩИТа – упаковка с 10 Осколками Вечности (остатками Космического Куба). Осколки используются как альтернативный способ бесплатного получения героев, жетонов абсолютного улучшения и многих других полезных вещей для начинающих героев. \n#emphasis#Щёлкните ПКМ для получения награды.#/emphasis#"
+      "String": "Спасибо за игру в Marvel Heroes Omega! \n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#"
     },
     "7136100455257998723": {
       "Variants": [],
@@ -53112,7 +53112,7 @@
     "7138596595677594939": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Электра Классический Костюм"
+      "String": "Классический костюм Электры"
     },
     "7138615411934299454": {
       "Variants": [],
@@ -53874,7 +53874,7 @@
     "7169900224357795180": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рейт. крит. удара: +$CritRatingPowerBonusAdd.precision0$ #hidden# ($CritRatingPowerBonusAdd.divbylevel$ за каждый уровень) #/hidden# для данной способности"
+      "String": "Рейт. крит. удара: +$CritRatingPowerBonusAdd.precision0$ #hidden# ($CritRatingPowerBonusAdd.divbylevel$ за уровень) #/hidden# для данной способности"
     },
     "7169916863003821376": {
       "Variants": [],
@@ -54114,7 +54114,7 @@
     "7181780945587930369": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Костюм Грин Гоблина из Громовержцев"
+      "String": "Костюм Зелёного Гоблина \"Громовержцы\""
     },
     "7181816688373073214": {
       "Variants": [],
@@ -54214,7 +54214,7 @@
     "7186037812295959871": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рейтинги урона и Критического урона: +$CritRatingBonusAdd.precision0$ #hidden# ($CritRatingBonusAdd.divbylevel$ за каждый уровень) #/hidden# на $duration$ при попадании способности Лучника или Паука"
+      "String": "Рейтинги урона и Критического урона: +$CritRatingBonusAdd.precision0$ #hidden# ($CritRatingBonusAdd.divbylevel$ за уровень) #/hidden# на $duration$ при попадании способности Лучника или Паука"
     },
     "7186135660295488870": {
       "Variants": [],
@@ -54625,7 +54625,7 @@
     "7207907841596196153": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получите $param1.power.endurancechangebase$ $primarymanabehaviorname$, когда подберёте глифостон"
+      "String": "Получите $param1.power.endurancechangebase$ $primarymanabehaviorname$, когда подберёте глифовый камень"
     },
     "7207991769559795011": {
       "Variants": [],
@@ -55086,7 +55086,7 @@
     "7232267311203484942": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Красный штурмовик ГИДРЫ"
+      "String": "Штурмовик Красной ГИДРЫ"
     },
     "7232302134915499373": {
       "Variants": [],
@@ -55176,7 +55176,7 @@
     "7235756379425146124": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.abs$ $param0.resistanceType$ ($propertyValue.divByLevel.precision1$ за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.abs$ $param0.resistanceType$ ($propertyValue.divByLevel.precision1$ за уровень)"
     },
     "7235985000523695359": {
       "Variants": [],
@@ -57612,7 +57612,7 @@
     "7351879487517820173": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Человек-Паук: Возвращение домой Самодельный капюшон"
+      "String": "Костюм \"Человек-паук: Возвращение домой\" (самодельный, с капюшоном)"
     },
     "7351975230916330750": {
       "Variants": [],
@@ -57787,7 +57787,7 @@
     "7361177615036384582": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.noFraction$ Рейтинг урона от сокрушительного удара ($propertyValue.divByLevel.precision1$ за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.noFraction$ Рейтинг урона от сокрушительного удара ($propertyValue.divByLevel.precision1$ за уровень)"
     },
     "7361493681662723378": {
       "Variants": [],
@@ -58496,7 +58496,7 @@
     "7389523836487206159": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Костюм Спектрального Видения"
+      "String": "Костюм Вижна \"Спектральный\""
     },
     "7389998799741912339": {
       "Variants": [],
@@ -58976,7 +58976,7 @@
     "7412588760104764728": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Якоря #mission#миссии#/mission# расположены в трёх разных локациях, связанных с Хайтауном.\n\nИспользуйте путевые точки #mission#Посадочной зоны Хайтауна#/mission# или #mission#Безопасной зоны Хайтауна#/mission# (Глава 10), чтобы найти их."
+      "String": "#mission#Якоря#/mission# расположены в трех разных локациях, связанных с Хайтауном.\n\nИспользуйте путевые точки #mission#Зоны высадки Хайтауна#/mission# или #mission#Безопасной зоны Хайтауна#/mission# (Глава 10), чтобы найти их."
     },
     "7412936592393635181": {
       "Variants": [],
@@ -59572,7 +59572,7 @@
     "7436133676329010483": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Победите сектантов"
+      "String": "Победите Культистов"
     },
     "7436507926960342379": {
       "Variants": [],
@@ -59908,7 +59908,7 @@
     "7451331104639616365": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Осколочный урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden#"
+      "String": "Осколочный урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за уровень)#/hidden#"
     },
     "7451536017537500535": {
       "Variants": [],
@@ -60564,7 +60564,7 @@
     "7480951050113713403": {
       "Variants": [],
       "FlagsProduced": 62706,
-      "String": "Потрёпанный в бою костюм Сорвиголовы \"Человек без страха\""
+      "String": "Костюм Сорвиголовы \"Человек без страха\" (поврежденный в бою)"
     },
     "7481013219839247680": {
       "Variants": [],
@@ -60719,7 +60719,7 @@
     "7487263913316189450": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Мидтаун день космич."
+      "String": "День Космич. Мидтауна"
     },
     "7487422556577858870": {
       "Variants": [],
@@ -61535,7 +61535,7 @@
     "7525724422087443766": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Руны защиты"
+      "String": "Глифы защиты"
     },
     "7525816184076567878": {
       "Variants": [],
@@ -61595,7 +61595,7 @@
     "7528187225065456964": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рейтинг Критического удара: +$CritRatingBonusAdd.precision0$#hidden# ($CritRatingBonusAdd.divByLevel$ за каждый уровень)#/hidden# на $duration$"
+      "String": "Рейтинг Критического удара: +$CritRatingBonusAdd.precision0$#hidden# ($CritRatingBonusAdd.divByLevel$ за уровень)#/hidden# на $duration$"
     },
     "7528302068184450359": {
       "Variants": [],
@@ -62035,7 +62035,7 @@
     "7545032292947264822": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Активатор портала Ручной Башни"
+      "String": "Активатор портала Башни Руки"
     },
     "7545058720019056039": {
       "Variants": [],
@@ -63586,7 +63586,7 @@
     "7625595635869746441": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Классический костюм Соколиного Глаза"
+      "String": "Классический костюм Соколиного Глаза (обновлён)"
     },
     "7625669354744251704": {
       "Variants": [],
@@ -63952,7 +63952,7 @@
     "7640731667620824385": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получена информация о disturbance: Победите Кириги!"
+      "String": "Получены Разведданные о беспорядках: Победите Кириги!"
     },
     "7640817296380265789": {
       "Variants": [],
@@ -65207,7 +65207,7 @@
     "7698985945432327482": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.nofraction$#hidden# ($DamageRatingBonusForPowerKeyword.precision1.divbylevel$ за каждый уровень)#/hidden# для способностей ближнего боя на $duration$ при попадании Дальней способностью"
+      "String": "Рейтинг урона: +$DamageRatingBonusForPowerKeyword.nofraction$#hidden# ($DamageRatingBonusForPowerKeyword.precision1.divbylevel$ за уровень)#/hidden# для Ближних способностей на $duration$ при попадании Дальней способностью"
     },
     "7699172003366962453": {
       "Variants": [],
@@ -66498,7 +66498,7 @@
     "7759476247646504246": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$DamageTypeOverTime$ урон: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за каждый уровень) #/hidden# 2 раза в сек в течение $duration$"
+      "String": "$DamageTypeOverTime$ урон: $DamageRangeOverTime$ #hidden# ($DamageRangeOverTime.precision1.divbylevel$ за уровень) #/hidden# дважды в сек в течение $duration$"
     },
     "7759697021860644164": {
       "Variants": [],
@@ -66583,7 +66583,7 @@
     "7763550092855149891": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.noFraction.abs$ $param0.resistanceType$ ($propertyValue.divByLevel.precision1$ за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.noFraction.abs$ $param0.resistanceType$ ($propertyValue.divByLevel.precision1$ за уровень)"
     },
     "7764735469467403583": {
       "Variants": [],
@@ -66658,7 +66658,7 @@
     "7768787010829747453": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Лауфей"
+      "String": "Лафей"
     },
     "7769476756889601355": {
       "Variants": [],
@@ -66708,7 +66708,7 @@
     "7771658063394112831": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ночной Змей присоединился к Людям Икс после того, как профессор Ксавьер спас его от разъярённой толпы, принявшей его за демона."
+      "String": "Ночной Змей присоединился к Людям Икс после того, как профессор Ксавье спас его от разъярённой толпы, принявшей его за демона."
     },
     "7771688587790124403": {
       "Variants": [],
@@ -67779,7 +67779,7 @@
     "7820122345589900671": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Таинственная Синяя Коробка содержит Уникальные предметы от некоторых из самых мощных суперзлодеев.\n\n#emphasis#Коробка имеет равные шансы содержать:#/emphasis#\nСават-ботинки Батрога\nКапюшон Кобры\nПлащ Черепа\nКресло Судного дня\nПыль Смерти\nШлем Дума\nКатана Кириги\nПоцелуй Гадюки\nЛьвиный жилет Крэйвена\nПлащ монарха Латверии\nМаска Алгрима\nМаска Ксорна\nСапоги Нисанти\nКонтроллер Октобота\nШкура священной Белой гориллы\nТрость с рубиновым навершием\nСандзяку-Тэнугуи\nБиоинженерный Кирас Зловещего\nКопьё племени Белой гориллы\nВиброударные перчатки\n\nВсе эти Уникальные предметы будут иметь Бонус испытания."
+      "String": "Таинственная Синяя Коробка содержит Уникальные предметы от некоторых из самых мощных суперзлодеев.\n\n#emphasis#Коробка имеет равные шансы содержать:#/emphasis#\nСават-ботинки Батрока\nКапюшон Кобры\nПлащ Черепа\nКресло Судного дня\nПыль Смерти\nШлем Дума\nКатана Кириги\nПоцелуй Гадюки\nЛьвиный жилет Крэйвена\nПлащ монарха Латверии\nМаска Алгрима\nМаска Ксорна\nСапоги Нисанти\nКонтроллер Октобота\nШкура священной Белой гориллы\nТрость с рубиновым навершием\nСандзяку-Тэнугуи\nБиоинженерный Кирас Зловещего\nКопьё племени Белой гориллы\nВиброударные перчатки\n\nВсе эти Уникальные предметы будут иметь Бонус испытания."
     },
     "7820296630937519378": {
       "Variants": [],
@@ -69502,7 +69502,7 @@
     "7894531747615802631": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#mission#Скруллы, выдающие себя за Людей Икс#/mission# приближаются к нашей позиции. Вам нужно игнорировать то, как они выглядят, и довериться мне, что они именно то, за кого себя выдают.\n\nУдачи. Я на вас рассчитываю."
+      "String": "#mission#Скруллы-самозванцы из Людей Икс#/mission# приближаются к нашей позиции. Вам нужно игнорировать то, как они выглядят, и довериться мне, что они именно то, за кого себя выдают.\n\nУдачи. Я на вас рассчитываю."
     },
     "7894557650754078115": {
       "Variants": [],
@@ -69843,7 +69843,7 @@
     "7912148170213623090": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Космически усиленный Резервный Электрический Генератор"
+      "String": "Космически усиленный Резервный электрогенератор"
     },
     "7912288735911347518": {
       "Variants": [],
@@ -70394,7 +70394,7 @@
     "7937315480280171836": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При нанесении Сокрушительного удара в ближнем бою вы получаете +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг Ближнего урона, +$param1.power.condition0.critratingbonusaddpowerkeyword.nofraction$ Рейтинг Критического удара для атак ближнего боя, +$param1.power.condition0.defense.nofraction$ Рейтинг Защиты и +$param1.power.condition0.Dodgeratingbonusadd.nofraction$ Рейтинг Уклонения на $param1.power.condition0.duration$"
+      "String": "При Сокрушительном ударе Ближней способностью получаете +$param1.power.condition0.damageratingbonusforpowerkeyword.nofraction$ Рейтинг Ближнего урона, +$param1.power.condition0.critratingbonusaddpowerkeyword.nofraction$ Рейтинг Критического удара Ближних способностей, +$param1.power.condition0.defense.nofraction$ Рейтинг Защиты и +$param1.power.condition0.Dodgeratingbonusadd.nofraction$ Рейтинг Уклонения на $param1.power.condition0.duration$"
     },
     "7937711910136186241": {
       "Variants": [],
@@ -70969,7 +70969,7 @@
     "7965388833935328578": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Награда за вход: День $DayNumber$\n#emphasis#Сундук с эпическим снаряжением#/emphasis#\nНа третий день ЩИТ дарит вам сундук с полным набором эпического снаряжения для героя, за которого вы сейчас играете."
+      "String": "Награда за вход: День $DayNumber$\n#emphasis#Кейс с Эпическим снаряжением#/emphasis#\nНа 3 день ЩИТ доставляет кейс, который содержит Эпическое снаряжение для вашего текущего героя."
     },
     "7965647073133069627": {
       "Variants": [],
@@ -71621,7 +71621,7 @@
     "7994349304430069005": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Росомаха Логан Костюм Якудзы"
+      "String": "Костюм Росомахи \"Якудза Логан\""
     },
     "7994367416354145584": {
       "Variants": [],
@@ -72900,7 +72900,7 @@
     "8053430573973439818": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.noFraction$ Рейтинг Сокрушительного удара ($propertyValue.divByLevel.precision1$ за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.noFraction$ Рейтинг Сокрушительного удара ($propertyValue.divByLevel.precision1$ за уровень)"
     },
     "8053437317004657934": {
       "Variants": [],
@@ -73822,7 +73822,7 @@
     "8096329261311919376": {
       "Variants": [],
       "FlagsProduced": 62706,
-      "String": "#EnhancedKeywordColor#УЛУЧШЕННЫЙ#/EnhancedKeywordColor# костюм Человека-Паука \"Железный паук\""
+      "String": "#EnhancedKeywordColor#УЛУЧШЕННЫЙ#/EnhancedKeywordColor# костюм \"Железный паук\""
     },
     "8096540655296316675": {
       "Variants": [],
@@ -74143,7 +74143,7 @@
     "8112054798792983873": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Нарушьте ритуал Кулака"
+      "String": "Нарушьте ритуал Руки"
     },
     "8112205109760689468": {
       "Variants": [],
@@ -74766,7 +74766,7 @@
     "8139416987467253062": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Засада#/emphasis# паукобоя - урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden#"
+      "String": "#emphasis#Засада#/emphasis# паукобоя - урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за уровень)#/hidden#"
     },
     "8139742808093361559": {
       "Variants": [],
@@ -75732,7 +75732,7 @@
     "8186756207252276591": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Поздравляем! Вы вошли в топ 50% этого турнира! Эта коробка содержит следующие награды:\n\nВизуальный артефакт: «Школа Ксавьера»\n500 Заслуг Комнаты опасности\n\nИспользуйте этот предмет, чтобы получить награду!"
+      "String": "Поздравляем! Вы вошли в топ 50% этого турнира! Эта коробка содержит следующие награды:\n\nВизуальный артефакт: Школа Ксавье\n500 Заслуг Комнаты опасности\n\nИспользуйте этот предмет, чтобы получить награду!"
     },
     "8187172892090697064": {
       "Variants": [],
@@ -77089,7 +77089,7 @@
     "8242949076727563513": {
       "Variants": [],
       "FlagsProduced": 62706,
-      "String": "Костюм авиатора Девушки-Белки"
+      "String": "Костюм Девушки-Белки \"Авиатор\""
     },
     "8243067304423589226": {
       "Variants": [],
@@ -77209,7 +77209,7 @@
     "8247322040715904332": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Если вам нужен сбалансированный арсенал наступательных и оборонительных способностей как для стрелкового, так и для ближнего боя, выберите Капитана Америку."
+      "String": "Выберите Капитана Америку, если вам нравится сбалансированное сочетание атакующих и защитных механик, а также дальних и ближних атак."
     },
     "8248441313533822318": {
       "Variants": [],
@@ -77339,7 +77339,7 @@
     "8255168529338467643": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#waypointheader#Огонь и Лёд PvP#/waypointheader# #waypointlabel#ЛОКАЦИЯ:#/waypointlabel# #waypointlevels#Асгард#/waypointlevels##waypointlabel# ДИАПАЗОН УРОВНЕЙ:#/waypointlabel##waypointlevels#20-29#/waypointlevels#\n#waypointtext#Ваша задача - защищать племя асгардских гигантов и помочь им в бою с их древними врагами.\n- Присоединитесь к группе любого размера или сражайтесь в одиночку в бою 5v5.\n- Во время боя собирайте рунные камни, выпадающие из поверженных противников, чтобы получать усилители на время матча.\n- Получайте золотые короны за каждый матч и приобретайте уникальные кольца PvP у богов Асгарда.\n- Перезарядка способностей в PvP может отличаться от обычного, но никаких других изменений нет. #/waypointtext#"
+      "String": "#waypointheader#Огонь и Лёд PvP#/waypointheader# #waypointlabel#ЛОКАЦИЯ:#/waypointlabel# #waypointlevels#Асгард#/waypointlevels##waypointlabel# ДИАПАЗОН УРОВНЕЙ:#/waypointlabel##waypointlevels#20-29#/waypointlevels#\n#waypointtext#Ваша задача - защищать племя асгардских гигантов и помочь им в бою с их древними врагами.\n- Присоединитесь к группе любого размера или сражайтесь в одиночку в бою 5v5.\n- Во время боя собирайте глифовые камни, выпадающие из поверженных противников, чтобы получать усилители на время матча.\n- Получайте золотые короны за каждый матч и приобретайте уникальные кольца PvP у богов Асгарда.\n- Перезарядка способностей в PvP может отличаться от обычного, но никаких других изменений нет. #/waypointtext#"
     },
     "8255268168353908085": {
       "Variants": [],
@@ -77489,7 +77489,7 @@
     "8261764353507656971": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.noFraction$ рейтинга урона при атаках $param0.damageType.locflagG$ типа ($propertyValue.divByLevel.precision1$ за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.noFraction$ рейтинга урона при атаках $param0.damageType.locflagG$ типа ($propertyValue.divByLevel.precision1$ за уровень)"
     },
     "8261872221669164349": {
       "Variants": [],
@@ -78802,7 +78802,7 @@
     "8321119268233086217": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Несмотря на все наши старания, сектанты сумели похитить ряд мирных жителей и переправить их в три разных ритуальных места. Мы отправляем подкрепления, но нам снова понадобится ваша помощь."
+      "String": "Несмотря на все наши старания, культисты сумели похитить ряд мирных жителей и переправить их в три разных ритуальных места. Мы отправляем подкрепления, но нам снова понадобится ваша помощь."
     },
     "8321198282805544251": {
       "Variants": [],
@@ -78862,7 +78862,7 @@
     "8325024248207377677": {
       "Variants": [],
       "FlagsProduced": 62706,
-      "String": "#EnhancedKeywordColor#УЛУЧШЕННЫЙ#/EnhancedKeywordColor# костюм Новы \"Сэм Александр\""
+      "String": "#EnhancedKeywordColor#УЛУЧШЕННЫЙ#/EnhancedKeywordColor# костюм \"Сэм Александр\""
     },
     "8326104973642761478": {
       "Variants": [],
@@ -79612,7 +79612,7 @@
     "8367104048622339401": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Укус#/emphasis# Короля-ящера - урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden#"
+      "String": "#emphasis#Укус#/emphasis# Короля-ящера - урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за уровень)#/hidden#"
     },
     "8367138644517717259": {
       "Variants": [],
@@ -79707,7 +79707,7 @@
     "8371077610620912955": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Золотой костюм Тора \"Царь Тор\""
+      "String": "Костюм Тора \"Король Тор\""
     },
     "8371147279221589252": {
       "Variants": [],
@@ -80238,7 +80238,7 @@
     "8396564440411997442": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Снижение урона: +$damageReductionPctFromGear.pct$% на $duration$ после использования #powerkeyword#Ближнего боя#/powerkeyword# или #powerkeyword#Движения#/powerkeyword# способности"
+      "String": "Снижение урона: +$damageReductionPctFromGear.pct$% на $duration$ после использования #powerkeyword#Ближней#/powerkeyword# способности или способности #powerkeyword#Передвижения#/powerkeyword#"
     },
     "8396564547861873996": {
       "Variants": [],
@@ -80563,7 +80563,7 @@
     "8409733699202188548": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "+$param1.power.evalRegisterFloat0$ Рейтинг Ближнего урона ($param1.power.evalRegisterFloat0.divByLevel.precision1$ за каждый уровень) на $param1.power.condition0.duration$ при попадании Ближней способностью"
+      "String": "+$param1.power.evalRegisterFloat0$ Рейтинг Ближнего урона ($param1.power.evalRegisterFloat0.divByLevel.precision1$ за уровень) на $param1.power.condition0.duration$ при попадании Ближней способностью"
     },
     "8409829129081849095": {
       "Variants": [],
@@ -80978,7 +80978,7 @@
     "8432399517298656582": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Классический костюм Дэдпула \"Чтиво\""
+      "String": "Костюм Дэдпула \"Чтиво\""
     },
     "8432400681232827715": {
       "Variants": [],
@@ -81038,7 +81038,7 @@
     "8434513573150721291": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "У нас есть информация о том, что несколько сбежавших суперзлодеев из Рафта были замечены в #mission#Адской кухне#/mission#, районе с высоким уровнем преступности в Манхэттене.\n\nЯ отправил #mission#Агента Колсона#/mission# для координации операций там. Когда вы доберётесь туда, свяжитесь с ним, чтобы узнать, как вы можете помочь.\n\nОдин из моих агентов может доставить вас в Адскую кухню, когда вы будете готовы отправиться."
+      "String": "У нас есть информация о том, что несколько сбежавших суперзлодеев из Рафта были замечены в #mission#Адской кухне#/mission#, районе с высоким уровнем преступности в Манхэттене.\n\nЯ отправила #mission#Агента Колсона#/mission# для координации операций там. Когда вы доберётесь туда, свяжитесь с ним, чтобы узнать, как вы можете помочь.\n\nОдин из моих агентов может доставить вас в Адскую кухню, когда вы будете готовы отправиться."
     },
     "8434607109061543270": {
       "Variants": [],
@@ -81686,7 +81686,7 @@
     "8463911902857463152": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Поздравляем! Вы вошли в топ 20% этого турнира! Эта коробка содержит следующие награды:\n\nВизуальный артефакт: «Портал в Комнату опасности»\nВизуальный артефакт: «Школа Ксавьера»\n500 Заслуг Комнаты опасности\n\nИспользуйте этот предмет, чтобы получить награду!"
+      "String": "Поздравляем! Вы вошли в топ 20% этого турнира! Эта коробка содержит следующие награды:\n\nВизуальный артефакт: «Портал в Комнату опасности»\nВизуальный артефакт: Школа Ксавье\n500 Заслуг Комнаты опасности\n\nИспользуйте этот предмет, чтобы получить награду!"
     },
     "8463912791785669888": {
       "Variants": [],
@@ -81766,7 +81766,7 @@
     "8467430078020388166": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Дело о Сферах Опытов"
+      "String": "Кейс со Сферами Опыта"
     },
     "8467490963471205695": {
       "Variants": [],
@@ -82868,7 +82868,7 @@
         }
       ],
       "FlagsProduced": 65535,
-      "String": "#flavor#$runestonesamount:0$ Рунного камня#/flavor#"
+      "String": "#flavor#$runestonesamount:0$ Глифовых камней#/flavor#"
     },
     "8516168825657558276": {
       "Variants": [],
@@ -83608,7 +83608,7 @@
     "8547305247037130100": {
       "Variants": [],
       "FlagsProduced": 62706,
-      "String": "Костюм Мистера Фантастика \"Марвел Сейчас!\""
+      "String": "Костюм Мистера Фантастика \"Совершенно новые Марвел Сейчас!\""
     },
     "8547605319088538884": {
       "Variants": [],
@@ -83843,7 +83843,7 @@
     "8556690115647505776": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Победите Цусигумо"
+      "String": "Победите Цутигумо"
     },
     "8557103459002746224": {
       "Variants": [],
@@ -84854,7 +84854,7 @@
     "8609337790273619207": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Горящие стрелы#/emphasis# - $damageTypeOverTime$ урон: $damageRangeOverTime$ #hidden# ($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# 2 раза в сек на $duration$ после попадания"
+      "String": "#emphasis#Горящие стрелы#/emphasis# - $damageTypeOverTime$ урон: $damageRangeOverTime$ #hidden# ($damageRangeOverTime.precision1.divByLevel$ за уровень)#/hidden# дважды в сек на $duration$ после попадания"
     },
     "8609392284879619388": {
       "Variants": [],
@@ -85311,7 +85311,7 @@
     "8630101693708961039": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#mission#Локация: Центральный район#/mission#\n\nВнедрённый Скруллы, выдающие себя за нескольких #mission#героев из Адской Кухни#/mission#, были замечены на улицах Хайтауна.\n\nНам нужно остановить их, прежде чем они достигнут своих целей, которые они преследуют от имени Империи Скруллов.\n    "
+      "String": "#mission#Локация: Центральный район#/mission#\n\nВнедрённые Скруллы, выдающие себя за нескольких #mission#героев из Адской Кухни#/mission#, были замечены на улицах Хайтауна.\n\nНам нужно остановить их, прежде чем они достигнут своих целей, которые они преследуют от имени Империи Скруллов.\n    "
     },
     "8630348452461675786": {
       "Variants": [],
@@ -85722,7 +85722,7 @@
     "8649637674571007239": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Пистолет - $damagetype$ урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за каждый уровень)#/hidden#"
+      "String": "Пистолет - $damagetype$ урон: $damage$ #hidden#($damagerange.precision1.divbylevel$ за уровень)#/hidden#"
     },
     "8649663152445719926": {
       "Variants": [],
@@ -85817,7 +85817,7 @@
     "8656676151014524170": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Убийственный запал"
+      "String": "Получено"
     },
     "8656972108684985668": {
       "Variants": [],
@@ -86172,7 +86172,7 @@
     "8676443841134134589": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Полученный урон"
+      "String": "Всего"
     },
     "8676884006500500745": {
       "Variants": [],
@@ -86307,7 +86307,7 @@
     "8683242293337720139": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Дело 5 Матриц отвязки"
+      "String": "Кейс с 5 Матрицами отвязки"
     },
     "8683251501747537229": {
       "Variants": [],
@@ -87022,7 +87022,7 @@
     "8717879164472067407": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.abs.noFraction$ Рейтинг Уклонения ($propertyValue.divByLevel.precision1$ за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.abs.noFraction$ Рейтинг Уклонения ($propertyValue.divByLevel.precision1$ за уровень)"
     },
     "8718237747114476967": {
       "Variants": [],
@@ -87283,7 +87283,7 @@
     "8731779589888869695": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "современный костюм Туманного Рыцаря"
+      "String": "Современный костюм Мисти Найт"
     },
     "8732045525618394383": {
       "Variants": [],
@@ -88290,7 +88290,7 @@
     "8778893757572187406": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получите $param1.power.endurancechangebase$ $primarymanabehaviorname$ при попадании"
+      "String": "Даёт $param1.power.endurancechangebase$ $primarymanabehaviorname.locflagG$ за удар"
     },
     "8778917680597501248": {
       "Variants": [],
@@ -88980,7 +88980,7 @@
     "8814629023700485440": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Цуцигумо охраняет путь к башне. Возможно, вы сможете убедить его пропустить вас."
+      "String": "Цутигумо охраняет путь к башне. Возможно, вы сможете убедить его пропустить вас."
     },
     "8814852868799464761": {
       "Variants": [],
@@ -89005,7 +89005,7 @@
     "8815429949208003911": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.abs$ Воли ($propertyValue.divByLevel.precision1$ за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.abs$ Воли ($propertyValue.divByLevel.precision1$ за уровень)"
     },
     "8815517416147911945": {
       "Variants": [],
@@ -89220,7 +89220,7 @@
     "8828069943461283133": {
       "Variants": [],
       "FlagsProduced": 62706,
-      "String": "Бинарный костюм Капитана Марвела"
+      "String": "Костюм Капитана Марвел \"Бинарность\""
     },
     "8828395501931660565": {
       "Variants": [],
@@ -89240,7 +89240,7 @@
     "8828872943436170561": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.noFraction$ Рейтинг Отражения ($propertyValue.divByLevel.precision1$ за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.noFraction$ Рейтинг Отражения ($propertyValue.divByLevel.precision1$ за уровень)"
     },
     "8828960723910198532": {
       "Variants": [],
@@ -91993,7 +91993,7 @@
     "8960206888594244870": {
       "Variants": [],
       "FlagsProduced": 62706,
-      "String": "Костюм Мстителей Халка"
+      "String": "Костюм Халка \"Отомстители\""
     },
     "8960268057591350601": {
       "Variants": [],
@@ -92263,7 +92263,7 @@
     "8975142147803972928": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "...эвакуация продолжается в Хайтауне, пока продолжается вторжение Скруллов. Семьи бегут от хаоса, но улицы стали полем битвы, где супергерои сражаются с invading Скруллами. Берегите себя, все. Оставайтесь дома и следите за новостями..."
+      "String": "...в Хайтауне полным ходом идёт эвакуация, пока вторжение Скруллов продолжается. Семьи бегут от хаоса, но улицы превратились в поле битвы, где супергерои сражаются с Скруллами-захватчиками. Берегите себя. Не выходите из своих домов и следите за новостями..."
     },
     "8975299528290731328": {
       "Variants": [],
@@ -93113,7 +93113,7 @@
     "9017988359231767814": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Пистолет"
+      "String": "Ручная пушка"
     },
     "9018039980444091655": {
       "Variants": [],
@@ -93798,7 +93798,7 @@
     "9050196048468182338": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Используйте коробку для специального взрыва лута в честь юбилея Marvel Heroes Omega!\n#emphasis#Это создаст предметы для вашего текущего героя.#/emphasis#\nСодержит:\nЭпические и Космические предметы снаряжения\nКатализатор\nРунические Глифы\nШанс получить случайный артефакт\n5 Исследовательских дисков АРМОР\nКредиты\nСфера Бесконечности\n\nЭто не может быть использовано в штабах."
+      "String": "Используйте коробку для специального взрыва лута в честь юбилея Marvel Heroes Omega!\n#emphasis#Это создаст предметы для вашего текущего героя.#/emphasis#\nСодержит:\nЭпические и Космические предметы снаряжения\nКатализатор\nРуны\nШанс получить случайный артефакт\n5 Исследовательских дисков АРМОР\nКредиты\nСфера Бесконечности\n\nЭто не может быть использовано в штабах."
     },
     "9050249494983410960": {
       "Variants": [],
@@ -94744,7 +94744,7 @@
     "9091157190159369480": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#listheader#PvP: ОГОНЬ И ЛЁД#/listheader#\n#emphasis#PvP: Огонь и Лёд#/emphasis# - это наш новый PvP-режим! Две команды по пять игроков в каждой ведут големов на штурм вражеской базы, уничтожая её #emphasis#оборонителей#/emphasis# и сокрушая #emphasis#хранителя#/emphasis#.\n\nЕсли ваша команда уничтожила вражеских оборонителей и хранителя, вы победили!\n\n\n#listheader#Вход в режим PvP: Огонь и Лёд#/listheader#\nДостигните уровня 20 и получите доступ к К.А.Р.Т.А., #mission#щёлкнув ЛКМ на любой #/mission# #emphasis#путевой точке#/emphasis#. Выберите \"PvP: Огонь и Лёд\" на вкладке #emphasis#Испытания#/emphasis# \n\nПосле подтверждения путевые точки, вы будете включены в очередь, и игра начнёт подбирать игроков, с которыми вы сможете играть в режиме PvP. Пока вы стоите в очереди, можете заниматься чем угодно. \n\nПолучив уведомление, что игра найдена, #mission#щёлкните ЛКМ#/mission# на оранжевом значке очереди вверху справа, затем #mission#щёлкните ЛКМ#/mission# на ОК, чтобы начать матч.\n\n#red#Группы по уровням#/red# \nPvP-матчи разбиты на группы по уровням, чтобы игроки всегда сражались с противниками примерно того же уровня. Группы по уровням:\n- Группа 1: Уровни 20-29\n- Группа 2: Уровни 30-39\n- Группа 3: Уровни 40-49\n- Группа 4: Уровни 50-59\n- Группа 5: Уровень 60\n\nИгроки, которые не достигли максимального уровня, допустимого в группе, получают бонусы, что помогает им играть на равных с остальными.\n\n#red#Игра в PvP-режиме в составе отряда#/red# \nЗаняв место в PvP-очереди вместе с отрядом, вы обязательно окажетесь в одной команде с друзьями, при условии, что они находятся в той же группе уровней.\n\n\n#listheader# Сражения с ОБОРОНИТЕЛЯМИ#/listheader#\nВ вашей PvP-фракции есть шесть оборонителей и один хранитель. Защищайте их! Если все семеро убиты, вы проиграли матч!\n\nИсход битвы часто зависит от оборонителей. Уничтожив одного из них, вы делаете большой шаг к победе.\n\n#red#Подсказка! Смертоносные оборонители#/red#\nОборонители очень опасны, они могут убить любого героя всего парой выстрелов, так что не сражайтесь с ними в одиночку!\n\n#red#Подсказка! Тактика оборонителей#/red#\nОборонитель будет атаковать первого врага, который приблизится на расстояние выстрела, и будет стрелять в него, пока не уничтожит. Если напасть на оборонителя, он не станет переключаться на новую цель, однако, если вы нападёте на вражеского героя, который находится с ним рядом, оборонитель немедленно вас атакует!\n\n#red#Подсказка! Уничтожайте оборонителей по порядку#/red#\nВы должны уничтожать оборонителей в том порядке, в котором вы их находите. Только самые ближние оборонители терпят урон - остальные неуязвимы!\n\n#listheader#Сражайтесь плечом к плечу со своими ГОЛЕМАМИ#/listheader#\nБаза каждой команды через регулярные интервалы времени производит #emphasis#големов#/emphasis#. Големы движутся строго по прямой, нападая на любого врага, которого увидят, будь это герой, оборонитель или другой голем.\n\n#red#Подсказка! Держитесь ближе к своим големам#/red#\nПусть весь урон от вражеских атак достаётся големам, а вам стоит вплотную заняться врагами. Это особенно важно, если вы атакуете могучего обронителя. Пусть оборонитель бьёт по вашим големам, а вы нападите на него, когда он \nотвлечётся.\n\n\n#listheader#КАМНИ СО ЗНАКАМИ И ЗНАКИ#/listheader#\nПобеждённые вражеские големы и герои роняют #emphasis#камни со знаками#/emphasis#. У торговца на базе вы можете обменять камни со знаками на #emphasis#знаки#/emphasis#, дающие усилитель, который длится весь матч, даже если вы потерпите поражение. \n\nЭффекты от знаков бывают самые разные: они повышают здоровье, увеличивают скорость или шанс нанести Критический удар. Приобретайте знаки при первой возможности.\n\n#red#Подсказка! Объединение знаков#/red#\nБольшинство знаков можно объединять: вы можете покупать их несколько раз, чтобы сделать ещё эффективнее. Учтите, что цена знака будет возрастать при каждой удачной покупке.\n\n\n#listheader#ПОРАЖЕНИЕ и ВОЗРОЖДЕНИЕ#/listheader#\nЕсли вы потерпели поражение в PvP-матче, вы можете подождать, пока вас оживит товарищ по команде, но такая возможность есть не всегда. Если вы решите возродиться, вы тут же вновь окажетесь на базе, но на короткое время останетесь неподвижны. Чем \nдольше матч идёт, тем больше вам придётся ждать.\n\nПока вы ждёте, самое время купить у торговцев руны. \n\n\n#listheader#ТРОФЕИ в PvP#/listheader#\nКогда PvP-матч кончится, вы получите задание отправиться в Асгард и поговорить с Сиф. Она наградит вас Опытом, Осколками Вечности и другими предметами, причём победившая в матче команда получит самые лучшие из них.\n\n#red#Подсказка! Золотые короны#/red#\nВ числе наград за PvP-матч вы также получите #emphasis#золотую корону#/emphasis#. Собирайте золотые короны и обменивайте их у валькирии на #emphasis#кольца#/emphasis#, которые специально предназначены для PvP.\n\nВалькирию вы найдёте в Асгарде.\n\n\n#listheader#ОБЩИЕ ПРАВИЛА PvP#/listheader#\n- Просмотрите полную статистку своих побед и поражений в PvP-режиме в окне персонажа (нажмите #mission#C#/mission#).\n- Поражение в PvP-матче не оказывает на вас никакого отрицательного воздействия. Например, поражения в PvP-режиме не увеличивают общее число ваших \"поражений\" в окне персонажа и не уменьшают силу артефактов \"тотем кровавого камня\".\n- В режиме PvP предмет \"неуязвимость\" должен перезаряжаться полторы минуты.\n\n\n#listheader#Выход из режима PvP#/listheader#\nПо окончании PvP-матча вы автоматически возвращаетесь в Асгард.\n\n\n#listheader#Другие режимы#/listheader#\nСкоро на экранах!"
+      "String": "#listheader#PvP: ОГОНЬ И ЛЁД#/listheader#\n#emphasis#PvP: Огонь и Лёд#/emphasis# - это наш новый PvP-режим! Две команды по пять игроков в каждой ведут големов на штурм вражеской базы, уничтожая её #emphasis#оборонителей#/emphasis# и сокрушая #emphasis#хранителя#/emphasis#.\n\nЕсли ваша команда уничтожила вражеских оборонителей и хранителя, вы победили!\n\n\n#listheader#Вход в режим PvP: Огонь и Лёд#/listheader#\nДостигните уровня 20 и получите доступ к К.А.Р.Т.А., #mission#щёлкнув ЛКМ на любой #/mission# #emphasis#путевой точке#/emphasis#. Выберите \"PvP: Огонь и Лёд\" на вкладке #emphasis#Испытания#/emphasis# \n\nПосле подтверждения путевые точки, вы будете включены в очередь, и игра начнёт подбирать игроков, с которыми вы сможете играть в режиме PvP. Пока вы стоите в очереди, можете заниматься чем угодно. \n\nПолучив уведомление, что игра найдена, #mission#щёлкните ЛКМ#/mission# на оранжевом значке очереди вверху справа, затем #mission#щёлкните ЛКМ#/mission# на ОК, чтобы начать матч.\n\n#red#Группы по уровням#/red# \nPvP-матчи разбиты на группы по уровням, чтобы игроки всегда сражались с противниками примерно того же уровня. Группы по уровням:\n- Группа 1: Уровни 20-29\n- Группа 2: Уровни 30-39\n- Группа 3: Уровни 40-49\n- Группа 4: Уровни 50-59\n- Группа 5: Уровень 60\n\nИгроки, которые не достигли максимального уровня, допустимого в группе, получают бонусы, что помогает им играть на равных с остальными.\n\n#red#Игра в PvP-режиме в составе отряда#/red# \nЗаняв место в PvP-очереди вместе с отрядом, вы обязательно окажетесь в одной команде с друзьями, при условии, что они находятся в той же группе уровней.\n\n\n#listheader# Сражения с ОБОРОНИТЕЛЯМИ#/listheader#\nВ вашей PvP-фракции есть шесть оборонителей и один хранитель. Защищайте их! Если все семеро убиты, вы проиграли матч!\n\nИсход битвы часто зависит от оборонителей. Уничтожив одного из них, вы делаете большой шаг к победе.\n\n#red#Подсказка! Смертоносные оборонители#/red#\nОборонители очень опасны, они могут убить любого героя всего парой выстрелов, так что не сражайтесь с ними в одиночку!\n\n#red#Подсказка! Тактика оборонителей#/red#\nОборонитель будет атаковать первого врага, который приблизится на расстояние выстрела, и будет стрелять в него, пока не уничтожит. Если напасть на оборонителя, он не станет переключаться на новую цель, однако, если вы нападёте на вражеского героя, который находится с ним рядом, оборонитель немедленно вас атакует!\n\n#red#Подсказка! Уничтожайте оборонителей по порядку#/red#\nВы должны уничтожать оборонителей в том порядке, в котором вы их находите. Только самые ближние оборонители терпят урон - остальные неуязвимы!\n\n#listheader#Сражайтесь плечом к плечу со своими ГОЛЕМАМИ#/listheader#\nБаза каждой команды через регулярные интервалы времени производит #emphasis#големов#/emphasis#. Големы движутся строго по прямой, нападая на любого врага, которого увидят, будь это герой, оборонитель или другой голем.\n\n#red#Подсказка! Держитесь ближе к своим големам#/red#\nПусть весь урон от вражеских атак достаётся големам, а вам стоит вплотную заняться врагами. Это особенно важно, если вы атакуете могучего обронителя. Пусть оборонитель бьёт по вашим големам, а вы нападите на него, когда он \nотвлечётся.\n\n\n#listheader#ГЛИФОВЫЕ КАМНИ И ГЛИФЫ#/listheader#\nПобеждённые вражеские големы и герои роняют #emphasis#глифовые камни#/emphasis#. У торговца на базе вы можете обменять глифовые камни на #emphasis#глифы#/emphasis#, дающие усилитель, который длится весь матч, даже если вы потерпите поражение. \n\nЭффекты от глифов бывают самые разные: они повышают здоровье, увеличивают скорость или шанс нанести Критический удар. Приобретайте знаки при первой возможности.\n\n#red#Подсказка! Объединение глифов#/red#\nБольшинство глифов можно объединять: вы можете покупать их несколько раз, чтобы сделать ещё эффективнее. Учтите, что цена знака будет возрастать при каждой удачной покупке.\n\n\n#listheader#ПОРАЖЕНИЕ и ВОЗРОЖДЕНИЕ#/listheader#\nЕсли вы потерпели поражение в PvP-матче, вы можете подождать, пока вас оживит товарищ по команде, но такая возможность есть не всегда. Если вы решите возродиться, вы тут же вновь окажетесь на базе, но на короткое время останетесь неподвижны. Чем \nдольше матч идёт, тем больше вам придётся ждать.\n\nПока вы ждёте, самое время купить у торговцев глифы. \n\n\n#listheader#ТРОФЕИ в PvP#/listheader#\nКогда PvP-матч кончится, вы получите задание отправиться в Асгард и поговорить с Сиф. Она наградит вас Опытом, Осколками Вечности и другими предметами, причём победившая в матче команда получит самые лучшие из них.\n\n#red#Подсказка! Золотые короны#/red#\nВ числе наград за PvP-матч вы также получите #emphasis#золотую корону#/emphasis#. Собирайте золотые короны и обменивайте их у валькирии на #emphasis#кольца#/emphasis#, которые специально предназначены для PvP.\n\nВалькирию вы найдёте в Асгарде.\n\n\n#listheader#ОБЩИЕ ПРАВИЛА PvP#/listheader#\n- Просмотрите полную статистку своих побед и поражений в PvP-режиме в окне персонажа (нажмите #mission#C#/mission#).\n- Поражение в PvP-матче не оказывает на вас никакого отрицательного воздействия. Например, поражения в PvP-режиме не увеличивают общее число ваших \"поражений\" в окне персонажа и не уменьшают силу артефактов \"тотем кровавого камня\".\n- В режиме PvP предмет \"неуязвимость\" должен перезаряжаться полторы минуты.\n\n\n#listheader#Выход из режима PvP#/listheader#\nПо окончании PvP-матча вы автоматически возвращаетесь в Асгард.\n\n\n#listheader#Другие режимы#/listheader#\nСкоро на экранах!"
     },
     "9091270878068868465": {
       "Variants": [],
@@ -94774,7 +94774,7 @@
     "9092223188157662471": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.noFraction$ Рейтинг урона при атаках $param0.damageType.locflagG$ типа ($propertyValue.divByLevel.precision1$ за каждый уровень)"
+      "String": "$propertyValueSign$$propertyValue.noFraction$ Рейтинг урона при атаках $param0.damageType.locflagG$ типа ($propertyValue.divByLevel.precision1$ за уровень)"
     },
     "9092644442904134971": {
       "Variants": [],
