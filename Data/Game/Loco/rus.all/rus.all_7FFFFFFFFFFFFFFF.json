@@ -275,7 +275,13 @@
       "String": "Очистители в клинике"
     },
     "4624523251084821763": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709547512,
+          "FlagsProduced": 65535,
+          "String": "Защитникам PvP"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "Защитник PvP"
     },
@@ -941,9 +947,15 @@
       "String": "Отправляйтесь в Котёл Космоса и заберите его."
     },
     "4657468059792835905": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709547512,
+          "FlagsProduced": 65535,
+          "String": "врагам рейда Оси"
+        }
+      ],
       "FlagsProduced": 65535,
-      "String": "Моб рейда «Ось»"
+      "String": "Рейд Оси"
     },
     "4657562020854826359": {
       "Variants": [],
@@ -2025,7 +2037,7 @@
     "4708747607081223499": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Нажмите $PowerButtonPressed 2$#/emphasis# для того, чтобы выпустить мощный удар Халка."
+      "String": "#emphasis#Нажмите $PowerButtonPressed 2$#/emphasis# чтобы провести мощную атаку Халка с нокдауном."
     },
     "4709145548735317356": {
       "Variants": [],
@@ -3990,7 +4002,13 @@
       "String": ""
     },
     "4807242953905538368": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709547512,
+          "FlagsProduced": 65535,
+          "String": "Патрульным боссам"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "Патрульный босс"
     },
@@ -11752,7 +11770,12 @@
         {
           "FlagsConsumed": 18446744073709547512,
           "FlagsProduced": 65535,
-          "String": "Ослабленных"
+          "String": "Ослабленным"
+        },
+        {
+          "FlagsConsumed": 18446744073709547519,
+          "FlagsProduced": 65535,
+          "String": "Ослабления"
         }
       ],
       "FlagsProduced": 65535,
@@ -29387,7 +29410,7 @@
     "6017643030818653456": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Продолжительность нокдауна: $duration$ (гарантировано)"
+      "String": "Длительность Нокдауна: $duration$ (гарантировано)"
     },
     "6017953355153278279": {
       "Variants": [],
@@ -32153,7 +32176,7 @@
     "6155425461480064328": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс сбить с ног врагов, при попадании Дальней способностью"
+      "String": "$procchancestring$ шанс при попадании Дальней способностью отправить врагов в Нокдаун"
     },
     "6155489443534669061": {
       "Variants": [],
@@ -33553,7 +33576,7 @@
     "6226083106636825934": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Нажмите $PowerButtonPressed 1$#/emphasis# чтобы выпустить мощную атаку Халка, сбивающую с ног."
+      "String": "#emphasis#Нажмите $PowerButtonPressed 1$#/emphasis# чтобы провести мощную атаку Халка с нокдауном."
     },
     "6226247393419527489": {
       "Variants": [],
@@ -36314,7 +36337,7 @@
     "6354476974875411723": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$propertyValueSign$$propertyValue.abs$ Воли против эффектов $param0.powerKeyword$"
+      "String": "$propertyValueSign$$propertyValue.abs$ Воли против $param0.powerKeyword.locflagG$"
     },
     "6354812660927628555": {
       "Variants": [],
@@ -44461,7 +44484,7 @@
     "6725287842569717000": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Эффект Яростного Прыжка (Сбивание с ног)"
+      "String": "Эффект Яростного Прыжка (Нокдаун)"
     },
     "6725349483998283063": {
       "Variants": [],
@@ -46327,7 +46350,18 @@
       "String": ""
     },
     "6812083221749302536": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709547512,
+          "FlagsProduced": 65535,
+          "String": "Окаменелым"
+        },
+        {
+          "FlagsConsumed": 18446744073709547519,
+          "FlagsProduced": 65535,
+          "String": "Окаменения"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "Окаменелый"
     },
@@ -47978,7 +48012,13 @@
       "String": "Миньоны Суртура разбежались"
     },
     "6891040491828938045": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709547512,
+          "FlagsProduced": 65535,
+          "String": "врагам Комнаты опасности"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "Комната опасности"
     },
@@ -49583,6 +49623,11 @@
       "Variants": [
         {
           "FlagsConsumed": 18446744073709547512,
+          "FlagsProduced": 65535,
+          "String": "Замедленным"
+        },
+        {
+          "FlagsConsumed": 18446744073709547519,
           "FlagsProduced": 65535,
           "String": "Замедления"
         }
@@ -62675,7 +62720,7 @@
     "7578362901323777343": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#Халк крушить!#/emphasis# - $damageType$ урон: $damage$#hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#, время сбивания с ног - 5 сек"
+      "String": "#emphasis#Халк крушить!#/emphasis# - $damageType$ урон: $damage$#hidden#($damageRange.precision1.divByLevel$ за уровень)#/hidden#, длительность Нокдауна 5 сек"
     },
     "7578379754718954766": {
       "Variants": [],
@@ -67529,7 +67574,7 @@
     "7808662470818399545": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Длительность сбивания с ног: $duration$"
+      "String": "Длительность Нокдауна: $duration$"
     },
     "7808732642002273602": {
       "Variants": [],
@@ -71489,7 +71534,13 @@
       "String": "Победите Люка Кейджа-самозванца"
     },
     "7988176152223286533": {
-      "Variants": [],
+      "Variants": [
+        {
+          "FlagsConsumed": 18446744073709547512,
+          "FlagsProduced": 65535,
+          "String": "Големам PvP"
+        }
+      ],
       "FlagsProduced": 65535,
       "String": "Големы PvP"
     },
