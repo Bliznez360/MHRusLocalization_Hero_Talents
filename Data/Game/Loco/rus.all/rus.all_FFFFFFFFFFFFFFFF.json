@@ -14988,7 +14988,7 @@
     "14536989732285580604": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Против Тьмы: Культисты появляются в Мидтауне и вызывают демонических Н'Гараев. Порталы Тёмного Измерения по-прежнему порождают орды Безмозглых. Победите тьму и спасите тех, кто в опасности!"
+      "String": "Против Тьмы: В Мидтауне появляются Культисты и вызывают демонов Н'Гарай. Порталы Тёмного измерения по-прежнему порождают орды Безмозглых. Победите тьму и спасите тех, кто в опасности!"
     },
     "14537021540875502962": {
       "Variants": [],
@@ -20619,7 +20619,7 @@
     "14805885333897413946": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#teambuff#Ловкость#/teambuff# - увеличатся Рейтинг Уклонения и шанс на Отражение снарядов"
+      "String": "#teambuff#Ловкость#/teambuff# - увеличатся Рейтинг Уклонения и шанс Отражения снарядов"
     },
     "14805912018538530116": {
       "Variants": [],
@@ -22255,7 +22255,7 @@
     "14883464108330190079": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#emphasis#При попадании вы спонтанно создаёте новые личности. Эффект длится 1 мин, количество активных личностей не ограничено.#/emphasis#\nЭндгейм: +$param1.power.onContactTimepower0.evalRegisterFloat0.pct$% Шанс блока\nСинди Халлер: +$param1.power.onContactTimepower1.evalRegisterFloat0.pct$% Базовый Энергетический урон \nДжек Уэйн: +$param1.power.onContactTimepower2.evalRegisterFloat0.pct$% Базовый Физический и Ментальный урон\nЛегион: +$param1.power.onContactTimepower3.evalRegisterFloat0$ ко всем Атрибутам\nСалли: +$param1.power.onContactTimepower4.evalRegisterFloat0$ Сила и Выносливость\nМойра: +$param1.power.onContactTimepower5.evalRegisterFloat0$ Интеллект\nКожемяка: +$param1.power.onContactTimepower6.evalRegisterFloat0.pct$% Рейтинг Защиты\nКирксбакс Краклар: +$param1.power.onContactTimepower7.evalRegisterFloat0.pct$% Скорость передвижения\nКсения Надежда Панова: +$param1.power.onContactTimepower8.evalRegisterFloat0.pct$% Рейтинг Сокрушительного удара\nНеньютоновская Энни: +$param1.power.onContactTimepower9.evalRegisterFloat0.pct$% Отражение снарядов\nКлоун: +$param1.power.onContactTimepower10.evalRegisterFloat0.pct$% Рейтинг Критического удара\nФиндль Искатель: +$param1.power.onContactTimepower11.evalRegisterFloat0.pct$% Поиск Особых предметов\nПожиратель времени: +$param1.power.onContactTimepower12.evalRegisterFloat0.pct$% бонус Опыта\nДрексл: +$param1.power.onContactTimepower13.evalRegisterFloat0.pct$% Базовый Ближний урон"
+      "String": "#emphasis#При попадании вы спонтанно создаёте новые личности. Эффект длится 1 мин, количество активных личностей не ограничено.#/emphasis#\nЭндгейм: +$param1.power.onContactTimepower0.evalRegisterFloat0.pct$% Шанс блока\nСинди Халлер: +$param1.power.onContactTimepower1.evalRegisterFloat0.pct$% Базовый Энергетический урон \nДжек Уэйн: +$param1.power.onContactTimepower2.evalRegisterFloat0.pct$% Базовый Физический и Ментальный урон\nЛегион: +$param1.power.onContactTimepower3.evalRegisterFloat0$ ко всем Атрибутам\nСалли: +$param1.power.onContactTimepower4.evalRegisterFloat0$ Сила и Выносливость\nМойра: +$param1.power.onContactTimepower5.evalRegisterFloat0$ Интеллект\nКожемяка: +$param1.power.onContactTimepower6.evalRegisterFloat0.pct$% Рейтинг Защиты\nКирксбакс Краклар: +$param1.power.onContactTimepower7.evalRegisterFloat0.pct$% Скорость передвижения\nКсения Надежда Панова: +$param1.power.onContactTimepower8.evalRegisterFloat0.pct$% Рейтинг Сокрушительного удара\nНеньютоновская Энни: +$param1.power.onContactTimepower9.evalRegisterFloat0.pct$% Отражения снарядов\nКлоун: +$param1.power.onContactTimepower10.evalRegisterFloat0.pct$% Рейтинг Критического удара\nФиндль Искатель: +$param1.power.onContactTimepower11.evalRegisterFloat0.pct$% Поиск Особых предметов\nПожиратель времени: +$param1.power.onContactTimepower12.evalRegisterFloat0.pct$% бонус Опыта\nДрексл: +$param1.power.onContactTimepower13.evalRegisterFloat0.pct$% Базовый Ближний урон"
     },
     "14883474639666611528": {
       "Variants": [],
@@ -29548,7 +29548,7 @@
     "15221209727934006548": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "-$damagePctResistArea$% урона, получаемого от атак по Области (-0,25% за ранг, -25% максимум)"
+      "String": "-$damagePctResistArea$% входящего урона по Области (-0,25% за ранг, -25% максимум)"
     },
     "15221258600361428236": {
       "Variants": [],
@@ -31762,7 +31762,7 @@
     "15326153787761952004": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Гибборим? Самая обычная раса древних мистических гигантов, стремящихся переделать мир по своему собственному злому подобию. Так что наверняка у этого свитка есть свой ценник.\n—Нико Минору (она же Сестра Гримм)"
+      "String": "Гибборимы? Самая обычная раса древних мистических гигантов, стремящихся переделать мир по своему собственному злому подобию. Так что наверняка у этого свитка есть свой ценник.\n—Нико Минору (она же Сестра Гримм)"
     },
     "15326530941722232066": {
       "Variants": [],
@@ -33420,7 +33420,7 @@
     "15391319428227335480": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Дополнительное событие: Зловещие сигналы\nШаг 1 из 2: Исследуйте алтарь\n\nМы получаем странные сигналы от некоего жертвенного алтаря в этом секторе. Вы должны #mission#исследовать алтарь#/mission# и оценить степень угрозы."
+      "String": "Дополнительное событие: Зловещие знамения\nШаг 1 из 2: Исследуйте алтарь\n\nМы получаем странные сигналы от некоего жертвенного алтаря в этом секторе. Вы должны #mission#исследовать алтарь#/mission# и оценить степень угрозы."
     },
     "15391645162842686776": {
       "Variants": [],
@@ -37706,7 +37706,7 @@
     "15591070119366165774": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "ИСПЫТАНИЕ"
+      "String": "ТЕСТ"
     },
     "15591219369483044114": {
       "Variants": [],
@@ -46350,7 +46350,7 @@
     "15997588267185603906": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Используйте фиолетовый терминал в любом штабе игроков или лифт в Башне Мстителей, чтобы добраться до #mission#Мидтаун#/mission#.\n\n#mission#Демоны Н'Гараи#/mission# могут быть найдены в засадах по всему #mission#Мидтаун#/mission#."
+      "String": "Используйте фиолетовый терминал в любом штабе игроков или лифт в Башне Мстителей, чтобы добраться до #mission#Мидтаун#/mission#.\n\n#mission#Демоны Н'Гарай#/mission# могут быть найдены в засадах по всему #mission#Мидтаун#/mission#."
     },
     "15997614049880114503": {
       "Variants": [],
@@ -48581,7 +48581,7 @@
     "16094605681343071490": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "-$damagePctResistRanged$% урона, получаемого от Дальних атак (-0,25% за ранг, -25% максимум)"
+      "String": "-$damagePctResistRanged$% входящего Дальнего урона (-0,25% за ранг, -25% максимум)"
     },
     "16095037029275469125": {
       "Variants": [],
@@ -59388,7 +59388,7 @@
     "16626699876762060054": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Большой 10 Кэш с добычей"
+      "String": "Подарок с добычей Большой Десятки"
     },
     "16626709570611512682": {
       "Variants": [],
@@ -60321,7 +60321,7 @@
     "16666673927708214586": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Победите Н'Гарая"
+      "String": "Победите Н'Гарай"
     },
     "16666833554462803260": {
       "Variants": [],
@@ -63273,7 +63273,7 @@
     "16810459459861742904": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Шанс отражения снарядов: $MissileAbsorbChancePct$%"
+      "String": "Шанс Отражения снарядов: $MissileAbsorbChancePct$%"
     },
     "16810476953262556472": {
       "Variants": [],
@@ -67563,7 +67563,7 @@
     "17005550747321042339": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "В этой коробке находятся 10 реликвий альтернативной реальности АРМОР \n#emphasis#Щёлкните ПКМ, чтобы получить награду.#/emphasis#"
+      "String": "В этой коробке находятся 10 Реликвий альтернативной реальности АРМОР. \n#emphasis#Используйте этот предмет, чтобы получить награду.#/emphasis#"
     },
     "17005560702922786103": {
       "Variants": [],
@@ -68255,7 +68255,7 @@
     "17035008935691420953": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "-$damagePctResistMelee$% урона, получаемого от Ближних атак (-0,25% за ранг, -25% максимум)"
+      "String": "-$damagePctResistMelee$% входящего Ближнего урона (-0,25% за ранг, -25% максимум)"
     },
     "17035752313045648765": {
       "Variants": [],
@@ -81027,7 +81027,7 @@
     "17633848679559726393": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Коробка с Реликвиями Чандиллара"
+      "String": "Коробка с Реликвиями Чандилара"
     },
     "17633861259596399998": {
       "Variants": [],
@@ -83896,7 +83896,7 @@
     "17760830478526252291": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Уровень 50:\n+4% Критического урона"
+      "String": "Уровень 50:\n+3% Критического урона"
     },
     "17761672683027563842": {
       "Variants": [],
@@ -85214,7 +85214,7 @@
     "17823845203732530544": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Вы получаете на $DamagePctResistVsPowerKeyword.pct$% меньше входящего урона от $DamagePctResistVsPowerKeyword.param0.powerkeyword$"
+      "String": "Вражеские $DamagePctResistVsPowerKeyword.param0.powerkeyword$ способности наносят на $DamagePctResistVsPowerKeyword.pct$% меньше урона"
     },
     "17824272381121594690": {
       "Variants": [],
@@ -86251,7 +86251,7 @@
     "17871668955839202616": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Хорошо сделано, вы завершили Дополнительное событие.\n\n#mission#Устраните оставшихся врагов, чтобы заполнить полосу прогресса и продвинуться дальше.#/mission#"
+      "String": "Хорошая работа, вы завершили Дополнительное событие.\n\n#mission#Устраните оставшихся врагов, чтобы заполнить полосу прогресса и продвинуться дальше.#/mission#"
     },
     "17871800343180870968": {
       "Variants": [],
