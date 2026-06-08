@@ -10090,7 +10090,7 @@
     "9697323735942300996": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Резонанс Нова-Луча"
+      "String": "Резонанс луча Новы"
     },
     "9697516824722670861": {
       "Variants": [],
@@ -19815,7 +19815,7 @@
     "10142230387285361980": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Максимум $secondarymanabehaviorname$ теперь удвоен\n#powername#$PowerName$#/powername#'s $secondaryManaBehaviorName$ генерация увеличена до 100%"
+      "String": "Макс. $secondarymanabehaviorname$ теперь удвоен\n#powername#$PowerName$#/powername# $secondaryManaBehaviorName$ генерация увеличена до 100%"
     },
     "10142916576971457804": {
       "Variants": [],
@@ -45005,7 +45005,7 @@
     "11350191579910243602": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Космическая ударная волна Счётчик движения"
+      "String": "Счётчик движения Космической ударной волны"
     },
     "11350381108342818161": {
       "Variants": [],
@@ -46929,7 +46929,7 @@
     "11435544335458239804": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При расходе #powermechanic#фотонной энергии#/powermechanic# на способности дополнительно восстанавливается $healingovertimebase.nofraction.mulby2$ Здоровья в сек в течение 6 сек"
+      "String": "При расходе #powermechanic#Фотонной энергии#/powermechanic# способностью, дополнительно восстанавливается $healingovertimebase.nofraction.mulby2$ Здоровья в сек в течение 6 сек"
     },
     "11436065942134982013": {
       "Variants": [],

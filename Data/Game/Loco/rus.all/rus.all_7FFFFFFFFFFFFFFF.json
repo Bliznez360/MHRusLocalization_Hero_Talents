@@ -6556,7 +6556,7 @@
     "4930430157921584452": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Пока доступно $secondaryresourceoverride.manabehaviorname$, оно поглощает весь входящий урон"
+      "String": "Пока есть $secondaryresourceoverride.manabehaviorname$, поглощается весь входящий урон"
     },
     "4930569791548556570": {
       "Variants": [],
@@ -48256,7 +48256,7 @@
     "6902340185658557711": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Щит Нова"
+      "String": "Щит Новы"
     },
     "6902504459563042058": {
       "Variants": [],
@@ -53382,7 +53382,7 @@
     "7148819193371428159": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Сияющая энергия - +10% урона от Нова-Луча за накопление"
+      "String": "Сияющая энергия - +10% урона от Луча Новы за накопление"
     },
     "7148930776701207939": {
       "Variants": [],
@@ -80074,7 +80074,7 @@
     "8384913040245982466": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "#powername#Пульс Нова#/powername# Урон, Здоровье при попадании и #yellow#Сила Нова#/yellow# увеличены"
+      "String": "#powername#Пульс Новы#/powername# Урон, Здоровье при попадании и #yellow#Сила Нова#/yellow# увеличены"
     },
     "8385111785639380298": {
       "Variants": [],
@@ -84685,7 +84685,7 @@
     "8597922703505818889": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Получите 1 Заряд #powername#$PowerName$#/powername#, когда вы взрываете #powermechanic#Пульсар#/powermechanic# с помощью способности"
+      "String": "Получите 1 Заряд #powername#$PowerName$#/powername#, при взрыве #powermechanic#Пульсар#/powermechanic# способностью"
     },
     "8597991921261872448": {
       "Variants": [],
@@ -86373,7 +86373,7 @@
     "8685128007302776120": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Урон: +$evalRegisterFloat0.pct$% в течение 6 сек после применения способности, тратящей #powermechanic#фотонную энергию#/powermechanic#"
+      "String": "Урон: +$evalRegisterFloat0.pct$% в течение 6 сек после расхода #powermechanic#Фотонной энергии#/powermechanic# способностью"
     },
     "8685661957645600068": {
       "Variants": [],
