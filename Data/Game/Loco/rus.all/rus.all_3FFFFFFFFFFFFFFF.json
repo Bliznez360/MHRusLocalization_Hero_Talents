@@ -12156,7 +12156,7 @@
     "566903407014053135": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою #powerkeyword#Коронную#/powerkeyword# способность, получите $param1.power.condition0.DamageRatingBonusForPowerKeyword.nofraction$ Рейтинг урона Ультимативной способности на $param1.power.condition0.duration$."
+      "String": "При использовании #powerkeyword#Коронной#/powerkeyword# способности, получите $param1.power.condition0.DamageRatingBonusForPowerKeyword.nofraction$ Рейтинг урона Ультимативной способности на $param1.power.condition0.duration$."
     },
     "567210334019323191": {
       "Variants": [],
@@ -17054,7 +17054,7 @@
     "798621660045182221": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою Коронную способность, вы и ваши союзники получаете +$param1.power.condition0.statallmodifier$ ко всем атрибутам на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)"
+      "String": "При использовании вашей Коронной способности, вы и ваши союзники получаете +$param1.power.condition0.statallmodifier$ ко всем атрибутам на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$)"
     },
     "798694635894342976": {
       "Variants": [],
@@ -40763,7 +40763,7 @@
     "1915950508735071551": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою #orange#Коронную способность#/orange#, призывайте Шесть Демонов Хаоса на $param1.power.lifespan$. (перезарядка $param1.power.cooldown$)"
+      "String": "При использовании #orange#Коронной способности#/orange#, призывает Шесть Демонов Хаоса на $param1.power.lifespan$. (перезарядка $param1.power.cooldown$)"
     },
     "1916208369986372929": {
       "Variants": [],
@@ -80443,7 +80443,7 @@
     "3774291709917136189": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою #orange#Коронную способность#/orange#, призывайте Шесть Демонов Хаоса на $param1.power.lifespan$. (перезарядка $param1.power.cooldown$)"
+      "String": "При использовании #orange#Коронной способности#/orange# призывает Шесть Демонов Хаоса на $param1.power.lifespan$. (перезарядка $param1.power.cooldown$)"
     },
     "3774382840540235077": {
       "Variants": [],

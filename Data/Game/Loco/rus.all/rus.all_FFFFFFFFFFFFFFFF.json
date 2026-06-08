@@ -7998,7 +7998,7 @@
     "14190576774205867326": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою Коронную способность, получите +$param1.power.condition0.statallmodifier$ ко всем Атрибутам на $param1.power.condition0.duration$. (Перезарядка $param1.power.condition0.cooldown$)"
+      "String": "При использовании Коронной способности, получите +$param1.power.condition0.statallmodifier$ ко всем Атрибутам на $param1.power.condition0.duration$. (Перезарядка $param1.power.condition0.cooldown$)"
     },
     "14190707259674527094": {
       "Variants": [],
@@ -22576,7 +22576,7 @@
     "14899301259213735297": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою Коронную способность, вы и ваши союзники получаете +1 ко всем атрибутам на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$), а также:\nПолучите +2 Энергии и восстанавливайте $param1.power.onpowerstartpower0.condition0.healingovertimebase.nofraction$ Здоровья в сек как #orange#Человек-Факел#/orange#\nПолучите +2 Энергии и $param1.power.onpowerstartpower1.condition0.DodgeRatingBonusAdd.nofraction$ Рейтинг Уклонения как #blue#Женщина-Невидимка#/blue#\nПолучите +6 Интеллекта и $param1.power.onpowerstartpower2.condition0.defense.nofraction$ Рейтинг Защиты как #blue#Мистер Фантастик#/blue#\nПолучите +2 Битвы и $param1.power.onpowerstartpower3.condition0.BlockRatingBonusAdd.nofraction$ Рейтинг Отражения как #brown#Существо#/brown#"
+      "String": "При использовании вашей Коронной способности, вы и ваши союзники получаете +1 ко всем атрибутам на $param1.power.condition0.duration$ (перезарядка $param1.power.cooldown$), а также:\nПолучите +2 Энергии и восстанавливайте $param1.power.onpowerstartpower0.condition0.healingovertimebase.nofraction$ Здоровья в сек как #orange#Человек-Факел#/orange#\nПолучите +2 Энергии и $param1.power.onpowerstartpower1.condition0.DodgeRatingBonusAdd.nofraction$ Рейтинг Уклонения как #blue#Женщина-Невидимка#/blue#\nПолучите +6 Интеллекта и $param1.power.onpowerstartpower2.condition0.defense.nofraction$ Рейтинг Защиты как #blue#Мистер Фантастик#/blue#\nПолучите +2 Битвы и $param1.power.onpowerstartpower3.condition0.BlockRatingBonusAdd.nofraction$ Рейтинг Отражения как #brown#Существо#/brown#"
     },
     "14899590125695468814": {
       "Variants": [],
@@ -47631,7 +47631,7 @@
     "16046022411458118925": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою #powername#Способность передвижения#/powername#, оставляйте за собой #powername#$powername$#/powername#"
+      "String": "При использовании вашей #powername#Способности передвижения#/powername#, оставляйте за собой #powername#$powername$#/powername#"
     },
     "16046102366574544147": {
       "Variants": [],
@@ -62561,7 +62561,7 @@
     "16774052379308918079": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Шанс критического удара:"
+      "String": "Шанс крит. удара:"
     },
     "16774411202342946100": {
       "Variants": [],

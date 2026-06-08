@@ -5310,7 +5310,7 @@
     "9477717213363111224": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою #blue#Коронную способность#/blue#, все цели вокруг вас сканируются на наличие слабостей и становятся уязвимыми, получая на 10% больше урона от вас и ваших союзников. Кроме того, вы получаете +$param1.power.onpowerhitpower.condition0.damageratingbonusvsconditionkeyword.nofraction$ Рейтинг урона по Уязвимым на $param1.power.condition0.duration$."
+      "String": "При использовании вашей #blue#Коронной способности#/blue#, все цели вокруг вас сканируются на наличие слабостей и становятся уязвимыми, получая на 10% больше урона от вас и ваших союзников. Кроме того, вы получаете +$param1.power.onpowerhitpower.condition0.damageratingbonusvsconditionkeyword.nofraction$ Рейтинг урона по Уязвимым на $param1.power.condition0.duration$."
     },
     "9478256231832618361": {
       "Variants": [],
@@ -8648,7 +8648,7 @@
     "9632428764310799630": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою Коронную способность, создайте портал, который длится $param1.power.lifespan$ под вашими ногами и увеличивает ваш и ваших союзников Рейтинг Критического урона на +$param1.Power.summonEntity.appliesPowers.condition.critdamagerating.nofraction$. (Перезарядка 15 сек)"
+      "String": "При использовании Коронной способности создаёт портал на $param1.power.lifespan$ под вашими ногами и увеличивает ваш и ваших союзников Рейтинг Критического урона на +$param1.Power.summonEntity.appliesPowers.condition.critdamagerating.nofraction$. (Перезарядка 15 сек)"
     },
     "9632511171913975111": {
       "Variants": [],
@@ -11863,7 +11863,7 @@
     "9778646051164128565": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свои #orange#Трипвайр Болас#/orange#, получите +$param1.power.condition0.critdamagerating.nofraction$ Рейтинг Критического урона и +$param1.power.condition0.supercritdamagerating.nofraction$ Рейтинг Сокрушительного урона на $param1.power.condition0.duration$."
+      "String": "При использовании #orange#Трипвайр Болас#/orange#, получите +$param1.power.condition0.critdamagerating.nofraction$ Рейтинг Критического урона и +$param1.power.condition0.supercritdamagerating.nofraction$ Рейтинг Сокрушительного урона на $param1.power.condition0.duration$."
     },
     "9778655521577043267": {
       "Variants": [],
@@ -14982,7 +14982,7 @@
     "9919149657018860806": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свои #orange#Трещина#/orange# или #orange#Удар разрушения#/orange# способности, получаете +$param1.power.condition0.supercritratingbonusadd.nofraction$ Рейтинг Брутального Удара и +$param1.power.condition0.supercritdamagerating.nofraction$ Рейтинг Сокрушительного урона на $param1.power.condition0.duration$."
+      "String": "При использовании #orange#Разлома#/orange# или #orange#Разрушительного топота#/orange#, получаете +$param1.power.condition0.supercritratingbonusadd.nofraction$ Рейтинг Сокрушительного удара и +$param1.power.condition0.supercritdamagerating.nofraction$ Рейтинг Сокрушительного урона на $param1.power.condition0.duration$."
     },
     "9919338158897759543": {
       "Variants": [],
@@ -38701,7 +38701,7 @@
     "11053457147097449797": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "острие перчатки"
+      "String": "Жало перчатки"
     },
     "11053650867303220550": {
       "Variants": [],
@@ -48351,7 +48351,7 @@
     "11500709718167913788": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою Ультимативную способность, вы и ваши союзники восстанавливаете $param1.power.healing$ Здоровья."
+      "String": "При использовании вашей Ультимативной способности, вы и ваши союзники восстанавливаете $param1.power.healing$ Здоровья."
     },
     "11500721890162574697": {
       "Variants": [],
@@ -50482,7 +50482,7 @@
     "11601302284646679869": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свой #blue#Коронную способность#/blue#, получите $param1.power.condition0.critratingbonusadd.nofraction$ Рейтинг Критического удара и Рейтинг Сокрушительного удара на $param1.power.condition0.duration$."
+      "String": "При использовании #blue#Коронной способности#/blue#, получите $param1.power.condition0.critratingbonusadd.nofraction$ Рейтинг Критического удара и Рейтинг Сокрушительного удара на $param1.power.condition0.duration$."
     },
     "11601655184994141550": {
       "Variants": [],
@@ -55377,7 +55377,7 @@
     "11818526337309345076": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Повышает Символ 63 Ранга до 66 Ранга.\nЭто не изменяет ваши аффиксы, а масштабирует их до более высокого уровня."
+      "String": "Улучшает Символ 63 Ранга до 66 Ранга.\nЭто не изменяет ваши аффиксы, а масштабирует их до более высокого уровня."
     },
     "11818596452667557194": {
       "Variants": [],
@@ -68356,7 +68356,7 @@
     "12431149954055996747": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою Коронную способность, получаете 1 000 Рейтинг Защиты на 5 сек (Перезарядка 20 сек)"
+      "String": "При использовании Коронной способности, получаете 1 000 Рейтинг Защиты на 5 сек (Перезарядка 20 сек)"
     },
     "12431307270051267859": {
       "Variants": [],
@@ -78056,7 +78056,7 @@
     "12888612602980009275": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При использовании свою #orange#Коронную способность#/orange#, призывайте Шесть Демонов Хаоса на $param1.power.lifespan$. (перезарядка $param1.power.cooldown$)"
+      "String": "При использовании #orange#Коронной способности#/orange#, призывайт Шесть Демонов Хаоса на $param1.power.lifespan$. (перезарядка $param1.power.cooldown$)"
     },
     "12888638750810047862": {
       "Variants": [],
