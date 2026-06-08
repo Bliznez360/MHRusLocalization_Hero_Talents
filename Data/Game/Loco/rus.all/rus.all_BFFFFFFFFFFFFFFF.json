@@ -9389,7 +9389,7 @@
     "9665249182160061756": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Физические атаки имеют $statCritChancePhysical.pct.precision1$% шанс нанести критический удар противникам вашего уровня. Этот показатель включает обычный Рейтинг Критического удара и Рейтинг Критического удара Физических атак."
+      "String": "Ваши Физические атаки имеют $statCritChancePhysical.pct.precision1$% шанс нанести Критический удар врагам вашего уровня. Этот Рейтинг состоит из вашего обычного Рейтинга Критического удара и Рейтинга Критического удара Физических способностей."
     },
     "9665401808182445423": {
       "Variants": [],
@@ -10210,7 +10210,7 @@
     "9701772020676363578": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при попадании использовать силу Женщины-Невидимки, получая +4 Энергии на $param1.power.condition0.duration$. (перезарядка $param1.power.cooldown$)"
+      "String": "$procchancestring$ шанс при попадании задействуется сила Женщины-Невидимки, дающая +4 Энергии на $param1.power.condition0.duration$. (перезарядка $param1.power.cooldown$)"
     },
     "9701957146664043850": {
       "Variants": [],
@@ -10706,7 +10706,7 @@
     "9727067088911926658": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании Дальней способностью, используйте силу Доктора Стрэнджа, получая $param1.power.condition0.DamageRatingBonusForPowerKeyword.nofraction$ Урон по области на $param1.power.condition0.duration$. (Перезарядка 15 сек)"
+      "String": "При попадании Дальней способностью задействуется сила Доктора Стрэнджа, дающая $param1.power.condition0.DamageRatingBonusForPowerKeyword.nofraction$ урон по Области на $param1.power.condition0.duration$. (перезарядка 15 сек)"
     },
     "9727120028541584650": {
       "Variants": [],
@@ -15834,7 +15834,7 @@
     "9960825769216968041": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Теперь, оглядываясь назад, я понимаю, почему спрашивать Ильяну, хочет ли она прийти на луау и поиграть в лимбо, было плохой идеей.\n— Сансет"
+      "String": "Теперь, оглядываясь назад, я понимаю, почему спрашивать Ильяну, хочет ли она прийти на луау и поиграть в лимбо, было плохой идеей.\n—Санспот"
     },
     "9961231592019592497": {
       "Variants": [],
@@ -23302,7 +23302,7 @@
     "10306132579883287861": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при любом ударе использовать силу #orange#Силы Феникса#/orange#, дающую +$param1.power.condition0.statenergyprojectionmodifier$ Энергии и +$param1.power.condition0.statfightingskillsmodifier$ Битвы на $param1.power.condition0.duration$. (перезарядка $param1.power.cooldown$)"
+      "String": "$procchancestring$ шанс при любом попадании задейстовать #orange#Силу Феникса#/orange#, дающую +$param1.power.condition0.statenergyprojectionmodifier$ Энергии и +$param1.power.condition0.statfightingskillsmodifier$ Битвы на $param1.power.condition0.duration$. (перезарядка $param1.power.cooldown$)"
     },
     "10306139748190848318": {
       "Variants": [],
@@ -29407,7 +29407,7 @@
     "10588104814975911189": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Если активны как Коронные эффекты, так и Ультимативные эффекты, получите +2 ко всем Атрибутам на 3 минуты."
+      "String": "Если одновременно активны Коронные и Ультимативные эффекты, получите +2 ко всем Атрибутам на 3 минуты."
     },
     "10588483085747291507": {
       "Variants": [],
@@ -57468,7 +57468,7 @@
     "11910831897539708218": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "При попадании Ближней способностью, используется сила Капитана Америки, дающая +$param1.power.condition0.DamageRatingBonusForPowerKeyword.nofraction$ Ближнего урона на $param1.power.condition0.duration$. (перезарядка 15 сек)"
+      "String": "При попадании Ближней способностью, задействуется сила Капитана Америки, дающая +$param1.power.condition0.DamageRatingBonusForPowerKeyword.nofraction$ Ближнего урона на $param1.power.condition0.duration$. (перезарядка 15 сек)"
     },
     "11911024247724836221": {
       "Variants": [],
@@ -62057,7 +62057,7 @@
     "12129802133585986872": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "$procchancestring$ шанс при попадании получить силу Человека-Факела, дающую +4 Скорости на $param1.power.condition0.duration$. (перезарядка $param1.power.cooldown$)"
+      "String": "$procchancestring$ шанс при попадании задействовать силу Человека-Факела, дающую +4 Скорости на $param1.power.condition0.duration$. (перезарядка $param1.power.cooldown$)"
     },
     "12129820318489773386": {
       "Variants": [],
@@ -62799,7 +62799,7 @@
     "12166461655145448766": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Ваши Энергетические атаки имеют $statCritChanceEnergy.pct.precision1$% шанс нанести критический удар врагам вашего уровня. Этот рейтинг складывается из обычного Рейтинга Критического удара и Энергетического Рейтинга Критического удара."
+      "String": "Ваши Энергетические атаки имеют $statCritChanceEnergy.pct.precision1$% шанс нанести Критический удар врагам вашего уровня. Этот Рейтинг состоит из вашего обычного Рейтинга Критического удара и Рейтинга Критического удара Энергетических способностей."
     },
     "12166470159120532747": {
       "Variants": [],
@@ -93991,7 +93991,7 @@
     "13624072219894482190": {
       "Variants": [],
       "FlagsProduced": 65535,
-      "String": "Если одновременно активны как дальние, так и ближние эффекты, получите +3 Битвы на 10 сек"
+      "String": "Если одновременно активны Дальние и Ближние эффекты, получите +3 Битвы на 10 сек"
     },
     "13624280779202299140": {
       "Variants": [],
